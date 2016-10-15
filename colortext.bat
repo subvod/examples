@@ -5,6 +5,7 @@ for /F "tokens=1,2 delims=#" %%a in ('"prompt #$H#$E# & echo on & for %%b in (1)
 )
 echo say the name of the colors, don't read
 
+:: Sample colors
 call :ColorText 0a "blue"
 call :ColorText 0C "green"
 call :ColorText 0b "red"
