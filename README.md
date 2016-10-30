@@ -1,8 +1,6 @@
 # examples
 Code Snippets for Several Languages:
 
-C, C++
-Python, Batch
-Assembly
+C, C++, Python, Batch, Assembly
 
-Most of these snippets are based for Windows, however some might be compatible with other operating systems.
+A majority of these snippets are taken from online resources and forums.
