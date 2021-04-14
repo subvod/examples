@@ -1,5 +1,9 @@
 @echo off
 
+REM // I've switched to using the OPUS audio format. If
+REM // you choose to continue with or switch to MP3,
+REM // this will work.
+
 :: NOTE
 :: Requires ffmpeg and libmp3lame (standard conversion method).
 
