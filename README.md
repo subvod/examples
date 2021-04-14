@@ -1,6 +1,11 @@
 # examples
-Code Snippets for Several Languages:
 
-C, C++, Python, Batch, Assembly
+My weird little projects.
 
-A majority of these snippets are taken from online resources and forums.
+Compile C/C++ Code from Within Notepad++:
+  + "msvc.bat"
+  + "tdmgcc.bat"
+  + "compile.npp"
+
+Extract OPUS Audio from WEBM Container (Python):
+  + "webm2opus.py"
