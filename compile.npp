@@ -1,0 +1,3 @@
+npp_save
+C:\dev\tdmgcc.bat "$(FULL_CURRENT_PATH)"
+cmd /c "$(CURRENT_DIRECTORY)\$(NAME_PART).exe"
