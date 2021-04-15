@@ -1,5 +1,5 @@
 REM webm2opus.bat
-REM for use with Windows 10
+REM for use with Windows 10; runs natively
 REM downloads audio in format id# 251 a.k.a. audio-only OPUS 160k in WEBM container
 REM extracts OPUS audio from WEBM container without transcoding (lossless)
 REM automatically sets artist/title metadata according to filename format: "Artist - Title.webm"
