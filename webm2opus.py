@@ -7,12 +7,27 @@
 
 import os
 
+# import sys module for old-world-style debugging via breakpoint a.k.a. sys.exit(0)
+# alternatively can use input() without sys module but who needs to pause?
+# import sys
+
 # current directory
 cwd = os.getcwd()
+
 # input path
 istream = cwd + "\\istream\\"
 # output path
 ostream = cwd + "\\ostream\\"
+
+# check for existing subdirectories
+# create subfolders if they don't exist
+if not os.path.exists(istream):
+  print("creating istream directory...")
+  os.makedirs(istream)
+if not os.path.exists(ostream):
+  print("creating ostream directory...")
+  os.makedirs(ostream)
+
 # input extension
 iext = ".webm"
 # output extension
