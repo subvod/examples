@@ -1,3 +1,9 @@
+[How to add a custom UAC bypass to skip prompt when starting an application?](#how-to-add-a-custom-uac-bypass-to-skip-prompt-when-starting-an-application)
+[How to delete existing plugin macros for NPPExec in Notepad++ (v7.9.5+)?](#how-to-delete-existing-plugin-macros-for-nppexec-in-notepad-795)
+[How to use Notepad++ as a makeshift IDE?](#how-to-use-notepad++-as-a-makeshift-ide)
+[How to add toolbar buttons for macros?](#how-to-add-toolbar-buttons-for-macros)
+[How to download and convert YouTube videos?](#how-to-download-and-convert-youtube-videos)
+
 ### How to add a custom UAC bypass to skip prompt when starting an application?
 
 Run Task Scheduler (**taskschd.msc**). Click **Create Task**. Under the **General** tab give it a name (recommend using no spaces), description (optional), and check **Run with Highest Privileges**. Under the **Actions** tab, click **New...**, then click **Browse**, select the file you want to skip the UAC prompt on, and click **Open**. Under the **Conditions** tab, uncheck both the **Start the task only if computer is on AC power** and **Stop if the computer switches to battery power** boxes. Under the **Settings** tab, ensure the **Allow task to be run on demand** box is checked. Other options do not affect the overall goal (prompt bypass) but are available if you need them.
