@@ -1,4 +1,5 @@
 # webm2opus.py
+# REQUIRES PYTHON
 # for use with Windows 10; tested with Python v3.9.4
 # downloads audio in format id# 251 a.k.a. audio-only OPUS 160k in WEBM container
 # extracts OPUS audio from WEBM container without transcoding (lossless)
