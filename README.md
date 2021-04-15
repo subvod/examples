@@ -85,7 +85,7 @@ To add buttons with custom images linked to user-defined Macros, you'll need to 
 
 GIMP Method:
 1. Open the image you wish to convert into an icon.
-2. Make your edits, then change the color depth to 8-bits (256-color) via **Image > Mode > Indexed**. Default options are fine. (255 color is correct; arrays start at 0 instead of 1.)
+2. Make your edits, then change the color depth to 8-bits (256-color) via **Image > Mode > Indexed**. Default options are fine. (255 color is correct; arrays start at 0 instead of 1.) Why are we doing this? GIMP's default BMP exports are BMP4, where as Notepad++ accepts only BMP3. Therefore we must manually assign the indexed color range. I've read other tutorials and explanations which advise using ImageMagick, but I'm running GIMP v2.10.24 (Win64) and exporting as indexed BMP @ 255 works just fine.
 3. Resize the image to 24x24 pixels via **Image > Scale Image**.
 4. Export the image as a Bitmap (.BMP) via **File > Export**. You will be notified that alpha channels will be ignored, this is normal for zero-transparency formats. Click **Ok**.
 5. When prompted with the **Export image as BMP** menu, expand the **Compatibility Options** menu by clicking it, tick the **Do not write color space information** box, then click **Export**.
