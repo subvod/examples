@@ -18,24 +18,23 @@ cwd = os.getcwd()
 istream = cwd + "\\istream\\"
 # output path
 ostream = cwd + "\\ostream\\"
-
-# check for existing subdirectories
-# create subfolders if they don't exist
-if not os.path.exists(istream):
-  print("creating istream directory...")
-  os.makedirs(istream)
-if not os.path.exists(ostream):
-  print("creating ostream directory...")
-  os.makedirs(ostream)
-
+# file containing list of video/audio hyperlinks
+links = cwd + "\\_videolist.txt"
 # input extension
 iext = ".webm"
 # output extension
 oext = ".opus"
 # temporary file name
 tmpfn = "null"
-# file containing list of video/audio hyperlinks
-links = "_videolist.txt"
+
+# check for existing subdirectories and link list
+# create subfolders and link list if they don't exist
+if not os.path.exists(istream):
+  os.makedirs(istream)
+if not os.path.exists(ostream):
+  os.makedirs(ostream)
+if not os.path.exists(links):
+  with open(links, 'w'): pass
 
 # output filename in format "Uploader - Title.webm"
 # assume possible HLS stream as native
