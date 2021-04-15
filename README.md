@@ -39,7 +39,7 @@ This was a long and arduous process to work out. I've configured my Notepad++ to
 Once installed, restart Notepad++. For accessibility sake, I'll use my own scripts as examples for use with the [Microsoft Visual C++ Build Tools 2019 (x64)](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019) C/C++ compiler (**cl.exe**) and [TDM-GCC v9.2.0 Win64](https://jmeubank.github.io/tdm-gcc/download/). The below script can be modified for any compiler/assembler. Create a new file and save as `msvc.bat`. The script file name does not make any difference, but for readability I have separate scripts named for both TDM-GCC and MSVC:
 
 - [tdmgcc.bat](https://github.com/subvod/examples/blob/master/tdmgcc.bat)
-- [msvc.bat](https://github.com/subvod/examples/blob/master/msvc.bat)).
+- [msvc.bat](https://github.com/subvod/examples/blob/master/msvc.bat)
 
 **msvc.bat** file contents are as shown:
 
