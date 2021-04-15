@@ -116,9 +116,9 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 
 `for /f "tokens=1,2 delims=%~2" %%A in ("%~1") do (` loop through passed temporary file name, take two tokens, and use second argument passed as delimiter.
 
-`set artist=%%A` Set artist string (for metadata).
+`set artist=%%A` Set artist string as token 1 (for metadata).
 
-`set title=%%B` Set title string (for metadata).
+`set title=%%B` Set title string as token 2 (for metadata).
 
 `goto :eof` Jump to end of file; this ends the function loop and returns to the original file loop (line 1)
 
