@@ -18,6 +18,8 @@ After creating the task, navigate to the target file's location and create a sho
 
 Replace `TaskNameHere` with the task name you assigned (keep the quotes, of course).
 
+**IMPORTANT NOTE FOR NOTEPAD++** - For some reason, when running Notepad++ this way many users, including myself, are finding that I cannot open files in Notepad++ through the context menu anymore. (Returns `ShellExecute() failed`.) I'm looking into what's causing this right now.
+
 ### How to delete existing Plugin Macros for NPPExec in Notepad++ (v7.9.5+)?
 
 Navigate to `%APPDATA%\Roaming\Notepad++\plugins\config` and open **NPPExec.ini** in a text editor. Scroll to the **[UserMenu]** label, below that should be the user-defined macros for NPPExec. Listing format is as follows:
