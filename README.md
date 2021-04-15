@@ -1,7 +1,11 @@
-[How to add a custom UAC bypass to skip prompt when starting an application?](#how-to-add-a-custom-uac-bypass-to-skip-prompt-when-starting-an-application)
-[How to delete existing plugin macros for NPPExec in Notepad++ (v7.9.5+)?](#how-to-delete-existing-plugin-macros-for-nppexec-in-notepad-795)
-[How to use Notepad++ as a makeshift IDE?](#how-to-use-notepad-as-a-makeshift-ide)
+[How to add a custom UAC bypass for anything?](#how-to-add-a-custom-uac-bypass-to-skip-prompt-when-starting-an-application)
+
+[How to delete existing plugin macros for NPPExec in Notepad++ (v7.9.5+)?](#how-to-delete-existing-plugin-macros-for-nppexec-in-notepad-v795)
+
+[How to use Notepad++ as a makeshift IDE?](#how-to-use-notepad++-as-a-makeshift-ide)
+
 [How to add toolbar buttons for macros?](#how-to-add-toolbar-buttons-for-macros)
+
 [How to download and convert YouTube videos?](#how-to-download-and-convert-youtube-videos)
 
 ### How to add a custom UAC bypass to skip prompt when starting an application?
