@@ -100,9 +100,9 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 
 `set tmpfn=%%~na` Sets temporary file name without extension for use in tokenizer function.
 
-`call set tmpfn=%%tmpfn: - Topic - =!delim!%%` Replaces " - Topic - " string from temporary file name with delimiter (`_`) if present.
+`call set tmpfn=%%tmpfn: - Topic - =!delim!%%` Replaces ` - Topic - ` string from temporary file name with delimiter (`_`) if present.
 
-`call set tmpfn=%%tmpfn: - =!delim!%%` Replaces " - " with delimiter (`_`) if present.
+`call set tmpfn=%%tmpfn: - =!delim!%%` Replaces ` - ` with delimiter `_` if present.
 
 `call :tokenize "!tmpfn!" "%delim%"` Call tokenizer function. Pass temporary file name (now delimited by `_`) and the delimiter itself (`_`) as arguments. Calls, or jumps to, `:tokenize`
 
