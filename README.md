@@ -108,7 +108,7 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 
 `call set tmpfn=%%tmpfn:!delim!= - %%`
 
-`ffmpeg.exe -i "%%a" -vn -acodec copy -metadata artist="!artist!" -metadata title="!title!" "!ostream!\!tmpfn!!oext!"
+`ffmpeg.exe -i "%%a" -vn -acodec copy -metadata artist="!artist!" -metadata title="!title!" "!ostream!\!tmpfn!!oext!"` Extracts OPUS audio (via codec copy a.k.a. lossless) and assigns artists/title metadata according to strings from tokenizer function `:tokenize`.
 
 `goto :end` Begin closing process.
 
