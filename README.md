@@ -1,4 +1,4 @@
-This is just an assortment of random scripts and snippets for referential purposes. As of 2021/04/15 I've succeeded in morphing **Notepad++** into [an IDE of sorts](#how-to-use-notepad-as-a-makeshift-ide), [automated the download/extract process](#how-to-download-and-convert-youtube-videos) for **youtube-dl**/**ffmpeg**, and learned a bit of Markdown in the process. Original plan was to use HTML and CSS, but GitHub thought otherwise and the concept of Markdown interests me nonetheless. I've also spent quite a bit of time playing Ghost Recon Wildlands over the past three years. During that time I collected tons of data. Those numbers are crunched and compared in [stats.html](https://github.com/subvod/examples/blob/master/stats.html) if you're into that. I expect to keep this repository updated fairly regularly, but as always:
+This is a jumbled assortment of random scripts and snippets for referential purposes. As of 2021/04/15 I've succeeded in morphing **Notepad++** into [an IDE of sorts](#how-to-use-notepad-as-a-makeshift-ide) (Flat Assembler non-global include directory workaround is in-progress), [automated the download/extract process](#how-to-download-and-convert-youtube-videos) for **youtube-dl**/**ffmpeg**, and learned a bit of Markdown in the process. Original plan was to use HTML and CSS, but GitHub thought otherwise and the concept of Markdown interests me nonetheless. I've also spent quite a bit of time playing Ghost Recon Wildlands over the past three years. During that time I collected tons of data. Those numbers are crunched and compared in [stats.html](https://github.com/subvod/examples/blob/master/stats.html) if you're into that. I expect to keep this repository updated fairly regularly, but as always:
 
 > Shit happens...
 
@@ -34,6 +34,10 @@ Macro options can be changed by hand via editing these lines, but to completely 
 
 ### How to use Notepad++ as a makeshift IDE?
 
+To-Do List:
+
+- [ ] Solve Flat Assembler's INCLUDE directory issue without adding to PATH/INCLUDE globals.
+
 This was a long and arduous process to work out. I've configured my Notepad++ to my liking, but it took several hours of searching to do so. Everything is here, but be prepared. You'll need to download and install [Notepad++](https://notepad-plus-plus.org/downloads/) (assume latest stable release) and [NPPExec](https://github.com/d0vgan/nppexec). The latter can also be downloaded from within Notepad++ via the Plugins Admin. (If using a recent build of Notepad++ with the Plugins Admin and downloading NPPExec from GitHub, be sure to download the **_PA** version of NPPExec; details on its GitHub readme). Adding toolbar buttons (with custom images) which compile/assemble/execute is [covered at the bottom of this section](#how-to-add-toolbar-buttons-for-macros).
 
 Once installed, restart Notepad++. For accessibility sake, I'll use my own scripts as examples for use with the [Microsoft Visual C++ Build Tools 2019 (x64)](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019) C/C++ compiler (**cl.exe**) and [TDM-GCC v9.2.0 Win64](https://jmeubank.github.io/tdm-gcc/download/). The below script can be modified for any compiler/assembler. Create a new file and save as `msvc.bat`. The script file name does not make any difference, but for readability I have separate scripts named for both TDM-GCC and MSVC:
@@ -58,6 +62,7 @@ Click **Macro > Modify Shortcut/Delete Macro...**, select the **Plugin Commands*
 Oh and, just in case you might want NPPExec scripts for: [Python](https://github.com/subvod/examples/blob/master/python.bat) and/or [Flat Assembler (FASM)](https://github.com/subvod/examples/blob/master/fasm.bat).
 
 #### How to add toolbar buttons for Macros?
+
 To add buttons with custom images linked to user-defined Macros, you'll need to download and install **Customize Toolbar** from either the Plugins Admin or [SourceForge](https://sourceforge.net/projects/npp-customize). As far as the actual image editing goes, everything can be done in MS Paint. I personally use [GIMP](https://www.gimp.org/) and have been for almost a decade at this point. I've used Photoshop CS6 in the past, but realized I can do everything in GIMP for free along with access to the source code, huge community, extensive plugin support, as well as the GNU GPL covering it. MS Paint is the baseline image editor and included with every Windows OS. You can do everything from there if you're not making super meticulous adjustments. Let's be honest, at 24x24 pixels and 8-bit color depth, who the hell is going to be able to see any detail? Another important thing to note: all pixels which are the same color as the bottom-left pixel will appear transparent. Keep this in mind if making those aforementioned meticulous edits. :)
 
 GIMP Method:
