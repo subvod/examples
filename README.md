@@ -59,7 +59,7 @@ For the above script, you may need to replace `vcvarsall.bat` with the full file
 4. Compile source file passed as argument (`%1`), set output file name as copy of source file name, and enable extended exception handling.
 5. Delete object file. (If needed for debugging, omit this line from the script.)
 
-Creating a similar script for [TDM-GCC](https://jmeubank.github.io/tdm-gcc/download/) was not nearly as time-consuming:
+Creating a similar script for **TDM-GCC** was not nearly as time-consuming:
 
 ```
 @echo off
