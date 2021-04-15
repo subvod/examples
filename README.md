@@ -97,18 +97,33 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 #### An explanation of the tokenization method used in [webm2opus.bat](https://github.com/subvod/examples/blob/master/webm2opus.bat)
 
 `for %%a in (!istream!\*!iext!) do` Begins looping through all files in `%istream%` with `%iext%` extension. (Confused on those exclamation points? That's thanks to `setlocal enabledelayedexpansion`.)
+
 `set tmpfn=%%~na` Sets temporary file name without extension for use in tokenizer function.
+
 `call set tmpfn=%%tmpfn: - Topic - =!delim!%%` Replaces " - Topic - " string from temporary file name with delimiter (`_`) if present.
+
 `call set tmpfn=%%tmpfn: - =!delim!%%` Replaces " - " with delimiter (`_`) if present.
+
 `call :tokenize "!tmpfn!" "%delim%"` Call tokenizer function. Pass temporary file name (now delimited by `_`) and the delimiter itself (`_`) as arguments. Calls, or jumps to, `:tokenize`
+
 `call set tmpfn=%%tmpfn:!delim!= - %%`
+
 `ffmpeg.exe -i "%%a" -vn -acodec copy -metadata artist="!artist!" -metadata title="!title!" "!ostream!\!tmpfn!!oext!"
+
 `goto :end` Begin closing process.
+
 `:tokenize` Label for tokenizer function.
+
 `for /f "tokens=1,2 delims=%~2" %%A in ("%~1") do (` loop through passed temporary file name, take two tokens, and use second argument passed as delimiter.
+
 `set artist=%%A` Set artist string (for metadata).
+
 `set title=%%B` Set title string (for metadata).
+
 `goto :eof` Jump to end of file; this ends the function loop and returns to the original file loop (line 1)
+
 `:end` Label for closing process.
+
 `endlocal` Disable delayed expansion. Better safe than sorry, you never know.
+
 `exit /b` Terminate script.
