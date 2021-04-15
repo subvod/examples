@@ -82,7 +82,7 @@ GIMP Method:
 2. Make your edits, then change the color depth to 8-bits (256-color) via **Image > Mode > Indexed**. Default options are fine. (255 color is correct; arrays start at 0 instead of 1.)
 3. Resize the image to 24x24 pixels via **Image > Scale Image**.
 4. Export the image as a Bitmap (.BMP) via **File > Export**. You will be notified that alpha channels will be ignored, this is normal for zero-transparency formats. Click **Ok**.
-5. When prompted with the **Export image as BMP** menu, expand the **Compatibility Options** menu by clicking it, untick the **Do not write color space information** box, then click **Export**.
+5. When prompted with the **Export image as BMP** menu, expand the **Compatibility Options** menu by clicking it, tick the **Do not write color space information** box, then click **Export**.
 
 MS Paint Method:
 1. Open the image you wish to convert into an icon.
