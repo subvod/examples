@@ -41,49 +41,19 @@ Once installed, restart Notepad++. For accessibility sake, I'll use my own scrip
 - [tdmgcc.bat](https://github.com/subvod/examples/blob/master/tdmgcc.bat)
 - [msvc.bat](https://github.com/subvod/examples/blob/master/msvc.bat)
 
-**msvc.bat** file contents are as shown:
+For the above scripts, you may need to replace the compilers' names with the full file path to each respectively. For the MSVC script, you'll need to add the full path to `vcvarsall.bat` included in your MSVC Build Tools install directory (example: `C:\vsbuildtools\2019\BuildTools\VC\Auxiliary\Build\vcvarsall.bat`). Also, ensure the install path itself has no spaces in it. This can cause issues when loading the file path into Batch variables. I changed mine from `Microsoft Visual Studio` to `vsbuildtools`. The MSVC compiler toolset relies on several environment variables which are set only by **vcvarsall.bat** when called with specific arguments. Other compilers/assemblers do not require such superfluous steps. (Thanks, Microsoft!) The **x64** argument can be changed for host/target platform(s). [Command line syntaxes for all tools included in the MSVC build tools can be found on MSDN.](https://docs.microsoft.com/en-us/cpp/build/building-on-the-command-line?view=msvc-160) Additional note: **vcvarsall.bat** _must_ be called (using the `call` command). This is because using `cmd /c` runs the script but the NPPExec shell within Notepad++ does not retain the environment variables, while `cmd /k` runs the script and retains the environment variables but does not allow the internal NPPExec script to continue to the next line (i.e. it gives no return value because it does not terminate). After compiling (with extended exception handling enabled), the object file is deleted. Omit the command within the script if you need the object file for debugging.
 
-```
-@echo off
-cd %~dp0
-call vcvarsall.bat x64
-cl.exe /Fe"%~n1.exe" /EHsc %1
-del %~n1.obj
-```
+Creating a similar script for **TDM-GCC** was nowhere near as time-consuming. **tdmgcc.bat** is formatted for GCC builds (MinGW, TDM-GCC, etc). Same as MSVC, you may need to replace `gcc.exe` and `g++.exe` with their respective full file paths. (Example: "C:\TDM-GCC\bin\gcc.exe") Essentially the same as the MSVC script, but modified with conditionals to differentiate between C and C++ source files as GCC does not use one compiler for both languages. (GCC is the GNU C Compiler, G++ is the GNU C++ Compiler.) The conditionals (`if` statements) check the input file's extension (source file passed as argument `%1`) and assigns a compiler accordingly. The `-o` option specifies output file name/path. If you're curious about the percent-squiggle-letter combination, [look here for more information](https://www.robvanderwoude.com/batchfiles.php) or open Command Prompt and type `for /?` to display extensive variable options. Anyways, back to the setup. Save either script (whichever one you're using), open Notepad++, and select **Plugins > NPPExec > Execute** or just press F6 (default hotkey; can be changed). Then, copy and paste the contents of [compile.npp](https://github.com/subvod/examples/blob/master/compile.npp) into the text box.
 
-For the above script, you may need to replace `vcvarsall.bat` with the full file path to the script included in your MSVC Build Tools install directory (example: `C:\vsbuildtools\2019\BuildTools\VC\Auxiliary\Build\vcvarsall.bat`). Also, ensure the install path itself has no spaces in it. This can cause issues when loading the file path into Batch variables. I changed mine from `Microsoft Visual Studio` to `vsbuildtools`. Breakdown of the script, line by line:
+Replace `C:\dev\tdmgcc.bat` with the full file path to the script you're using, leave everything else as-is. They both take only one argument, the source file, making them 100% interchangeable. A quick line-by-line breakdown of **compile.npp**:
 
-1. Disable path echo-ing.
-2. Change to current directory.
-3. Call the Build Tools Developer Prompt for x64 native. The MSVC compiler toolset relies on several environment variables which are set only by **vcvarsall.bat** when called with specific arguments. Other compilers/assemblers do not require such superfluous steps. (Thanks, Microsoft!) The **x64** argument can be changed for host/target platform(s). [Syntaxes for all tools included in the MSVC build tools can be found on MSDN.](https://docs.microsoft.com/en-us/cpp/build/building-on-the-command-line?view=msvc-160) Additional note: **vcvarsall.bat** <u>must</u> be called (i.e. using the `call` command). This is because using `cmd /c` runs the script but the NPPExec console within Notepad++ does not retain the environment variables, while `cmd /k` runs the script and retains the environment variables but does not allow the internal NPPExec script to continue (i.e. it gives no return value because it does not terminate).
-4. Compile source file passed as argument (`%1`), set output file name as copy of source file name, and enable extended exception handling.
-5. Delete object file. (If needed for debugging, omit this line from the script.)
+1. save the current document
+2. execute the Batch script for the compiler specified and pass current file as an argument
+3. execute (compiled/assembled) output file of the same name in the same folder
 
-Creating a similar script for **TDM-GCC** was not nearly as time-consuming:
+After pasting, click **Save...**, name the script, then click **Save**. Afterwards, click **Plugins > NPPExec > Advanced Options...**. Within the **Menu Item** section (lower left), select the custom script from the **Associated script** drop-down menu, and name it (the **Item Name** text box). Tick the **Place to the Macros submenu** checkbox (under **Menu Items**, upper left), click **Add/Modify**, then click **OK** to exit out of the NPPExec menu.
 
-```
-@echo off
-cd %~dp0
-if "%~x1"==".cpp" (
-  g++.exe "%1" -o "%~n1.exe"
-)
-if "%~x1"==".c" (
-  gcc.exe "%1" -o "%~n1.exe"
-)
-```
-The above script is formatted for GCC builds (MinGW, TDM-GCC, etc). Same as MSVC, you may need to replace `gcc.exe` and `g++.exe` with their respective full file paths. Essentially the same as the MSVC script, but modified with conditionals to differentiate between C and C++ source files as GCC does not use one compiler for both languages. (GCC is the GNU C Compiler, G++ is the GNU C++ Compiler.) The conditionals (`if` statements) check the input file's extension. (Again, source file passed as argument `%1`). GCC syntax assumes option-less file is the input (source) file. The `-o` option specifies output file name/path. If you're curious about the percent-squiggle-letter combination, [look here for more information](https://www.robvanderwoude.com/batchfiles.php) or open Command Prompt and type `for /?` to display extensive variable options.
-
-Anyways, back to the setup. Save either script (whichever one you're using), open Notepad++, and select **Plugins > NPPExec > Execute** or just press F6 (default hotkey; can be changed). Then, copy and paste the below script into the text box:
-
-```
-npp_save
-C:\dev\tdmgcc.bat "$(FULL_CURRENT_PATH)"
-cmd /c "$(CURRENT_DIRECTORY)\$(NAME_PART).exe"
-```
-
-Replace `C:\dev\tdmgcc.bat` with the full file path to the script you're using, leave everything else as-is. They both take only one argument, the source file, making them 100% interchangeable. A quick breakdown of this script: it saves the current document (line 1), runs the Batch script for the compiler specified and passes the current file as the first argument (line 2), then runs the output file of the same name in the same folder after compilation (line 3). After pasting, click **Save...**, name the script, then click **Save**. Afterwards, click **Plugins > NPPExec > Advanced Options...**. Within the **Menu Item** section (lower left), select the custom script from the **Associated script** drop-down menu, and name it (the **Item Name** text box). Tick the **Place to the Macros submenu** checkbox (under **Menu Items**, upper left), click **Add/Modify**, then click **OK** to exit out of the NPPExec menu.
-
-Click **Macro > Modify Shortcut/Delete Macro...**, select the **Plugin Commands** tab, and scroll down until you find your custom named NPPExec scripts. Select your custom script, click **Modify**, and select your key combinations for easy access. If using toolbar buttons, keyboard shortcuts aren't really necessary, but you do you! (NOTE: Keycode conflicts do not have to be avoided, but almost always result in synchronous menu selections which are nothing but troublesome and an annoyance at best.</u>) After setting your key combination(s), click **OK** then **Close**. Restart Notepad++, open a source file, and enter your key combination to test it out.
+Click **Macro > Modify Shortcut/Delete Macro...**, select the **Plugin Commands** tab, and scroll down until you find your custom named NPPExec scripts. Select your custom script, click **Modify**, and select your key combinations for easy access. If using toolbar buttons, keyboard shortcuts aren't really necessary, but you do you! (NOTE: Keycode conflicts do not have to be avoided, but almost always result in synchronous menu selections which are nothing but troublesome and an annoyance at best.) After setting your key combination(s), click **OK** then **Close**. Restart Notepad++, open a source file, and enter your key combination to test it out.
 
 #### How to add toolbar buttons for Macros?
 To add buttons with custom images linked to user-defined Macros, you'll need to download and install **Customize Toolbar** from either the Plugins Admin or [SourceForge](https://sourceforge.net/projects/npp-customize). As far as the actual image editing goes, everything can be done in MS Paint. I personally use [GIMP](https://www.gimp.org/) and have been for almost a decade at this point. I've used Photoshop CS6 in the past, but realized I can do everything in GIMP for free along with access to the source code, huge community, extensive plugin support, as well as the GNU GPL covering it. MS Paint is the baseline image editor and included with every Windows OS. You can do everything from there if you're not making super meticulous adjustments. Let's be honest, at 24x24 pixels and 8-bit color depth, who the hell is going to be able to see any detail? Another important thing to note: all pixels which are the same color as the bottom-left pixel will appear transparent. Keep this in mind if making those aforementioned meticulous edits. :)
