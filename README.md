@@ -70,7 +70,7 @@ C:\dev\tdmgcc.bat "$(FULL_CURRENT_PATH)"
 cmd /c "$(CURRENT_DIRECTORY)\$(NAME_PART).exe"
 ```
 
-Replace `C:\dev\tdmgcc.bat` with the full file path to the script you're using, leave everything else as-is. A quick breakdown of this script: it saves the current document (line 1), runs the Batch script for the compiler specified and passes the current file as the first argument (line 2), then runs the output file of the same name in the same folder after compilation (line 3). After pasting, click **Save...**, name the script, then click **Save**. Afterwards, click **Advanced Options...** in the NPPExec cascaded menu under the "Plugins" drop-down menu. Within the **Menu Item** section (lower left), select the custom script from the **Associated script** drop-down menu, and name it (the **Item Name** text box). Check the **Place to the Macros submenu** (under **Menu Items**, upper left), click **Add/Modify**, then click "OK" to exit out of the NPPExec menu.
+Replace `C:\dev\tdmgcc.bat` with the full file path to the script you're using, leave everything else as-is. A quick breakdown of this script: it saves the current document (line 1), runs the Batch script for the compiler specified and passes the current file as the first argument (line 2), then runs the output file of the same name in the same folder after compilation (line 3). After pasting, click **Save...**, name the script, then click **Save**. Afterwards, click **Advanced Options...** in the NPPExec cascaded menu under the **Plugins** drop-down menu. Within the **Menu Item** section (lower left), select the custom script from the **Associated script** drop-down menu, and name it (the **Item Name** text box). Check the **Place to the Macros submenu** (under **Menu Items**, upper left), click **Add/Modify**, then click **OK** to exit out of the NPPExec menu.
 
 Click **Macro > Modify Shortcut/Delete Macro...**, select the **Plugin Commands** tab, and scroll down until you find your custom named NPPExec scripts. Select your custom script, click **Modify**, and select your key combinations for easy access. (NOTE: Keycode conflicts do not have to be avoided, but almost always result in synchronous menu selections which are nothing but troublesome and an annoyance at best.</u>) I use **Ctrl+F7** for MSVC and **Alt+F7** for TDM-GCC as I change compilers depending on the project I'm working on, but you're free to select your own. After setting your key combination(s), click **OK** then **Close**. Restart Notepad++, open a source file, and enter your key combination to test it out.
 
@@ -82,7 +82,7 @@ GIMP Method:
 2. Make your edits, then change the color depth to 8-bits (256-color) via **Image > Mode > Indexed**. Default options are fine. (255 color is correct; arrays start at 0 instead of 1.)
 3. Resize the image to 24x24 pixels via **Image > Scale Image**.
 4. Export the image as a Bitmap (.BMP) via **File > Export**. You will be notified that alpha channels will be ignored, this is normal for zero-transparency formats. Click **Ok**.
-5. When prompted with the **Export image as BMP** menu, expand the **Compatibility Options** menu by clicking it, untick the **Do not write color space information"** box, then click **Export**.
+5. When prompted with the **Export image as BMP** menu, expand the **Compatibility Options** menu by clicking it, untick the **Do not write color space information** box, then click **Export**.
 
 MS Paint Method:
 1. Open the image you wish to convert into an icon.
@@ -103,5 +103,5 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 
 1. Download and install [Python](https://www.python.org/downloads/). Restart your system if you chose to add Python to `%PATH%`. This entire process can be done in pure PowerShell and even 100% Batch, but I honestly prefer Python. Much more room to stretch my legs.
 2. Download both [youtube-dl](https://ytdl-org.github.io/youtube-dl/download.html) and [FFmpeg](https://ffmpeg.org/download.html), as well as [webm2opus.py](https://github.com/subvod/examples/blob/master/webm2opus.py). Extract and copy all three (**webm2opus.py**, **ffmpeg.exe**, and **youtube-dl.exe**) to the same directory, then run **webm2opus.py**.
-3. Open "_videolist.txt" (file name can be changed as you see fit) and paste video links, one line each. Update links as needed.
+3. Open **_videolist.txt** (file name can be changed as you see fit) and paste video links, one line each. Update links as needed.
 4. Run **webm2opus.py** when you want to download and convert the videos from the list.
