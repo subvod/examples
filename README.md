@@ -83,7 +83,7 @@ In this case, `Macro` specifies it's a... Macro, `TDM-GCC x64` is the name of my
 [![alt text][image]][hyperlink]
 
   [hyperlink]: https://github.com/subvod
-  [image]: https://i.imgur.com/C62DeMQ.png (tooltip)
+  [image]: https://i.imgur.com/kDbtZFx.png (tooltip)
 
 ### How to download and convert YouTube videos?
 
