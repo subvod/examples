@@ -8,3 +8,4 @@ if "%~x1"==".cpp" (
 if "%~x1"==".c" (
 	gcc "%1" -o "%~n1.exe"
 )
+exit
