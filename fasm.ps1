@@ -1,3 +1,4 @@
+# NPPExec Script in PowerShell
 # usage:
 # fasm.ps1 -f <source>
 
