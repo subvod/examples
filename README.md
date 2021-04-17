@@ -82,6 +82,8 @@ Navigate to `%APPDATA%\Roaming\Notepad++\plugins\config` and open **NPPExec.ini*
 
 Macro options can be changed by hand via editing these lines, but to completely remove them from the Macros submenu you must delete the entire line per Macro. Be sure to leave **[UserMenu]** and **NppMacrosSubmenu=1** in the INI file.
 
+Additionally, you can remove NPPExec scripts manually by editing **npes_saved.txt**. Each script is denoted by two colons and its name (ex. `::Universal`). The lines below that (until the next name label) are lines for that script.
+
 ### How to add a custom UAC bypass to skip prompt when starting an application?
 
 Run Task Scheduler (**taskschd.msc**). Click **Create Task**. Under the **General** tab give it a name (recommend using no spaces), description (optional), and check **Run with Highest Privileges**. Under the **Actions** tab, click **New...**, then click **Browse**, select the file you want to skip the UAC prompt on, and click **Open**. Under the **Conditions** tab, uncheck both the **Start the task only if computer is on AC power** and **Stop if the computer switches to battery power** boxes. Under the **Settings** tab, ensure the **Allow task to be run on demand** box is checked. Other options do not affect the overall goal (prompt bypass) but are available if you need them.
