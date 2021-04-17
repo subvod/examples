@@ -135,7 +135,7 @@ if ($prefSys -eq "msvc") {
 
 # eliminate attempting to run a nonexistent executable
 if ($inFileExt -eq ".c" -or $inFileExt -eq ".cpp" -or $inFileExt -eq ".asm") {
-  if ((Test-Path $outFile)) {
+  if (Test-Path $outFile) {
     Write-ScriptLog $(-join("EXECUTING: ", $outFile))
     Invoke-Expression $outFile
   }
