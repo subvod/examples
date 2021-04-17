@@ -58,7 +58,7 @@ GIMP Method:
 
 MS Paint Method:
 1. Open the image you wish to convert into an icon.
-2. Make your edits and scale the image to 24x24 pixels.
+2. Make your edits and **Resize** the image to 24x24 pixels.
 3. Save as 256-color Bitmap (via drop down menu in **Save As** prompt).
 
 Once your button icons are all created, place them in the `%APPDATA%\Notepad++\plugins\config` folder. Open Notepad++, navigate to **Plugins > Customize Toolbar > Custom Buttons** and click it. This creates a definition file and enables custom toolbar buttons. If you come to find no file has been created, ensure you're running Notepad++ as an administrator. (That goes for everything filesystem-related, as well.) Restart Notepad++ and open the definition file `%APPDATA%\Notepad++\plugins\config\CustomizeToolbar.btn`
