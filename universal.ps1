@@ -1,16 +1,52 @@
 # UNIVERSAL.PS1
 # PowerShell script for NPPExec
-# Automatically fixes FASM include directories for <source> file
-# Uses default include directory format "fasmw17327\INCLUDE\"
+# Compile, assemble, run, and interpret code based on source file extension.
+# Executes <source>.exe if <source> is of ".c", ".cpp", or ".asm" extension and present in assumed location.
 
-# general usage:
+# usage:
 # universal.ps1 <source> <preferred-system>
 
-# NPPExec example script format using GNU GCC:
+# Supports:
+#  GNU C/C++ Compilers
+#  Microsoft C/C++ Compiler (specify "msvc" as second argument in NPPExec script)
+#  Flat Assembler (Automatically fixes INCLUDE directories in <source>.)
+#  Python
+#  PowerShell
+#  Batch
+
+# NPPExec script format:
 # npp_save
 # powershell C:\universal.ps1 "$(FULL_CURRENT_PATH)"
-# cmd /c "$(CURRENT_DIRECTORY)\$(NAME_PART).exe"
 
+Write-Output "Initializing script..."
+
+$scriptName = -join("[", $MyInvocation.MyCommand.Name, "]")
+
+function Write-ScriptLog() {
+  param(
+    [string] $text
+  )
+  if ($text -ne "") {
+    Write-Output (-join($scriptName, " ", $text))
+  }
+}
+
+# include this external script:
+$invCmd = -join($($PSScriptRoot), $("\Invoke-CmdScript.ps1"))
+Write-ScriptLog "Importing CMD invoker script..."
+if (!(Test-Path $invCmd)) {
+  Write-ScriptLog "ERROR: cannot locate CMD invoker script. You'd best have included the function for it in this file."
+} else {
+  . $invCmd
+  Write-ScriptLog "Import successful."
+}
+
+
+# defaults: exit upon error; null file upon error
+$command = "exit"
+$inFile = "null"
+
+# preserve initial argument values
 $inFile = Get-Item $args[0]
 $prefSys = $args[1]
 
@@ -18,8 +54,9 @@ $prefSys = $args[1]
 # REMEMBER TO INCLUDE THE FINAL SLASH
 $fasm = "C:\fasmw17327\"
 
-# EXACT LOCATION NECESSARY
-$devShell = "C:\Microsoft Visual Studio\2019\BuildTools\Common7\Tools\Microsoft.VisualStudio.DevShell.dll"
+# precise location of VCVARS64
+# install directories with spaces yield trash results; don't use spaces in path names
+$vsDevShell = "C:\visualstudio\2019\BuildTools\VC\Auxiliary\Build\vcvars64.bat"
 
 # extended options per application
 $fasmOpts = ""
@@ -31,61 +68,77 @@ $psOpts = ""
 # check for null file
 # exit if true
 if ($inFile -eq "null") {
-  Write-Output "ERROR: no file specified"
+  Write-ScriptLog "ERROR: no file specified"
   exit
 }
 
-$command = "null"
-
-# run compiler/assembler/linker/interpreter according to file extension
+# store <source> extension
 $inFileExt = (Get-Item $inFile).Extension
 
 # rename output file as <source>.exe in same path
 $outFile = (Get-Item $inFile).DirectoryName + "\" + (Get-Item $inFile).Basename + ".exe"
 
-# include file directory fix for FASM
+# file directory fix for FASM
 if ($inFileExt -eq ".asm") {
   # include path replacement strings for FASM
   $incOrg = "include `""
   $incFix = "include `"INCLUDE"
   # check for matches (improper include directories in <source>)
   if (Select-String -Path $inFile -Pattern $incFix -SimpleMatch -Quiet) {
-    Write-Output "FASM: include directories are proper; continuing..."
+    Write-ScriptLog "FASM include directories are proper; continuing..."
   } else {
     # if include directories need fixing
     # replace entries found and overwrite <source>
-    Write-Output "FASM: fixing include directories..."
+    Write-ScriptLog "fixing FASM include directories..."
     (Get-Content $inFile).replace($incOrg, $incFix + "\") | Set-Content $inFile
   }
   # change directory to FASM location
-  Write-Output $(-join("changing directory: ", $fasm))
+  Write-ScriptLog $(-join("SWITCHING directory: ", $fasm))
   Set-Location -Path $fasm
-  # assemble <source> file
-  Write-Output "assembling: " $inFile
+  # assemble with FASM
   $command = -join("fasm `"", $inFile, "`" `"", $outFile, "`"")
   Invoke-Expression $command
-} elseif ($inFileExt -eq ".c") {
-  $command = -join("gcc `"", $inFile, "`" -o `"", $outFile, "`"")
+} elseif ($inFileExt -eq ".c" -or $inFileExt -eq ".cpp") {
+  # if "msvc" passed as <preferred-system>, compile with CL
   if ($prefSys -eq "msvc") {
-	$command = -join("cmd /c `"", $vcvarsall, "`" x64")
-	Write-Output $command
-	Invoke-Expression $command
+	# set up VsDevPrompt
+	Invoke-CmdScript $vsDevShell
+	# compile with CL
 	$command = -join("cl /Fe`"", $outFile, "`" /EHsc `"", $inFile, "`"")
+  } elseif ($inFileExt -eq ".c") {
+    # compile with GCC by default
+    $command = -join("gcc `"", $inFile, "`" -o `"", $outFile, "`"")
+  } elseif ($inFileExt -eq ".cpp") {
+    # compile with G++ by default
+    $command = -join("g++ `"", $inFile, "`" -o `"", $outFile, "`"")
   }
-} elseif ($inFileExt -eq ".cpp") {
-  $command = -join("g++ `"", $inFile, "`" -o `"", $outFile, "`"")
-} elseif ($external -eq ".py") {
+} elseif ($inFileExt -eq ".py") {
+  # run python script
   $command = -join("python `"", $inFile, "`"")
-} elseif ($external -eq ".ps1") {
+} elseif ($inFileExt -eq ".ps1") {
+  # run powershell script
   $command = -join("powershell `"", $inFile, "`"")
 }
 
-# print and execute final command
-Write-Output $command
+# execute final command
+Write-ScriptLog $(-join("EXECUTING: ", $command))
 Invoke-Expression $command
 
 # delete object file if using MSVC
 if ($prefSys -eq "msvc") {
   $objFile = (Get-Item $inFile).DirectoryName + "\" + (Get-Item $inFile).Basename + ".obj"
-  Remove-Item $objFile
+  if (Test-Path $objFile) {
+	Write-ScriptLog "DELETING: $objFile"
+    Remove-Item $objFile
+  }
 }
+
+# eliminate attempting to run a nonexistent executable
+if (Test-Path $outFile) {
+  Write-ScriptLog $(-join("EXECUTING: ", $outFile))
+  Invoke-Expression $outFile
+}
+
+# exit upon finish
+Write-ScriptLog "Terminating..."
+exit
