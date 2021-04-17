@@ -2,15 +2,9 @@ This is a jumbled assortment of random scripts and snippets for referential purp
 
 > Shit happens...
 
-### Current Projects (WIP)
-
-Nothing major at the moment.
-
-### Finished Projects (with Docs)
-
-[Universal Compile/Assemble/Interpret Script for NPPExec](https://github.com/subvod/examples/blob/master/universal.ps1)
-
 ### Want a super lightweight IDE? Give Notepad++ a shot:
+
+[Universal Compile/Assemble/Interpret Script for NPPExec](https://github.com/subvod/examples/blob/master/universal.ps1) (Requires [Invoke-CmdScript function](https://github.com/subvod/examples/blob/master/Invoke-CmdScript.ps1). See below for details.)
 
 [How to use Notepad++ as a makeshift IDE?](#how-to-use-notepad-as-a-makeshift-ide)
 
@@ -19,6 +13,8 @@ Nothing major at the moment.
 [How to delete existing plugin macros for NPPExec in Notepad++ (v7.9.5+)?](#how-to-delete-existing-plugin-macros-for-nppexec-in-notepad-v795)
 
 [How to add a custom UAC bypass for anything?](#how-to-add-a-custom-uac-bypass-to-skip-prompt-when-starting-an-application)
+
+### Download and convert/extract videos and audio all from command line.
 
 [How to download and convert YouTube videos?](#how-to-download-and-convert-youtube-videos)
 
