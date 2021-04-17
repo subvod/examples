@@ -4,68 +4,46 @@ This is a jumbled assortment of random scripts and snippets for referential purp
 
 ### Current Projects (WIP)
 
-[Universal Compile/Assemble/Interpret Script for NPPExec](https://github.com/subvod/examples/blob/master/universal.ps1)
+Nothing major at the moment.
 
 ### Finished Projects (with Docs)
 
-[How to add a custom UAC bypass for anything?](#how-to-add-a-custom-uac-bypass-to-skip-prompt-when-starting-an-application)
+[Universal Compile/Assemble/Interpret Script for NPPExec](https://github.com/subvod/examples/blob/master/universal.ps1)
 
-[How to delete existing plugin macros for NPPExec in Notepad++ (v7.9.5+)?](#how-to-delete-existing-plugin-macros-for-nppexec-in-notepad-v795)
+### Want a super lightweight IDE? Give Notepad++ a shot:
 
 [How to use Notepad++ as a makeshift IDE?](#how-to-use-notepad-as-a-makeshift-ide)
 
 [How to add toolbar buttons for macros?](#how-to-add-toolbar-buttons-for-macros)
 
+[How to delete existing plugin macros for NPPExec in Notepad++ (v7.9.5+)?](#how-to-delete-existing-plugin-macros-for-nppexec-in-notepad-v795)
+
+[How to add a custom UAC bypass for anything?](#how-to-add-a-custom-uac-bypass-to-skip-prompt-when-starting-an-application)
+
 [How to download and convert YouTube videos?](#how-to-download-and-convert-youtube-videos)
 
-### How to add a custom UAC bypass to skip prompt when starting an application?
-
-Run Task Scheduler (**taskschd.msc**). Click **Create Task**. Under the **General** tab give it a name (recommend using no spaces), description (optional), and check **Run with Highest Privileges**. Under the **Actions** tab, click **New...**, then click **Browse**, select the file you want to skip the UAC prompt on, and click **Open**. Under the **Conditions** tab, uncheck both the **Start the task only if computer is on AC power** and **Stop if the computer switches to battery power** boxes. Under the **Settings** tab, ensure the **Allow task to be run on demand** box is checked. Other options do not affect the overall goal (prompt bypass) but are available if you need them.
-
-After creating the task, navigate to the target file's location and create a shortcut to it. Right click the shortcut, click **Properties**, and change the **Target** box's contents to as follows:
-
-`C:\Windows\System32\schtasks.exe /run /tn "TaskNameHere"`
-
-Replace `TaskNameHere` with the task name you assigned (keep the quotes, of course).
-
-**IMPORTANT NOTE FOR NOTEPAD++ USERS** - For some reason, when running Notepad++ this way many users, including myself, are finding that we cannot open files in Notepad++ through the context menu after implementing this bypass. (Returns `ShellExecute() failed`.) I'm looking into what's causing this right now.
-
-### How to delete existing Plugin Macros for NPPExec in Notepad++ (v7.9.5+)?
-
-Navigate to `%APPDATA%\Roaming\Notepad++\plugins\config` and open **NPPExec.ini** in a text editor. Scroll to the **[UserMenu]** label, below that should be the user-defined macros for NPPExec. Listing format is as follows:
-
-`id="Macro Name :: NPPExecScriptName"`
-
-Macro options can be changed by hand via editing these lines, but to completely remove them from the Macros submenu you must delete the entire line per Macro. Be sure to leave **[UserMenu]** and **NppMacrosSubmenu=1** in the INI file.
+[An explanation of the tokenization method used in webm2opus.bat](#an-explanation-of-the-tokenization-method-used-in-webm2opusbat)
 
 ### How to use Notepad++ as a makeshift IDE?
 
-To-Do List:
-
-- [ ] Solve Flat Assembler's INCLUDE directory issue without adding to PATH/INCLUDE globals.
+Side note: I've switched to PowerShell. But if you're looking to combine every compile/assemble/run method in "pure" Batch, when you get around to working out fixing **INCLUDE** paths for Flat Assembler, take a look at [JREPL.bat](https://www.dostips.com/forum/viewtopic.php?t=6044). It has the capability you're looking for. JREPL works great, but I've encountered far too many inconsistencies using `findstr` in conjunction with it to pursue that journey any longer.
 
 This was a long and arduous process to work out but ended up being well worth it. I've configured my Notepad++ to my liking, but it took several hours of searching to do so. Everything is here, but be prepared. You'll need to download and install [Notepad++](https://notepad-plus-plus.org/downloads/) (assume latest stable release) and [NPPExec](https://github.com/d0vgan/nppexec). The latter can also be downloaded from within Notepad++ via the Plugins Admin. (If using a recent build of Notepad++ with the Plugins Admin and downloading NPPExec from GitHub, be sure to download the **_PA** version of NPPExec; details on its GitHub readme). Adding toolbar buttons (with custom images) which compile/assemble/execute is [covered at the bottom of this section](#how-to-add-toolbar-buttons-for-macros).
 
-Once installed, restart Notepad++. For accessibility sake, I'll use my own scripts as examples for use with the [Microsoft Visual C++ Build Tools 2019 (x64)](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019) C/C++ compiler (**cl.exe**) and [TDM-GCC v9.2.0 Win64](https://jmeubank.github.io/tdm-gcc/download/). The below script can be modified for any compiler/assembler. Create a new file and save as `msvc.bat`. The script file name does not make any difference, but for readability I have separate scripts named for both TDM-GCC and MSVC:
+Once installed, restart Notepad++. For accessibility sake, I'll use my own scripts as examples for use with the [TDM-GCC v9.2.0 Win64](https://jmeubank.github.io/tdm-gcc/download/). I've compiled all of my old Batch scripts and [translated them into PowerShell](https://github.com/subvod/examples/blob/master/universal.ps1). That script differentiates between file extensions and can be modified for any compiler/assembler. Download that script and save as `universal.ps1` or whatever you like. The script file name does not make any difference in functionality.
 
-- [tdmgcc.bat](https://github.com/subvod/examples/blob/master/tdmgcc.bat)
-- [msvc.bat](https://github.com/subvod/examples/blob/master/msvc.bat)
+If you've not added the locations to your environment variables (either through an installer or manually) I strongly suggest you do so. Otherwise, you may need to replace the compilers' names with the full file path to each, respectively. For my own purposes, I've already added all proper environment variables. For compiling C/C++ code with the Microsoft Visual Studio Build Tools 2019, you'll need to add the full path to **vcvars64.bat** included in your MSVC Build Tools install directory (example: `C:\vsbuildtools\2019\BuildTools\VC\Auxiliary\Build\vcvarsall.bat`). If, by chance, you're compiling on and/or targeting different architechtures, the Batch script called can be changed as needed. Also, ensure the install path itself has no spaces in it. This throws nothing but errors across the board when used outside of the shortcut, let along CMD. It can cause issues when loading the file path into Batch variables. I changed mine from `Microsoft Visual Studio` to `vsbuildtools`. The MSVC compiler toolset relies on several environment variables which are set only by **vcvarsall.bat** when called with specific arguments. Other compilers/assemblers do not require such superfluous steps. (Thanks, Microsoft!) [Command line syntaxes for all tools included in the MSVC build tools can be found on MSDN.](https://docs.microsoft.com/en-us/cpp/build/building-on-the-command-line?view=msvc-160) Additional note: **vcvars64.bat** _must_ be called (using the `Invoke-CmdScript` function from [Invoke-CmdScript.ps1](https://github.com/subvod/examples/blob/master/Invoke-CmdScript.ps1)). This is because using `&`, `cmd /c`, and `cmd /k` runs the script but the NPPExec shell within Notepad++ does not retain the environment variables, while using the custom subroutine **Invoke-CmdScript** runs the script and retains the environment variables. After compiling (with extended exception handling enabled), the object file is deleted if present. Omit the command within the script if you need the object file for debugging.
 
-For the above scripts, you may need to replace the compilers' names with the full file path to each respectively. For the MSVC script, you'll need to add the full path to `vcvarsall.bat` included in your MSVC Build Tools install directory (example: `C:\vsbuildtools\2019\BuildTools\VC\Auxiliary\Build\vcvarsall.bat`). Also, ensure the install path itself has no spaces in it. This can cause issues when loading the file path into Batch variables. I changed mine from `Microsoft Visual Studio` to `vsbuildtools`. The MSVC compiler toolset relies on several environment variables which are set only by **vcvarsall.bat** when called with specific arguments. Other compilers/assemblers do not require such superfluous steps. (Thanks, Microsoft!) The **x64** argument can be changed for host/target platform(s). [Command line syntaxes for all tools included in the MSVC build tools can be found on MSDN.](https://docs.microsoft.com/en-us/cpp/build/building-on-the-command-line?view=msvc-160) Additional note: **vcvarsall.bat** _must_ be called (using the `call` command). This is because using `cmd /c` runs the script but the NPPExec shell within Notepad++ does not retain the environment variables, while `cmd /k` runs the script and retains the environment variables but does not allow the internal NPPExec script to continue to the next line (i.e. it gives no return value because it does not terminate). After compiling (with extended exception handling enabled), the object file is deleted. Omit the command within the script if you need the object file for debugging.
+Creating a similar script for **TDM-GCC** was nowhere near as time-consuming. The script is formatted for general GCC builds (MinGW, TDM-GCC, etc). Same as MSVC, you may need to replace `gcc.exe` and `g++.exe` with their respective full file paths if you've not added their appropriate environment variables. (Example: "C:\TDM-GCC\bin\gcc.exe") Essentially the same as the MSVC script, but modified with conditionals to differentiate between C and C++ source files as GCC does not use one compiler for both languages. (GCC is the GNU C Compiler, G++ is the GNU C++ Compiler.) The conditionals (`if` statements) check the input file's extension and assign a compiler accordingly. The `-o` option specifies output file name/path. If you're curious about the percent-squiggle-letter combinations in archived Batch scripts, [look here for more information](https://www.robvanderwoude.com/batchfiles.php) or open Command Prompt and type `for /?` to display extensive variable options. Anyways, back to the setup. Save both scripts in the same directory, restart Notepad++, and select **Plugins > NPPExec > Execute** or just press F6 (default hotkey; can be changed). Then, copy and paste the contents of [universal.npp](https://github.com/subvod/examples/blob/master/universal.npp) into the text box.
 
-Creating a similar script for **TDM-GCC** was nowhere near as time-consuming. **tdmgcc.bat** is formatted for GCC builds (MinGW, TDM-GCC, etc). Same as MSVC, you may need to replace `gcc.exe` and `g++.exe` with their respective full file paths. (Example: "C:\TDM-GCC\bin\gcc.exe") Essentially the same as the MSVC script, but modified with conditionals to differentiate between C and C++ source files as GCC does not use one compiler for both languages. (GCC is the GNU C Compiler, G++ is the GNU C++ Compiler.) The conditionals (`if` statements) check the input file's extension (source file passed as argument `%1`) and assigns a compiler accordingly. The `-o` option specifies output file name/path. If you're curious about the percent-squiggle-letter combination, [look here for more information](https://www.robvanderwoude.com/batchfiles.php) or open Command Prompt and type `for /?` to display extensive variable options. Anyways, back to the setup. Save either script (whichever one you're using), open Notepad++, and select **Plugins > NPPExec > Execute** or just press F6 (default hotkey; can be changed). Then, copy and paste the contents of [compile.npp](https://github.com/subvod/examples/blob/master/compile.npp) into the text box.
-
-Replace `C:\dev\tdmgcc.bat` with the full file path to the script you're using, leave everything else as-is. They both take only one argument, the source file, making them 100% interchangeable. A quick line-by-line breakdown of **compile.npp**:
+The script takes two arguments: the source file and preferred system. The second argument, as of right now, is only applicable for C and C++ source files. Be default GCC is used, but you can specify `msvc` after the source file (ex. `universal.ps1 "C:\main.cpp" msvc`) to switch compilers. A quick line-by-line breakdown of **universal.npp**:
 
 1. save the current document
-2. execute the Batch script for the compiler specified and pass current file as an argument
-3. execute (compiled/assembled) output file of the same name in the same folder
+2. execute **universal.ps1** and pass the current file as `arg1`, as well as anything extra for `arg2`
 
 After pasting, click **Save...**, name the script, then click **Save**. Afterwards, click **Plugins > NPPExec > Advanced Options...**. Within the **Menu Item** section (lower left), select the custom script from the **Associated script** drop-down menu, and name it (the **Item Name** text box). Tick the **Place to the Macros submenu** checkbox (under **Menu Items**, upper left), click **Add/Modify**, then click **OK** to exit out of the NPPExec menu.
 
 Click **Macro > Modify Shortcut/Delete Macro...**, select the **Plugin Commands** tab, and scroll down until you find your custom named NPPExec scripts. Select your custom script, click **Modify**, and select your key combinations for easy access. If using toolbar buttons, keyboard shortcuts aren't really necessary, but you do you! (NOTE: Keycode conflicts do not have to be avoided, but almost always result in synchronous menu selections which are nothing but troublesome and an annoyance at best.) After setting your key combination(s), click **OK** then **Close**. Restart Notepad++, open a source file, and enter your key combination to test it out.
-
-Oh and, just in case you might want NPPExec scripts for: [Python](https://github.com/subvod/examples/blob/master/python.bat) and/or [Flat Assembler (FASM)](https://github.com/subvod/examples/blob/master/fasm.bat).
 
 #### How to add toolbar buttons for Macros?
 
@@ -95,6 +73,26 @@ In this case, `Macro` specifies it's a... Macro, `TDM-GCC x64` is the name of my
 
   [hyperlink]: https://github.com/subvod
   [image]: https://i.imgur.com/kDbtZFx.png (tooltip)
+
+### How to delete existing Plugin Macros for NPPExec in Notepad++ (v7.9.5+)?
+
+Navigate to `%APPDATA%\Roaming\Notepad++\plugins\config` and open **NPPExec.ini** in a text editor. Scroll to the **[UserMenu]** label, below that should be the user-defined macros for NPPExec. Listing format is as follows:
+
+`id="Macro Name :: NPPExecScriptName"`
+
+Macro options can be changed by hand via editing these lines, but to completely remove them from the Macros submenu you must delete the entire line per Macro. Be sure to leave **[UserMenu]** and **NppMacrosSubmenu=1** in the INI file.
+
+### How to add a custom UAC bypass to skip prompt when starting an application?
+
+Run Task Scheduler (**taskschd.msc**). Click **Create Task**. Under the **General** tab give it a name (recommend using no spaces), description (optional), and check **Run with Highest Privileges**. Under the **Actions** tab, click **New...**, then click **Browse**, select the file you want to skip the UAC prompt on, and click **Open**. Under the **Conditions** tab, uncheck both the **Start the task only if computer is on AC power** and **Stop if the computer switches to battery power** boxes. Under the **Settings** tab, ensure the **Allow task to be run on demand** box is checked. Other options do not affect the overall goal (prompt bypass) but are available if you need them.
+
+After creating the task, navigate to the target file's location and create a shortcut to it. Right click the shortcut, click **Properties**, and change the **Target** box's contents to as follows:
+
+`C:\Windows\System32\schtasks.exe /run /tn "TaskNameHere"`
+
+Replace `TaskNameHere` with the task name you assigned (keep the quotes, of course).
+
+**IMPORTANT NOTE FOR NOTEPAD++ USERS** - For some reason, when running Notepad++ this way many users, including myself, are finding that we cannot open files in Notepad++ through the context menu after implementing this bypass. (Returns `ShellExecute() failed`.) I'm looking into what's causing this right now.
 
 ### How to download and convert YouTube videos?
 
