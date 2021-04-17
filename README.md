@@ -2,6 +2,12 @@ This is a jumbled assortment of random scripts and snippets for referential purp
 
 > Shit happens...
 
+### Current Projects (WIP)
+
+[Universal Compile/Assemble/Interpret Script for NPPExec](https://github.com/subvod/examples/blob/master/universal.ps1)
+
+### Finished Projects (with Docs)
+
 [How to add a custom UAC bypass for anything?](#how-to-add-a-custom-uac-bypass-to-skip-prompt-when-starting-an-application)
 
 [How to delete existing plugin macros for NPPExec in Notepad++ (v7.9.5+)?](#how-to-delete-existing-plugin-macros-for-nppexec-in-notepad-v795)
