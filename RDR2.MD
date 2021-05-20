@@ -2,6 +2,20 @@
 
 *A collection of noted events and encounters, along with some observed numerical data.*
 
+[SURVIVING IN THE WILDERNESS](#surviving-in-the-wilderness)
+[GENERAL TIPS AND TRICKS](#general-tips-and-tricks)
+[GLITCHES](#glitches)
+[HUNTING TIPS](#hunting-tips)
+[MOOSE LOCATIONS](#moose-locations)
+[ANIMAL LOCATIONS](#animal-locations)
+[HORSE LOCATIONS](#horse-locations)
+[PLANT/HERB LOCATIONS](#plantherb-locations)
+[ITEM LOCATIONS](#item-locations)
+[MISSABLE CONTENT](#missable-content)
+[ITEM/WAGON PRICES](#itemwagon-prices)
+[JOURNAL ENTRY AND SKETCH DIFFERENCES](#journalentry-and-sketch-differences)
+[EASTER EGGS](#easter-eggs)
+
 # SURVIVING IN THE WILDERNESS
 
 Horses are the most efficient method of transportation in RDR2, therefore it is important to keep them healthy. That being said, you can still get around on foot quite well, just not nearly as fast. Without a horse, you'll be using up your own stamina core. Even at 100% completion (with all challenges, max stats, etc), surviving on foot is infinitely more difficult than with a horse.
