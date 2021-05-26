@@ -166,7 +166,10 @@ if binaryProject > 0:
         printConsole("Building project as DLL...")
         linkLibrary = 1
 
-# split library list if present
+# construct final command
+command = hostName + " -o \"" + fileName + ".exe\" \"" + inFile + "\""
+
+# split library list and set to link if present
 if needsLinking > 0:
   # remove final comma if last character
   linkTargets = linkTargets[:-1]
@@ -182,18 +185,22 @@ if needsLinking > 0:
     x += 1
   
   # construct final command to be executed
-  command = hostName + " -o \"" + fileName + ".exe\" \"" + inFile + "\" -Wl," + linkTargets
+  command += " -Wl," + linkTargets
   # send command
   runExtern(command)
 
 # gnu gcc compile as library
-if linkLibrary > 0:
+elif linkLibrary > 0:
   # compile to object code
   command = hostName + " -c -o \"" + fileName + ".o\" \"" + inFile + "\""
   runExtern(command)
   
   # compile object code and symbols to DLL
   command = hostName + " -shared -o \"" + fileName + ".dll\" " + fileName + ".o\""
+  runExtern(command)
+
+# continue otherwise
+else:
   runExtern(command)
 
 printConsole("END OF SCRIPT")
