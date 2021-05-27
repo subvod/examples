@@ -1,5 +1,7 @@
 This is a jumbled assortment of random scripts and snippets for referential purposes. As of 2021/04/15 I've succeeded in morphing **Notepad++** into [an IDE of sorts](#how-to-use-notepad-as-a-makeshift-ide), [automated downloading/converting/extracting videos](#how-to-download-and-convert-youtube-videos) using **youtube-dl** and **ffmpeg**, and learned a bit of Markdown in the process. Original plan was to use HTML and CSS, but GitHub thought otherwise and the concept of Markdown interests me nonetheless. I've also spent quite a bit of time playing **Tom Clancy's Ghost Recon Wildlands** over the past three years. During that time I collected tons of data. Those numbers are crunched and compared in [stats.html](https://github.com/subvod/examples/blob/master/stats.html) if you're into that. I also have recorded things I've come across in **Red Dead Redemption 2** in [RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). That's everything from damn moose locations to getting the Silver Dapple Pinto MFT as Arthur.
 
+I've also added some reference links to the bottom of this page. Everything down there I find interesting or useful in some way. [Might want to take a peek if you're the adventurous type.](#miscellaneous)
+
 ### Want a super lightweight IDE? Give Notepad++ a shot:
 
 [Universal Compile/Assemble/Interpret Script for NPPExec, Python Version](https://github.com/subvod/examples/blob/master/UNIVERSAL.PY) *I'm developing the script in Python from now on.*
@@ -113,10 +115,11 @@ Where **TaskName** is the name of the task you chose, from step 3. Note: include
 
 Everyone has their own method and preferred formats. I personally use OPUS, but you can change around both the youtube-dl and FFmpeg command lines to fit your formatting preferences. My **webm2opus** scripts automate the downloading and conversion processes, including automatically assigning metadata according to the input filename.
 
-1. Save a version of **webm2opus** on your local machine: [Python](https://github.com/subvod/examples/blob/master/webm2opus.py) or [Batch](https://github.com/subvod/examples/blob/master/webm2opus.bat). The Batch version does not require Python, but if you're using the Python version you'll need to [download and install Python first](https://www.python.org/downloads/). Also note: the Batch version may screw up the naming if the artist/title have special characters in them. The Python version does not jack with any special characters and sends them properly (as is) to ffmpeg for labeling during extraction. If you chose to add Python to `%PATH%` during the install, restart your system. This entire process can be done in pure PowerShell as well (working on it), but I honestly prefer Python. Much more room to stretch my legs. However both versions do the exact same thing, so if you're not already a Python programmer and don't plan on getting into Python, you may as well use the Batch script. You'll still need **youtube-dl** (which is coded in Python) and **FFmpeg** for both versions, though.
-2. Download both [youtube-dl](https://ytdl-org.github.io/youtube-dl/download.html) and [FFmpeg](https://ffmpeg.org/download.html), then extract and copy all three (**webm2opus** (either version), **ffmpeg.exe**, and **youtube-dl.exe**) to the same directory, then run **webm2opus.py**. It will create the appropriate subdirectories and link file if they don't exist, then it will exit (as the link file is empty).
-3. Open **_videolist.txt** (file name can be changed within the script as you see fit) and paste video links, one line each. Update links as needed.
-4. Run **webm2opus** when you want to download and convert the videos from the list.
+1. Save a version of **webm2opus** on your local machine: [Python](https://github.com/subvod/examples/blob/master/webm2opus.py) or [Batch](https://github.com/subvod/examples/blob/master/webm2opus.bat). The Batch version does not require Python but encounters naming errors when file names contain special/nonstandard characters. The Python version does not have this issue. If you're using the Python version you'll obviously need to [download and install Python first](https://www.python.org/downloads/). If you chose to add Python to `%PATH%` during the install, restart your system. This entire process can be done in pure PowerShell as well, but I honestly prefer Python. Much more room to stretch my legs.
+2. Download both [youtube-dl](https://ytdl-org.github.io/youtube-dl/download.html) and [FFmpeg](https://ffmpeg.org/download.html), then extract and copy **webm2opus.py**, **ffmpeg.exe**, and **youtube-dl.exe** to the same directory.
+3. Run **webm2opus.py**. It will create the appropriate subdirectories and link file if they don't exist, then it will exit (as the link file is empty).
+4. Open **_videolist.txt** (file name can be changed within the script as you see fit) and paste video links, one line each. Update links as needed. Alternatively, you can manually download your preferred quality/format using [this WebExtension for FireFox](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/). I'm a FireFox user, but I'm certain Chrome has an equal counterpart. Be that as it may, youtube-dl is universal.
+5. Run **webm2opus.py** when you want to download and convert the videos from the list.
 
 #### An explanation of the tokenization method used in [webm2opus.bat](https://github.com/subvod/examples/blob/master/webm2opus.bat)
 
@@ -151,3 +154,7 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 `endlocal` Disable delayed expansion. Better safe than sorry, you never know.
 
 `exit /b` Terminate script.
+
+### MISCELLANEOUS
+
+*Alternative to CCleaner because Avast fucked it up:* https://github.com/bleachbit/bleachbit
