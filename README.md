@@ -167,44 +167,44 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 
 #### Media (Image/Audio/Video) Related
 
-*youtube-dl (stream/download):* https://youtube-dl.org/
+- *youtube-dl (stream/download):* https://youtube-dl.org/
 
-**READ ABOUT RIAA'S FAILED ATTEMPT TO SHUT DOWN YOUTUBE-DL :)** https://gist.github.com/janoszen/d5d1a447701ef374eda169896bfe3a57
+- **READ ABOUT RIAA'S FAILED ATTEMPT TO SHUT DOWN YOUTUBE-DL :)** https://gist.github.com/janoszen/d5d1a447701ef374eda169896bfe3a57
 
-*FFMpeg (media conversion):* https://www.ffmpeg.org/
+- *FFMpeg (media conversion):* https://www.ffmpeg.org/
 
-*VLC Media Player:* https://www.videolan.org/
+- *VLC Media Player:* https://www.videolan.org/
 
-*Audacity (audio editor)* https://www.audacityteam.org/
+- *Audacity (audio editor)* https://www.audacityteam.org/
 
-*GIMP (GNU Image Manipulation Program; I'm not paying for Photoshop)* https://www.gimp.org/
+- *GIMP (GNU Image Manipulation Program; I'm not paying for Photoshop)* https://www.gimp.org/
 
 #### Programming Related
 
-*Python* https://www.python.org/
+- *Python* https://www.python.org/
 
-*TDM-GCC* https://jmeubank.github.io/tdm-gcc/
+- *TDM-GCC* https://jmeubank.github.io/tdm-gcc/
 
-*Visual Studio Build Tools* https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
+- *Visual Studio Build Tools* https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
 
-*Flat Assembler (x86/x86-64)* https://flatassembler.net/
+- *Flat Assembler (x86/x86-64)* https://flatassembler.net/
 
-*Olly (still works fine for 32-bit)* https://www.ollydbg.de/
+- *Olly (still works fine for 32-bit)* https://www.ollydbg.de/
 
-*SDL (Simple DirectMedia Layer)* https://www.libsdl.org/
+- *SDL (Simple DirectMedia Layer)* https://www.libsdl.org/
 
-*OpenGL (graphics lib)* https://www.opengl.org/
+- *OpenGL (graphics lib)* https://www.opengl.org/
 
-*EasyHook (WinAPI hook base)* https://github.com/EasyHook/EasyHook
+- *EasyHook (WinAPI hook base)* https://github.com/EasyHook/EasyHook
 
-*PowerShell* https://github.com/PowerShell/PowerShell
+- *PowerShell* https://github.com/PowerShell/PowerShell
 
 #### Nintendo GameBoy/SNES Development Related
 
-*ASAR (65816 assembler)* https://github.com/RPGHacker/asar
+- *ASAR (65816 assembler)* https://github.com/RPGHacker/asar
 
-*RGBDS (Rednex Gameboy Development System)* https://github.com/gbdev/rgbds
+- *RGBDS (Rednex Gameboy Development System)* https://github.com/gbdev/rgbds
 
-*Pokemon Crystal Disassembly* https://github.com/pret/pokecrystal
+- *Pokemon Crystal Disassembly* https://github.com/pret/pokecrystal
 
-*VisualBoyAdvance-M* https://github.com/visualboyadvance-m/visualboyadvance-m
+- *VisualBoyAdvance-M* https://github.com/visualboyadvance-m/visualboyadvance-m
