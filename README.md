@@ -158,3 +158,9 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 ### MISCELLANEOUS
 
 *Alternative to CCleaner because Avast fucked it up:* https://github.com/bleachbit/bleachbit
+*Assemble Pokemon Crystal yourself:* https://github.com/pret/pokecrystal
+*WinAPI hook base:* https://github.com/EasyHook/EasyHook
+*Open source home for PowerShell:* https://github.com/PowerShell/PowerShell
+*65816 assembler (improvement upon xkas):* https://github.com/RPGHacker/asar
+*Rednex Gameboy Development System:* https://github.com/gbdev/rgbds
+*VisualBoyAdvance-M (project mass merge and update from the original VBA):* https://github.com/visualboyadvance-m/visualboyadvance-m
