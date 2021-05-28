@@ -1,6 +1,12 @@
-This is a jumbled assortment of random scripts and snippets for referential purposes. As of 2021/04/15 I've succeeded in morphing **Notepad++** into [an IDE of sorts](#how-to-use-notepad-as-a-makeshift-ide), [automated downloading/converting/extracting videos](#how-to-download-and-convert-youtube-videos) using **youtube-dl** and **ffmpeg**, and learned a bit of Markdown in the process. Original plan was to use HTML and CSS, but GitHub thought otherwise and the concept of Markdown interests me nonetheless. I've also spent quite a bit of time playing **Tom Clancy's Ghost Recon Wildlands** over the past three years. During that time I collected tons of data. Those numbers are crunched and compared in [stats.html](https://github.com/subvod/examples/blob/master/stats.html) if you're into that. I also have recorded things I've come across in **Red Dead Redemption 2** in [RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). That's everything from damn moose locations to getting the Silver Dapple Pinto MFT as Arthur.
+This is a jumbled assortment of random scripts and snippets for referential purposes. As of 2021/04/15 I've succeeded in morphing **Notepad++** into [an IDE of sorts](#how-to-use-notepad-as-a-makeshift-ide), [automated downloading/converting/extracting videos](#how-to-download-and-convert-youtube-videos) using **youtube-dl** and **ffmpeg**, and learned a bit of Markdown in the process. Original plan was to use HTML and CSS, but GitHub thought otherwise and the concept of Markdown interests me nonetheless.
 
-I've also added some reference links to the bottom of this page. Everything down there I find interesting or useful in some way. [Might want to take a peek if you're the adventurous type.](#miscellaneous)
+[stats.html](https://github.com/subvod/examples/blob/master/stats.html) *Tom Clancy's Ghost Recon Wildlands* - Referential document containing weapon data, among other things.
+
+[RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). *Red Dead Redemption 2 Reference Document* - Everything from damn moose locations to getting the Silver Dapple Pinto MFT as Arthur.
+
+[ASUS ROG Zephyrus G14 (2021) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the 2021 ASUS G14 because I'm a fucking normie piece of shit. :)
+
+I've also added some reference links to the bottom of this page. Those are all programs/libraries I've used at some point or another, most of which I still consistently use today. Audio, video, image, and 3D editing tools. Extensive external libraries for several languages. GameBoy and GameBoy Color development tools. Everything down there I find interesting or useful in some way. [Might want to take a peek if you're the adventurous type.](#miscellaneous)
 
 ### Want a super lightweight IDE? Give Notepad++ a shot:
 
@@ -159,13 +165,19 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 
 #### System Utilities
 
-- *Alternative to CCleaner because Avast fucked it up:* https://github.com/bleachbit/bleachbit
+- *Alternative to CCleaner because Avast fucked it up* https://github.com/bleachbit/bleachbit
 
-- *Notepad++:* https://notepad-plus-plus.org/
+- *Notepad++* https://notepad-plus-plus.org/
 
-- *7-Zip (I don't care if WinRAR is basically free and easily patch-able):* https://www.7-zip.org/
+- *7-Zip (I don't care if WinRAR is basically free and easily patch-able)* https://www.7-zip.org/
 
-#### Media (Image/Audio/Video) Related
+- *LibreOffice (not paying for Microsoft Office)* https://www.libreoffice.org/
+
+- *IconsExtract (extract icon resources from WinPE/DLL* https://www.nirsoft.net/utils/iconsext.html
+
+- *ResourceHacker (extract, edit, and repack WinPE/DLL resources)* http://www.angusj.com/resourcehacker/
+
+#### Media (Image/Audio/Video/3D) Related
 
 - *youtube-dl (stream/download):* https://youtube-dl.org/
 
@@ -178,6 +190,9 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 - *Audacity (audio editor)* https://www.audacityteam.org/
 
 - *GIMP (GNU Image Manipulation Program; I'm not paying for Photoshop)* https://www.gimp.org/
+
+- *Blender (3D modeling)* https://www.blender.org/
+
 
 #### Programming Related
 
