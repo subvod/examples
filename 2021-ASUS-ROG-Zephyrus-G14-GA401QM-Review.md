@@ -5,6 +5,7 @@
 - AMD Ryzen 9 5900HS @ 3.3 GHz
 - NVIDIA GeForce RTX 3060
 - Windows 10 64-bit
+- FHD 144 Hz "PANTONE Validated" 100% sRGB Display (1920x1080)
 
 ### tl;dr is it worth it?
 
@@ -23,6 +24,8 @@ I'm coming from an **Acer ASPIRE 5250-P5WE6**. It's done what I've thrown at it 
 I don't play a whole lot of games. I still occasionally play *Homeworld 2 Remastered*, but for the most part I play *Red Dead Redemption 2*. This tiny thing...
 
 It can run RDR2, all medium settings (except with texture and all anti-aliasting settings on Ultra) at a consistent 45-58 fps. The lowest drop I've seen is 44fps when I was lobbing dynamite arrows one after another during a bounty hunter ambush. Now, I do run V-Sync because anything higher than 60 Hz doesn't make a difference to me even though the laptop screen itself can run at 144 Hz. (Plus, my TV I connect it to runs max 60fps in 1080p.)
+
+I do play a bit of Forza Horizon 3 and 4 as well. I've yet to test FH4, but FH3 runs (on default "Medium" recommended settings) at a consistent 102-114 fps, with the lowest drop I've seen to date being 94 fps during a large multiplayer circuit race. (Possibly due to network latency, but I'll mention it nonetheless.)
 
 As the old Acer did, it emulates all pre-2005 (physical) systems flawlessly.
 
