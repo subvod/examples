@@ -9,7 +9,7 @@
 
 ### tl;dr is it worth it?
 
-For sure. Continue reading for details.
+For the $1,600 price tag? (Advertised at $1,599.99 because us normies are assumed to make a subconscious decision based on a single penny.) Sure. Continue reading for details.
 
 ### Is it better than the 2020 model/version?
 
