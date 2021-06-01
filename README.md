@@ -1,6 +1,15 @@
 # Information
 
-This is a jumbled assortment of random scripts and snippets for referential purposes.
+Prior (or Pryor, whichever pronunciation you may choose) to me explaining what this is, take a listen. Yes, I am from the American south. Yes, I consider myself fairly redneck/hillbilly (based on nothing but lifestyle/choices). No, despite what common American/foreign media may project, I do not have some inherent prejudice towards any particular ethnicity. Click the below links to experience my lifestyles as they would be first hand. And contrary to (what would appear to be popular, American) belief, I do not discriminate based upon any factor regardless of situation. The links below should be evidence enough to judge how I think of and live my own life:
+
+- https://www.youtube.com/watch?v=hXpeNKHexCg
+- https://www.youtube.com/watch?v=2a0DGI16wbI
+- https://www.youtube.com/watch?v=aZ2lXrtjP6o
+- https://www.youtube.com/watch?v=pJmTHF4XYJY
+
+Yes, I do take pride on my own heritage. However, I do take a fair (as in a **F A I R**) bit of pride in anything comical in the least bit. To me, does not matter the origin in terms of comedy, let alone anything else. Comedy just makes everything relatable, especially when it's a comic like Richard Pryor. Regardless of what generation, area, ethnicity, etc, from where the comedy came from. My observations do not exclude antything other than the comedic effect, I swear to you. Be that as it may... if you can make programming comical you call me up.
+
+Now that you've listened to a personal favorite of mine, this is a jumbled assortment of random scripts and snippets for referential purposes.
 
 [Turn Notepad++ into an IDE of sorts](#how-to-use-notepad-as-a-makeshift-ide) using **NPPExec** and **Notepad++ Macros**. Can be modified to work with any command-line compiler for any language.
 
@@ -133,6 +142,10 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 4. Open **_videolist.txt** (file name can be changed within the script as you see fit) and paste video links, one line each. Update links as needed. Alternatively, you can manually download your preferred quality/format using [this WebExtension for FireFox](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/). I'm a FireFox user, but I'm certain Chrome has an equal counterpart. Be that as it may, youtube-dl is universal.
 5. Run **webm2opus.py** when you want to download and convert the videos from the list.
 
+#### Is OPUS *really* better than other common formats?
+
+I converted all of my audio to MP3 until late 2019 when I started looking more into OPUS. Now, FLAC is my go-to for lossless, but I hardly ever use lossless. My smaller devices can't handle 4-6 MB per file and, frankly, OPUS doesn't reduce quality by some insane, inordinate amount yet cuts file size on average to 2-4 MB. Compared to other lossy codecs and judging from my own experiences: yes, it's worth the tradeoff. I notice very little audio fidelity loss with OPUS, especially compared to what I used to run universally: 48 kbps MP3. Additionally, from what I've read, OPUS has a sort of witchcrafty vibe to it but it somehow works. This video conveys the loss differences between various comparison formats well: https://www.youtube.com/watch?v=3B6pr6-YVyM
+
 #### An explanation of the tokenization method used in [webm2opus.bat](https://github.com/subvod/examples/blob/master/webm2opus.bat)
 
 `for %%a in (!istream!\*!iext!) do` Begins looping through all files in `%istream%` with `%iext%` extension. (Confused on those exclamation points? That's thanks to `setlocal enabledelayedexpansion`.)
@@ -199,18 +212,29 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 
 - *Blender (3D modeling)* https://www.blender.org/
 
-
 #### Programming Related
 
 - *Python* https://www.python.org/
 
 - *TDM-GCC* https://jmeubank.github.io/tdm-gcc/
 
-- *Visual Studio Build Tools* https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
-
 - *Flat Assembler (x86/x86-64)* https://flatassembler.net/
 
 - *Olly (still works fine for 32-bit)* https://www.ollydbg.de/
+
+- *PowerShell* https://github.com/PowerShell/PowerShell
+
+- *Visual Studio Build Tools* https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
+
+- *Markdown Cheat Sheet* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+- *Notepad++* https://notepad-plus-plus.org/
+
+- *Atom* https://github.com/atom/atom
+
+- *Visual Studio Code* https://github.com/microsoft/vscode
+
+#### Assorted Development Libraries
 
 - *SDL (Simple DirectMedia Layer)* https://www.libsdl.org/
 
@@ -218,9 +242,11 @@ Everyone has their own method and preferred formats. I personally use OPUS, but 
 
 - *EasyHook (WinAPI hook base)* https://github.com/EasyHook/EasyHook
 
-- *PowerShell* https://github.com/PowerShell/PowerShell
+- *wxWidgets (cross-platform GUI library)* https://www.wxwidgets.org/
 
-- *Markdown Cheat Sheet* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- *Boost C++ Libraries* https://www.boost.org/
+
+- *SFML (Simple and Fast Multimedia Library)* https://www.sfml-dev.org/
 
 #### Nintendo GameBoy/SNES Development Related
 
