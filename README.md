@@ -1,15 +1,14 @@
 # Information
 
-Prior (or Pryor, whichever pronunciation you may choose) to me explaining what this is, take a listen. Yes, I am from the American south. Yes, I consider myself fairly redneck/hillbilly (based on nothing but lifestyle/choices). No, despite what common American/foreign media may project, I do not have some inherent prejudice towards any particular ethnicity. Click the below links to experience my lifestyles as they would be first hand. And contrary to (what would appear to be popular, American) belief, I do not discriminate based upon any factor regardless of situation. The links below should be evidence enough to judge how I think of and live my own life:
+Here's a few clips I enjoy listening to. They'll give you a feel for how I operate:
 
 - https://www.youtube.com/watch?v=hXpeNKHexCg
-- https://www.youtube.com/watch?v=2a0DGI16wbI
+- https://www.youtube.com/watch?v=TI6dG99HHX4
 - https://www.youtube.com/watch?v=aZ2lXrtjP6o
 - https://www.youtube.com/watch?v=pJmTHF4XYJY
+- https://www.youtube.com/watch?v=MvzwmoZaNHQ
 
-Yes, I do take pride on my own heritage. However, I do take a fair (as in a **F A I R**) bit of pride in anything comical in the least bit. To me, does not matter the origin in terms of comedy, let alone anything else. Comedy just makes everything relatable, especially when it's a comic like Richard Pryor. Regardless of what generation, area, ethnicity, etc, from where the comedy came from. My observations do not exclude antything other than the comedic effect, I swear to you. Be that as it may... if you can make programming comical you call me up.
-
-Now that you've listened to a personal favorite of mine, this is a jumbled assortment of random scripts and snippets for referential purposes.
+That out of the way, this is a jumbled assortment of random scripts and snippets for referential purposes.
 
 [Turn Notepad++ into an IDE of sorts](#how-to-use-notepad-as-a-makeshift-ide) using **NPPExec** and **Notepad++ Macros**. Can be modified to work with any command-line compiler for any language.
 
@@ -132,15 +131,17 @@ Where **TaskName** is the name of the task you chose, from step 3. Note: include
 
 **IMPORTANT NOTE FOR NOTEPAD++ USERS** - For some reason, when running Notepad++ this way many users, including myself, are finding that we cannot open files in Notepad++ through the context menu after implementing this bypass. (Returns `ShellExecute() failed`.) I'm looking into what's causing this right now.
 
-### How to download and convert YouTube videos?
+### How to download and convert online media (Youtube videos)?
 
 Everyone has their own method and preferred formats. I personally use OPUS, but you can change around both the youtube-dl and FFmpeg command lines to fit your formatting preferences. My **webm2opus** scripts automate the downloading and conversion processes, including automatically assigning metadata according to the input filename.
 
 1. Save a version of **webm2opus** on your local machine: [Python](https://github.com/subvod/examples/blob/master/webm2opus.py) or [Batch](https://github.com/subvod/examples/blob/master/webm2opus.bat). The Batch version does not require Python but encounters naming errors when file names contain special/nonstandard characters. The Python version does not have this issue. If you're using the Python version you'll obviously need to [download and install Python first](https://www.python.org/downloads/). If you chose to add Python to `%PATH%` during the install, restart your system. This entire process can be done in pure PowerShell as well, but I honestly prefer Python. Much more room to stretch my legs.
 2. Download both [youtube-dl](https://ytdl-org.github.io/youtube-dl/download.html) and [FFmpeg](https://ffmpeg.org/download.html), then extract and copy **webm2opus.py**, **ffmpeg.exe**, and **youtube-dl.exe** to the same directory.
 3. Run **webm2opus.py**. It will create the appropriate subdirectories and link file if they don't exist, then it will exit (as the link file is empty).
-4. Open **_videolist.txt** (file name can be changed within the script as you see fit) and paste video links, one line each. Update links as needed. Alternatively, you can manually download your preferred quality/format using [this WebExtension for FireFox](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/). I'm a FireFox user, but I'm certain Chrome has an equal counterpart. Be that as it may, youtube-dl is universal.
+4. Open **_videolist.txt** (file name can be changed within the script as you see fit) and paste video links, one line each. Update links as needed. Alternatively, you can manually download your preferred quality/format using [this WebExtension for FireFox](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/). I'm a FireFox user, but I'm certain Chrome has an equal counterpart. Be that as it may, [youtube-dl has universal format selection via command line](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#format-selection).
 5. Run **webm2opus.py** when you want to download and convert the videos from the list.
+
+*SIDE NOTE:* if the media you're downloading has different versions available (explicit and editied, for example), Google provides auto-generated original audio tracks through "Topic" channels. Searching for an explicit version of anything will almost always yield no direct result from the Topic channel of the creator. Try searching the creator/artist, title, and "topic" in Google itself. Doing so usually reveals those explicit versions on their respective "Topic" channels, where otherwise the video may be replaced by the actual music video or an edited version if searched through YouTube.
 
 #### Is OPUS *really* better than other common formats?
 
