@@ -7,6 +7,7 @@ Here's a few clips I enjoy listening to. They'll give you a feel for how I opera
 - https://www.youtube.com/watch?v=aZ2lXrtjP6o
 - https://www.youtube.com/watch?v=pJmTHF4XYJY
 - https://www.youtube.com/watch?v=MvzwmoZaNHQ
+- https://www.youtube.com/watch?v=OHTWeIsP_ck
 
 That out of the way, this is a jumbled assortment of random scripts and snippets for referential purposes.
 
@@ -135,7 +136,7 @@ Where **TaskName** is the name of the task you chose, from step 3. Note: include
 
 Everyone has their own method and preferred formats. I personally use OPUS, but you can change around both the youtube-dl and FFmpeg command lines to fit your formatting preferences. My **webm2opus** scripts automate the downloading and conversion processes, including automatically assigning metadata according to the input filename.
 
-1. Save a version of **webm2opus** on your local machine: [Python](https://github.com/subvod/examples/blob/master/webm2opus.py) or [Batch](https://github.com/subvod/examples/blob/master/webm2opus.bat). The Batch version does not require Python but encounters naming errors when file names contain special/nonstandard characters. The Python version does not have this issue. If you're using the Python version you'll obviously need to [download and install Python first](https://www.python.org/downloads/). If you chose to add Python to `%PATH%` during the install, restart your system. This entire process can be done in pure PowerShell as well, but I honestly prefer Python. Much more room to stretch my legs.
+1. Save a version of **webm2opus** on your local machine: [Python](https://github.com/subvod/examples/blob/master/webm2opus.py) or [Batch](https://github.com/subvod/examples/blob/master/webm2opus.bat). The Batch version does not require Python but encounters naming errors when file names contain special/nonstandard characters. The Python version does not have this issue, likely because Python (iirc) uses Unicode universally across the language. Much like using `wchar_t` in place of the common `char` in C/C++. If you're using the Python version you'll obviously need to [download and install Python first](https://www.python.org/downloads/). If you chose to add Python to `%PATH%` during the install, restart your system. This entire process can be done in pure PowerShell as well, but I honestly prefer Python. Much more room to stretch my legs.
 2. Download both [youtube-dl](https://ytdl-org.github.io/youtube-dl/download.html) and [FFmpeg](https://ffmpeg.org/download.html), then extract and copy **webm2opus.py**, **ffmpeg.exe**, and **youtube-dl.exe** to the same directory.
 3. Run **webm2opus.py**. It will create the appropriate subdirectories and link file if they don't exist, then it will exit (as the link file is empty).
 4. Open **_videolist.txt** (file name can be changed within the script as you see fit) and paste video links, one line each. Update links as needed. Alternatively, you can manually download your preferred quality/format using [this WebExtension for FireFox](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/). I'm a FireFox user, but I'm certain Chrome has an equal counterpart. Be that as it may, [youtube-dl has universal format selection via command line](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#format-selection).
