@@ -3,12 +3,12 @@
 Here's a few clips I enjoy listening to. They'll give you a feel for how I operate:
 
 - https://www.youtube.com/watch?v=VC_rwb8wihs
-- https://www.youtube.com/watch?v=hXpeNKHexCg
 - https://www.youtube.com/watch?v=TI6dG99HHX4
 - https://www.youtube.com/watch?v=aZ2lXrtjP6o
 - https://www.youtube.com/watch?v=pJmTHF4XYJY
 - https://www.youtube.com/watch?v=MvzwmoZaNHQ
 - https://www.youtube.com/watch?v=OHTWeIsP_ck
+- https://www.youtube.com/watch?v=QRxEubhdTQ0
 
 That out of the way, this is a jumbled assortment of random scripts and snippets for referential purposes.
 
