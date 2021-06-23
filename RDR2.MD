@@ -92,8 +92,9 @@ As you can see, **Special Bitters** makes a bit of a difference, where as **Spec
 - THIS IDLE METHOD DOESN'T ELIMINATE THE POSSIBILITY OF HOSTILITY FROM BOUNTY HUNTERS, BUSHWHACKERS, ROBBERS, AGGRESSIVE ANIMALS, ETC. MIGHT WANT TO PEEK AT THE SCREEN EVERY NOW AND THEN AND/OR KEEP AN EAR OUT.
 
 ### Map Icons
-- Animal drawings are added when an animal is both studied and tracked in specific areas. The best thing to do is study and track everything you come across. Additional locations will be marked as animals are "sighted" (moving the crosshair to highlight them). Looking at animals through binoculars (after studying) is by far the most efficient way to populate the map with animal icons.
-- Plant drawings are added when a plant is studied and picked/eaten in specific areas. Best to pick everything you come across.
+- Reference used: https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/
+- Animal drawings are added when an animal is both studied and tracked in specific areas. You do not have to skin the animal to add its icon to the overworld map. The best thing to do is study and track everything you come across. Additional locations will be marked as animals are "sighted" (moving the crosshair to highlight them). Looking at animals through binoculars (after studying) is by far the most efficient way to populate the map with animal icons.
+- Plant drawings are added when a plant is picked/eaten in specific areas. Best to pick everything you come across.
 - Point of interest, dreamcatcher, dinosaur bone, and rock carving locations are added when they are "investigated".
 
 ### Triggering Pearson's Rabbit Request to Obtain the Unique Scout Jacket
