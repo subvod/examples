@@ -10,6 +10,7 @@ Here's a few clips I enjoy listening to. They'll give you a feel for how I opera
 - https://www.youtube.com/watch?v=MvzwmoZaNHQ
 - https://www.youtube.com/watch?v=OHTWeIsP_ck
 - https://www.youtube.com/watch?v=QRxEubhdTQ0
+- https://www.youtube.com/watch?v=UQsA-YvjaJw
 
 That out of the way, this is a jumbled assortment of random scripts and snippets for referential purposes.
 
