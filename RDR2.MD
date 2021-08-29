@@ -647,6 +647,9 @@ https://www.youtube.com/watch?v=_fSlasTGGag
 ### Useful Links
 
 *CodeWalker* https://github.com/dexyfex/CodeWalker
+
 *Missables* https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2
+
 *Rampage Trainer* https://www.nexusmods.com/reddeadredemption2/mods/233
+
 *Complete Map* https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/
