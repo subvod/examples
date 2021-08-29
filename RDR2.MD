@@ -172,7 +172,6 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 12. Saddle up and enjoy your free horse!
 
 ### Remove Scope From Carcano and/or Rolling Block Rifles
-
 Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode, you can permanently de-scope (un-scope?) both the Rolling Block and Carcano Rifles. This glitch isn't entirely permanent, but only because you can just go to a Gunsmith and re-equip any scope to negate it. The rifle(s) will remain scopeless as long as you don't re-scope them at the Gunsmith. They will not gain the auto-aim function even if it's turned on. They still operate as the regular rifle, you're just no longer forced to scope in.
 
 1. Hop on your horse, equip either sniper, and place it in the saddle holster.
@@ -286,12 +285,11 @@ Below are individual tips listed for each.
 
 *These are locations which I've yet to encounter a moose at, but have either seen videos or read online of other people spotting moose there. Another case is if I vaguely recall seeing a moose there, but cannot cite for certain. (As in, early on shortly after I got this game but didn't know what I was doing.) This list will be updated as I progress through my playthroughs.*
 
-- west shoreline of **O'Creagh's Run**; west of "Run" in "O'Creagh's Run"; shares spawn with bear vs wolves random encounter; **I've never seen a Moose here, only on the east shore of O'Creagh's Run**.
+- west shoreline of **O'Creagh's Run**; west of "Run" in "O'Creagh's Run"; shares spawn with bear vs wolves random encounter; **I've never seen a Moose here, only on the east shore of O'Creagh's Run**
 - Donner Falls, Grizzlies East, AM (cliff edge overlooking falls; possibly shared with grizzly spawn)
 - Cumberland Falls, Big Valley, WE (west shore cliffside just south of waterfall)
 - Diablo Ridge, Big Valley, WE (riverside)
 - Painted Sky, Big Valley, WE (riverside; vaguely recall seeing one shortly after I got the game, but might have been a bull elk; not one since then)
-- Aurora Basin, Tall Trees, WE (southeast shoreline; I swear I've seen one on the SE shore of either **Aurora** or **Owanjila**)
 
 ### Verified Moose Locations
 
