@@ -38,31 +38,30 @@ You're better off with a horse, but it's certainly possible to survive on your o
 
 *NOTE: nothing grows up in the Northwestern snow-covered areas of Ambarino.*
 
-- Cooked meats refill all cores by a certain amount. If you prefer store-bought items to replenish your cores, I stick with **Baked Beans** and **Fine Brandy**. Different cuts of meat can be harvested from the wild. Different animals yield different types of meat. Aside from **Big Game** (see below in "Advanced Survival"), the most nutritious cuts are: **Venison**, **Pork**, **Game**, **Succulent Fish**, **Prime Beef**, and **Exotic Bird**. The most common animals for these cuts are **Deer**, **Pronghorn**, **Elk**, **Duck**, and **Rabbit**. Though, **Moose**, **Wild Boar**, **Collard Peccary**, **Domestic Pigs**, **Bison**, **Ox**, **Bull**, **Cow**, **Pheasant**, **Pelican**, **Macaw (Parrot)**, **Carolina Parakeet**, **Sockeye Salmon**, and **Rainbow Trout** all yield meats that greatly restore all cores. When seasoned, these meats fully restore the core associated with the herb used.
-- **Wild Carrots** are the holy grail of horse upkeep. They grow everywhere. Yes, there are two different carrots. You cannot use bought/looted regular **Carrots** in crafting recipes, but they provide the same benefits as **Wild Carrots**. Feeding your horse is straightforward. If you're not big on harvesting **Wild Carrots** yourself, farmed **Carrots** are available for purchase at Stables. However if you buy provisions from a Stable, **Hay** is the far superior choice as it is the cheapest cost-per-benefit.
+- Cooked meats refill all cores according to the type of meat. The best combo of store-bought items I've found is **Baked Beans** and **Fine Brandy**. For wild meats, aside from **Big Game** (the best cut; see below in "Advanced Survival"), the most nutritious cuts are: **Venison**, **Pork**, **Game**, **Succulent Fish**, **Prime Beef**, and **Exotic Bird**. The most common animals for these cuts are **Deer**, **Pronghorn**, **Elk**, **Duck**, and **Rabbit**. Though, **Moose**, **Wild Boar**, **Collard Peccary**, **Domestic Pigs**, **Bison**, **Ox**, **Bull**, **Cow**, **Pheasant**, **Pelican**, **Macaw (Parrot)**, **Carolina Parakeet**, **Sockeye Salmon**, and **Rainbow Trout** all yield meats that greatly restore all cores. When seasoned, these meats fully restore the core associated with the herb used.
+- **Wild Carrots** are the holy grail of horse upkeep. They grow everywhere. Yes, there are two different carrots. You cannot use bought/looted regular **Carrots** in crafting recipes, but they provide the same benefits as **Wild Carrots**. If you're not big on harvesting **Wild Carrots** yourself, farmed **Carrots** are available for purchase at Stables. However if you buy provisions from a Stable, **Hay** is the far superior choice as it is the cheapest cost-per-benefit.
 - Weapon loadout doesn't really matter unless you have a preference towards a certain gun or are going for clean kills. I run with: akimbo **LeMat Revolvers**, shouldered **Bow**, and crossback **Varmint Rifle**. LeMats are single-action cap-and-ball revolvers and have super slow reload (which dead eye counteracts), but also have a secondary shotgun barrel allowing high damage (and dismemberment) up close in a revolver package. The **Bow** covers essentially everything for hunting aside from its middle ground: "moderate" sized animals. The **Varmint Rifle** covers this middle ground: Iguanas, Gila Monsters, Opossums, Beavers, Badgers, Skunks, Raccoons, and all large birds (Owls, Hawks, Eagles, Cranes, Egrets, Condors, Vultures/Buzzards, Herons, etc). Even with the **Buck Antler Trinket**, if you land a headshot with a regular arrow on any of these (and would like to sell the carcass whole), the carcass will always be a 2-star. However, if you skin/pluck the same animal (example: Owl headshot with regular arrow) you'll get the items to use/sell as if it were a 3-star. If I'd no plans to preserve/sell whole carcasses and skin/pluck everything I came across, I can run just the Bow as my single primary. However, it's at the player's discretion. It's an open world for a reason.
 
 ### "Advanced" Survival
 
-- **Gathering Materials** for crafting is a big part of RDR2. Luckily, if you don't care about honor, there's a shortcut to getting mass quantities of a few select herbs. Rather than go around gathering each one at a time, kill and loot **Murphy Brood** in northwestern **Heartlands**, **Strangers** (residents) at **Butcher Creek**, and **Skinner Brothers** in **Tall Trees**. They all have a chance of holding 2 to 4 units of **Currant**, **Sage**, **Ginseng**, **Violet Snowdrop**, or **Burdock Root**. They also have a chance of giving other items: **Regular/Potent Snake Oil** (only from **Murphy Brood**), regular **Herbivore/Predator Bait**, **Opened/Unopened Cover Scent**, and **Moonshine** (only from **Butcher Creek Residents**).
+- If you don't care about honor, there's a shortcut to getting mass quantities of a few select herbs. Rather than go around gathering each one at a time, kill and loot **Murphy Brood** in northwestern **Heartlands**, **Strangers** (residents) at **Butcher Creek**, and **Skinner Brothers** in **Tall Trees**. They all have a chance of holding 2 to 4 units of **Currant**, **Sage**, **Ginseng**, **Violet Snowdrop**, or **Burdock Root**. They also have a chance of giving other items: **Regular/Potent Snake Oil** (only from **Murphy Brood**), regular **Herbivore/Predator Bait**, **Opened/Unopened Cover Scent**, and **Moonshine** (only from **Butcher Creek Residents**). Additional note: **Nite Folk** also work for this, but yield some different plants and less often.
 - **Gold Cores** for the player come in handy, and maintaining cores is a key part in RDR2. Player cores can be gilded (made golden) with **Big Game Meat** (harvested from **Alligators**, **Wolves**, **Grizzly Bears**, **Black Bears**, **Cougars**, and **Panthers**) seasoned with the corresponding herb (**Wild Mint** found around rivers/creeks/lakes for *Health*, **Oregano** found near forested areas for *Stamina*, and **Thyme** found in open areas for *Dead Eye*). **Seasoned Big Game Meat** fully restores all cores and yields a gold core for the associated herb used for seasoning lasting 24 in-game hours.
 - **Gold Cores** for the player's horse are immensely beneficial, whether often in firefights or trotting around large distances. **Horse Meal** yields both gold health and stamina cores for a day. The recipie pamphlet can be obtained in **Chapter 3** as a reward for Kieran's item request of Burdock Root. It requires three of each **Currant**, **Beets**, and **Hay** to craft. **Currant** has two variants: **Golden Currant** (all over the northern half of **New Hanover**; also **Tall Trees** and **Great Plains**) and **Blackcurrant** (west of Armadillo). **Beets** and **Hay** can be looted from random NPC campsites/wagons or bought from **Stables**. However the percentage of random campsites/wagons which spawn with these materials is quite infrequent, and even then you'll be taking a gamble. You may get only one of either Beets or Hay at each if you even get either of them. These same campsites/wagons may spawn Celery, Peach, Apple, Pear, etc. Be that as it may, one Horse Meal crafted from Beets and Hay bought from Stables costs $2.70 (versus the $5.00 **"Horse Care Package"** from Stables). Reasonably cheaper than the latter even with high honor discounts. In the long run, it's well worth the time spent traveling to a Stable to stock up on both for making Horse Meal on-the-go. However **Wild Carrots** work just fine, you just have to feed your horse slightly more often.
 - **Special Horse Reviver** and **Horse Ointment** are the only alternative and only true "wilderness" methods of getting gold cores for your horse. The former requires (two of each) **Ginseng**, **Wild Carrot**, and **Parasol Mushroom**. The latter requires (one of each) **Sage**, **Common Bulrush**, and **Yarrow**. They are not bad tradeoffs for Horse Meal as they require less (but more various) ingredients per batch. If you're keen on the "true wilderness" part of the game, go for these two. If you've got the time and money to head into town and stock up on **Beets** and **Hay** ($89.10 and one minute to get 99 of both from a Stable), **Horse Meal** holds the edge benefit/investment wise. *NOTE: HORSE OINTMENT DOES NOT CLEAN YOUR HORSE. YOU'LL STILL HAVE TO BRUSH IT IF IT GETS DIRTY.*
-- **Poison Arrows** are key when needing to study and/or fend off aggressive animals. Crafting one requires one **Arrow**, one **Flight Feather**, and one **Oleander Sage** (found in the swamps and along the bank of the **Kamassa River** in **Lemoyne**). Hitting anything with a Poison Arrow will cause it to flee, allowing you to study animals as they run away. Even better: spent **Poison Arrows** retain the poison and can be recollected and reused, unlike **Poison Throwing Knives**.
+- **Poison Arrows** works wonders in combat, but are also key when needing to study and/or fend off aggressive animals. Crafting one requires one **Arrow**, one **Flight Feather**, and one **Oleander Sage** (found in the swamps and along the bank of the **Kamassa River** in **Lemoyne**). Hitting anything with a Poison Arrow will cause it to flee, allowing you to study animals as they run away. Even better: spent **Poison Arrows** retain the poison and can be recollected and reused, unlike **Poison Throwing Knives**.
 - **Split Point Rounds** decrease dead eye drain, yield the same damage as "high velocity" rounds, and have increased accuracy. Taking the time to fill up your split point rounds makes a difference that you'll notice. Also, in pure speculation with no numbers to back it up: I feel like split point rounds yield more critical hits overall versus regular/high velocity/express rounds.
 - **Potent Predator/Herbivore Bait** can help quite a bit if you're a stealth hunter. Potent Predator Bait requires a berry (found everywhere) and gritty fish meat, which can be obtained from **Bluegill** (found everywhere, but a notably high population at **Calumet Ravine**), **Bullhead Catfish** (bend of the Kamassa River west of Lagras, in addition to Lagras itself), and/or **Longnose Gar** (found exclusively in **Lagras**). **Potent Herbivore Bait** requires one **Vanilla Flower** (all around the swamps of Bayou Nwa), one **Violet Snowdrop** (high mountain and snowy regions, primarily in **Ambarino**), and one of any **Mushroom** (found across the map). You can craft regular Predator Bait from **Stringy Meat** and a **Berry**, but why not make the most of what you harvest and stick with potent?
-- **Cover Scent Lotion** helps a ton in stealth hunting. You can get way closer to animals without drawing their attention. Craft it from the beginning of **Chapter 2** using **Scent Glands** from **Skunks**, **Beavers**, and **Muskrats**.
-- **Flight Feathers** are required for every "improved" arrow. See below (**Animal Fat**) for more details.
-- **Animal Fat** isn't a necessity, but is required for **Explosive Rounds** (unlocked at beginning of **Chapter 2**) which are both fun to use and extremely useful when taking down legendary animals. **Canada Geese**, **Ducks** (not Loons), and **Beavers** are by far the best animals for this as they are plentiful in many areas across the map (north of New Austin), but **Boars/Pigs** and **Bears** also yield animal fat. **Geese** and **Ducks** yield **Flight Feathers** (for all improved **Arrow** types) and **Animal Fat** while **Beavers** yield **Scent Glands** (for **Cover Scent Lotion**) and **Animal Fat**. *NOTE: A PRIME LOCATION FOR GEESE, DUCKS, AND BEAVERS IS OWANJILA.*
-- **Campsites and Cabins/Shacks** inhabited/created by NPCs can house a ton of useful items. Most also have a bed or sleeping bag. If you're not concerned about your honor, there are no rules.
+- **Cover Scent Lotion** allows you to get way closer to animals without drawing their attention. Craft it from the beginning of **Chapter 2** using **Scent Glands** from **Skunks**, **Beavers**, **Badgers**, and **Muskrats**.
+- **Flight Feathers** are required for every secondary arrow type and can be harvested from all flying birds.
+- **Animal Fat** isn't a necessity, but is required for **Explosive Rounds** (unlocked at beginning of **Chapter 2**) which are both fun to use and extremely useful when taking down legendary animals. **Canada Geese**, **Ducks** (not Loons), and **Beavers** are by far the best animals for this as they are plentiful in many areas across the map (north of New Austin), but **Boars/Pigs/Peccary** and **Bears** also yield animal fat. **Geese** and **Ducks** yield **Flight Feathers** (for all improved **Arrow** types) and **Animal Fat** while **Beavers** yield **Scent Glands** (for **Cover Scent Lotion**) and **Animal Fat**. *NOTE: A PRIME LOCATION FOR GEESE, DUCKS, AND BEAVERS IS OWANJILA.*
 
 ### Honor And Benefits
-Surviving on your own is quite easy, cooking food and crafting tonics/ammo. If you don't care for the outfits only available with high honor, honor level in general makes no difference. However high honor does have benefits:
-- Shops give up to a 50% discount (with max high honor) on all items, as well as the ability to buy "high honor" outfits. Low honor does not affect shop prices.
+Surviving on your own is quite easy, cooking food and crafting tonics/ammo. That being said, if you don't care for the outfits only available with high honor, honor level in general makes no difference. However honor level does affect some aspects of the game:
+- Shops give a discount (up to 50% with max high honor) on all items, as well as the ability to buy "high honor" outfits. Honor lower than neutral (0) does not increase shop prices.
 - With negative honor, you loot more "shortcut" items (**Cocaine Gum** and **Chewing Tobacco**) from bodies.
 - With maximum negative honor, the ambient sounds of deadeye change.
 - Most story dialog changes based on honor level.
-- Arthur and John's mannerisms change based on honor. Example: saying "don't make me do this" with high honor versus "I will kill you right here" with low honor.
+- Arthur and John's mannerisms change based on honor. Example: when pulling a gun, saying "don't make me do this" with high honor versus "I will kill you right here" with low honor.
 - In Chapter 6, actions that affect honor have a multiplier of 1.5x. Use this to your advantage if you run low honor as Arthur but want the "high honor" ending.
 
 # GENERAL TIPS AND TRICKS
@@ -82,10 +81,10 @@ Below is data gathered from testing **Potent Tonics** against their **Special** 
 2. Thyme Big Game + Potent Snake Oil
 - 0:41:68
 
-As you can see, **Special Bitters** makes a bit of a difference, where as **Special Snake Oil** does fairly little in terms of better fortification. Health testing is tricky...
+As you can see, **Special Bitters** makes a bit of a difference, where as **Special Snake Oil** does fairly little in terms of better fortification. Overall, if you're short on materials and low on cash, bought/crafted Potent tonics will do just fine in most situations.
 
 ### Fast Weapon Familiarity
-- Raid enemy camps and use dead eye to get headshots.
+- Use dead eye to get headshots.
 
 ### Fast Level 4 Bonding Horses
 - Leading your horse yields more bonding points per minute than anything else. The old rubber band trick works for this:
@@ -101,7 +100,7 @@ As you can see, **Special Bitters** makes a bit of a difference, where as **Spec
 ### Map Icons
 - Here's the map I use for reference: https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/
 - Animal drawings are added when an animal is sighted in a specific area. It must be both studied and tracked at least once to add icons the the overworld map. The best thing to do is study and track everything you come across. Hell, I even kill everything I see because why not? Additional locations will be marked as animals are "sighted" (moving the crosshair to highlight them). Looking at animals through binoculars (after studying and tracking at least one to fill the compendium) is by far the most efficient way to populate the map with animal icons. Though, I personally just run around killing everything with **Poison Arrows**. :)
-- Plant drawings are added when a plant is studied and picked/eaten at least once, then picked,/eaten in the same specific areas. Best to pick everything you come across.
+- Plant drawings are added when a plant is picked/eaten at least once in the immediate area of the icon. Best to pick everything you come across.
 - Point of interest, dreamcatcher, dinosaur bone, and rock carving locations are added when they are "investigated".
 
 ### Triggering Pearson's Rabbit Request to Obtain the Unique Scout Jacket
@@ -131,7 +130,7 @@ Aged Pirate Rum | 0.5
 
 ### Saddles
 
-There is no definitive "best all around saddle", it all depends upon personal preference. I go for the **Panther Trail Saddle** because it looks the best on my Amber Champagne MFT. (The looks are the worth the 4% compromise to me.) However, the **Beaver Roping Saddle** is technically the "best" saddle in terms of game logic because it provides the highest Stamina Regen (same as **Panther** and **Rattlesnake** saddles) and **Health Core Drain** bonuses. My reasoning behind this is: horse health core drain intensifies when they're dirty. I don't brush my horse often, so a lot of times it's just dirty. That being the case, the occasional health core penalty is lowered that much more with the Beaver Saddle.
+There is no definitive "best all around saddle", it all depends upon personal preference. I go for the **Panther Trail Saddle** because it looks the best on my Amber Champagne MFT. (The looks are the worth the 4% compromise to me.) However, the **Beaver Roping Saddle** is technically the "best" saddle solely in terms of game logic because it provides the highest Stamina Regen (same as **Panther** and **Rattlesnake** saddles) and **Health Core Drain** bonuses. My reasoning behind this is: horse health core drain intensifies when they're dirty. I don't brush my horse often, so a lot of times it's just dirty. That being the case, the occasional health core penalty is lowered that much more with the Beaver Saddle.
 
 - **HCD** *Health Core Drain*
 - **SCD** *Stamina Core Drain*
@@ -172,6 +171,17 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 12. Mount the horse and take it to any Stable, even the one you stole it from. Doesn't matter where.
 12. Saddle up and enjoy your free horse!
 
+### Remove Scope From Carcano and/or Rolling Block Rifles
+
+Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode, you can permanently de-scope (un-scope?) both the Rolling Block and Carcano Rifles. This glitch isn't entirely permanent, but only because you can just go to a Gunsmith and re-equip any scope to negate it. The rifle(s) will remain scopeless as long as you don't re-scope them at the Gunsmith. They will not gain the auto-aim function even if it's turned on. They still operate as the regular rifle, you're just no longer forced to scope in.
+
+1. Hop on your horse, equip either sniper, and place it in the saddle holster.
+2. Enter any Gunsmith.
+3. Change the scope on the rifle. (Doesn't matter which, it just has to be changed.)
+4. While still viewing in the Gunsmith menu, equip the rifle to your shoulder.
+5. Exit the Gunsmith and draw the rifle you holstered earlier (LB on XB1, unsure on PS4).
+6. The scopeless rifle on your back will drop. Pick it up.
+
 ### Universal Saddle Blankets
 *Some Trapper saddles have unique blankets. This method does not work with two saddles which have thier own unique blankets. You can glitch the panther blanket with the Rattlesnake Vaquero Saddle but not with the Alligator Saddle.*
 
@@ -197,6 +207,8 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 11. Exit the stable, save the game, and reload.
 12. Enjoy your free, wild **Silver Dapple Pinto Missouri Fox Trotter**! :)
 
+*There are alternative methods of doing this, but they generally involve a ton of waiting, reloading, and praying to RNGsus. Yes, I'm talking about the random encounter with they lady whose horse "up and died on her". No, I don't recommend you try that over this unless you enjoy pain.*
+
 ### Saving Arthur's Money for John
 The **Aberdeen Pig Farm** is inhabited by an incestual brother and sister, whom together work as a team of serial killers. There is a sort of side mission with these two: as either John or Arthur you can eat dinner with them. During which they'll offer some drinks. After drinking a few times, you pass out and wake up in their body dump site with no money. A decent backing for sticking to the story, I think, is: Arthur gets robbed, John reads about it in his journal, John goes to the farm and takes the money as it's of no use to Arthur at that point. :)
 
@@ -210,50 +222,63 @@ You'll need enough alcohol to blackout to do this. If you've got the **Wolf Hear
 
 **GETTING TO GUARMA:** Guarma is located at the southeast (bottom right) corner of the map. Go in that general direction until you hit the low poly (jellytown) ground. Any low-poly area is considered the physical "end of the map" which you'll fall through. If you hit a 90-degree corner, turn on it (after turning you should be facing south). Follow the seam until you begin to float (walk up an invisible hill). Turn to face the low poly section, walk a few steps over the seam and Guarma's map will render in.
 
+- A quick side note: I black out drunk on the east side of **Aurora Basin** and woke up on the west side out-of-bounds. I will try to replicate this soon, but the few times afterwards resulted in no joy.
+
 # HUNTING TIPS
 
+### General Tips
+- Do not hunt on your horse, especially when hunting rarer creatures. Go on foot, crouched, and constantly applying **Cover Scent Lotion** every few minutes.
+- Use the bow for everything unless you're hunting down the middle ground animals which need the Varmint Rifle for a perfect carcass.
+- All animal carcasses aside from those classified as "massive" (elk, moose, bison, bears, etc) will fully decompose in 72 in-game hours. Massive carcasses will go to bones 48 hours after being killed, then fully decompose in 96 in-game hours.
+- If you're looking to farm animals for pelts, the best thing to do is sell the whole carcass. This does not trigger the carcass decomposition process. Sleep for 48-72 hours, travel back to where you got the thing, and kill it again.
+- If the animal you're farming cannot be carried ("massive" class), a good workaround is chasing the animal to a nearby body of water, killing it, skinning it, and running into it on foot or horseback into some water. As long as the water is deep enough for the carcass to float, if you travel a ways away, sleep for a few days, and come back the carcass and bones should be gone within 24 in-game hours. If not, just sleep for another 24-48 (totaling 72). This works every time I've done it.
+
 ### Difficult Animals
-From what I've gathered while playing and word from other players, the most notoriously difficult-to-find animals are:
+From what I've gathered while playing and word from other players, the most notoriously difficult-to-find animals are (order starting at rarest):
+
 - Western Bull Moose
 - Californian Horned Owl
-- Small Birds (Robins, Woodpeckers, etc)
 - Timber Wolf
 - Cougars/Panthers
+- Small Birds (Robins, Woodpeckers, etc)
 
 Below are individual tips listed for each.
 
-### Moose Hunting Tips
-- Prime locations with the most consistent spawns from my own and others' experience: Tall Trees, Colter, and Willard's Rest. Every other location has spawned a moose far less often than those three.
-- There does not appear to be a specific time frame for spawns so far, but they definitely spawn most often in the early morning. Speculated prime time for spawn is 06:00-09:00, much like Elk, Deer, Pronghorn, and other "daytime" animals.
-- Bait does not matter unless you just need moose pelts and not antlers. Both baits, regular and potent, do not affect the gender of the spawn. You can use up all the potent herbivore bait you want, you'll never spawn a bull moose from it. Both regular and potent herbivore baits spawn nothing but females of whatever animal it spawns. (Including elk, deer, ram/sheep, moose, etc.) There are videos online showing how to spawn a bull moose at Cairn Lake, but the spawn is not due to bait. Look at its star rating. Notice it actually has a rating? Animals spawned in by bait have no score and do not display a star rating when highlighted. Animals spawned by bait are pristine (a.k.a. three-star) by default. Also, that moose they "spawned" with bait is sitting down. Those videos just happened to hit the true wild random spawn purely by coincidence. Bait-spawned animals do not spawn in laying/sitting down.
-- All wild spawn locations yield a male/female randomly. There's some serious RNG with moose spawns, and the odds are not in favor of the player. Either that, or they're broken completely.
-- Approach the spawn slowly, from afar, on foot, and crouched. If the animal is not there, ensure you're a ways away from the spawn and slowly move your camera 360 degrees. This manipulates the spawns of all animals (works for everything, including moose).
+### Debunking the Moose
+- Prime locations with the most consistent spawns from my own and others' experience: Northern Ambarino, Tall Trees (and Aurora Basin), Northeast Colter, and Willard's Rest. Every other location has spawned a moose far less often.
+- They spawn during the day, but speculated prime time for spawn is 06:00-09:00; much like Elk, Deer, Pronghorn, and other "daytime" animals.
+- For some reason, I've had the best luck in foggy weather. Yes, I used a trainer to test this. The most consistent spawns I've ever seen: 07:15 and foggy.
+- Bait does not matter unless you just need moose pelts and not antlers. Both baits, regular and potent, do not affect the gender of the spawn. You can use up all the potent herbivore bait you want, you'll never spawn a bull moose from it. Both regular and potent herbivore baits spawn nothing but females of whatever animal it spawns. (Including elk, deer, ram/sheep, moose, etc.) There are videos online showing how to spawn a bull moose at Cairn Lake, but the spawn is not due to bait. Look at its star rating. Notice it actually has a rating? Animals spawned in by bait (yes, if there are no compatible animals in the vicinity, bait spawns an animal in) have no score and do not display a star rating when highlighted. Animals spawned by bait are pristine (a.k.a. three-star) by default. Also, that moose they "spawned" with bait is sitting down. Those videos just happened to hit the true wild random encounter spawn purely by coincidence. Bait-spawned animals do not spawn in laying/sitting down.
+- All wild spawn locations yield a male/female randomly.
+- Approach the spawn slowly, from afar, on foot, and crouched. If the animal is not there, ensure you're a ways away (ambiguous, I know, but a ways away as in several hundred meters; you'll get a feel for the spawn distance after you play the game for a while) from the spawn and slowly move your camera 360 degrees. This is a RAGE-based game, so moving the camera around manipulates the spawns of all animals (works for everything, including moose) just like in GTA V.
 - Tame and stable the **Perlino Andalusian** (east cliffside at **Brandywine Drop** in **ROANOKE RIDGE**). The horse being present either prevents or drastically lowers the chance of moose spawning at the location. Rare horses are limited to one per game session, meaning it will only respawn if it dies, is sold, or is set free in the wild. The entire time I've spent moose hunting, I've come to find not only do moose share spawnpoints with horses, they share elk spawnpoints as well. Prime examples: Willard's Rest, Brandywine Drop, Calumet Ravine, Cumberland Forest, and Lake Isabella. **DO NOT KILL THE ANIMAL THAT SPAWNS IN ITS PLACE.** This will prevent anything from spawning there until the corpse decomposes.
-- Random events become essentially nonexistent post-story (epilogue), including moose encounters. Granted, I played at 100% completion with all story and stranger missions complete, but the last time I happened upon the random moose vs wolf event at Owanjila was... something like November 2020. On a new playthrough, I've encountered the random Owanjila moose twice as Arthur, once as John (in Epilogue 2). I'll check and see if they stop spawning at 100% when I hit it.
+- Random events become essentially nonexistent post-story (epilogue), including moose encounters. Granted, they're rare to begin with. But I've played at 100% completion with all story and stranger missions complete, and the last time I happened upon the random moose vs wolf event at Owanjila was... something like November 2020. On a new playthrough, I've encountered the random Owanjila moose twice as Arthur, once as John (in Epilogue 2).
 
 ### Californian Horned Owl Hunting Tips
-- Sleep until evening, then go out and watch the skies around **Armadillo** and **Cholla Springs**. Owls spawn flying overhead and standing on static spawns from 20:00-06:00.
-- The Californian has allegedly been sighted around **Aurora Basin**, but I've yet to find one there myself. It does show up at **Bear Claw**, but not as often as the Great Horned. I've seen a ton of owls all around **Tall Trees**, but the Californian rarely shows up. It's more common in New Austin. That being said, **Bear Claw** in **Tall Trees** can have all three species of owl spawn flying over it: Coastal, Great Horned, and Californian.
-- I'd check **Coots Chapel** before anywhere else.
+- They spawn most consistently from 20:00-05:00.
+- Owls spawn both stationary and flying overhead, usually standing on dead trees, houses/barns, etc.
+- I've seen one, single Californian on the cabin at **Aurora Basin**, but just the one. Every other time it's been a Great Horned. Supposedly other players have seen them at **Bear Claw**, but again not as often as the Great Horned. There's a map from a Redditor showing all static spawns, with the highest concentration being around **Aurora Basin** in **Tall Trees**. All in all, you're far more likely to spot one around **New Austin**. That being said, apparently all spawns in **Tall Trees** can have all three species of owl spawn flying over it: Coastal, Great Horned, and Californian. Not to mention there's a map icon for the Californian just southwest of **Strawberry**.
+- I'd check **Coots Chapel** and **Silent Stead** before going anywhere else.
 
 ### Timber Wolf Hunting Tips
 - Gray Wolves are much more common in terms of covered area. Sometimes a pack may contain both Timber and Gray Wolves.
-- You can find them across **Ambarino**, but I've had the best luck in **Cumberland Forest**, namely on the path east of **Firwood Rise**. Both Gray and Timber Wolves have numerous static spawnpoints given the player is riding nearby and the time is right. For the most part, evening to early morning, but late night is best. If you approach slowly and from afar when an NPC is riding by, a pack of three to six (sometimes more) wolves that will attack any NPC or animal in sight. I don't think direction of approach matters as I've found them at the southern path leading into **Cumberland Forest** coming from both north and south ends.
+- If you need to study them, do the same with all other aggressive animals: slowly approach the spawn area from afar, constantly checking Eagle Eye.
+- According to other players, you can find them across **Ambarino**, but I've had the best luck in **Cumberland Forest**, namely on the path east of **Firwood Rise**. Both Gray and Timber Wolves have numerous static spawnpoints given the player is riding nearby and the time is right. For the most part, evening to early morning, but late night is best. If you approach slowly and from afar when an NPC is riding by, a pack of three to six (sometimes more) wolves that will attack any NPC or animal in sight. I don't think direction of approach matters as I've found them at the southern path leading into **Cumberland Forest** coming from both north and south ends.
 - Some insane pack action goes on south of **Fairwale Shanty**. I ran around in circles for thirty seconds right after the first pack spotted me and ended up with 15 wolves, a mix of Timber and Gray, chasing me. Supposedly (according to a number of people on GTAForums and Reddit) the more time you spend away from camp, the more wolves spawn in packs. (I've yet to confirm this.)
 
 ### Cougar/Panther Hunting Tips
-- Use **Cover Scent Lotion** and crouch walk while hunting. This is crucial when stealth hunting these fuckers.
-- Cougars and Panthers spawn both at static points and during random encounters from 20:00 to 06:00. (Nighttime... go figure.)
+- Use **Cover Scent Lotion** and crouch while hunting. This is crucial when stealth hunting these fuckers.
+- Cougars and Panthers spawn both at static points and during random encounters from 20:00 to 06:00. (Nighttime... go figure.) Be aware the likelihood of spawn just goes up at night... they can still spawn at the same places during the early morning and late evening when it's a bit light out.
 - Fire a shot and any aggressive animals in the immediate area will come to you. This includes Cougars, Bears, Panthers, etc. How that makes sense, I do not know.
 - Having trouble studying them? Use a poison arrow, hit them in a non-critical area, and study them while they run away.
 - Panthers are quick fucks, much faster during ambushes. Cougars are a bit slower, but they're both quick attackers.
 
 ### Bird Hunting Tips
-- The best location I've found for farming small birds is **Fort Brennand**. I've found every bird there, including woodpeckers... every bird except for one: the **Hooded Oriole**. For that, make your way down the **Dakota River**. Orioles spawn on the West side of the map.
-- Both species of **Woodpeckers** can be commonly found in **Black Bone Forest** as well as the woods all around **Cotorra Springs** and **Wapiti Indian Reservation**.
-- **Condors** and **Vultures** are more common around **New Austin** than anywhere else. (Go figure.) The Western vulture *can* be found flying around **Bluewater Marsh**, despite implications.
+- The best location I've found for farming small birds is **Fort Brennand**. I've found every bird there, including woodpeckers... every bird except for two: the **Hooded Oriole** and **Baltimore Oriole**. For those, make your way down the **Dakota River**. Orioles spawn on the west side of the map; check down the southern end of the **Dakota River** before anywhere else.
+- The small bridge (northwest of the New Hanover Trapper) near the **Trail Trees** landmarks spawns numerous scoreless birds: Blue Jay, Cardinal, Woodpecker, Sparrow, Songbird, etc. Again, everything but Orioles.
+- Both species of **Woodpeckers** can be found across the map, but most commonly in **Black Bone Forest** as well as the woods all around **Cotorra Springs** and around the **Wapiti Indian Reservation**.
+- **Condors** and **Vultures** are more common around **New Austin** than anywhere else. (Go figure.) The Western vulture *can* be found flying around **Bluewater Marsh**, despite implications of its name.
 - **Eagles** and **Hawks** can be found all around the map, but a hotspot is in **The Heartlands** all around **Twin Stack Pass**.
-- **Horned Owls** can be found sporadically but essentially everywhere. A high concentration of all three species can be found around **Aurora Basin** and **Bear Claw**. The **Californian** can be found southwest of **Strawberry**, primarily in **New Austin**, while the **Coastal** and **Great** can be found essentially everywhere (random species by chance). I've both seen and killed **Coastals** up in **Ambarino**.
 
 # MOOSE LOCATIONS
 
@@ -261,12 +286,11 @@ Below are individual tips listed for each.
 
 *These are locations which I've yet to encounter a moose at, but have either seen videos or read online of other people spotting moose there. Another case is if I vaguely recall seeing a moose there, but cannot cite for certain. (As in, early on shortly after I got this game but didn't know what I was doing.) This list will be updated as I progress through my playthroughs.*
 
-- Adler Ranch, Grizzlies East, AM (there's an icon for it... might be for a cow Moose outside of Colter)
+- west shoreline of **O'Creagh's Run**; west of "Run" in "O'Creagh's Run"; shares spawn with bear vs wolves random encounter; **I've never seen a Moose here, only on the east shore of O'Creagh's Run**.
 - Donner Falls, Grizzlies East, AM (cliff edge overlooking falls; possibly shared with grizzly spawn)
-- Wallace Station, Big Valley, WE ("crossing train tracks south of Wallace Station"; unlikely)
 - Cumberland Falls, Big Valley, WE (west shore cliffside just south of waterfall)
 - Diablo Ridge, Big Valley, WE (riverside)
-- Painted Sky, Big Valley, WE (riverside; vaguely recall seeing one shortly after I got the game; not one since then)
+- Painted Sky, Big Valley, WE (riverside; vaguely recall seeing one shortly after I got the game, but might have been a bull elk; not one since then)
 - Aurora Basin, Tall Trees, WE (southeast shoreline; I swear I've seen one on the SE shore of either **Aurora** or **Owanjila**)
 
 ### Verified Moose Locations
@@ -276,85 +300,100 @@ Below are individual tips listed for each.
 
 *These are locations at which I've seen moose with my own eyes. In spawns that are shared with other animals, Moose do not hold priority. After an unimaginably boring time spent camping all these places, all spawns which are shared yield far less moose. Like... way less. I've seen a male/female moose one or twice at shared points. All of these are noted below.*
 
-#### Grizzlies West, Ambarino
-- atop a cliff on the southeast side of the road that runs northeast out of Colter; literally just outside of Colter
-- standing near path west of **Lake Isabella**; a few paces south of White Arabian spawn; wolves do not have to be present; verified time frame 09:13-15:32
-- random encounter; being chased by a lone wolf across the water of northern **Lake Isabella** (unsure if coincidental spawn of both wolves and moose; unlikely as I never found the second wolf)
-- random encounter; laying (or slipping while trying to stand up) on ice northwest side of **Lake Isabella**; southeast of destroyed cabin
-- random encounter; laying (or slipping while trying to stand up) on ice in center of **Cairn Lake**
-- south shore of **Barrow Lagoon** (shared with Elk)
-- northeast shore of **Cattail Pond** next to path which **Beartooth Beck** flows over (shared with Elk)
-#### Cumberland Forest, New Hanover
-- east of **Fort Wallace**; west side of road at first junction south of **Bacchus Station** (shared with Elk)
-#### Grizzlies East, Ambarino
-- west shore of **Calumet Ravine** next to junctions east of **Wapiti Indian Reservation**
-- spawns north out-of-bounds west of **Witches Cauldron**; between 'I' and 'N' in **AMBARINO**; northeast of junction by **Strange Statues**
-- south side of road southwest of **Fairwale Shanty**; just northwest of dinosaur bone location
-- shoreline of **O'Creagh's Run** just south of **Veteran's Homestead**; to the east of "O'Creagh's" in **O'Creagh's Run**; 14:00-17:00
-- shoreline of **O'Creagh's Run** west of "Run" in **O'Creagh's Run**; shares spawn with bear vs wolves random encounter
-#### Roanoke Ridge, New Hanover
-- inside 3-way junction just southeast of "Rest" in **Willard's Rest**; north side of train tracks
-- atop cliff on east side of **Kamassa River** at **Brandywine Drop**; west of first 'R' in **ROANOKE RIDGE**; shared spawn with Perino Andalusian
-- hillside east of path running northwest from **Beaver Hollow**
-- drinking from river on northern shoreline of **Kamassa River**; south of **Viking Tomb**
-#### Big Valley, West Elizabeth
-- east shore between 'o' and 't' in **Dakota River** across from where **Little Creek River** feeds in; north of **Diablo Ridge**
-- in trees on southwest side of **Owanjila**
-- random encounter; chased by wolf swimming across **Owanjila**
-#### Tall Trees, West Elizabeth
-- directly east of second 'L' in **TALL TREES**; next to a Lady Slipper Orchid
-- the second 'E' in **TALL TREES**; occasional campsite spawns 20 feet away which disables moose spawn
-- in trees northwest of **Aurora Basin**; northeast of Skinner Brothers campsite
+- Colter, Grizzlies West, AM (atop small cliff on southeast side of road running northeast out of **Colter**)
+- Lake Isabella, Grizzlies West, AM (beside path on west side of **Lake Isabella**; very near **White Arabian** spawn; wolves playing (random encounter) do not affect spawn; verified time frame 09:13-15:32
+- Lake Isabella, Grizzlies West, AM (random encounter; laying on ice northwest side of **Lake Isabella**; southeast of destroyed cabin; just some paces away from the spawn described above; I've seen two bull meese at the same time here, but only once)
+- Lake Isabella, Grizzlies West, AM (being chased by a lone wolf across the water of northern **Lake Isabella**; unsure if coincidental spawn of both wolves and moose, unlikely as I never found the second wolf nor its trail if it were from the wolves playing random encounter)
+- Cairn Lake, Grizzlies West, AM (laying on ice in center of **Cairn Lake**)
+- Barrow Lagoon, Grizzlies West, AM (west shore of **Barrow Lagoon**)
+- Cattail Pond, Grizzlies West, AM (northeast shore of **Cattail Pond** on path which **Beartooth Beck** flows over; hard to spot as it's often spooked because of NPCs)
+- Calumet Ravine, Grizzlies East, AM (west shore of lake next to junctions running east out of **Wapiti Indian Reservation**)
+- Witches Cauldron, Grizzlies East, AM (west of **Witches Cauldron**; between 'I' and 'N' in "AMBARINO"; northeast of junction by **Strange Statues**; spawns out-of-bounds, but you can either lure it in-bounds with bait or roll the dice by spooking it)
+- Fairvale Shanty, Grizzlies East, AM (in grass on south side of road; southwest of **Fairvale Shanty**)
+- O'Creagh's Run, Grizzlies East, AM (east shoreline of lake; just south of **Veteran's Homestead**; to the east of "O'Creagh's" in "O'Creagh's Run"; 14:00-17:00)
+- O'Creagh's Run, Grizzlies East, AM (random encounter; north shoreline of lake; swims south in line with "Cr" in "O'Creagh's Run" to northeast edge of peninsula)
+- Fort Wallace, Cumberland Forest, NH (east of **Fort Wallace**; in trees on west side of road at first junction south of **Bacchus Station**)
+- Willard's Rest, Roanoke Ridge, NH (inside 3-way junction just southeast of "Rest" in "Willard's Rest"; north side of train tracks)
+- Brandywine Drop, Roanoke Ridge, NH (east side of river; edge of first cliff up from river at waterfall; west of first 'R' in "ROANOKE RIDGE")
+- Beaver Hollow, Roanoke Ridge, NH (hillside east of path running northwest from **Beaver Hollow**)
+- Viking Tomb, Roanoke Ridge, NH (riverside on northern shoreline of **Kamassa River**; south of **Viking Tomb**)
+- Cumberland Falls, Heartlands, NH (east shore between 'o' and 't' in **Dakota River** across from where **Little Creek River** feeds in; southwest of **Downes Ranch**)
+- Owanjila, Big Valley, WE (random encounter; swimming across **Owanjila** being chased by wolf)
+- Evelyn Miller Camp, Tall Trees, WE (directly east of second 'L' in "TALL TREES"; next to a **Lady Slipper Orchid**)
+- Bear Claw, Tall Trees, WE (second 'E' in "TALL TREES"; occasionally a random NPC campsite spawns 20m away which disables moose spawn)
+- Aurora Basin, Tall Trees, WE (in trees on northwest side of **Aurora Basin**; northeast of Skinner Brothers campsite, which if present will disable moose spawn)
+- Aurora Basin, Tall Trees, WE (out-of-bounds atop small cliff on south end of **Aurora Basin**; west side of **Lower Montana River**; usually falls in-bounds when killed where it stands, but may sometimes fall backwards and remain out-of-bounds)
 
 # ANIMAL LOCATIONS
 
 ### Panther/Florida Panther
 - south of **Old Harry Fen**
-- eastern bank of **Kamassa River**; north of Lakay; sometimes spawns sleeping at water's edge
+- eastern bank of **Kamassa River**; north of Lakay; spawns sleeping at water's edge but will be awake and running about if any prey comes near it
 ### Cougar
 - west bank of **Kamassa River**; north of train tracks
 - west side of **Kamassa River** between the two roads west of "ROA" in **ROANOKE VALLEY**
 - east side of **Kamassa River** near shoreline; northeast of **Deer Cottage**
-- west shoreline on road running parallel to train tracks; west across the pond from **Willard's Rest**; random encounter
-- north of the 'A' in **NEW AUSTIN**
+- Doverhill, Roanoke Ridge, NH (west shoreline on road running parallel to train tracks; west across the pond from **Willard's Rest**; random encounter)
+- Pleasance House, Cholla Springs, NA (north of the 'A' in "NEW AUSTIN"; west of **Pleasance House**)
 ### Californian Horned Owl
-- Coots Chapel, Cholla Springs, NA
+- Coots Chapel, Cholla Springs, NA (either sitting atop the chapel or flying overhead)
+- Rathskeller Fork, Gaptooth Ridge, NA
 - Silent Stead, Gaptooth Ridge, NA
+- Strawberry, Big Valley, WE (unknown origin; possibly just spawns flying from the get-go)
+- Bear Claw, Tall Trees, WE (atop one of the old shacks)
 ### Great Horned Owl
-- on a wooden bridge south of Chez Porter
-- atop a rock directly south of Fairwale Shanty (north side of road)
+- Chez Porter, Grizzlies West, AM (on a wooden bridge south of Chez Porter)
+- Fairvale Shanty, Grizzlies East, AM (atop a rock directly south of Fairwale Shanty; north side of road)
 ### Coastal Horned Owl
 - Hanging Dog Ranch, Big Valley, WE (on ground between ranch and "railroad tracks"; next to "huge rock by river"
 - Cumberland Falls, Big Valley, WE (west cliffside)
 ### Grizzly Bear
-- Barrow Lagoon, Grizzlies West, AM (towards south end of ice eating a deer carcass being attacked by wolf; random encounter)
+- Barrow Lagoon, Grizzlies West, AM (south end of lagoon; eating deer carcass and fighting off wolves; random encounter)
 - Cattail Pond, Grizzlies West, AM (just east of the pond; eating deer carcass and fighting off wolves; random encounter)
-- O'Creagh's Run, Grizzlies East, AM (west shoreline eating deer carcass and fighting off wolves; random encounter)
+- Cattail Pond, Grizzlies West, AM (southeast of pond; south of train tracks near cliff edge and **Alaskan Ginseng** growing on dead brush patch)
+- Cotorra Springs, Grizzlies East, AM (south of hot springs)
+- Fairvale Shanty, Grizzlies East, AM (unknown spawn origin, but have had it attack me twice)
+- O'Creagh's Run, Grizzlies East, AM (west shore eating deer carcass and fighting off wolves; random encounter)
+- O'Creagh's Run, Grizzlies East, AM (north shore catching and eating salmon; random encounter)
+- Vetter's Echo, Big Valley, WE (inside the cabin upon first entry; does not spawn after killing it)
+- Sheperds Rise, Big Valley, WE (northwest of cabin; catching and eating salmon in stream; random encounter)
+- Wallace Station, Big Valley, WE (inside dinosaur bone cave; unknown if unique encounter similar to Vetter's Echo)
+- Wallace Station, Big Valley, WE (south of dinosaur bone cave)
+- Wallace Station, Big Valley, WE (east-southeast of Watson's Cabin; no this is not a typo, there are two spawnpoints this close together; yes it is possible to kill two bears within 100m of each other)
+- Bear Claw, Tall Trees, WE (northwest of **Bear Claw**; second 'E' in "TALL TREES"; snooping around NPC campsite; random encounter)
+- Black Bone Forest, Big Valley, WE (south of 'W' in "WEST ELIZABETH")
 ### Canada Goose
 - Heartlands, NH (flying overhead, namely in the central hills)
-- southern stretch of the **Dakota River**
-- east side of **Owanjila**
+- Bard's Crossing, Heartlands, NH (southern shoreline floating on water)
+- Owanjila, Big Valley, WE (east side of lake)
 ### Pekin/Mallard Duck
 - Huron Glen, Roanoke Ridge, NH (flock of 10-12 floating on the river west of Huron Glen)
 ### North American Beaver
 - Butcher Creek, Roanoke Ridge, NH (around beaver dam)
-- Owanjila, Big Valley, WE (shorelines around entire lake)
+- Owanjila, Big Valley, WE (shorelines around entire lake and a bit downstream)
 ### Rainbow Boa, Sunglow Boa, Red Boa, Fer-de-Lance Snakes
 - West edge of the first 'A' in **AGUASDULCES** on **Guarma**
 - South edge of the 'E' in **ARROYO DE LA VIBORA**
 ### Fer-de-Lance Snake
-- On a small inlet in **Stillwater Creek**
+- On the largest inlet at **Stillwater Creek**
+### Little Brown Bat
+- Feral Man's Cave, Roanoke Ridge, NH
+- Elysian Pool, Roanoke Ridge, NH
+- Flattened Cabin, Grizzlies East, AM
+- Aurora Basin, Tall Trees, WE
 
 # BIRD LOCATIONS
 
-### Oriole/Songbird/Sparrow/Jay/Woodpecker
-- Ft. Brennand, flying overhead or sitting atop various parts of the Fort and its surrounding fence
-- bridge at last 'r' in "Kamassa River" north of **Elysian Pool**
+### Songbird/Sparrow/Jay/Woodpecker/Robin
+- **Fort Brennand**, flying overhead or sitting atop various parts of the Fort and its surrounding fence
+- bridge near **Trail Trees** (POI) at last 'r' in "Kamassa River" north of **Elysian Pool**
 
 # FISH LOCATIONS
 
 ### Sockeye Salmon
-- north of bend on Kamassa River at Ft. Brennand
+- north of bend of **Kamassa River** at **Ft. Brennand**
+- northwest edge of **Little Creek River**
+- downstream of Cumberland Falls
 
 # HORSE LOCATIONS
 
@@ -365,7 +404,7 @@ Below are individual tips listed for each.
 ### Warped Brindle Arabian
 - Tempest Rim, Grizzlies West, AM (north of Wapiti)
 ### Perino Andalusian
-- Roanoke Valley, Roanoke Ridge, NH (east bank of Kamassa River; south of Brandywine Drop; north of Deer Cottage)
+- east bank of **Kamassa River** on cliffside at **Brandywine Drop**
 ### Few Spotted Appaloosa
 - Heartlands, NH (west of Oil Derrick)
 ### Tiger Striped Bay Mustang
@@ -379,8 +418,8 @@ Below are individual tips listed for each.
 # PLANT/HERB LOCATIONS
 
 ### English Mace
-- east of **O'Creagh's Run**, northwest of **Martha's Swain**.
-- primarily in **Cholla Springs**
+- east of **O'Creagh's Run**, northwest of **Martha's Swain**
+- along the **San Luis River** in **Rio Bravo**
 ### Prarie Poppy
 - south of **Armadillo**; northwest of **Lake Don Julio**
 - southwest of **Blackwater**
@@ -481,6 +520,7 @@ Below are individual tips listed for each.
 
 ### Beer Case
 - Castor's Ridge, Heartlands, NH
+- Downes Ranch, Heartlands, NH
 
 ### Gold Bars
 - Braithewaite Manor, Scarlett Meadows, LE (lockbox a few steps east of Catherine Braithewaite's body)
