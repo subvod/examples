@@ -294,6 +294,7 @@ Below are individual tips listed for each.
 ### Verified Moose Locations
 
 *"I seen some feller break a wild horse down by the falls yesterdee. This mornin' seen one uh them bull meese dern showed back up this mornin'..." ~ Murphy Brood*
+
 *"You shut up about that!" ~ Rockstar Games*
 
 *These are locations at which I've seen moose with my own eyes. In spawns that are shared with other animals, Moose do not hold priority. After an unimaginably boring time spent camping all these places, all spawns which are shared yield far less moose. Like... way less. I've seen a male/female moose one or twice at shared points. All of these are noted below.*
@@ -629,6 +630,18 @@ Spooked by those voices before? Especially up at Colter where you know damn well
 
 When returning to previous Van der Linde camps, muffled voices can be heard speaking lines mentioned prior on the story. This happens at every previous camp, not just Colter. But hearing flashback voices up there, at night, no wind, no wolf howls, in the snow is a spooky experience.
 
+### Whispers in Roanoke Forests
+https://www.reddit.com/r/reddeadmysteries/comments/9z42z3/roanoke_whispers_explained/
+
+### Bolger Glade Whispers
+https://www.reddit.com/r/reddeadredemption/comments/ew1dx0/bolger_glade_sounds/
+
+### Feral Man - Wild Man's Journal
+https://reddead.fandom.com/wiki/Feral_Man
+
+### Lemoyne Ghost Train
+https://www.youtube.com/watch?v=_fSlasTGGag
+
 # MISCELLANEOUS
 
 ### Useful Links
@@ -636,3 +649,4 @@ When returning to previous Van der Linde camps, muffled voices can be heard spea
 *CodeWalker* https://github.com/dexyfex/CodeWalker
 *Missables* https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2
 *Rampage Trainer* https://www.nexusmods.com/reddeadredemption2/mods/233
+*Complete Map* https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/
