@@ -6,7 +6,7 @@
 
 [GENERAL TIPS AND TRICKS](#general-tips-and-tricks)
 
-[GLITCHES](#glitches)
+[GLITCHES, BUGS, AND CHEATS](#glitches)
 
 [HUNTING TIPS](#hunting-tips)
 
@@ -33,15 +33,15 @@
 You're better off with a horse, but it's certainly possible to survive on your own. Survival is pretty straightforward: kill things, collect things, and eat said things. Some consumables provide greater benefit than others and/or are only available in certain regions.
 
 ### The Basics
-
 *NOTE: nothing grows up in the Northwestern snow-covered areas of Ambarino.*
 
 - Cooked meats refill all cores according to the type of meat. The best combo of store-bought items I've found is **Baked Beans** and **Fine Brandy**. For wild meats, aside from **Big Game** (the best cut; see below in "Advanced Survival"), the most nutritious cuts are: **Venison**, **Pork**, **Game**, **Succulent Fish**, **Prime Beef**, and **Exotic Bird**. The most common animals for these cuts are **Deer**, **Pronghorn**, **Elk**, **Duck**, and **Rabbit**. Though, **Moose**, **Wild Boar**, **Collard Peccary**, **Domestic Pigs**, **Bison**, **Ox**, **Bull**, **Cow**, **Pheasant**, **Pelican**, **Macaw (Parrot)**, **Carolina Parakeet**, **Sockeye Salmon**, and **Rainbow Trout** all yield meats that greatly restore all cores. When seasoned, these meats fully restore the core associated with the herb used.
 - **Wild Carrots** are the holy grail of horse upkeep. They grow everywhere. Yes, there are two different carrots. You cannot use bought/looted regular **Carrots** in crafting recipes, but they provide the same benefits as **Wild Carrots**. If you're not big on harvesting **Wild Carrots** yourself, farmed **Carrots** are available for purchase at Stables. However if you buy provisions from a Stable, **Hay** is the far superior choice as it is the cheapest cost-per-benefit.
-- Weapon loadout doesn't really matter unless you have a preference towards a certain gun or are going for clean kills. I run with: akimbo **LeMat Revolvers**, shouldered **Bow**, and crossback **Varmint Rifle**. LeMats are single-action cap-and-ball revolvers and have super slow reload (which dead eye counteracts), but also have a secondary shotgun barrel allowing high damage (and dismemberment) up close in a revolver package. The **Bow** covers essentially everything for hunting aside from its middle ground: "moderate" sized animals. The **Varmint Rifle** covers this middle ground: Iguanas, Gila Monsters, Opossums, Beavers, Badgers, Skunks, Raccoons, and all large birds (Owls, Hawks, Eagles, Cranes, Egrets, Condors, Vultures/Buzzards, Herons, etc). Even with the **Buck Antler Trinket**, if you land a headshot with a regular arrow on any of these (and would like to sell the carcass whole), the carcass will always be a 2-star. However, if you skin/pluck the same animal (example: Owl headshot with regular arrow) you'll get the items to use/sell as if it were a 3-star. If I'd no plans to preserve/sell whole carcasses and skin/pluck everything I came across, I can run just the Bow as my single primary. However, it's at the player's discretion. It's an open world for a reason.
+- Weapon loadout doesn't really matter unless you have a preference towards a certain gun or are going for clean kills. I run with: akimbo **Semi Auto Pistols**, shouldered **Bow**, and crossback **Varmint Rifle**. Semi Autos allow for lightning fast quickdraw/deadeye kills. The **Bow** covers essentially everything for hunting aside from its middle ground: "moderate" sized animals. The **Varmint Rifle** covers this middle ground: Iguanas, Gila Monsters, Opossums, Beavers, Badgers, Skunks, Raccoons, and all large birds (Owls, Hawks, Eagles, Cranes, Egrets, Condors, Vultures/Buzzards, Herons, etc). Even with the **Buck Antler Trinket**, if you land a headshot with a regular arrow on any of these (and would like to sell the carcass whole), the carcass will always be a 2-star. However, if you skin/pluck the same animal (example: Owl headshot with regular arrow) you'll get the items to use/sell as if it were a 3-star. If I'd no plans to preserve/sell whole carcasses and skin/pluck everything I came across, I can run just the Bow as my single primary. However, it's at the player's discretion. It's an open world for a reason.
+- All **Rams**, **Whitetail Bucks**, and **Bull Elk** will charge and headbutt you even if you're facing them. All snakes on land will bit you if you get too close to  them. There's really no trick to not getting headbutted other than outrunning the animal or killing/spooking it, and that's only if you see it before it happens.
+- For snake bites or ingested **Oleander**, drink a **Potent or Special Health Cure**. Regular **Health Cures** do not cure venom/poison.
 
 ### "Advanced" Survival
-
 - If you don't care about honor, there's a shortcut to getting mass quantities of a few select herbs. Rather than go around gathering each one at a time, kill and loot **Murphy Brood** in northwestern **Heartlands** and **Strangers** (residents) at **Butcher Creek**. **Skinner Brothers** in **Tall Trees** and **Nite Folk** in **Bayou Nwa** can have up to four **Burdock Root**, but no other plants. The aforementioned (Murphy Brood and Butcher Creek residents) all have a chance of holding 2 to 4 units of **Currant**, **Sage**, **Ginseng**, **Violet Snowdrop**, or **Burdock Root**. They also have a chance of giving other items: **Regular/Potent Snake Oil** (only from **Murphy Brood**), regular **Herbivore/Predator Bait**, **Opened/Unopened Cover Scent**, and **Moonshine** (only from **Butcher Creek Residents**).
 - **Gold Cores** for the player come in handy, and maintaining cores is a key part in RDR2. Player cores can be gilded (made golden) with **Big Game Meat** (harvested from **Alligators**, **Wolves**, **Grizzly Bears**, **Black Bears**, **Cougars**, and **Panthers**) seasoned with the corresponding herb (**Wild Mint** found around rivers/creeks/lakes for *Health*, **Oregano** found near forested areas for *Stamina*, and **Thyme** found in open areas for *Dead Eye*). **Seasoned Big Game Meat** fully restores all cores and yields a gold core for the associated herb used for seasoning lasting 24 in-game hours.
 - **Gold Cores** for the player's horse are immensely beneficial, whether often in firefights or trotting around large distances. **Horse Meal** yields both gold health and stamina cores for a day. The recipie pamphlet can be obtained in **Chapter 3** as a reward for Kieran's item request of Burdock Root. It requires three of each **Currant**, **Beets**, and **Hay** to craft. **Currant** has two variants: **Golden Currant** (all over the northern half of **New Hanover**; also **Tall Trees** and **Great Plains**) and **Blackcurrant** (west of Armadillo). **Beets** and **Hay** can be looted from random NPC campsites/wagons or bought from **Stables**. However the percentage of random campsites/wagons which spawn with these materials is quite infrequent, and even then you'll be taking a gamble. You may get only one of either Beets or Hay at each if you even get either of them. These same campsites/wagons may spawn Celery, Peach, Apple, Pear, etc. Be that as it may, one Horse Meal crafted from Beets and Hay bought from Stables costs $2.70 (versus the $5.00 **"Horse Care Package"** from Stables). Reasonably cheaper than the latter even with high honor discounts. In the long run, it's well worth the time spent traveling to a Stable to stock up on both for making Horse Meal on-the-go. However **Wild Carrots** work just fine, you just have to feed your horse slightly more often.
@@ -55,8 +55,7 @@ You're better off with a horse, but it's certainly possible to survive on your o
 
 ### Honor And Benefits
 Surviving on your own is quite easy, cooking food and crafting tonics/ammo. That being said, if you don't care for the outfits only available with high honor, honor level in general makes no difference. However honor level does affect some aspects of the game:
-- Shops give a discount (up to 50% with max high honor) on all items, as well as the ability to buy "high honor" outfits. Honor lower than neutral (0) does not increase shop prices.
-- With negative honor, you loot more "shortcut" items (**Cocaine Gum** and **Chewing Tobacco**) from bodies.
+- Shops give a discount (up to 50% with max high honor) on all items, as well as the ability to buy "high honor" outfits. Honor at or lower than neutral (0) does not affect shop prices.
 - With maximum negative honor, the ambient sounds of deadeye change.
 - Most story dialog changes based on honor level.
 - Arthur and John's mannerisms change based on honor. Example: when pulling a gun, saying "don't make me do this" with high honor versus "I will kill you right here" with low honor.
@@ -149,9 +148,19 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 ### Traveling Long Distances Automatically
 - Aside from fast travel (unlocked by purchasing the map from the camp ledger), you can autopilot to a destination: set a destination (must be in a road/path) on the map, hop on your horse and begin sprinting towards the waypoint. While sprinting, hold down the SELECT button (XB1) or X button (on PS4) to enter cinematic view. Black bars will appear and you will travel to the waypoint. **NOTE: events still occur, it's just a different camera view. You can still get attacked by a predator or enemies.
 
-# GLITCHES
+### Looting saddle bags and not getting kicked in the face.
+1. Hop on the horse you want to loot.
+2. Ride/lead the horse right next to any static entity that will partially block you phsically digging through the saddle bag, be it a tree, rock/boulder, wagon, train, etc. Ensure after you hop off that the **Search Saddle Bag** prompt is still there.
+3. Search the saddle bag.
+4. Enjoy your saddle bag loot never having to get kicked in the face ever again.
 
-*The meaning of "glitch" is dependent upon a player's perspective on gameplay morality. Use these "glitches" at your discretion.*
+### Farming gritty fish meat for potent predator bait.
+- Fish off of the docks around **Lagras** during rainy weather. Neither **Rock Bass** nor **Perch** spawn around **Lagras**, so you've not to worry about snagging one of those bastards. On the flip side, you may get **Smallmouth/Largemouth Bass**, **Chain Pickerel**, and/or **Lake Sturgeon**. Another plus is **Bullhead Catfish**, **Channel Catfish**, and **Longnose Gar** also spawn around there, all of which yield **Gritty Fish Meat**.
+
+# GLITCHES, BUGS, AND CHEATS
+These are all the bugs/glitches/cheats I found notable. Some are bad, some are good.
+
+*The meaning of "cheat" is dependent upon a player's perspective on gameplay morality. The player can choose whether or not to use "cheats" at their own discretion. A "bug" or "glitch" is anything that isn't meant to happen.*
 
 ### Double Skins from Animals
 *If an animal can be carried, this glitch can be used for it. Basically everything but Meese, Elk, (big) Alligators, Bison, Boars/Javelinas, Bears, etc, and all small game like squirrels, small birds, toads/frogs, etc.*
@@ -169,7 +178,7 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 
 1. Get any wagon or buggy. Larger ones are preferable.
 2. Ride the wagon to the Stable which houses the horse you want to steal.
-3. Put on your mask.
+3. Put on a mask/bandana.
 4. As you enter the Stable, pull out any gun, aim, and fire just as the horse enters the doors of the stable. Doing this prevents the Stable doors from closing.
 5. Ensure you've at least one witness. It's necessary for this method.
 6. Park the wagon between the Stable doors. (Again, to ensure they don't close.)
@@ -177,7 +186,7 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 8. You won't be able to mount the horse, so feed it using the **Horse Menu** until it registers as a **Temporary Horse**.
 9. Hide until the witnesses/law stop searching. You can mount the horse just before the search ends to auto-enter the stable. If not, the black bars will appear and you'll enter horseless into the Stable.
 10. Exit the stable, travel a ways away, and whistle for your temporary horse. Most of the time they will jump over the gates and run to you. If it doesn't come after a while, move around while continuing to call the horse.
-12. Mount the horse and take it to any Stable, even the one you stole it from. Doesn't matter where.
+11. Mount the horse and take it to any Stable, even the one you stole it from. Doesn't matter where.
 12. Saddle up and enjoy your free horse!
 
 ### Remove Scope From Carcano and/or Rolling Block Rifles
@@ -201,7 +210,7 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 6. Exit the stable.
 7. Enjoy your Rattlesnake Saddle with a Panther blanket! (Or whichever combination you choose.)
 
-### Getting the Silver Dapple Pinto Missouri Fox Trotter at No Cost for Arthur
+### Getting the silver dapple pinto missouri fox trotter at no cost for Arthur.
 1. *Save your game.*
 2. Trigger the mission **Arcadia for Amateurs - III**. This does not work when replaying the mission.
 3. When nearing the horses, enter **Eagle Eye** and track the Fox Trotter. Ensure you are tracking the correct horse. Sometimes its trail with be golden (like a Legendary Animal) and show up as *Unknown Animal*, but most of the time it'll show as **Herd** like the other horses.
@@ -217,12 +226,12 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 
 *There are alternative methods of doing this, but they generally involve a ton of waiting, reloading, and praying to RNGsus. Yes, I'm talking about the random encounter with they lady whose horse "up and died on her". No, I don't recommend you try that over this unless you enjoy pain.*
 
-### Saving Arthur's Money for John
+### Saving Arthur's money for John.
 The **Aberdeen Pig Farm** is inhabited by an incestual brother and sister, whom together work as a team of serial killers. There is a sort of side mission with these two: as either John or Arthur you can eat dinner with them. During which they'll offer some drinks. After drinking a few times, you pass out and wake up in their body dump site with no money. A decent backing for sticking to the story, I think, is: Arthur gets robbed, John reads about it in his journal, John goes to the farm and takes the money as it's of no use to Arthur at that point. :)
 
 Go there and get robbed as Arthur right before the mission **"Red Dead Redemption"** (the last mission in which the player controls Arthur) but do not go back and kill them, nor get your money. Wait until you take control of John, travel to the farm, and retreive the cash from the safe behind the picture of "Mama" directly behind the front door. Kill or spare them as you see fit.
 
-### Getting Out Of Map (Travel to Guarma/Mexico/Canada)
+### Getting out of map. (Travel to Guarma/Mexico/Canada.)
 You'll need enough alcohol to blackout to do this. If you've got the **Wolf Heart Trinket**, you'll need a lot. Now, to get compendium entries and sketches as Arthur for animals specific to New Austin (and/or Guarma before/after of Chapter 5), or just to run around and explore, you can travel out of bounds via the far west end (at the edge of a drop-off) in the **Devil's Cave**. If you're running post-Epilogue and want to explore the southern side out-of-map or travel to Guarma much quicker, an infinitely faster method is to travel to a specific point on the southern shore of the **San Luis River**.) Do the following once at either location:
 
 1. Drink until you black out.
@@ -233,16 +242,30 @@ You'll need enough alcohol to blackout to do this. If you've got the **Wolf Hear
 
 - A quick side note: I black out drunk on the east side of **Aurora Basin** and woke up on the west side out-of-bounds. I will try to replicate this soon, but the few times afterwards resulted in no joy.
 
+### Unable to save custom outfits.
+Apparently this has been around for a long time and to this day goes unfixed. What happens is your saved custom outfits start glitching by starting at two, then to three, and eventually if the glitch continues you'll no longer be able to save any custom outfits. This can be bypassed by using a trainer on PC, but the only "easy" way around it is to unlock the **Legend of the East** outfit, equip and store it on your horse, then load outfits from your trainer. This basically enables all custom outfits to be suitable for all temperatures. As far as on consoles go if there is a known workaround, I don't know about it.
+
+### Legend of the East outfit not unlocking after 90th challenge.
+This is a glitch that remains unfixed. Many players have completed Bandit 10 as their final challenge and not had the outfit unlock. I, myself, have had it not unlock doing Explorer 10 as my final challenge. Always make a save before completing your final (90th) challenge, and if nothing else avoid doing Bandit 10 or Explorer 10 as your final challenge as these are problem-causers.
+
+### Transferable discount in Saint Denis as payment for killing Jean Marc as ordered by Mayor Henri Lemieux.
+This can be done with Arthur and the discount will transfer to John. However, I calculated my discount with max honor and post-story mode I'm getting only a 55% discount. According to my player menu I am getting the full 50% max honor discount. According to everyone online the discount is meant to be 10% regardless of honor. I'm unsure if I just have a glitch, if the discount is meant to have a cap at 55%, or if the discount is lowered to 5% if transferred to John rather than doing the Mayor's final mission as John.
+
+### Duplicate journal sketches.
+This is not likely a bug, but you can get journal sketches of certain things as both Arthur and John. Such as the **Cave Devil** and **Blind Man Cassidy**.
+
 # HUNTING TIPS
 
+### Debunking the save/reload deal.
+- It works. If you're hunting rare spawns, travel to a location which is a small distance away from where the animal is known to be, save the game, and reload. Essentially, you're just refreshing all entity spawns to the area you saved the game in. This is how I managed to spot all the super rare moose spawns (like Painted Sky and along the Upper Montana). **YOU DO NOT HAVE TO EXIT THE WHOLE GAME AND RESTART FOR THE EFFECT TO WORK. THIS GOES FOR ALL SCENARIOS IN WHICH SAVING AND RELOADING IS ADVISED.**
 ### Use a headset if possible.
-- Use a headset/headphones/earbuds when hunting. My God, does that make an insane difference. Let me tell you, tracking down owls by nothing but their hoots is essentially impossible with my shitty TV speakers. Hell, I even tried my old pair of Skullcandy Ink'd earbuds from 2012 and even with those I can hear everything. You don't have to use a high dollar headset... just something to isolate the game sound.
+- Use a headset/headphones/earbuds when hunting. Tracking down owls by nothing but their hoots is essentially impossible with my shitty TV speakers. Hell, I even tried my old pair of Skullcandy Ink'd earbuds from 2012 and even with those I can hear everything. You don't have to use a high dollar headset... just something to isolate the game sound.
 ### Stealth is usually better.
-- Do not hunt on your horse, especially when hunting rarer creatures. Go on foot, crouched, and walk slowly. Crouch running (that's what I call it) creates more noise than regular crouch walking. This difference is especially noticable when cover-scented and very close to animals. I can get within a few feet of most animals by slowly creeping up to them... like a stalker, ya know?
-- **Cover Scent Lotion** helps immensely if you're doing some stealth hunting. Yes, you can stay downwind from the animal you're targeting. However, if you're out for anything and everything... you might spook a deer to your left, it runs towards a rabbit, which then runs towards what you're hunting for, spooks it, and they all leave you in the dust. I hardly use Eagle Eye anymore, but I also have never been bothered to check the wind direction when hunting. I kill all the beavers, skunks, and muskrats I see just for their scent glands.
-- Use the bow for everything unless you're hunting down the middle ground animals which need the **Varmint Rifle** for a perfect carcass.
+- If you're roaming around looking for uncommon/rare animals, do not hunt on your horse. Go on foot, crouched, and walk slowly. Crouch running (that's what I call it) creates more noise than regular crouch walking. This difference is especially noticable when cover-scented and very close to animals. You can get within a few feet of most animals by slowly creeping up to them. Being able to get closer also opens up your options for clean kills. If stealth hunting, use the **Bow** for everything unless you're hunting down the middle ground animals which need the **Varmint Rifle** for a perfect carcass. According to my own testing, all "varmints" can be skinned for a perfect pelt when headshot with a regular arrow **EXCEPT FOR THE SKUNK AND GILA MONSTER**. Not to mention, while using the **Bow**, you won't scare off everything within a five mile radius. A number of other players claim the **Bow** is trash, but from my experience its quiet kills serve much better than its great but limited range (especially while hunting rare animals that spook easily, *ahem* Moose *cough cough*).
+### Cover Scent Lotion.
+- It helps immensely if you're doing some stealth hunting. Yes, you can stay downwind from the animal you're targeting. However, if you're out for anything and everything... you might spook a deer to your left, it runs towards a rabbit, which then runs towards what you're hunting for, spooks it, and they all leave you in the dust. I hardly use Eagle Eye anymore, but I also have never been bothered to check the wind direction when hunting. I kill all the beavers, skunks, and muskrats I see just for their scent glands.
 ### Give the game time to spawn everything.
-- Stick around the area you're hunting in for a while. As in, at least a couple days. Sleeping adds to this, what I'm going to call, "time spent in area" mechanic. I think it's just you giving the game time to load in all the time-sensitive and random spawns. A good example: after a whole year of playing this game I've not once seen a moose at Barrow Lagoon... until I traveled to Barrow, set the game to timelapse 72 hours (via trainer), turned around, and there was the ever-so-illusive moose at Barrow, the first and only time I've ever seen it. Same goes for all animals everywhere else. That's how I killed three grizzlies west of Wallace Station within five minutes. That's also how I killed three bull meese in Tall Trees within 10 minutes.
+- Stick around the area you're hunting in for a while. As in, at least a couple days. Sleeping and/or blacking out add to this, what I'm going to call, "time spent in area" mechanic. I think it's just you giving the game time to load in all the time-sensitive and random spawns. A good example: after a whole year of playing this game I've not once seen a moose at Barrow Lagoon... until I traveled to Barrow, set the game to timelapse 72 hours (via trainer), turned around, and there was the ever-so-illusive moose at Barrow, the first and only time I've ever seen it. Same goes for all animals everywhere else. That's how I killed three grizzlies west of Wallace Station within five minutes. That's also how I killed three bull meese in Tall Trees within 10 minutes. Just sleep as long as you can or blackout a couple times. Either that, or save and reload.
 ### Dealing with evasive/aggressive animals effectively.
 - Having trouble studying aggressive and/or skittish animals? Hit them in a non-critical area with a **Poison Arrow** (regular, white hit marker). This changes their aggro and makes them flee, allowing you to study and track them as they run.
 ### Double your skin collection.
@@ -250,32 +273,43 @@ You'll need enough alcohol to blackout to do this. If you've got the **Wolf Hear
 ### Farming wild animals.
 - Most animals will decompose within 24 hours, aside from massive class animals which decompose to bones, then fully decompose. All animal carcasses from those classified as "massive" (elk, moose, bison, bears, etc) will go to bones 36 hours after being killed, then fully decompose in 72 in-game hours.
 - If you're looking to farm animals for pelts, it's best to get rid of the carcass to skip the decomposition process. I've found three ways of going about this: sell the carcass as a whole (works great when doing the double skin trick), burn the carcass (with **Incendiary Buckshot**, **Fire Bottle**, or a **Fire Arrow**), or shimmy the carcass into to a body of water (even small streams work; I moved a bear into the shallow water on the southeast end of Little Creek River and it was gone after sleeping 26 hours. Alternative but slightly slower methods are: blacking out drunk and/or sleeping. To pass a huge amount of time, sleep as many times as possible and drink until you black out. If you move around a lot, I advise noting the respawn locations of and stocking up on **Aged Pirate Rum**. Only takes four to black out with the **Wolf Heart Trinket**. It's an uncommon loot item, so if you're not out for adventure, which hopefully you are, and would rather buy liquor, buy **Moonshine**. It's the highest proof liquor sold anywhere. **Kentucky Bourbon** is a close competitor but is slightly weaker than **Moonshine**.
-### Got bit by a snake? Ate some Oleander/Bulrush?
-- Happens a lot. Well... snake bites, at least. Drink a **Potent/Special Health Cure**. Regular **Health Cures** do not cure venom/poison.
 ### The best weapons.
 
 *Here's a quick rundown:*
 
-- There are two subclasses of **Rifles**: medium and heavy. The **Springfield** and **Bolt Action** are medium rifles. They've the same limited effective range and bullet velocity, but dominate within that range. The **Carcano** and **Rolling Block** are heavy rifles. They're more powerful than the aforementioned medium rifles and have near-hitscan bullet velocity... but they've two caveats: they must be scoped in (ADS) when aiming and do not allow dead eye lock-on (unlike the medium rifles). The **Bolt Action** just sacrifices a bit of damage for better accuracy, fire rate, and reload. All in all, unless you're constantly taking very long shots, the **Bolt Action** is better in practice and works for most everyone. However the **Springfield** doesn't fall far behind. The **Carcano** surpasses the **Rolling Block** on every point. Even though the in-game stat bars show quite a bit of difference, the **Carcano** does everything the **Rolling Block** does, but with a five-round clip and a tiny cut of bullet velocity (as in I didn't notice it until I started looking for it during testing). Both of them will kill a moose at any reasonable distance with one shot to the head.
+- The **Bow** is the best hunting weapon in practice. Yes, it's range is limited, but... one: the longest range at which you can make Bow kills is outrageous, even if you're a ways away you can close in towards the target and make the kill via deadeye still quite some distance away. Two: it can make clean kills on everything except animals which require the **Varmint Rifle** (which would have been nice to have some Varmint Arrows or just make either Regular or Small Game arrows cleanly kill the varmints). Three: you get both Poison Arrows and Dynamite Arrows.
+- For rifles, here are two subclasses of **Rifles**: medium and heavy. The **Springfield** and **Bolt Action** are medium rifles. They've the same limited effective range and bullet velocity, but dominate within that range. The **Carcano** and **Rolling Block** are heavy rifles. They're more powerful than the aforementioned medium rifles and have near-hitscan bullet velocity... but two caveats: they must be scoped in (ADS) when aiming and do not allow dead eye lock-on (unlike the medium rifles). The **Bolt Action** just sacrifices a bit of damage for better accuracy, fire rate, and reload. All in all, unless you're constantly taking very long shots, the **Bolt Action** is better in practice and works for most everyone. However the **Springfield** doesn't fall far behind, and from my experience works much better in place of the **Bolt Action**. The **Carcano** surpasses the **Rolling Block** on every point except for damage. In testing (using the Entity Info feature with Rampage Trainer), the **Rolling Block** deals 4 more damage units than the **Carcano**. (Versus a Bear, the **Rolling Block** deals 74 damage while the **Carcano** deals 70 damage.) Even though the in-game stat bars show quite a bit of difference, the **Carcano** does everything the **Rolling Block** does, but with a six-round clip, slight damage reduction, and an essentially imperceptible cut in bullet velocity (as in I didn't notice it until I started looking for it during testing). Both of them will kill a moose at any reasonable distance with one shot to the head. *However*, in practice, for longer shots the **Rolling Block** comes out on top for long range sniping. And... overall in practice, an unscoped **Carcano** is the best overall hunting rifle while the **Bolt Action** is the best combat rifle. I recommend the **Rolling Block** and/or **Springfield** for those like me who don't make a lot of multi-mark deadeye kills. If you do, however, you're better off with the **Carcano** and/or **Bolt Action**.
+- For revolvers, I use akimbo **LeMats**. Statistically speaking, the **Double Action** is better, but the **LeMat** is just badass to me.
+- For pistols, I use akimbo **Semi Autos**. The deadeye mark-kills are crazy fast, but the **M1911** and **Mauser** do not fall far behind.
 
 # ANIMAL LOCATIONS
 
-### Disclaimer
-These are locations at which I've seen animals with my own eyes and verified they spawn there myself. Unverified/speculated locations noted from other players are in italics. The "rarest" animals are listed first, then all other animals. When anything is in quotes, for example "Willard's Rest", it signifies actual text on the world map. Actual locations are noted in bold, as such: **Willard's Rest**.
+### Disclaimer(s) and Information
+- These are locations at which I've seen animals with my own eyes and verified they spawn there myself. Unverified/speculated locations noted from other players are in italics.
+- Directions in the format such as "east-northeast" signify a biased multidirectional point. Example: "east-northeast of the ranch" means "northeast of the ranch, but more east than north.
+- The "rarest" animals are listed first, then all other animals.
+- When anything is in quotes, for example "Willard's Rest", it signifies the text on the overworld (pause menu) map. Actual locations are noted in bold, as such: **Willard's Rest**.
+- All locations used are those which are the closest to where the animal was spotted. Some spawnpoints were a ways away from notable locations, and in those cases I've noted nearby landmarks and/or plants nearest to the spawnpoint as well as their location relative to them. I upload in-game captures for locations of animals, plants, etc on GitHub (all in a 7-Zip for convenience).
 
 ### Difficult Animals
 From what I've read and my own experience, the most notoriously rare animals are, order starting at rarest:
 
-- Western Bull Moose
+- Western Bull Moose / Cow Moose
 - Timber Wolf
 - Cougar
 - Grizzly Bear
 - Californian Horned Owl
 - Small Birds (Robin, Sparrow, Songbird, Oriole, Woodpecker, Blue Jay, etc)
 
-### Moose Locations
-**NOTE: I stabled the Perlino Andalusian and White Arabian horses. Them being present in the wild near moose spawns doesn't seem to affect the chance of moose spawning. I keep them stabled regardless, but it appears to not affect moose spawns.**
-**NOTE: I've shot plenty of Moose at night. They aren't daytime-exclusive animals.**
+### Western Bull Moose
+**NOTE:** The best time for moose hunting from my experience is 14:00-18:00. I've killed more moose in that time frame than in the morning, though I've had better luck during morning runs than midday runs. Basically early morning (06:00) and shortly after noon (13:00) are the best times to head out.
+
+**NOTE:** You don't have to stable the Perlino Andalusian nor White Arabian horses. Them being present in the wild near moose spawns doesn't seem to affect the chance of moose spawning. Nonetheless, I keep both stabled. If anything else, they take up one more space in the ped pool.
+
+**NOTE:** All spawn locations yield a cow or bull moose of any quality at random. I've yet to obtain conclusive evidence that some spawns are exclusive to a certain gender moose. That is, of course, other than southwest of Strawberry. So far I've only come across cow moose at the two locations around the Upper Montana, and both during sleet weather.
+
+**NOTE:** I've shot plenty of moose at night. I've also killed plenty of moose in adverse weather. Snow, rain, hell even the first bull I killed by Wallace Station was during sleet. However, I will note these few points: I generally have to wait in the area for a while before I see any. And before you jump to conclusions on the Wallace moose I killed, it was legitimate. I loaded in at Stilt Shack to sleet and was making my way down the LCR collecting wintergreen berries. I continued on down river where I almost ran past it, sleet still coming down just as strong as it was when I loaded in. Another odd one: while hunting for the moose south of the Strawberry Stable, I paced around the area where it's meant to spawn for about ten minutes. Just as the transition to sleet ended, the moose clip spawned in right as the sleet reached its full pour-down (the game's weather change mechanic spreads weather changes out over a few seconds; it popped in right as the transition ended). Coincidence? I think not. As I said, the moose clip spawned in right as the weather change to rain completed. By "clip spawn" I mean it just popped in long after I had my camera facing the spawnpoint. This might mean some moose spawns are weather-sensitive. As always, I'll continue to test this.
+
 - Colter, Grizzlies West, AM (atop small cliff on southeast side of road running northeast out of **Colter**)
 - Lake Isabella, Grizzlies West, AM (beside path on west side of **Lake Isabella**; very near **White Arabian** spawn; wolves playing (random encounter) do not affect spawn; verified time frame 09:13-15:32
 - Lake Isabella, Grizzlies West, AM (random encounter; laying on ice northwest side of **Lake Isabella**; southeast of destroyed cabin; just some paces away from the spawn described above; I've seen two bull meese at the same time here, but only once)
@@ -284,7 +318,8 @@ From what I've read and my own experience, the most notoriously rare animals are
 - Barrow Lagoon, Grizzlies West, AM (random encounter; laying on ice southeast side of lagoon)
 - Window Rock, Grizzlies West, AM (west side of train tracks atop cliff overlooking trestle bridge southwest of **Window Rock**; southwest of the trestle bridge itself; dead west of "Dodd's Bluff"; dead south of "Chez Porter"; northeast of dreamcatcher)
 - Calumet Ravine, Grizzlies East, AM (west shore of lake next to junctions running east out of **Wapiti Indian Reservation**)
-- Fort Wallace, Cumberland Forest, NH (east of **Fort Wallace**; in trees on west side of road at first junction south of **Bacchus Station**)
+- Calumet Ravine, Grizzlies East, AM (random encounter; swimming west across the south side of the lake being chased by wolf; directly in line with junction east of **Wapiti**; verified 14:45)
+- Fort Wallace, Cumberland Forest, NH (east of **Fort Wallace**; in trees on west side of road at first junction south of **Bacchus Station**; 15:01)
 - Witches Cauldron, Grizzlies East, AM (west of **Witches Cauldron**; between 'I' and 'N' in "AMBARINO"; northeast of junction by **Strange Statues**; spawns out-of-bounds, but you can either lure it in-bounds with bait or roll the dice by spooking it)
 - O'Creagh's Run, Grizzlies East, AM (east shoreline of lake; just south of **Veteran's Homestead**; to the east of "O'Creagh's" in "O'Creagh's Run"; 14:00-17:00)
 - O'Creagh's Run, Grizzlies East, AM (random encounter; north shoreline of lake; swims south in line with "Cr" in "O'Creagh's Run" to northeast edge of peninsula)
@@ -295,12 +330,14 @@ From what I've read and my own experience, the most notoriously rare animals are
 - Viking Tomb, Roanoke Ridge, NH (riverside on northern shoreline of **Kamassa River**; south of **Viking Tomb**)
 - Cattail Pond, Grizzlies West, AM (northeast shore of **Cattail Pond** on path which **Beartooth Beck** flows over; hard to spot as it's often spooked because of NPCs)
 - Cumberland Falls, Heartlands, NH (east shore between 'o' and 't' in "Dakota River"; across from where **Little Creek River** feeds in; southwest of **Downes Ranch**)
+- Wallace Station, Big Valley, WE (east-southeast of the station; on the west side of the **Dakota River** hanging over the path closest to the river)
 - Painted Sky, Big Valley, WE (riverside next to 4 Wild Mint plants; north of Painted Sky; below Burdock Root map icon)
-- Owanjila, Big Valley, WE (random encounter; swimming across **Owanjila** being chased by wolf)
-- Nekoti Rock, Tall Trees, WE (west side of river; northwest of 'U' in "Upper Montana River"; south side of path north of the 'U' that crosses the river; very near a Loon map icon)
+- Owanjila, Big Valley, WE (random encounter; chased by wolf swimming across **Owanjila**; swims to northeastern peninsula with 1 **Burdock Root**; 17:20)
+- Fort Riggs, Big Valley, WE (southwest of junction coming from the **Strawberry Stable**; 10 or so paces southeast of boar map icon)
+- Nekoti Rock, Tall Trees, WE (west side of river; northwest of 'U' in "Upper Montana River"; south side of path north of the 'U' that crosses the river; on the edge of a Loon map icon)
 - Evelyn Miller Camp, Tall Trees, WE (directly east of second 'L' in "TALL TREES"; next to a **Lady Slipper Orchid**)
 - Bear Claw, Tall Trees, WE (second 'E' in "TALL TREES"; occasionally a random NPC campsite spawns 20m away which disables moose spawn)
-- Aurora Basin, Tall Trees, WE (in trees on northwest side of **Aurora Basin**; northeast of Skinner Brothers campsite, which if present will disable moose spawn)
+- Aurora Basin, Tall Trees, WE (between two groups of **Burdock Root** on the northwest side of **Aurora Basin**; northeast of Skinner Brothers campsite, which if present will disable moose spawn)
 - Aurora Basin, Tall Trees, WE (out-of-bounds atop small cliff on south end of **Aurora Basin**; west side of **Lower Montana River**; usually falls in-bounds when killed where it stands, but may sometimes fall backwards and remain out-of-bounds)
 - *Painted Sky, Big Valley, WE ('v' in "Dakota River"; south of Painted Sky)*
 - *Donner Falls, Grizzlies East, AM (cliff edge overlooking falls; possibly shared with grizzly spawn)*
@@ -323,7 +360,7 @@ From what I've read and my own experience, the most notoriously rare animals are
 - *Macfarlane's Ranch, Hennigan's Stead, NA (I've been ambushed by a few Timbers in New Austin... maybe here, maybe Cueva Seca, can't recall exactly where, but only the one time)*
 ### Cougar
 **NOTE: If you're a fast draw, stealth hunting cougars may not be your best option. Because aggressive animals will rush you and your horse, sometimes it's best to just stay mounted, rifle/bow in hand, and wait for them to attack you. Especially if you don't know where they are.**
-- Black Bone Forest, Big Valley, WE (southeast of **Trapper**; west side of path)
+- Black Bone Forest, Big Valley, WE (laying next to creek feeding into **Owanjila**; west of **Native Burial**; west side of path next to creek)
 - Doverhill, Roanoke Ridge, NH (random encounter; west bank of **Kamassa River**; north of train tracks; ambushes NPC at campsite iirc)
 - Brandywine Drop, Roanoke Ridge, NH (southwest of **Willard's Rest**; northwest of 'e' in "Brandywine Drop")
 - Roanoke Valley, Roanoke Ridge, NH (west side of **Kamassa River**; between the two roads west of "ROA" in "ROANOKE VALLEY")
@@ -331,10 +368,11 @@ From what I've read and my own experience, the most notoriously rare animals are
 - Rathskeller Fork, Gaptooth Ridge, NA (southeast of **Rathskeller**, technically in **Cholla Springs**; *allegedly there's two spawns here within a hundred paces or so of each other*)
 - Rathskeller Fork, Gaptooth Ridge, NA (south of **Rathskeller**; northeast corner of junctions north of 'G' in "GAPTOOTH RIDGE")
 - Pleasance House, Cholla Springs, NA (north of the 'A' in "NEW AUSTIN"; west of **Pleasance House**)
+- Plainview, Rio Bravo, NA (southwest of **Plainview**; in land depression on north side of path beyond junctions located west of **Plainview**; just in front of the rocky hill)
 - *Moonstone Pond, Grizzlies East, AM (west-northwest of pond)*
 - *Deer Cottage, Roanoke Ridge, NH (near east shore of Kamassa River; northwest of Deer Cottage*
 - *Nekoti Rock, Tall Trees, WE (west side; south of Cochinay)*
-- *Bear Claw, Tall Trees, WE (north of Bear Claw)*
+- *Bear Claw, Tall Trees, WE (north or west of Bear Claw)*
 - *Quaker's Cove, Great Plains, WE (southwest of 'H' in "WEST ELIZABETH")*
 - *Quaker's Cove, Great Plains, WE (north of Quaker's)*
 - *Macfarlane's Ranch, Hennigan's Stead, NA (north of Macfarlane's; south shore of Lower Montana River)*
@@ -342,9 +380,14 @@ From what I've read and my own experience, the most notoriously rare animals are
 - *Benedict Point, Rio Bravo, NA (southeast of Benedict; seems to be two or three spawns around there according to maps)*
 - *Cueva Seca, Gaptooth Ridge, NA (somewhere near the legendary cougar?)*
 ### Californian/Coastal/Great Horned Owl
-- **NOTE: At 21:00, miscellaneous birds (Ravens, Crows, Sparrows, etc) no longer fly overhead. This makes it easier to spot Owls as anything flying later than 21:00 is almost guaranteed to be an Owl. The only exceptions are hawks and eagles, which only fly at night when there's a carcass/corpse nearby. But, here's a caveat I noticed: from 06:00-20:59 there seems to be way more perched (standing, stationary) Owls around pretty much everywhere I've tested (very noticable difference when rooting around in Tall Trees).
-- **NOTE: Coastal and Great Horned can be found across the entire map despite name implications. (I've found Coastals all the way up on the bridge south of Chez Porter.) Owls in New Austin are usually Californians, with a few Great Horned here and there, but rarely Coastals out there. I think I've killed five or six in New Austin since I got the game. Far as can tell, the Californian is exclusive to New Austin until I'm proven otherwise.**
-- **NOTE: According to GTABase, the areas with the highest concentration of Owl spawns are (highest to lowest): Tall Trees, slightly north of Strawberry, the whole stretch of the Little Creek River (from Hanging Dog Ranch to Sheperd's Rise), Cumberland Falls, the Heartlands Trading Post (landmark located northwest of Gill's Landing), and Cumberland Forest (in its entirety). I can verify Tall Trees is the best for Owl hunting in general, but pre-Epilogue I've killed plenty of Great Horned and Coastals in and around Cumberland Forest while hunting Timber Wolves.
+**NOTE:** At 21:00, miscellaneous birds (Ravens, Crows, Sparrows, etc) no longer fly overhead. This makes it easier to spot Owls as anything flying later than 21:00 is almost guaranteed to be an Owl. The only exceptions are hawks and eagles, which only fly at night when there's a carcass/corpse nearby. But, here's a caveat I noticed: from 06:00-20:59 there seems to be way more perched (standing, stationary) Owls around pretty much everywhere I've tested (very noticable difference when rooting around in Tall Trees).
+
+**NOTE:** Coastal and Great Horned can be found across the entire map despite name implications. (I've found Coastals all the way up at Cairn Lake.) Owls in New Austin are usually Californians, with a few Great Horned here and there, but rarely Coastals out there. I think I've killed five or six in New Austin since I got the game.
+
+**NOTE:** Far as can tell, the Californian is exclusive to New Austin until I'm proven otherwise. Some players have noted finding it around Bear Claw (Tall Trees, WE) and the marsh flats around Canebreak Manor (Bluewater Marsh, LE).
+
+**NOTE:** According to GTABase, the areas with the highest concentration of Owl spawns are (highest to lowest): Tall Trees, slightly north of Strawberry, the whole stretch of the Little Creek River (from Hanging Dog Ranch to Sheperd's Rise), Cumberland Falls, the Heartlands Trading Post (landmark located northwest of Gill's Landing), and Cumberland Forest (in its entirety). I can verify Tall Trees is the best for Owl hunting in general, but pre-Epilogue I've killed plenty of Great Horned and Coastals in and around Cumberland Forest while hunting Timber Wolves.
+
 - Strawberry, Big Valley, WE (southwest of Strawberry; in tree east of first 'p' in "Upper Montana River")
 - Chez Porter, Grizzlies West, AM (on a wooden bridge south of the cabins)
 - Fairvale Shanty, Grizzlies East, AM (atop a rock directly south of the shanty; north side of road)
@@ -362,6 +405,7 @@ From what I've read and my own experience, the most notoriously rare animals are
 - Ridgewood Farm, Cholla Springs, NA (atop barn)
 - Silent Stead, Gaptooth Ridge, NA (atop cabin)
 - *Emerald Ranch, Heartlands, NH (supposedly in or on a barn on the west side of the ranch)*
+- *Manteca Falls, Hennigan's Stead, NA (supposedly all around the falls)*
 ### Grizzly Bear
 - Barrow Lagoon, Grizzlies West, AM (random encounter; south side of lagoon; eating deer carcass and fighting off wolves)
 - Cattail Pond, Grizzlies West, AM (random encounter; just east of the pond; eating deer carcass and fighting off wolves)
@@ -374,7 +418,8 @@ From what I've read and my own experience, the most notoriously rare animals are
 - Vetter's Echo, Big Valley, WE (unique encounter; inside the cabin upon first entry; does not respawn after killing it once)
 - Sheperds Rise, Big Valley, WE (streamside northwest of cabin; catching salmon; random encounter)
 - Wallace Station, Big Valley, WE (inside dinosaur bone cave; unknown if unique encounter similar to Vetter's Echo; only seen it once, seemed glitched as the bear was charging me but wouldn't exit the cave, instead kept resetting inside of the cave until I killed it)
-- Wallace Station, Big Valley, WE (there's four or five spawn locations in close proximity between **Watson's Cabin** and **Wallace Station**; all of which are south of the dinosaur bone cave and reasonably close to the old chimney; I've killed three grizzlies in five minutes here)
+- Wallace Station, Big Valley, WE (there's at least four spawn locations in close proximity between **Watson's Cabin** and **Wallace Station**; all of which are south of the dinosaur bone cave and reasonably close to the old chimney; I've killed three grizzlies in five minutes here)
+- Wallace Station, Big Valley, WE (north of the second 'L' in "WAL**L**ACE")
 - Watson's Cabin, Big Valley, WE (south shore of the creek; north of 'R' in "Little Creek **R**iver"
 - Black Bone Forest, Big Valley, WE (south of 'W' in "WEST ELIZABETH")
 - Nekoti Rock, Tall Trees, WE (standing in the **Upper Montana River** towards the west bank; east of **Nekoti Rock**; west of second 'n' in "Upper Montana River")
@@ -384,69 +429,102 @@ From what I've read and my own experience, the most notoriously rare animals are
 - Aurora Basin, Tall Trees, WE (random encounter; eating deer carcass on northeastern peninsula)
 - Aurora Basin, Tall Trees, WE (random encounter; catching salmon on east shore)
 ### Panther/Florida Panther
-**NOTE: Prime time: 18:00-06:00**
-- south of **Old Harry Fen**
-- eastern bank of **Kamassa River**; north of Lakay; spawns sleeping at water's edge but will be awake and running about if any prey comes near it
+**NOTE:** Best hunted at night (18:00-06:00).
+
+- Old Harry Fen, Scarlett Meadows, LE (southeast of **Old Harry Fen**; north side of path alongside the **Lannahechee River**)
+- Lakay, Bayou Nwa, LE (eastern bank of **Kamassa River**; northeast of **Lakay**; spawns sleeping at water's edge but will be awake and running about if any prey come near it)
+- *Macomb's End, Bayou Nwa, LE (alleged online-only spawn; somewhere around Macomb's End)*
+- Stillwater Creek, Hennigan's Stead, NA (alleged online-only spawn; largest inlet of the creek; east of **Stillwater Cabin**)
 ### Little Brown Bat
 - Bolger Glade, Scarlett Meadows, LE (flying overhead)
+- Bayall Edge, Bayou Nwa, LE (perched on the front of the cabin; tons of them at midnight)
 - Canebreak Manor, Bluewater Marsh, LE (flying over the marsh flats)
 - Feral Man's Cave, Roanoke Ridge, NH (perched on ceiling of cave entrance)
 - Elysian Pool, Roanoke Ridge, NH (perched on ceiling of cave inside the waterfall) 
 - Flattened Cabin, Grizzlies East, AM (inside the cabin at **Moonstone Pond**; tons of them if you approach shortly after 18:00)
 - Swadbass Point, Tall Trees, WE (perched on east side of cabin at **Aurora Basin**)
-### North American Beaver
-- Butcher Creek, Roanoke Ridge, NH (around beaver dam)
-- Owanjila, Big Valley, WE (east and west shorelines; also along the **Upper Montana River** a bit downstream of the lake)
-- *Lake Isabella, Grizzlies West, AM (apparently they're around the waterfall; never seen one even with several days timelapse/sleep)*
-- *Shady Belle, Bayou Nwa, LE (somewhere on the islands southeast of the hideout)*
+### Gray Wolf
+- Quaker's Cove, Great Plains, WE (northeast corner of island located southwest of **Quaker's**)
+- Brittlebrush Trawl, Hennigan's Stead, NA (halfway between the riverbank and path west of 'D' in "HENNIGAN'S STEAD")
+### Rio Grande Wild Turkey
+- Lake Don Julio, Cholla Springs, NA (aside the **San Luis River**; just north of the **Legendary Largemouth Bass**)
 ### Desert Bighorn
 - Gaptooth Ridge, NA
 - Rio Bravo, NA
 - Rio Del Lobo House, Cholla Springs, NA (along the riverside cliffs southeast of the house)
+- Brittlebrush Trawl, Hennigan's Stead, NA (yes, I've found them this far east)
 ### Baja California Pronghorn
 - Gaptooth Ridge, NA
 - Rio Bravo, NA
 ### Sonoran Pronghorn
 - Hennigan's Stead, NA
 - Cholla Springs, NA
+### North American Beaver
+- Butcher Creek, Roanoke Ridge, NH (around beaver dam)
+- Owanjila, Big Valley, WE (east and west shorelines; also along the **Upper Montana River** a bit downstream of the lake)
+- *Lake Isabella, Grizzlies West, AM (apparently they're around the waterfall; never seen one even with several days timelapse/sleep)*
+- *Shady Belle, Bayou Nwa, LE (somewhere on the islands southeast of the hideout)*
 ### Rainbow Boa, Sunglow Boa, Red Boa, Fer-de-Lance Snakes
 - West edge of the first 'A' in **AGUASDULCES** on **Guarma**
 - South edge of the 'E' in **ARROYO DE LA VIBORA**
 ### Fer-de-Lance Snake
 - Stillwater Creek, Hennigan's Stead, NA (largest peninsula)
 
-# BIRD LOCATIONS
+## Birds
 
 ### Songbird/Sparrow/Jay/Woodpecker/Robin
 - **Fort Brennand**, flying overhead or sitting atop various parts of the Fort and its surrounding fence
 - bridge near **Trail Trees** at last 'r' in "Kamassa River" north of **Elysian Pool**
 
-# FISH LOCATIONS
+## Fish
 
-### Fishing Chart
+This subsection covers all the different fish and fishing in general.
 
-Below are all fish categorized by active weather and favorite bait/lure:
+### Fishing tips.
 
-**Rain**
-- Bluegill (Cheese)
-- Smallmouth Bass (Crickets)
-- Largemouth Bass (Crayfish)
-- Steelhead Trout (Worms)
-- Bullhead Catfish (Corn)
+- Contrary to what the game describes, you can catch just about every fish on any bait/lure.
+- Also contrary to compendium entries, weather doesn't seem to make a damn difference.
+- The **Special Spinner** attracts all species of fish and all species will bite it. Everything from bluegill to northern pike. Once acquired, it is a permanent inventory item and cannot be lost by cutting the line or to a line snap.
+- The **Special Lake/River/Swamp Lures** work great if you're shooting for only big/medium fish as small fish will not bite any of the three.
+- All fish have a specific pattern of nibbling/biting. Once you can recall what fish do what, you won't even need to use Eagle Eye to see what's down there.
+- When using any bait, after a number of nibbles and bites your bait will completely deteriorate and you'll have to reel in and rebait. Lures are not affected by this.
 
-**Sunny**
-- Rock Bass (Cheese)
-- Perch (Bread)
-- Chain Pickerel (Corn)
-- Redfin Pickrel (Bread)
+Below are all fish grouped by:
+- active weather
+- favorite bait/lure
+- bite sequence ('N' is for a nibble; 'B' is a bite)
+- meat type
 
-**Overcast**
-- Lake Sturgeon (Lake Lure)
-- Channel Catfish (Swamp Lure)
-- Longnose Gar (Swamp Lure)
-- Muskie (Lake Lure)
-- Northern Pike (River Lure)
-- Sockeye Salmon (River Lure)
+Name | WEAT | FAVE | BITE | MEAT
+:--- | --- | --- | --- | ---
+Bluegill | Rain | Cheese | NB | Gritty
+Bullhead Catfish | Rain | Corn | NNNBB | Gritty
+Perch | Sunny | Bread | NB | Flaky
+Rock Bass | Sunny | Cheese | NBB | Flaky
+Chain Pickerel | Sunny | Corn | BNNB | Flaky
+Redfin Pickerel | Sunny | Bread |  | Flaky
+Smallmouth Bass | Rain | Cricket | NNBB | Flaky
+Largemouth Bass | Rain | Crayfish | BBBNB | Flaky
+Steelhead Trout | Rain | Worm |  | Succulent
+Sockeye Salmon | Overcast | River Lure | BNB | Succulent
+Lake Sturgeon | Overcast | Lake Lure | NNNNBBBB | Flaky
+Muskie | Overcast | Lake Lure | BNBNBBB | Flaky
+Channel Catfish | Overcast | Swamp Lure | NNNB | Gritty
+Longnose Gar | Overcast | Swamp Lure | NNNNNNNB | Gritty
+Northern Pike | Overcast | River Lure | BBBBBB | Flaky
+
+### Bluegill
+- Pretty much everywhere, even up at **Lake Isabella** and down in the **Sea of Coronado**.
+
+### Bullhead Catfish
+- Bayou Nwa, LE (best area I've found is both the swamp and riverside in **Lagras**)
+- Bluewater Marsh, LE
+
+### Channel Catfish
+- Macomb's End, Bayou Nwa, LE (all along the **Kamassa River** south to the north edge of **Caliga Hall**)
+
+### Longnose Gar
+- Bayou Nwa, LE (most notably in the swamp east of Lagras)
 
 ### Steelhead Trout
 - Clemens Point, Scarlett Meadows, LE (northeastern side of **Flat Iron Lake**)
@@ -464,6 +542,19 @@ Below are all fish categorized by active weather and favorite bait/lure:
 - O'Creagh's Run, Grizzlies East, AM
 - Fort Brennand, Roanoke Ridge, NH (**Kamassa River** around the fort)
 - Owanjila, Big Valley, WE (northwest side of lake and stream leading into the lake)
+
+### Lake Sturgeon
+- Gill's Landing, Heartlands, NH
+- Prinz & Co, Bayou Nwa, LE (where the **Kamassa River** meets the runoff drain from **Lagras**)
+- Flat Iron Lake, Great Plains, WE (along the shore south from **Blackwater**; east of 'H' in "WEST ELIZABETH")
+
+### Muskie
+- Lake Isabella, Grizzlies West, AM
+- Cattail Pond, Grizzlies West, AM
+- O'Creagh's Run, Grizzlies East, AM
+- Willard's Rest, Roanoke Ridge, NH
+
+### Northern Pike
 
 # HORSE LOCATIONS
 
@@ -487,15 +578,18 @@ Below are all fish categorized by active weather and favorite bait/lure:
 
 # PLANT/HERB LOCATIONS
 
+### Vanilla Flower
+- Bayou Nwa, LE (highest concentration around **Bayall Edge**)
 ### English Mace
-- east of **O'Creagh's Run**; northwest of **Martha's Swain**
+- east of **O'Creagh's Run**; northwest of **Martha's Swain**; only 5 plants
 - east of **Mysterious Hill Home**; same place Rains Fall picked during Archaeology for Beginners
-- along the **San Luis River** in **Rio Bravo**
+- along the **San Luis River** from the east border of **Hennigan's Stead** (cliff over shore of **Flat Iron Lake**) to the west border of **Rio Bravo**; **NOTE: IT GROWS NEAR THE RIVER, NOT ON THE BANKS OF IT; IT DOESN'T GROW VERY CLOSE TO THE WATER LIKE MILKWEED DOES**
+- north and northeast of **MacFarlane's Ranch** in **Hennigan's Stead, NA**
 ### Prarie Poppy
 - south of **Armadillo**; northwest of **Lake Don Julio**
 - southwest of **Blackwater**
 ### Wild Feverfew
-- from **Pike's Basin, Hennigan's Stead, NA** to northeastern **Armadillo, Cholla Springs, NA**
+- from the east side of **Pike's Basin, Hennigan's Stead, NA** to northeastern **Armadillo, Cholla Springs, NA**
 ### Indian Tobacco
 - along the north side of the road running southwest out of **Valentine**
 - south of Rhodes along the railroad tracks from **Clemens Point** to **Bolger Glade**
@@ -505,18 +599,21 @@ Below are all fish categorized by active weather and favorite bait/lure:
 - Little Creek River, Big Valley, WE (forests to the north and south)
 - Tall Trees, WE (southwestern side)
 ### Alaskan Ginseng
-- chance to loot up to 3 plants from **Murphy Brood** (**Beaver Hollow** is their home base)
-- Chez Porter, Grizzlies West, AM
+- Roanoke Ridge, NH (high concentration between **Doverhill** and **Brandywine Drop**; both sides of the train tracks)
+- chance to loot up to 4 plants from **Murphy Brood** (**Beaver Hollow** is their home base)
+- chance to loot up to 4 plants from **Strangers** (residents) at **Butcher Creek**; you will lose honor by killing/looting them
+- Chez Porter, Grizzlies West, AM (5 plants in a small garden next to the big barn)
 - Big Valley, WE
 - Grizzlies East, AM
 - Grizzlies West, AM
-- Roanoke Ridge, NH (northern part)
 ### American Ginseng
+- Tall Trees, WE (high concentration all inside the path surrounding "LL TREES" in "TALL TREES" and "Tanner's Reach")
 - Heartlands, NH
 - Cumberland Forest, NH
 - Scarlett Meadows, LE
 - Great Plains, WE
-- Tall Trees, WE
+### Wintergreen Berry
+- Roanoke Ridge, NH (high concentration between **Doverhill** and **Brandywine Drop**; both sides of the train tracks)
 
 # ITEM LOCATIONS
 **NOTE: items in containers (lockboxes, chests, cabinets, wardrobes, etc) will respawn regardless of rarity. Rare items (i.e. Aged Pirate Rum) do not respawn unless they're in a container. Respawnable items are bold.**
@@ -602,6 +699,9 @@ Below are all fish categorized by active weather and favorite bait/lure:
 - Dakota River, Big Valley, WE (random campsite under rockface along west shore; south of Cumberland Falls; north of Little Creek River)
 - Watson's Cabin, Big Valley, WE (northwest of Wallace Station)
 - Benedict Point, Rio Bravo, NA (under bunk bed in southeastern cabin)
+
+### Whiskey Case
+- Lagras, Bayou Nwa, LE (northernmost house; on the side facing the road)
 
 ### Beer Case
 - Castor's Ridge, Heartlands, NH
@@ -698,13 +798,77 @@ Below are all fish categorized by active weather and favorite bait/lure:
 
 # Item/Wagon Prices
 
+### Animal Skins
+*All prices are based on Saint Denis Trapper. Animals local to the area will sell for less. These differences are noted.*
+
+**Saint Denis**
+- Alligator
+- American Bullfrog
+- Black Bear
+- Boar
+- Chipmunk
+- Cormorant
+- Crane
+- Egret
+- Heron
+- Oriole
+- Panther
+- Pelican
+- Seagull
+- Western Toad
+
+**Roanoke Ridge**
+- Beaver
+- Boar
+- Cougar
+- Eagle
+- Elk
+- Goose
+- Loon
+- Moose
+- Salmon
+- Trout
+- Wolf
+
+**Black Bone Forest**
+- Beaver
+- Bighorn
+- Chipmunk
+- Cougar
+- Eagle
+- Elk
+- Goose
+- Grizzly Bear
+- Moose
+- Pronghorn
+- Wolf
+
+**Riggs Station**
+- Beaver
+- Bighorn
+- Chipmunk
+- Cougar
+- Elk
+- Goose
+- Grizzly Bear
+- Loon
+- Moose
+- Pronghorn
+- Salmon
+- Trout
+- Wolf
+
 ### Wagons
 - $50.00 Oil Tanker
 - $40.00 Red Stagecoach
 - $25.00 Black Stagecoach
 
 # JOURNAL ENTRY AND SKETCH DIFFERENCES
-Arthur is a much more skilled draftsman than John. For the most part, Arthur's sketches and his wording when describing situations in journal entries are much more detailed. However there are exceptions.
+Arthur is a much more skilled draftsman than John. For the most part, Arthur's sketches and his wording when describing situations in journal entries are much more detailed. However there are exceptions. Sometimes, you can get both Arthur's and John's sketches of some scenarios:
+
+- Cave Devil
+- Blind Man Cassidy
+- Hermit Man (at **Manito Glade**)
 
 # EASTER EGGS
 
@@ -744,5 +908,7 @@ https://www.youtube.com/watch?v=_fSlasTGGag
 *Complete Map* https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/
 
 ### Error/Glitch/Crash/Stutter Fixes
+
+- For micro-stuttering (I had it about once every ten seconds): change your graphics API to DX12 and update your graphics driver. Be sure to do a clean install. If fixed the micro-stuttering I was encountering. System info: ASUS G14 (2021) AMD Ryzen 9 5900HS @ 3301 MHz 16GB NVIDIA RTX 3060 Laptop GPU
 
 *ERR_GFX_STATE Popup* https://www.reddit.com/r/RDR2/comments/dxlreb/err_gfx_state/
