@@ -277,10 +277,48 @@ This is not likely a bug, but you can get journal sketches of certain things as 
 
 *Here's a quick rundown:*
 
-- The **Bow** is the best hunting weapon in practice. Yes, it's range is limited, but... one: the longest range at which you can make Bow kills is outrageous, even if you're a ways away you can close in towards the target and make the kill via deadeye still quite some distance away. Two: it can make clean kills on everything except animals which require the **Varmint Rifle** (which would have been nice to have some Varmint Arrows or just make either Regular or Small Game arrows cleanly kill the varmints). Three: you get both Poison Arrows and Dynamite Arrows.
-- For rifles, here are two subclasses of **Rifles**: medium and heavy. The **Springfield** and **Bolt Action** are medium rifles. They've the same limited effective range and bullet velocity, but dominate within that range. The **Carcano** and **Rolling Block** are heavy rifles. They're more powerful than the aforementioned medium rifles and have near-hitscan bullet velocity... but two caveats: they must be scoped in (ADS) when aiming and do not allow dead eye lock-on (unlike the medium rifles). The **Bolt Action** just sacrifices a bit of damage for better accuracy, fire rate, and reload. All in all, unless you're constantly taking very long shots, the **Bolt Action** is better in practice and works for most everyone. However the **Springfield** doesn't fall far behind, and from my experience works much better in place of the **Bolt Action**. The **Carcano** surpasses the **Rolling Block** on every point except for damage. In testing (using the Entity Info feature with Rampage Trainer), the **Rolling Block** deals 4 more damage units than the **Carcano**. (Versus a Bear, the **Rolling Block** deals 74 damage while the **Carcano** deals 70 damage.) Even though the in-game stat bars show quite a bit of difference, the **Carcano** does everything the **Rolling Block** does, but with a six-round clip, slight damage reduction, and an essentially imperceptible cut in bullet velocity (as in I didn't notice it until I started looking for it during testing). Both of them will kill a moose at any reasonable distance with one shot to the head. *However*, in practice, for longer shots the **Rolling Block** comes out on top for long range sniping. And... overall in practice, an unscoped **Carcano** is the best overall hunting rifle while the **Bolt Action** is the best combat rifle. I recommend the **Rolling Block** and/or **Springfield** for those like me who don't make a lot of multi-mark deadeye kills. If you do, however, you're better off with the **Carcano** and/or **Bolt Action**.
-- For revolvers, I use akimbo **LeMats**. Statistically speaking, the **Double Action** is better, but the **LeMat** is just badass to me.
-- For pistols, I use akimbo **Semi Autos**. The deadeye mark-kills are crazy fast, but the **M1911** and **Mauser** do not fall far behind.
+The **Bow** is the best hunting weapon in practice. Yes, it's range is limited, but... one: the longest range at which you can make Bow kills is outrageous, even if you're a ways away you can close in towards the target and make the kill via deadeye still quite some distance away. Granted, though it may be slim, there is still a chance to miss even with deadeye lock-on when the target is near the outside edge of the bow's maximum range. Two: it can make clean kills on everything except most animals which require the **Varmint Rifle** (which would have been nice to have some Varmint Arrows or just make either Regular or Small Game arrows cleanly kill the varmints). Most varmint kills with regular arrows will almost always yield a one-less-star pelt, i.e. you kill a three star and it will almost always drop to two stars. Be that as it may, there are exceptions to this: a headshot with a poison arrow to beavers and iguanas almost always yields a perfect pelt for me. But every other varmint (skunks, possums, etc) rarely gives a perfect pelt with any arrow kill. And finally, three: you get both Poison Arrows and Dynamite Arrows.
+
+For rifles, here are two subclasses of **Rifles**: medium and heavy. The **Springfield** and **Bolt Action** are medium rifles. They've the same limited effective range and bullet velocity, but dominate within that range. The **Carcano** and **Rolling Block** are heavy rifles. They're more powerful than the aforementioned medium rifles and have near-hitscan bullet velocity... but two caveats: they must be scoped in (ADS) when aiming and do not allow dead eye lock-on (unlike the medium rifles). According to in-game stats:
+
+- The **Bolt Action** just sacrifices a bit of damage for better accuracy, fire rate, and reload. All in all, unless you're constantly taking very long shots, the **Bolt Action** is better in practice and works for most everyone. However the **Springfield's** only let down is it's single-round capacity.
+- The **Carcano** surpasses the **Rolling Block** on every point. It does everything the **Rolling Block** does, but with a six-round clip, slight damage increase, and near hitscan bullet velocity. Both of them will one-shot-headshot-kill a bear at any reasonable distance. Overall in practice, an unscoped **Carcano** is the best overall rifle.
+- For revolvers, I use akimbo **LeMats**. Statistically speaking, the **Double Action** has the best DPS (damage per second), but the **LeMat** is just badass to me. Not to mention you get a secondary shotgun barrel.
+- For pistols, I use akimbo **Mausers**. Yes, even though the **M1911** has better damage and the **Semi Auto's** slightly higher fire rate allows it to make stupid fast deadeye kills, the **Mauser** gets the extra two rounds per clip and nearly matches the **Semi Auto's** rate of fire.
+
+Below is a damage chart organized by weapon and bullet type (ordered corresponding to what's in-game). Weapon rows are grouped by class, with the highest damage of its class being at the top and all others in descending order. Incendiary and explosive ammo was not tested because... well, you know. Shotguns weren't tested either because... you get the gist. Testing was done with five shots of each bullet type for all weapons to eliminate one-off cases. All shots were to a grizzly's rear upper thigh (outside any critical/fatal areas). Damage was measured via RampageTrainer's in-game NPC debug feature.
+
+**NOTE:** *split point rounds deal slightly more damage at close range than high velocity rounds. I've yet to test them at longer ranges, though I imagine it'll be no different from a distance.*
+
+**NOTE:** *all unique weapons are identical to their regular counterparts (in terms of damage) except for those listed below.*
+
+Weapon | REG | HIV | SPL | EXP
+:--- | --- | --- | --- | ---
+LeMat | 33 | 35 | 37 | 40
+Schofield | 29 | 32 | 33 | 36
+Cattleman | 22 | 24 | 25 | 28
+Double Action | 21 | 22 | 24 | 27
+Algernon's (~1) | 20 | 23 | 24 | 27
+Micah's | 20 | 22 | 25 | 26
+Volcanic | 40 | 43 | 46 | 50
+M1899 | 22 | 24 | 26 | 28
+Mauser | 21 | 22 | 25 | 26
+Semi Auto | 19 | 21 | 23 | 25
+Litchfield | 48 | 51 | 55 | 58
+Carbine | 43 | 45 | 48 | 51
+Lancaster | 36 | 38 | 41 | 43
+Evans | 34 | 35 | 38 | 39
+Carcano | 57 | 70 | 78 | 85
+Rolling Block | 69 | 74 | 76 | 83
+Rare Rolling Block | 68 | 73 | 75 | 79
+Springfield | 60 | 62 | 64 | 66
+Bolt Action | 53 | 56 | 59 | 63
+Varmint | 19 | - | - | -
+Bow (~2) | 55 | 166 | 15 | -
+
+**~1** - The **High Roller Revolver** deals the same damage as **Algernon's**.
+
+**~2** - The Bow's damage values are listed as follows: regular arrow, improved arrow, small game arrow.
 
 # ANIMAL LOCATIONS
 
@@ -302,7 +340,7 @@ From what I've read and my own experience, the most notoriously rare animals are
 - Small Birds (Robin, Sparrow, Songbird, Oriole, Woodpecker, Blue Jay, etc)
 
 ### Western Bull Moose
-**NOTE:** The best time for moose hunting from my experience is 14:00-18:00. I've killed more moose in that time frame than in the morning, though I've had better luck during morning runs than midday runs. Basically early morning (06:00) and shortly after noon (13:00) are the best times to head out.
+**NOTE:** The best time for moose hunting from my experience is 14:00-18:00. I've killed more moose in that time frame than in the morning, though I've had better luck during morning runs than midday runs. Basically early morning (06:00) and shortly after noon (13:00) are the best times to head out. Regardless, I've put in time frames for when I've seen moose at certain spawn locations.
 
 **NOTE:** You don't have to stable the Perlino Andalusian nor White Arabian horses. Them being present in the wild near moose spawns doesn't seem to affect the chance of moose spawning. Nonetheless, I keep both stabled. If anything else, they take up one more space in the ped pool.
 
@@ -310,35 +348,35 @@ From what I've read and my own experience, the most notoriously rare animals are
 
 **NOTE:** I've shot plenty of moose at night. I've also killed plenty of moose in adverse weather. Snow, rain, hell even the first bull I killed by Wallace Station was during sleet. However, I will note these few points: I generally have to wait in the area for a while before I see any. And before you jump to conclusions on the Wallace moose I killed, it was legitimate. I loaded in at Stilt Shack to sleet and was making my way down the LCR collecting wintergreen berries. I continued on down river where I almost ran past it, sleet still coming down just as strong as it was when I loaded in. Another odd one: while hunting for the moose south of the Strawberry Stable, I paced around the area where it's meant to spawn for about ten minutes. Just as the transition to sleet ended, the moose clip spawned in right as the sleet reached its full pour-down (the game's weather change mechanic spreads weather changes out over a few seconds; it popped in right as the transition ended). Coincidence? I think not. As I said, the moose clip spawned in right as the weather change to rain completed. By "clip spawn" I mean it just popped in long after I had my camera facing the spawnpoint. This might mean some moose spawns are weather-sensitive. As always, I'll continue to test this.
 
-- Colter, Grizzlies West, AM (atop small cliff on southeast side of road running northeast out of **Colter**)
+- Colter, Grizzlies West, AM (atop small cliff on southeast side of road running northeast out of **Colter**; 06:27-14:41)
 - Lake Isabella, Grizzlies West, AM (beside path on west side of **Lake Isabella**; very near **White Arabian** spawn; wolves playing (random encounter) do not affect spawn; verified time frame 09:13-15:32
-- Lake Isabella, Grizzlies West, AM (random encounter; laying on ice northwest side of **Lake Isabella**; southeast of destroyed cabin; just some paces away from the spawn described above; I've seen two bull meese at the same time here, but only once)
+- Lake Isabella, Grizzlies West, AM (laying on ice northwest side of **Lake Isabella**; southeast of destroyed cabin; just some paces away from the spawn described above; I've seen two bull meese at the same time here, but only once)
 - Lake Isabella, Grizzlies West, AM (being chased by a lone wolf across the water of northern **Lake Isabella**; unsure if coincidental spawn of both wolves and moose, unlikely as I never found the second wolf nor its trail if it were from the wolves playing random encounter)
 - Cairn Lake, Grizzlies West, AM (laying on ice in center of **Cairn Lake**)
-- Barrow Lagoon, Grizzlies West, AM (random encounter; laying on ice southeast side of lagoon)
+- Barrow Lagoon, Grizzlies West, AM (laying on ice southeast side of lagoon)
 - Window Rock, Grizzlies West, AM (west side of train tracks atop cliff overlooking trestle bridge southwest of **Window Rock**; southwest of the trestle bridge itself; dead west of "Dodd's Bluff"; dead south of "Chez Porter"; northeast of dreamcatcher)
 - Calumet Ravine, Grizzlies East, AM (west shore of lake next to junctions running east out of **Wapiti Indian Reservation**)
-- Calumet Ravine, Grizzlies East, AM (random encounter; swimming west across the south side of the lake being chased by wolf; directly in line with junction east of **Wapiti**; verified 14:45)
+- Calumet Ravine, Grizzlies East, AM (random encounter; swimming west across the south side of the lake being chased by wolf; directly in line with junction east of **Wapiti**; 14:45)
 - Fort Wallace, Cumberland Forest, NH (east of **Fort Wallace**; in trees on west side of road at first junction south of **Bacchus Station**; 15:01)
 - Witches Cauldron, Grizzlies East, AM (west of **Witches Cauldron**; between 'I' and 'N' in "AMBARINO"; northeast of junction by **Strange Statues**; spawns out-of-bounds, but you can either lure it in-bounds with bait or roll the dice by spooking it)
 - O'Creagh's Run, Grizzlies East, AM (east shoreline of lake; just south of **Veteran's Homestead**; to the east of "O'Creagh's" in "O'Creagh's Run"; 14:00-17:00)
-- O'Creagh's Run, Grizzlies East, AM (random encounter; north shoreline of lake; swims south in line with "Cr" in "O'Creagh's Run" to northeast edge of peninsula)
-- Fairvale Shanty, Grizzlies East, AM (in grass on south side of road; southwest of **Fairvale Shanty**)
+- O'Creagh's Run, Grizzlies East, AM (random encounter; north shoreline of lake; swims south in line with "Cr" in "O'Creagh's Run" to northeast edge of western peninsula)
+- Fairvale Shanty, Grizzlies East, AM (in grass on south side of road; southwest of **Fairvale Shanty**; sleep until morning at **The Loft**; 06:49-12:32)
 - Willard's Rest, Roanoke Ridge, NH (inside 3-way junction just southeast of "Rest" in "Willard's Rest"; north side of train tracks)
 - Brandywine Drop, Roanoke Ridge, NH (east side of river; edge of first cliff up from river at waterfall; west of first 'R' in "ROANOKE RIDGE")
 - Beaver Hollow, Roanoke Ridge, NH (hillside east of path running northwest from **Beaver Hollow**)
-- Viking Tomb, Roanoke Ridge, NH (riverside on northern shoreline of **Kamassa River**; south of **Viking Tomb**)
+- Viking Tomb, Roanoke Ridge, NH (northern shoreline of **Kamassa River**; southwest of **Viking Tomb**; just below moose map icon)
 - Cattail Pond, Grizzlies West, AM (northeast shore of **Cattail Pond** on path which **Beartooth Beck** flows over; hard to spot as it's often spooked because of NPCs)
 - Cumberland Falls, Heartlands, NH (east shore between 'o' and 't' in "Dakota River"; across from where **Little Creek River** feeds in; southwest of **Downes Ranch**)
 - Wallace Station, Big Valley, WE (east-southeast of the station; on the west side of the **Dakota River** hanging over the path closest to the river)
-- Painted Sky, Big Valley, WE (riverside next to 4 Wild Mint plants; north of Painted Sky; below Burdock Root map icon)
-- Owanjila, Big Valley, WE (random encounter; chased by wolf swimming across **Owanjila**; swims to northeastern peninsula with 1 **Burdock Root**; 17:20)
-- Fort Riggs, Big Valley, WE (southwest of junction coming from the **Strawberry Stable**; 10 or so paces southeast of boar map icon)
+- Painted Sky, Big Valley, WE (southern shore of **Dakota River** next to 4 Wild Mint plants; north of **Painted Sky**; below Burdock Root map icon)
+- Owanjila, Big Valley, WE (random encounter; chased by wolf swimming across **Owanjila**; swims to northeastern peninsula with 1 **Burdock Root**; 11:45-17:20)
+- Fort Riggs, Big Valley, WE (southwest of junction coming from the **Strawberry Stable**; 10 or so paces southeast of boar map icon; 14:01)
 - Nekoti Rock, Tall Trees, WE (west side of river; northwest of 'U' in "Upper Montana River"; south side of path north of the 'U' that crosses the river; on the edge of a Loon map icon)
 - Evelyn Miller Camp, Tall Trees, WE (directly east of second 'L' in "TALL TREES"; next to a **Lady Slipper Orchid**)
-- Bear Claw, Tall Trees, WE (second 'E' in "TALL TREES"; occasionally a random NPC campsite spawns 20m away which disables moose spawn)
+- Bear Claw, Tall Trees, WE (second 'E' in "TALL TREES"; occasionally a random NPC campsite spawns 20m away which seems to disable the moose spawn, if otherwise I never see both of them at the same time)
 - Aurora Basin, Tall Trees, WE (between two groups of **Burdock Root** on the northwest side of **Aurora Basin**; northeast of Skinner Brothers campsite, which if present will disable moose spawn)
-- Aurora Basin, Tall Trees, WE (out-of-bounds atop small cliff on south end of **Aurora Basin**; west side of **Lower Montana River**; usually falls in-bounds when killed where it stands, but may sometimes fall backwards and remain out-of-bounds)
+- Aurora Basin, Tall Trees, WE (out-of-bounds atop small cliff on the southwest end of **Aurora Basin**; west side of **Lower Montana River**; may sometimes fall backwards and remain out-of-bounds; draw it out with Herbivore Bait like with the OOB Ambarino moose; sleep until morning at **Swadbass Point**; 06:00)
 - *Painted Sky, Big Valley, WE ('v' in "Dakota River"; south of Painted Sky)*
 - *Donner Falls, Grizzlies East, AM (cliff edge overlooking falls; possibly shared with grizzly spawn)*
 - *Fort Riggs, Big Valley, WE (southwest of fort; west side of path)*
@@ -409,7 +447,7 @@ From what I've read and my own experience, the most notoriously rare animals are
 ### Grizzly Bear
 - Barrow Lagoon, Grizzlies West, AM (random encounter; south side of lagoon; eating deer carcass and fighting off wolves)
 - Cattail Pond, Grizzlies West, AM (random encounter; just east of the pond; eating deer carcass and fighting off wolves)
-- Cattail Pond, Grizzlies West, AM (southeast of pond; south of train tracks near cliff edge and **Alaskan Ginseng** growing on dead brush patch)
+- Cattail Pond, Grizzlies West, AM (southeast of pond; south of train tracks near cliff edge and **Alaskan Ginseng** growing on dead brush patch; 13:45)
 - Cotorra Springs, Grizzlies East, AM (south of hot springs)
 - Fairvale Shanty, Grizzlies East, AM (in small bunch of trees 15 paces south of shanty)
 - O'Creagh's Run, Grizzlies East, AM (random encounter; west shore; eating deer carcass and fighting off wolves)
@@ -422,6 +460,7 @@ From what I've read and my own experience, the most notoriously rare animals are
 - Wallace Station, Big Valley, WE (north of the second 'L' in "WAL**L**ACE")
 - Watson's Cabin, Big Valley, WE (south shore of the creek; north of 'R' in "Little Creek **R**iver"
 - Black Bone Forest, Big Valley, WE (south of 'W' in "WEST ELIZABETH")
+- Black Bones Forest, Big Valley, WE (south-southeast of **Trapper**; 22:00)
 - Nekoti Rock, Tall Trees, WE (standing in the **Upper Montana River** towards the west bank; east of **Nekoti Rock**; west of second 'n' in "Upper Montana River")
 - Bear Claw, Tall Trees, WE (random encounter; northwest of **Bear Claw**; second 'E' in "TALL TREES"; snooping around NPC campsite)
 - Bear Claw, Tall Trees, WE (random encounter; west of **Bear Claw**; sitting near cliff edge facing **Lower Montana River**)
@@ -513,8 +552,11 @@ Channel Catfish | Overcast | Swamp Lure | NNNB | Gritty
 Longnose Gar | Overcast | Swamp Lure | NNNNNNNB | Gritty
 Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 
-### Bluegill
+### Bluegill, Perch, Rock Bass, Chain Pickerel
 - Pretty much everywhere, even up at **Lake Isabella** and down in the **Sea of Coronado**.
+
+### Redfin Pickerel
+- Lower Montana River, Great Plains, WE (everywhere south of the **Lower Montana** and all over **New Austin**)
 
 ### Bullhead Catfish
 - Bayou Nwa, LE (best area I've found is both the swamp and riverside in **Lagras**)
@@ -555,6 +597,7 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 - Willard's Rest, Roanoke Ridge, NH
 
 ### Northern Pike
+- Dodd's Bluff, Grizzlies West, AM (**Dakota River**)
 
 # HORSE LOCATIONS
 
@@ -583,7 +626,8 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 ### English Mace
 - east of **O'Creagh's Run**; northwest of **Martha's Swain**; only 5 plants
 - east of **Mysterious Hill Home**; same place Rains Fall picked during Archaeology for Beginners
-- along the **San Luis River** from the east border of **Hennigan's Stead** (cliff over shore of **Flat Iron Lake**) to the west border of **Rio Bravo**; **NOTE: IT GROWS NEAR THE RIVER, NOT ON THE BANKS OF IT; IT DOESN'T GROW VERY CLOSE TO THE WATER LIKE MILKWEED DOES**
+- Lone Mule Stead, Big Valley, WE
+- along the **San Luis River** from the 'H' in "WEST ELIZABETH" to a bit west of **Scratching Post, Gaptooth Ridge, NA**; **NOTE: IT GROWS NEAR THE RIVER BUT NOT DIRECTLY ON THE BANKS LIKE MILKWEED DOES.**
 - north and northeast of **MacFarlane's Ranch** in **Hennigan's Stead, NA**
 ### Prarie Poppy
 - south of **Armadillo**; northwest of **Lake Don Julio**
