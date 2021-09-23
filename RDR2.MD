@@ -65,17 +65,22 @@ There are six opposing gangs throughout the game. Here's a rundown of where they
 **O'Driscoll Boys**
 - Hideouts: Hanging Dog Ranch, Big Valley, WE (before Ep. I); Six Point Cabin, Cumberland Forest, NH
 - Camps: southeast of Fort Wallace, Cumberland Forest, NH
+
 **Lemoyne Raiders**
 - Hideout: Shady Belle, Scarlett Meadows, LE
 - Camps: Abandoned Church, Scarlett Meadows, LE
+
 **Murfree Brood**
 - Hideout: Beaver Hollow, Roanoke Ridge, NH
 - Camps: none, but can be found looting NPC campsites around Roanoke Ridge.
+
 **Del Lobos**
 - Hideout: Fort Mercer, Rio Bravo, NA
 - Camps: Gaptooth Breach, Gaptooth Ridge, NA; Solomon's Folly, Gaptooth Ridge, NA; Twin Rocks, Cholla Springs, NA; Thieve's Landing, Hennigan's Stead, NA
+
 **Skinner Brothers**
 - Camps: east shore of Aurora Basin, Tall Trees, WE; north of Bear Claw, Tall Trees, WE; 
+
 **Laramie Boys**
 - Hideout: Hanging Dog Ranch, Big Valley, WE (after Ep. I)
 
