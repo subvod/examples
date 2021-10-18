@@ -1,6 +1,6 @@
 # RED DEAD REDEMPTION 2 NOTES
 
-*A collection of noted events and encounters, along with some observed numerical data. All information is based upon vanilla runs (without mods).*
+*A collection of noted events and encounters, along with some observed numerical data and notes associated with said data. All information is based upon PC vanilla runs without mods (aside from RampageTrainer).*
 
 [SURVIVING IN THE WILDERNESS](#surviving-in-the-wilderness) *basic survival techniques*
 
@@ -31,12 +31,12 @@ You're better off with a horse, but it's certainly possible to survive on your o
 ### The Basics
 *NOTE: nothing grows up in the Northwestern snow-covered areas of Ambarino.*
 
-- Cooked meats refill all cores according to the type of meat. The best combo of store-bought items I've found is **Baked Beans** and **Fine Brandy**. For wild meats, aside from **Big Game** (the best cut; see below in "Advanced Survival"), the most nutritious cuts are: **Venison**, **Pork**, **Game**, **Succulent Fish**, **Prime Beef**, and **Exotic Bird**. The most common animals for these cuts are **Deer**, **Pronghorn**, **Elk**, **Duck**, and **Rabbit**. Though, **Moose**, **Wild Boar**, **Collard Peccary**, **Domestic Pigs**, **Bison**, **Ox**, **Bull**, **Cow**, **Pheasant**, **Pelican**, **Macaw (Parrot)**, **Carolina Parakeet**, **Sockeye Salmon**, and **Rainbow Trout** all yield meats that greatly restore all cores. When seasoned, these meats fully restore the core associated with the herb used.
+- Cooked meats refill all cores. The amount of restoration changes according to meat type. The best combo of store-bought items I've found is **Baked Beans** and **Fine Brandy** (two of each will fully restore all cores). For wild meats, aside from **Big Game** (the best cut; see below in "Advanced Survival"), the most nutritious cuts are: **Venison**, **Pork**, **Game**, **Succulent Fish**, **Prime Beef**, and **Exotic Bird**. The most common animals for these cuts are **Deer**, **Pronghorn**, **Elk**, **Duck**, and **Rabbit**. Though, **Moose**, **Wild Boar**, **Collard Peccary**, **Domestic Pigs**, **Bison**, **Ox**, **Bull**, **Cow**, **Pheasant**, **Pelican**, **Macaw (Parrot)**, **Carolina Parakeet**, **Sockeye Salmon**, and **Rainbow Trout** all yield meats that greatly restore all cores. When seasoned, these meats fully restore the core associated with the herb used.
 - **Wild Carrots** are the holy grail of horse upkeep. They grow everywhere. Yes, there are two different carrots. You cannot use bought/looted regular **Carrots** in crafting recipes, but they provide the same benefits as **Wild Carrots**. If you're not big on harvesting **Wild Carrots** yourself, farmed **Carrots** are available for purchase at Stables. However if you buy provisions from a Stable, **Hay** is the far superior choice as it is the cheapest cost-per-benefit.
 - Weapon loadout doesn't really matter unless you have a preference towards a certain gun or are going for clean kills. Weapon selection is only limited by story progression, but some weapons can be obtained before they're unlocked via progression. That and it's an open world for a reason.
 - Some animals will charge and kill you: **Grizzly Bears**, **Cougars**, **Wolves**, **Panthers**, and **Alligators** (only if you get super close to them).
 - Some animals are aggressive, but not to the point they'll outright kill you. All large male animals (**Rams**, **Whitetail Bucks**, **Boars/Collared Peccaries**, and **Bull Elk**) will charge and headbutt you if you're not sprinting. Yes, even if you're facing them. There's really no trick to avoiding getting headbutted other than outrunning the animal or killing/spooking it, and that's only if you see it before it happens.
-- All **Snakes** on land will bite you if you get too close to them. If you've got your TV turned up or are using a headset, you'll hear the hissing (and rattling as well if it's a rattler) before they strike... but I have to be within five feet of them to hear it so it's not much of a warning to me. For snake bites or ingested **Oleander**, drink a **Potent/Special Health Cure**. Regular **Health Cures** do not cure venom/poison.
+- All **Snakes** on land will bite you if you get too close to them. If you've got your TV turned up or are using a headset, you'll hear the hissing (and rattling as well if it's a rattler) before they strike... but I have to be within five feet of them to hear it so it's not much of a warning to me even with a headset. For snake bites or ingested **Oleander**, drink a **Potent/Special Health Cure** (or **Potent/Special Miracle Tonic**). Regular **Health Cures** do not cure venom/poison. Alternatively, eating **Ginseng** cures venom/poison (I've not tested this).
 - Some animals will bite you, but won't cause any noticable damage: **Muskrats**, **Beavers**, **Raccoons**, and **Badgers**.
 
 ### "Advanced" Survival
@@ -52,12 +52,23 @@ You're better off with a horse, but it's certainly possible to survive on your o
 - **Animal Fat** isn't a necessity, but is required for **Explosive Rounds** (unlocked at beginning of **Chapter 2**) which are both fun to use and extremely useful when taking down legendary animals. **Canada Geese**, **Ducks** (not Loons), and **Beavers** are by far the best animals for this as they are plentiful in many areas across the map (north of New Austin), but **Boars/Pigs/Peccary** and **Bears** also yield animal fat. **Geese** and **Ducks** yield **Flight Feathers** (for all improved **Arrow** types) and **Animal Fat** while **Beavers** yield **Scent Glands** (for **Cover Scent Lotion**) and **Animal Fat**. *NOTE: A PRIME LOCATION FOR GEESE, DUCKS, AND BEAVERS IS OWANJILA.*
 
 ### Honor And Benefits
-Surviving on your own is quite easy, cooking food and crafting tonics/ammo. That being said, if you don't care for the outfits only available with high honor, honor level in general makes no difference. However honor level does affect some aspects of the game:
+Honor is measured by ranks -8 to +8 on a scale according to the total honor as an integer from -320 to +320. If you don't care for the outfits only available with high honor, honor level in general makes no difference. However honor level does affect some aspects of the game.
 - Shops give a discount (up to 50% with max high honor) on all items, as well as the ability to buy "high honor" outfits. Honor at or lower than neutral (0) does not affect shop prices.
 - With maximum negative honor, the ambient sounds of deadeye change.
 - Most story dialog changes based on honor level.
 - Arthur and John's mannerisms change based on honor. Example: when pulling a gun, saying "don't make me do this" with high honor versus "I will kill you right here" with low honor.
 - In Chapter 6, actions that affect honor have a multiplier of 1.5x. Use this to your advantage if you run low honor as Arthur but want the "high honor" ending.
+
+Honor | Effect
+:--- | ---
+280 | 50% discount in all shops
+240 | New outfits available in shops.
+200 | 25% discount in all shops
+120 | New outfits available in shops.
+80 | 10% discount in all shops.
+40 | When looting bodies, drop rates of potent tonics, restorative items, jewelry, and food is increased.
+0 | When looting bodies, primarily obtain standard tonics, cheap jewelry, basic horse consumables, and used/opened alcohol and tobacco.
+-40 | When looting bodies, drop rates of dead eye tonics, thrown weapons, alcohol, and tobacco are increased. Also receive more money and jewelry when looting lawmen.
 
 ### Axis Gangs
 There are six opposing gangs throughout the game. Here's a rundown of where they reside:
@@ -265,6 +276,11 @@ You'll need enough alcohol to blackout to do this. If you've got the **Wolf Hear
 
 - A quick side note: I black out drunk on the east side of **Aurora Basin** and woke up on the west side out-of-bounds. I will try to replicate this soon, but the few times afterwards resulted in no joy.
 
+### Speed crafting.
+Want to stock up on crafted consumables? Download [CheatEngine](https://www.cheatengine.org/downloads.php). I use the RAR archive version which you don't have to join Patreon for; it doesn't come bundled with "optional" adware/bloatware like the installer does, but feel free to use what you want. Be sure to launch the 64-bit version of CheatEngine when using it in RDR2. Open "RDR2.exe" via the Open Process dialog and check "Enable Speedhack". You can adjust the speed as you see fit. When finished, uncheck the box to disable the speedhack.
+
+Sometimes, a glitch may occur where the crafting process of some items (seemingly random) will freeze halfway through. I use 500x speed and travel near Colter when doing this, which seems to lower the chance of this happening.
+
 ### Discount at Saint Denis shops as reward for killing Jean Marc as ordered by Mayor Henri Lemieux.
 This can be done with Arthur and the discount will transfer to John. However, I calculated my discount with max honor and post-story mode I'm getting only a 55% discount. According to my player menu I am getting the full 50% max honor discount. According to everyone online the discount is meant to be 10% regardless of honor. I'm unsure if I just have a glitch, if the total discount at shops is meant to have be capped at 55%, or if the discount is lowered to 5% if transferred to John rather than doing the Mayor's final mission as John and (possibly) getting the full 10%. Regardless, 5% is better than nothing.
 
@@ -289,11 +305,12 @@ This is a glitch that remains unfixed. Many players have completed Bandit 10 as 
 ### Micro-Stuttering, FPS Drops, ERR_GFX_STATE Popup/Crash, and other graphics issues.
 For micro-stuttering (I had it about once every ten seconds):
 
-1. Change your graphics API. If you're using Vulkan, change to DX12.
+1. Change your graphics API. If you're using Vulkan, change to DX12. If the contrary, do the opposite.
 2. Close the game.
 3. Update/reinstall your graphics driver. Yeah, it's cliche... but the shit worked for me. Be sure to do a **CLEAN INSTALL** when reinstalling/updating the driver. It fixed the micro-stuttering I was encountering (about once every ten seconds). System info: ASUS G14 (2021) AMD Ryzen 9 5900HS @ 3301 MHz, 16384MB, NVIDIA RTX 3060 Laptop GPU, RDR2 Build 1436, NVIDIA Driver v471.96
-4. Restart your computer.
-5. Start the game.
+4. (Optional extra step.) Do as shown below for fixing the "ERR_GFX_STATE" error. I periodically (about once a week) do this regardless and I'm able to eliminate micro-stuttering. I don't reinstall my drivers once a week, I just delete everything in the Settings folder except for "system.xml" (to retain graphics settings).
+5. Restart your computer.
+6. Start the game.
 
 For the *ERR_GFX_STATE* popup and crash:
 
@@ -373,7 +390,8 @@ Bow (~2) | 55 | 166 | 15 | -
 # ANIMAL LOCATIONS
 
 ### Disclaimer(s) and Information
-- These are locations at which I've seen animals with my own eyes and verified they spawn there. Unverified/speculated locations noted from other players which I've not verified myself are in italics.
+- Observation constants: 100% Completion, LotE outfit, max hair (swept back fade at length 9) and beard length (soup savour at length 9), Silver Dapple Pinto Missouri Fox Trotter as saddle horse, constant application of cover scent, as in once every 2-3 minutes, akimbo LeMat Revolvers, and Bolt Action Rifle as sole primary (I only use the Bolt Action), RampageTrainer player+horse cores never drain as well as no reload, auto-cock, infinite ammo, and perfect pelt gun.
+- These are locations at which I've seen animals with my own eyes and verified they spawn there. Unverified/speculated locations noted from other players which I've not verified myself are in italics. Locations are listed from northwest to southeast/southwest. Locations below the Upper Montana River are documented at the bottom of each list as that area isn't (normally) accessible until Epilogue I.
 - Directions in the format such as "east-northeast" signify a biased multidirectional point. Basic knowledge as I assumed this to be, I've received numerous questions about the associated phrases. Example: "east-northeast of the ranch" means "northeast of the ranch, but more east than north".
 - The rarest animals are listed first, then all other animals.
 - When anything is in quotes, for example "Willard's Rest", it signifies the text on the overworld (pause menu) map. Actual, in-game locations are noted in bold, as such: **Willard's Rest**.
@@ -395,18 +413,32 @@ From what I've read and my own experience, the most notoriously rare animals are
 ### Western Bull Moose
 **Map:** https://i.imgur.com/nGge2oS.jpg
 
-**NOTE:** The best time for moose hunting from my experience is 14:00-18:00. I've killed more moose in that time frame than in the morning, though I've had better luck during morning runs than midday runs. Basically early morning (06:00) and shortly after noon (13:00) are the best times to head out. Regardless, I've put in time frames for when I've seen moose at certain spawn locations.
+**NOTE:** The best time for moose hunting from my experience is 14:00-18:00. I've killed more moose in that time frame than in the morning, though I've had better luck during morning runs than midday runs. Basically early morning (06:00-11:00) and shortly after noon (13:00-18:00) are the best times to head out. Regardless, I've put in time frames for when I've seen moose at certain spawn locations.
 
-**NOTE:** You don't have to stable the Perlino Andalusian nor White Arabian horses. Them being present in the wild near moose spawns doesn't seem to affect the chance of moose spawning. Nonetheless, I keep both stabled. If anything else, they take up one more space in the ped pool.
+**NOTE:** What affects moose spawns? In short: nearby NPCs, random events, missions, etc. Any random events, NPCs, or stranger/story missions nearby may (will likely) disable most animal spawns, including moose. You don't have to stable the Perlino Andalusian nor White Arabian horses for the nearby moose spawns to work. You don't have to kill the White Bison either. Them being present in the wild near the Lake Isabella moose spawns doesn't seem to affect the chance of moose spawning. Nonetheless, I keep both stabled. If anything else, they take up one more space in the ped pool.
 
-**NOTE:** All spawn locations yield a cow or bull moose of any quality at random. I've yet to obtain conclusive evidence that some spawns are exclusive to a certain gender moose. That is, of course, other than southwest of Strawberry. So far I've only come across cow moose at the two locations around the Upper Montana.
+**NOTE:** All spawn locations yield a cow or bull moose of any quality at random. I've yet to obtain conclusive evidence that some spawns are exclusive to a certain gender moose. That is, of course, other than southwest of Strawberry. So far I've only come across cow moose at the two locations along the Upper Montana.
 
 **NOTE:** Moose spawns do not appear to be affected by time nor weather conditions. However, I will note these few points: I generally have to wait in the area for a while before I see any. Snoop about the area you're in because the game seems to have this "time spent in area" mechanic where some animals take longer to load in than others. This mechanic doesn't appear to be affected by Cover Scent Lotion, so I'm assuming it's just "time spent". Also, the moose I got at Wallace Station was legitimate. I loaded in at Stilt Shack to sleet and was making my way down the LCR collecting wintergreen berries. I continued on down river where I almost ran past it, sleet still coming down just as strong as it was when I loaded in. I've also killed three moose in Tall Trees after loading in at Swadbass Point at 02:00. Another odd one: while hunting for the moose south of the Strawberry Stable, I paced around the area where it's meant to spawn for about ten minutes. Just as the transition to rain ended, the moose clip spawned in right as the rain reached its full pour-down (the game's weather change mechanic spreads weather changes out over a few seconds; it popped in right as the transition ended). Coincidence? I think not. As I said, the moose clip spawned in right as the weather change to rain completed. By "clip spawn" I mean it popped in. Yes, I was about 100 feet from it and facing the spawnpoint. This might mean some moose spawns are weather-sensitive. But, as always, I'll continue to test this.
+
+**NOTE:** There are three moose coat variations in-game: a dark brown (almost black), a rust brown (almost orange), and a gray-brown (patterned, if you squint it's almost palomino). For some reason, in all playthroughs across both XB1 and PC, 99% of bull moose I see are the orange coat and every cow I've seen is gray-brown. The only places I can consistently find all alternative coats are the OOB spawn in Ambarino and the second 'L' in "TAL**L** TREES". I've not figured out why this is.
+
+**NOTE:** This is just speculation right now, but using RampageTrainer I set my honor to max-low (-320). I've encountered **far fewer** moose this week with -320 honor than the week I set max high (320).
+
+**NOTE:** Below is a list of the "most reliable" spawns based on my experience; "most reliable" as in the consistency of moose spawning on any given trip, not the star rating nor gender of the moose itself. Every spawn not listed directly below has not yielded moose nearly as consistently, primarily because almost all of those spawns are closer to paths and are far more likely to be scared off due to passerby NPCs.
+
+- **Witches Cauldron**
+- **Fairvale Shanty**
+- **Colter**
+- **Aurora Basin**, **Bear Claw**, and **Evelyn Miller Camp**
+- **Lake Isabella** (on southwestern path; the other two are random encounters and as such aren't nearly as consistent)
+
+But, here's all the spawn locations I've come across:
 
 - Colter, Grizzlies West, AM (atop small cliff on southeast side of road running northeast out of **Colter**; 06:27-14:41)
 - Lake Isabella, Grizzlies West, AM (beside path on west side of **Lake Isabella**; very near **White Arabian** spawn; wolves playing (random encounter) do not affect spawn; verified time frame 09:13-15:32
 - Lake Isabella, Grizzlies West, AM (laying on ice northwest side of **Lake Isabella**; southeast of destroyed cabin; just some paces away from the spawn described above; I've seen two bull meese at the same time here, but only once)
-- Lake Isabella, Grizzlies West, AM (being chased by a lone wolf across the water of northern **Lake Isabella**; unsure if coincidental spawn of both wolves and moose, unlikely as I never found the second wolf nor its trail if it were from the wolves playing random encounter)
+- Lake Isabella, Grizzlies West, AM (random encounter; chased by wolf across northwestern **Lake Isabella**; swims to northern shore just southeast of waterfall; 17:45)
 - Cairn Lake, Grizzlies West, AM (laying on ice in center of **Cairn Lake**)
 - Barrow Lagoon, Grizzlies West, AM (laying on ice southeast side of lagoon; 08:20)
 - Window Rock, Grizzlies West, AM (west side of train tracks atop cliff overlooking trestle bridge southwest of **Window Rock**; southwest of the trestle bridge itself; dead west of "Dodd's Bluff"; dead south of "Chez Porter"; northeast of dreamcatcher)
@@ -455,11 +487,17 @@ From what I've read and my own experience, the most notoriously rare animals are
 - *Fort Mercer, Rio Bravo, NA (supposedly somewhere near the loop going around the fort; probably the south side)*
 - *Macfarlane's Ranch, Hennigan's Stead, NA (I've been ambushed by a few Timbers in New Austin... maybe here, maybe Cueva Seca, can't recall exactly where, but only the one time)*
 ### Cougar
+**NOTE:** Cougars spawn far more frequently at night, but they can and will spawn during the day. Best hunting I've done is 22:00-04:00.
+
+**NOTE:** It's become apparent that random encounters with cougars almost always occur in the daytime. (Campsite stalk has been observed across the clock, but attacking deer I've only seen during the daytime.
+
+**NOTE:** Hotspots for cougars are up in the northeast corner of the map (Roanoke Ridge, NH) and north of Ridgewood Farm (Cholla Springs, NA). I've bagged three cougars in three minutes at each, but the spawns north of Ridgewood are more dense, so if you're running post-story that's your best bet. Otherwise, Roanoke Ridge is the next best. The spawns at Cochinay (Tall Trees, WE) are quite reliable, as well.
+
 **NOTE:** If you're a fast draw, stealth hunting cougars may not be your best option. Because aggressive animals will rush you and your horse, sometimes it's best to just stay mounted, rifle/bow in hand, and wait for them to attack you. Especially if you don't know where they are.
 
 - Black Bone Forest, Big Valley, WE (laying next to creek feeding into **Owanjila**; west of **Native Burial**; west side of path next to creek)
-- Pronghorn Ranch, Big Valley, WE (north side of path north of 'h' in "Pronghorn Ranc**h**")
-- Doverhill, Roanoke Ridge, NH (random encounter; west bank of **Kamassa River**; north of train tracks; ambushes NPC at campsite)
+- Pronghorn Ranch, Big Valley, WE (random encounter; north side of path north of 'h' in "Pronghorn Ranc**h**")
+- Doverhill, Roanoke Ridge, NH (random encounter; west bank of **Kamassa River**; north of train tracks; creeps up to NPC campsite)
 - Brandywine Drop, Roanoke Ridge, NH (southwest of **Willard's Rest**; northwest of 'e' in "Brandywin**e** Drop")
 - Roanoke Valley, Roanoke Ridge, NH (between the two roads west of "ROA" in "**ROA**NOKE VALLEY")
 - Beecher's Hope, Great Plains, WE (north of Beecher's)
@@ -478,6 +516,8 @@ From what I've read and my own experience, the most notoriously rare animals are
 - *Benedict Point, Rio Bravo, NA (southeast of Benedict; seems to be two or three spawns around there according to maps)*
 - *Cueva Seca, Gaptooth Ridge, NA (somewhere near the legendary cougar?)*
 ### Californian/Coastal/Great Horned Owl
+
+
 **NOTE:** At 21:00, miscellaneous birds (Ravens, Crows, Sparrows, etc) no longer fly overhead. This makes it easier to spot Owls as anything flying later than 21:00 is almost guaranteed to be an Owl. The only exceptions are hawks and eagles, which only fly at night when there's a carcass/corpse nearby. But, here's a caveat I noticed: from 06:00-20:59 there seems to be way more perched (standing, stationary) Owls around pretty much everywhere I've tested (very noticable difference when rooting around in Tall Trees).
 
 **NOTE:** Coastal and Great Horned can be found across the entire map despite name implications. (I've found Coastals all the way up at Cairn Lake.) Owls in New Austin are usually Californians, with a few Great Horned here and there, but rarely Coastals out there. I think I've killed five or six in New Austin since I got the game.
@@ -523,14 +563,17 @@ From what I've read and my own experience, the most notoriously rare animals are
 - Wallace Station, Big Valley, WE (there's at least four spawn locations in close proximity between **Watson's Cabin** and **Wallace Station**; all of which are south of the dinosaur bone cave and reasonably close to the old chimney; I've killed three grizzlies in five minutes here)
 - Wallace Station, Big Valley, WE (north of the second 'L' in "WAL**L**ACE")
 - Watson's Cabin, Big Valley, WE (south shore of the creek; north of 'R' in "Little Creek **R**iver"
-- Black Bone Forest, Big Valley, WE (south of 'W' in "**W**EST ELIZABETH")
-- Black Bone Forest, Big Valley, WE (south-southeast of **Trapper**; 22:00)
+- Pronghorn Ranch, Big Valley, WE (south of 'W' in "**W**EST ELIZABETH")
+- Black Bone Forest, Big Valley, WE (south-southeast of **Trapper**; just northwest of path diverge from creek; 22:00)
 - Nekoti Rock, Tall Trees, WE (standing in the **Upper Montana River** towards the west bank; east of **Nekoti Rock**; west of second 'n' in "Upper Monta**n**a River")
 - Bear Claw, Tall Trees, WE (random encounter; northwest of **Bear Claw**; second 'E' in "TALL TRE**E**S"; snooping around NPC campsite)
 - Bear Claw, Tall Trees, WE (west of **Bear Claw**; sitting near cliff edge facing **Lower Montana River**)
 - Bear Claw, Tall Trees, WE (south of **Bear Claw**)
 - Aurora Basin, Tall Trees, WE (random encounter; eating deer carcass on northeastern peninsula; 15:15)
 - Aurora Basin, Tall Trees, WE (random encounter; catching salmon on east shore)
+- *Black Bone Forest, Big Valley, WE (east side of path southeast of Trapper; east-southeast of path diverge from creek; dead south of 'B' in "BIG VALLEY")*
+- *O'Creagh's Run, Grizzlies East, AM (north of O'Creagh's; southwest of 'O' in "AMBARINO")*
+- *Window Rock, Grizzlies West, AM (southeast of Window Rock; possibly on south shore of Dakota or northwest edge of Cumberland Forest)*
 ### Panther/Florida Panther
 **NOTE:** Best hunted at night (18:00-06:00).
 
