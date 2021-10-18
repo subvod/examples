@@ -411,8 +411,6 @@ From what I've read and my own experience, the most notoriously rare animals are
 ## Animals
 
 ### Western Bull Moose
-**Map:** https://i.imgur.com/nGge2oS.jpg
-
 **NOTE:** The best time for moose hunting from my experience is 14:00-18:00. I've killed more moose in that time frame than in the morning, though I've had better luck during morning runs than midday runs. Basically early morning (06:00-11:00) and shortly after noon (13:00-18:00) are the best times to head out. Regardless, I've put in time frames for when I've seen moose at certain spawn locations.
 
 **NOTE:** What affects moose spawns? In short: nearby NPCs, random events, missions, etc. Any random events, NPCs, or stranger/story missions nearby may (will likely) disable most animal spawns, including moose. You don't have to stable the Perlino Andalusian nor White Arabian horses for the nearby moose spawns to work. You don't have to kill the White Bison either. Them being present in the wild near the Lake Isabella moose spawns doesn't seem to affect the chance of moose spawning. Nonetheless, I keep both stabled. If anything else, they take up one more space in the ped pool.
@@ -470,8 +468,6 @@ But, here's all the spawn locations I've come across:
 - *Fort Riggs, Big Valley, WE (last 'r' in "Upper Montana River")*
 - *Nekoti Rock, Tall Trees, WE (southeast of Nekoti; dead east of junction south of "Nekoti Rock")*
 ### Timber Wolf
-**Map:** https://i.imgur.com/7eFY8hL.jpg
-
 **NOTE:** Gray Wolves are far more common than Timber Wolves. Outside of **Cotorra Springs** and **Cumberland Forest**, every Timber Wolf I've encountered was in a team of two. I have never come across a pack of Timbers (outside of Cotorra/Cumberland) bigger than a dynamic duo. Grays are a different story... every time I get ambushed by Grays it's at least a trinamic trio.
 - Cairn Lake, Grizzlies West, AM (south side of path; west of lake)
 - Lake Isabella, Grizzlies West, AM (west side of path; north of lake)
@@ -545,7 +541,6 @@ But, here's all the spawn locations I've come across:
 - *Emerald Ranch, Heartlands, NH (supposedly in or on a barn on the west side of the ranch)*
 - *Manteca Falls, Hennigan's Stead, NA (supposedly all around the falls)*
 ### Grizzly Bear
-**Map:** https://i.imgur.com/rK13HkO.jpg
 
 **NOTE:** Sometimes during the random encounters, wolves may not spawn and the bear may just be munching on a corpse.
 
