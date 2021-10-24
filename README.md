@@ -12,10 +12,6 @@ Here's a few clips I enjoy listening to. They'll give you a feel for how I opera
 
 That out of the way, this is a jumbled assortment of random scripts and snippets for referential purposes. I'm not some big time developer. I've spent (probably more than) my fair share of time tinkering around with over 20 languages, but I've primarily focused on C++ and Python since 2013. The few reference files I have for C/C++ are super basic functions I found online for different projects of my own, so I feel no need to upload them here. However, in a section below, I will link all libraries and tools I've used both inside and outside programming.
 
-[Turn Notepad++ into an IDE of sorts](https://github.com/subvod/examples/blob/master/NPP-IDE.MD) using **NPPExec** and **Notepad++ Macros**. Can be modified to work with any command-line compiler for any language.
-
-[Automate the download and conversion/extraction of audio and video from the internet](https://github.com/subvod/examples/blob/master/youtube-dl.MD) using **youtube-dl** and **ffmpeg**.
-
 [rdr2-maps](https://github.com/subvod/rdr2-maps) *Red Dead Redemption 2 Map Archives* - Locations for rare/uncommon animals and places you can sit in Red Dead Redemption 2.
 
 [RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). *Red Dead Redemption 2 Reference Document* - Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), etc.
@@ -44,9 +40,11 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 - [youtube-dl](https://youtube-dl.org/) - stream/download from various sources
 - [READ ABOUT RIAA'S FAILED ATTEMPT TO SHUT DOWN YOUTUBE-DL :)](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
+- [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet.
 - [FFMpeg](https://github.com/FFmpeg/FFmpeg) - audio/video conversion
 - [VLC](https://github.com/videolan/vlc) - media player
 - [Audacity](https://github.com/audacity/audacity) - audio editor
+- [Automate the download and conversion/extraction of audio and video from the internet](https://github.com/subvod/examples/blob/master/youtube-dl.MD) using **youtube-dl** and **ffmpeg**.
 
 ### Image
 
@@ -58,7 +56,6 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 - [Blender](https://developer.blender.org/diffusion/) - 3D Editor
 - [Wings3D](http://www.wings3d.com/) - 3D Editor
-- [CFHodEd](https://github.com/Fallen-Angel/CFHodEd) - Homeworld HOD Editor
 
 ## Programming Related
 
@@ -73,6 +70,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 ### Text Editors
 
 - [Notepad++](https://notepad-plus-plus.org/) - text editor; can be made into an IDE with Batch scripts
+- [Turn Notepad++ into an IDE of sorts](https://github.com/subvod/examples/blob/master/NPP-IDE.MD) using **NPPExec** and **Notepad++ Macros**. Can be modified to work with any command-line compiler for any language.
 
 ### IDEs
 
@@ -93,13 +91,28 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [Boost C++ Libraries](https://www.boost.org/)
 - [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library for C++
 
-### Nintendo GameBoy/SNES Emulation/Development Related
+### Game-Specific Libraries/Tools
+
+*Homeworld 1, Cataclysm, 2, and/or Remastered:*
+
+- [bigDecrypter](https://github.com/mon/bigDecrypter) - Decrypts HWR BIG files. for use with ModPackager/HW2ICArchive.
+- [CFHodEd](https://github.com/Fallen-Angel/CFHodEd) - Universal HOD Editor for both classic and remstered Homeworld games.
+- [HW Universe Mod Tools](https://www.moddb.com/games/homeworld-2/downloads/homeworld-universe-mod-tools) - Various tools for use with HW1, Cataclysm, and HW2.
+- [Homeworld 2 Manual PDF](https://www.moddb.com/games/homeworld-2/downloads/homeworld2-manual-pdf) - A direct PDF copy of the game manual. (Not a scanned copy.)
+- [Homeworld 2 Official v1.1 Patch](https://www.moddb.com/games/homeworld-2/downloads/homeworld-2-v-11-patch-last-and-only-patch) - The only official HW2 game update from Relic.
+- [HomeworldSDL](https://github.com/aheadley/homeworld) - source code for HW1's game engine.
+
+*SMW, SMW2:*
 
 - [SMWCentral](https://www.smwcentral.net/?p=section&s=tools) - SMW hacking forum, tools, ROM hacks, etc
 - [FuSoYa's Site](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think FuSoYa has moved most everything to SMWCentral
 - [ASAR](https://github.com/RPGHacker/asar) - 65816 assembler; successor to xkas
+- [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator
+
+*Pokemon Gen 1 and 2 (RBYGSC):*
+
 - [RGBDS](https://github.com/gbdev/rgbds) - Rednex Gameboy Development System
 - [Pokemon Crystal Disassembly](https://github.com/pret/pokecrystal)
 - [Pokemon Yellow Disassembly](https://github.com/pret/pokeyellow)
 - [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m) - merge project of all VBA branches; gb/gbc/gba emulator
-- [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator
+- [TGB Dual L](https://github.com/libertyernie/tgbdual_L) - Updated builds of TGB Dual, a GBC emulator which implements link cable emulation.
