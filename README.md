@@ -30,75 +30,76 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 ## System Utilities
 
-- *Alternative to CCleaner because Avast fucked it up* https://github.com/bleachbit/bleachbit
-- *Notepad++* https://notepad-plus-plus.org/
-- *7-Zip (I don't care if WinRAR is basically free and easily patch-able)* https://www.7-zip.org/
-- *LibreOffice (not paying for Microsoft Office)* https://www.libreoffice.org/
-- *IconsExtract (extract icon resources from WinPE/DLL* https://www.nirsoft.net/utils/iconsext.html
-- *ResourceHacker (extract, edit, and repack WinPE/DLL resources)* http://www.angusj.com/resourcehacker/
-- *CheatEngine (memory editor and process hook module; RAR archive download works fine and isn't bundled with "optional" bloatware/adware)* https://www.cheatengine.org/downloads.php
+- [BleachBit](https://github.com/bleachbit/bleachbit) - Alternative to CCleaner because Avast fucked it up.
+- [Notepad++](https://notepad-plus-plus.org/) - Advanced text editor.
+- [7-Zip](https://www.7-zip.org/) - Alternative (and I personally think superior) to WinRAR.
+- [LibreOffice](https://www.libreoffice.org/) - collection of alternatives for MS Office.
+- [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
+- [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
+- [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive download works fine and isn't bundled with "optional" bloatware/adware
 
 ## Media Related
 
 ### Audio/Video
 
-- *youtube-dl (stream/download from various sources):* https://youtube-dl.org/
-- **READ ABOUT RIAA'S FAILED ATTEMPT TO SHUT DOWN YOUTUBE-DL :)** https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/
-- *FFMpeg (audio/video conversion):* https://github.com/FFmpeg/FFmpeg
-- *VLC (media player):* https://github.com/videolan/vlc
-- *Audacity (audio editor)* https://github.com/audacity/audacity
+- [youtube-dl](https://youtube-dl.org/) - stream/download from various sources
+- [READ ABOUT RIAA'S FAILED ATTEMPT TO SHUT DOWN YOUTUBE-DL :)](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
+- [FFMpeg](https://github.com/FFmpeg/FFmpeg) - audio/video conversion
+- [VLC](https://github.com/videolan/vlc) - media player
+- [Audacity](https://github.com/audacity/audacity) - audio editor
 
 ### Image
 
-- *GIMP (image editor)* https://gitlab.gnome.org/GNOME/gimp
-- *nomacs (image viewer with integrated adjustable window transparency)* https://github.com/nomacs/nomacs
-- *GreenShot (screen capture software with autosave)* https://github.com/greenshot/greenshot
+- [GIMP](https://gitlab.gnome.org/GNOME/gimp) - image editor
+- [nomacs](https://github.com/nomacs/nomacs) - image viewer with integrated adjustable window transparency
+- [GreenShot](https://github.com/greenshot/greenshot) - screen capture software with autosave
 
 ### 3D
 
-- *Blender* https://developer.blender.org/diffusion/
-- *Wings3D* http://www.wings3d.com/
+- [Blender](https://developer.blender.org/diffusion/) - 3D Editor
+- [Wings3D](http://www.wings3d.com/) - 3D Editor
+- [CFHodEd](https://github.com/Fallen-Angel/CFHodEd) - Homeworld HOD Editor
 
 ## Programming Related
 
-- *Python (programming language)* https://github.com/python/cpython
-- *TDM-GCC (Windows-focused GNU Compiler Collection; available in both 32 and 64-bit configurations)* https://github.com/jmeubank/tdm-gcc
-- *Flat Assembler (x86/x86-64 assembler)* https://flatassembler.net/
-- *Olly (still works fine for 32-bit)* https://www.ollydbg.de/
-- *PowerShell* https://github.com/PowerShell/PowerShell
-- *Visual Studio Build Tools (base install without editor/IDE)* https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
-- *Markdown Cheat Sheet (MD syntax reference)* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- [Python](https://github.com/python/cpython) - programming language
+- [TDM-GCC](https://github.com/jmeubank/tdm-gcc) - Windows-focused GNU Compiler Collection; available in both 32 and 64-bit configurations
+- [Flat Assembler](https://flatassembler.net/) - "FASM"; x86/x86-64 assembler
+- [Olly](https://www.ollydbg.de/) - still works fine for 32-bit
+- [PowerShell](https://github.com/PowerShell/PowerShell)
+- [Visual Studio Build Tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16) - base install without editor/IDE
+- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax reference
 
 ### Text Editors
 
-- *Notepad++ (text editor; can be made into an IDE with Batch scripts)* https://notepad-plus-plus.org/
+- [Notepad++](https://notepad-plus-plus.org/) - text editor; can be made into an IDE with Batch scripts
 
 ### IDEs
 
-- *Visual Studio Code (my primary IDE; automation via JSON scripts)* https://github.com/microsoft/vscode
-- *Setting up GCC with VSCode:* https://code.visualstudio.com/docs/cpp/config-mingw
-- *Extended task information for VSCode:* https://code.visualstudio.com/docs/editor/tasks
+- [Visual Studio Code](https://github.com/microsoft/vscode) - automation via JSON
+- [Setting up GCC with VSCode](https://code.visualstudio.com/docs/cpp/config-mingw)
+- [Extended task information for VSCode](https://code.visualstudio.com/docs/editor/tasks)
 
 *Alternatives:*
-- *Code::Blocks* https://www.codeblocks.org/
-- *Atom* https://github.com/atom/atom
+- [Code::Blocks](https://www.codeblocks.org/)
+- [Atom](https://github.com/atom/atom)
 
 ### Assorted Development Libraries
 
-- *SDL (Simple DirectMedia Layer for C)* https://www.libsdl.org/
-- *OpenGL (C++ graphics lib)* https://www.opengl.org/
-- *EasyHook (WinAPI hook base)* https://github.com/EasyHook/EasyHook
-- *wxWidgets (cross-platform C++ GUI library)* https://www.wxwidgets.org/
-- *Boost C++ Libraries* https://www.boost.org/
-- *SFML (Simple and Fast Multimedia Library for C++)* https://www.sfml-dev.org/
+- [SDL](https://www.libsdl.org/) - Simple DirectMedia Layer for C
+- [OpenGL](https://www.opengl.org/) - C++ graphics lib
+- [EasyHook](https://github.com/EasyHook/EasyHook) - WinAPI hook base
+- [wxWidgets](https://www.wxwidgets.org/) - cross-platform C++ GUI library
+- [Boost C++ Libraries](https://www.boost.org/)
+- [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library for C++
 
 ### Nintendo GameBoy/SNES Emulation/Development Related
 
-- *SMWCentral (SMW hacking forum, tools, ROM hacks, etc)* https://www.smwcentral.net/?p=section&s=tools
-- *FuSoYa's Site (SMW hacking tools; though I think FuSoYa has moved most everything to SMWCentral)* https://fusoya.eludevisibility.org/
-- *ASAR (65816 assembler; successor to xkas)* https://github.com/RPGHacker/asar
-- *RGBDS (Rednex Gameboy Development System)* https://github.com/gbdev/rgbds
-- *Pokemon Crystal Disassembly* https://github.com/pret/pokecrystal
-- *Pokemon Yellow Disassembly* https://github.com/pret/pokeyellow
-- *VisualBoyAdvance-M (merge project of all VBA branches; gb/gbc/gba emulator)* https://github.com/visualboyadvance-m/visualboyadvance-m
-- *Snes9x (portable SNES emulator)* https://github.com/snes9xgit/snes9x
+- [SMWCentral](https://www.smwcentral.net/?p=section&s=tools) - SMW hacking forum, tools, ROM hacks, etc
+- [FuSoYa's Site](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think FuSoYa has moved most everything to SMWCentral
+- [ASAR](https://github.com/RPGHacker/asar) - 65816 assembler; successor to xkas
+- [RGBDS](https://github.com/gbdev/rgbds) - Rednex Gameboy Development System
+- [Pokemon Crystal Disassembly](https://github.com/pret/pokecrystal)
+- [Pokemon Yellow Disassembly](https://github.com/pret/pokeyellow)
+- [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m) - merge project of all VBA branches; gb/gbc/gba emulator
+- [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator
