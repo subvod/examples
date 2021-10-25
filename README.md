@@ -27,9 +27,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 ## System Utilities
 
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Alternative to CCleaner because Avast fucked it up.
-- [Notepad++](https://notepad-plus-plus.org/) - Advanced text editor.
 - [7-Zip](https://www.7-zip.org/) - Alternative (and I personally think superior) to WinRAR.
-- [LibreOffice](https://www.libreoffice.org/) - collection of alternatives for MS Office.
 - [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
 - [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
 - [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive download works fine and isn't bundled with "optional" bloatware/adware
@@ -38,24 +36,34 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 ### Audio/Video
 
-- [youtube-dl](https://youtube-dl.org/) - stream/download from various sources
+- [youtube-dl](https://youtube-dl.org/) - stream/download various media in various formats from various sources.
 - [READ ABOUT RIAA'S FAILED ATTEMPT TO SHUT DOWN YOUTUBE-DL :)](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
 - [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet.
-- [FFMpeg](https://github.com/FFmpeg/FFmpeg) - audio/video conversion
-- [VLC](https://github.com/videolan/vlc) - media player
-- [Audacity](https://github.com/audacity/audacity) - audio editor
+- [FFMpeg](https://github.com/FFmpeg/FFmpeg) - audio/video conversion.
+- [VLC](https://github.com/videolan/vlc) - media player.
+- [Audacity](https://github.com/audacity/audacity) - audio editor.
 - [Automate the download and conversion/extraction of audio and video from the internet](https://github.com/subvod/examples/blob/master/youtube-dl.MD) using **youtube-dl** and **ffmpeg**.
 
 ### Image
 
-- [GIMP](https://gitlab.gnome.org/GNOME/gimp) - image editor
-- [nomacs](https://github.com/nomacs/nomacs) - image viewer with integrated adjustable window transparency
-- [GreenShot](https://github.com/greenshot/greenshot) - screen capture software with autosave
+- [GIMP](https://gitlab.gnome.org/GNOME/gimp) - image editor.
+- [nomacs](https://github.com/nomacs/nomacs) - image viewer with integrated adjustable window transparency.
+- [GreenShot](https://github.com/greenshot/greenshot) - screen capture software with autosave.
+- [ImageMagick](https://github.com/ImageMagick/ImageMagick) - Image editor with command-line untilities.
 
 ### 3D
 
 - [Blender](https://developer.blender.org/diffusion/) - 3D Editor
 - [Wings3D](http://www.wings3d.com/) - 3D Editor
+
+### Word Processors
+
+- [LibreOffice](https://www.libreoffice.org/) - collection of alternatives for MS Office.
+
+### Text Editors
+
+- [Notepad++](https://notepad-plus-plus.org/) - text editor; can be made into an IDE with Batch scripts
+- [Turn Notepad++ into an IDE of sorts](https://github.com/subvod/examples/blob/master/NPP-IDE.MD) using **NPPExec** and **Notepad++ Macros**. Can be modified to work with any command-line compiler for any language.
 
 ## Programming Related
 
@@ -67,20 +75,12 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [Visual Studio Build Tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16) - base install without editor/IDE
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax reference
 
-### Text Editors
-
-- [Notepad++](https://notepad-plus-plus.org/) - text editor; can be made into an IDE with Batch scripts
-- [Turn Notepad++ into an IDE of sorts](https://github.com/subvod/examples/blob/master/NPP-IDE.MD) using **NPPExec** and **Notepad++ Macros**. Can be modified to work with any command-line compiler for any language.
-
 ### IDEs
 
-- [Visual Studio Code](https://github.com/microsoft/vscode) - automation via JSON
-- [Setting up GCC with VSCode](https://code.visualstudio.com/docs/cpp/config-mingw)
-- [Extended task information for VSCode](https://code.visualstudio.com/docs/editor/tasks)
-
-*Alternatives:*
+- [Visual Studio Code](https://github.com/microsoft/vscode) - automation via JSON. How to [set up GCC with VSCode](https://code.visualstudio.com/docs/cpp/config-mingw). Some [extended task information](https://code.visualstudio.com/docs/editor/tasks) for automation.
 - [Code::Blocks](https://www.codeblocks.org/)
 - [Atom](https://github.com/atom/atom)
+- [PyCharm](https://www.jetbrains.com/pycharm/) - from [JetBrains](https://www.jetbrains.com/).
 
 ### Assorted Development Libraries
 
@@ -88,19 +88,38 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [OpenGL](https://www.opengl.org/) - C++ graphics lib
 - [EasyHook](https://github.com/EasyHook/EasyHook) - WinAPI hook base
 - [wxWidgets](https://www.wxwidgets.org/) - cross-platform C++ GUI library
-- [Boost C++ Libraries](https://www.boost.org/)
+- [Boost C++ Libraries](https://www.boost.org/) - a ton of functions for a wide variety of uses.
 - [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library for C++
 
-### Game-Specific Libraries/Tools
+## Game-Specific Libraries/Tools/References/Mods
+
+- [Minetest](https://github.com/minetest/minetest) - an open source voxel game engine. Basically Minecraft that runs native rather than through JVM/JRE.
+
+*Grand Theft Auto V:*
+
+- [ScriptHookV](https://www.dev-c.com/gtav/scripthookv/) - ScriptHookV base. SDK for development of C++ plugins available on the same page.
+- [MenyooSP](https://github.com/MAFINS/MenyooSP) - SP trainer.
+- [Enhanced Native Trainer](https://www.gta5-mods.com/scripts/enhanced-native-trainer-zemanez-and-others) - SP trainer with integrated fuel mod, among many other external mods/features.
+- [Enable All Interiors](https://www.gta5-mods.com/scripts/enable-all-interiors-wip) - merge project of existing interior mods.
+- [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions.
+- [LemonUI](https://github.com/justalemon/LemonUI) - UI framework for GTA V. Intended to replace NativeUI.
+
+*Red Dead Redemption 2:*
+
+- [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base. SDK for development of C++ plugins available on the same page.
+- [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer.
+- [Red Dead Offline](https://www.rdr2mods.com/downloads/rdr2/weapons/103-red-dead-offline/) - SP conversion for online-exclusive content.
 
 *Homeworld 1, Cataclysm, 2, and/or Remastered:*
 
 - [bigDecrypter](https://github.com/mon/bigDecrypter) - Decrypts HWR BIG files. for use with ModPackager/HW2ICArchive.
 - [CFHodEd](https://github.com/Fallen-Angel/CFHodEd) - Universal HOD Editor for both classic and remstered Homeworld games.
-- [HW Universe Mod Tools](https://www.moddb.com/games/homeworld-2/downloads/homeworld-universe-mod-tools) - Various tools for use with HW1, Cataclysm, and HW2.
-- [Homeworld 2 Manual PDF](https://www.moddb.com/games/homeworld-2/downloads/homeworld2-manual-pdf) - A direct PDF copy of the game manual. (Not a scanned copy.)
-- [Homeworld 2 Official v1.1 Patch](https://www.moddb.com/games/homeworld-2/downloads/homeworld-2-v-11-patch-last-and-only-patch) - The only official HW2 game update from Relic.
+- [Homeworld Universe Mod Tools](https://www.moddb.com/games/homeworld-2/downloads/homeworld-universe-mod-tools) - Various tools for use with HW1, Cataclysm, and HW2.
+- [Hw2 Manual PDF](https://www.moddb.com/games/homeworld-2/downloads/homeworld2-manual-pdf) - A direct PDF copy of the game manual. (Not a scanned copy.)
+- [Hw2 Official v1.1 Patch](https://www.moddb.com/games/homeworld-2/downloads/homeworld-2-v-11-patch-last-and-only-patch) - The only official HW2 game update from Relic.
 - [HomeworldSDL](https://github.com/aheadley/homeworld) - source code for HW1's game engine.
+- [HW2 Function Reference (Online)](https://hwmod.fandom.com/wiki/HW2_Function_Reference) - online function reference.
+- [HWRM Karos Graveyard](https://github.com/HWRM/KarosGraveyard/wiki) - old-style Karos Graveyard for HWRM.
 
 *SMW, SMW2:*
 
