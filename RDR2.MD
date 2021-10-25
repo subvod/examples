@@ -232,6 +232,9 @@ This might not be very useful, but I found that with a Condor stored on the side
 12. Saddle up and enjoy your free horse!
 
 ### Remove scope from carcano and/or rolling block rifles.
+
+[Source.](https://www.youtube.com/watch?v=Mst4pshFcD0)
+
 Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode, you can permanently de-scope (un-scope?) both the Rolling Block and Carcano Rifles. This glitch isn't entirely permanent, but only because you can just go to a Gunsmith and re-equip any scope to negate it. The rifle(s) will remain scopeless as long as you don't re-scope them at the Gunsmith. They will not gain the auto-aim function even if it's turned on. They still operate as the regular rifle, you're just no longer forced to scope in.
 
 1. Hop on your horse, equip either sniper, and place it in the saddle holster.
@@ -242,6 +245,7 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 6. The scopeless rifle on your back will drop. Pick it up.
 
 ### Universal saddle blankets.
+
 [Source.](https://www.youtube.com/watch?v=vSIyry-KePE)
 
 *Some Trapper saddles have unique blankets. This method does not work with two saddles which have thier own unique blankets. You can glitch the panther blanket with the Rattlesnake Vaquero Saddle but not with the Alligator Saddle.*
@@ -255,6 +259,7 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 7. Enjoy your Rattlesnake Saddle with a Panther blanket! (Or whichever combination you choose.)
 
 ### Getting the silver dapple pinto missouri fox trotter at no cost for Arthur.
+
 [Source.](https://www.youtube.com/watch?v=bATG5JB9cNA)
 [Alternative method](https://www.youtube.com/watch?v=ehB9-N1VMa4) using render distance exploit.
 
@@ -274,6 +279,7 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 *There are alternative methods of doing this, but they generally involve a ton of waiting, reloading, and praying to RNGsus. Yes, I'm talking about the random encounter with they lady whose horse "up and died on her". No, I don't recommend you try that over this unless you enjoy pain.*
 
 ### Saving Arthur's money for John.
+
 [Source.](https://www.youtube.com/watch?v=Gu5s3l6w7h0)
 
 The **Aberdeen Pig Farm** is inhabited by an incestual brother and sister, whom together work as a team of serial killers. There is a sort of side mission with these two: as either John or Arthur you can eat dinner with them. During which they'll offer some drinks. After drinking a few times, you pass out and wake up in their body dump site with no money. A decent backing for sticking to the story, I think, is: Arthur gets robbed, John reads about it in his journal, John goes to the farm and takes the money as it's of no use to Arthur at that point. :)
@@ -281,6 +287,7 @@ The **Aberdeen Pig Farm** is inhabited by an incestual brother and sister, whom 
 Go there and get robbed as Arthur right before the mission **"Red Dead Redemption"** (the last mission in which the player controls Arthur) but do not go back and kill them, nor get your money. Wait until you take control of John, travel to the farm, and retreive the cash from the safe behind the picture of "Mama" directly behind the front door. Kill or spare them as you see fit.
 
 ### Getting out of map. (Travel to Guarma/Mexico/Canada.)
+
 [OOB on San Luis River.](https://www.youtube.com/watch?v=kYmREKUf09A)
 [OOB on San Luis River (alternate).](https://www.youtube.com/watch?v=GfM9vxakKTA)
 [Bridge glitch.](https://www.youtube.com/watch?v=VSRt7FPGItE)
@@ -299,20 +306,25 @@ You'll need enough alcohol to blackout to do this. If you've got the **Wolf Hear
 - A quick side note: I black out drunk on the east side of **Aurora Basin** and woke up on the west side out-of-bounds. I will try to replicate this soon, but the few times afterwards resulted in no joy.
 
 ### Speed crafting.
+
 Want to stock up on crafted consumables? Download [CheatEngine](https://www.cheatengine.org/downloads.php). I use the RAR archive version which you don't have to join Patreon for; it doesn't come bundled with "optional" adware/bloatware like the installer does, but feel free to use what you want. Be sure to launch the 64-bit version of CheatEngine when using it in RDR2. Open "RDR2.exe" via the Open Process dialog and check "Enable Speedhack". You can adjust the speed as you see fit. When finished, uncheck the box to disable the speedhack.
 
 Sometimes, a glitch may occur where the crafting process of some items (seemingly random) will freeze halfway through. I use 500x speed and travel near Colter when doing this, which seems to lower the chance of this happening.
 
 ### Discount at Saint Denis shops as reward for killing Jean Marc as ordered by Mayor Henri Lemieux.
+
 This can be done with Arthur and the discount will transfer to John. However, I calculated my discount with max honor and post-story mode I'm getting only a 55% discount. According to my player menu I am getting the full 50% max honor discount. According to everyone online the discount is meant to be 10% regardless of honor. I'm unsure if I just have a glitch, if the total discount at shops is meant to have be capped at 55%, or if the discount is lowered to 5% if transferred to John rather than doing the Mayor's final mission as John and (possibly) getting the full 10%. Regardless, 5% is better than nothing.
 
 ### Duplicate journal sketches.
+
 This is not likely a bug, but you can get journal sketches of certain things as both Arthur and John. Such as the **Cave Devil**, **Tree King**, **Hermit Man**, and **Blind Man Cassidy**.
 
 ### Unable to save custom outfits.
+
 Apparently this has been around for a long time and to this day goes unfixed. What happens is your saved custom outfits start glitching by starting at two, then to three, and eventually if the glitch continues you'll no longer be able to save any custom outfits. This can be bypassed by using a trainer on PC, but the only "easy" way around it is to unlock the **Legend of the East** outfit, equip and store it on your horse, then load outfits from your trainer. As far as consoles go, if there is a known workaround I haven't been made aware of it.
 
 ### Legend of the East outfit not unlocking after 90th challenge.
+
 This is a glitch that remains unfixed. Many players have completed Bandit 10 as their final challenge and not had the outfit unlock. I, myself, have had it not unlock doing Explorer 10 as my final challenge. Always make a save before completing your final (90th) challenge, and if nothing else avoid doing Bandit 10 or Explorer 10 as your final challenge as these are problem-causers. If there is no turning back (like the position I was in, saving after completing the last challenge):
 
 1. Open the settings menu and press [Y] (on Xbox controller) to open the cheat menu.
@@ -325,6 +337,7 @@ This is a glitch that remains unfixed. Many players have completed Bandit 10 as 
 8. Save your game.
 
 ### Micro-Stuttering, FPS Drops, ERR_GFX_STATE Popup/Crash, and other graphics issues.
+
 For micro-stuttering (I had it about once every ten seconds):
 
 1. Change your graphics API. If you're using Vulkan, change to DX12. If the contrary, do the opposite.
