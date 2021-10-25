@@ -129,7 +129,7 @@ As you can see, **Special Bitters** makes a bit of a difference, where as **Spec
 - *If on the PC version without a controller, you can use [AutoHotKey](https://www.autohotkey.com/) to simulate holding down the movement key(s).*
 
 ### Map Icons
-- Here's the map I use for reference: https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/
+- I used [this map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) as a reference.
 - Animal drawings are added when an animal is sighted in a specific area. It must be both studied and tracked at least once to add icons the the overworld map. The best thing to do is study and track everything you come across. Hell, I even kill everything I see because why not? Additional locations will be marked as animals are "sighted" (moving the crosshair to highlight them). Looking at animals through binoculars (after studying and tracking at least one to fill the compendium) is by far the most efficient way to populate the map with animal icons. Though, I personally just run around killing everything with **Poison Arrows**. :)
 - Plant drawings are added when a plant is picked/eaten at least once in the immediate area of the icon. Best to pick everything you come across because spawning a plant with a trainer and picking it does not add the icon for some reason.
 - Point of interest, dreamcatcher, dinosaur bone, and rock carving locations are added when they are "investigated".
@@ -196,7 +196,12 @@ These are all the bugs/glitches/cheats I found notable. Some are bad, some are g
 
 *The meaning of "cheat" is dependent upon a player's perspective on gameplay morality. The player can choose whether or not to use "cheats" at their own discretion. A "bug" or "glitch" is anything that isn't meant to happen.*
 
-### Double Skins from Animals
+### Launch from horse with carcass stowed on side.
+
+This might not be very useful, but I found that with a Condor stored on the side of a horse, getting off on the same side launches me up about 10 feet before landing.
+
+### Double skins from animals.
+
 *If an animal can be carried, this glitch can be used for it. Basically everything but Meese, Elk, (big) Alligators, Bison, Boars/Javelinas, Bears, etc, and all small game like squirrels, small birds, toads/frogs, etc.*
 
 *This is noted in the Hunting Tips section, but I'm on the borderline between it being a glitch or not. There's no semi-abnormal thing to this like there is with un-scoping the Rolling Block and Carcano. Nonetheless, here it is.*
@@ -207,7 +212,10 @@ These are all the bugs/glitches/cheats I found notable. Some are bad, some are g
 4. Ride to a Trapper, Butcher, or Pearson (at camp).
 5. Sell/donate the skinned carcass and skin itself. It will count as two skins, and you'll also get the +2 in the Compendium. That's how I have skinned 42 Californian Owls but killed only 21. :)
 
-### Steal Any Horse from Any Stable
+### Steal any horse from any stable.
+
+[Source.](https://www.youtube.com/watch?v=F2J00n9a7-s)
+
 *This works with all horses at every Stable. You must be able to buy the horse after it's unlocked. (Unlocking it puts the horse physically in the stable to be bought. For example, you can't steal an Amber Champagne MFT from Scarlett Meadows before Chapter 4.) Stealing horses in this manner doesn't reduce honor. Some Stables are easier to hit than others, though.*
 
 1. Get any wagon or buggy. Larger ones are preferable.
@@ -223,7 +231,7 @@ These are all the bugs/glitches/cheats I found notable. Some are bad, some are g
 11. Mount the horse and take it to any Stable, even the one you stole it from. Doesn't matter where.
 12. Saddle up and enjoy your free horse!
 
-### Remove Scope From Carcano and/or Rolling Block Rifles
+### Remove scope from carcano and/or rolling block rifles.
 Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode, you can permanently de-scope (un-scope?) both the Rolling Block and Carcano Rifles. This glitch isn't entirely permanent, but only because you can just go to a Gunsmith and re-equip any scope to negate it. The rifle(s) will remain scopeless as long as you don't re-scope them at the Gunsmith. They will not gain the auto-aim function even if it's turned on. They still operate as the regular rifle, you're just no longer forced to scope in.
 
 1. Hop on your horse, equip either sniper, and place it in the saddle holster.
@@ -233,7 +241,9 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 5. Exit the Gunsmith and draw the rifle you holstered earlier (LB on XB1, unsure on PS4).
 6. The scopeless rifle on your back will drop. Pick it up.
 
-### Universal Saddle Blankets
+### Universal saddle blankets.
+[Source.](https://www.youtube.com/watch?v=vSIyry-KePE)
+
 *Some Trapper saddles have unique blankets. This method does not work with two saddles which have thier own unique blankets. You can glitch the panther blanket with the Rattlesnake Vaquero Saddle but not with the Alligator Saddle.*
 
 1. Enter a stable.
@@ -245,6 +255,9 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 7. Enjoy your Rattlesnake Saddle with a Panther blanket! (Or whichever combination you choose.)
 
 ### Getting the silver dapple pinto missouri fox trotter at no cost for Arthur.
+[Source.](https://www.youtube.com/watch?v=bATG5JB9cNA)
+[Alternative method](https://www.youtube.com/watch?v=ehB9-N1VMa4) using render distance exploit.
+
 1. *Save your game.*
 2. Trigger the mission **Arcadia for Amateurs - III**. This does not work when replaying the mission.
 3. When nearing the horses, enter **Eagle Eye** and track the Fox Trotter. Ensure you are tracking the correct horse. Sometimes its trail with be golden (like a Legendary Animal) and show up as *Unknown Animal*, but most of the time it'll show as **Herd** like the other horses.
@@ -261,11 +274,20 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 *There are alternative methods of doing this, but they generally involve a ton of waiting, reloading, and praying to RNGsus. Yes, I'm talking about the random encounter with they lady whose horse "up and died on her". No, I don't recommend you try that over this unless you enjoy pain.*
 
 ### Saving Arthur's money for John.
+[Source.](https://www.youtube.com/watch?v=Gu5s3l6w7h0)
+
 The **Aberdeen Pig Farm** is inhabited by an incestual brother and sister, whom together work as a team of serial killers. There is a sort of side mission with these two: as either John or Arthur you can eat dinner with them. During which they'll offer some drinks. After drinking a few times, you pass out and wake up in their body dump site with no money. A decent backing for sticking to the story, I think, is: Arthur gets robbed, John reads about it in his journal, John goes to the farm and takes the money as it's of no use to Arthur at that point. :)
 
 Go there and get robbed as Arthur right before the mission **"Red Dead Redemption"** (the last mission in which the player controls Arthur) but do not go back and kill them, nor get your money. Wait until you take control of John, travel to the farm, and retreive the cash from the safe behind the picture of "Mama" directly behind the front door. Kill or spare them as you see fit.
 
 ### Getting out of map. (Travel to Guarma/Mexico/Canada.)
+[OOB on San Luis River.](https://www.youtube.com/watch?v=kYmREKUf09A)
+[OOB on San Luis River (alternate).](https://www.youtube.com/watch?v=GfM9vxakKTA)
+[Bridge glitch.](https://www.youtube.com/watch?v=VSRt7FPGItE)
+[OOB far northeast.](https://www.youtube.com/watch?v=eppF2TnLt00)
+[OOB in Devil's Cave.](https://www.youtube.com/watch?v=Kx0llq2e8qs)
+[OOB at Aurora Basin.](https://www.youtube.com/watch?v=KKgIuLrLe8A) - using slide glitch.
+
 You'll need enough alcohol to blackout to do this. If you've got the **Wolf Heart Trinket**, you'll need a lot. Now, to get compendium entries and sketches as Arthur for animals specific to New Austin (and/or Guarma before/after of Chapter 5), or just to run around and explore, you can travel out of bounds via the far west end (at the edge of a drop-off) in the **Devil's Cave**. If you're running post-Epilogue and want to explore the southern side out-of-map or travel to Guarma much quicker, an infinitely faster method is to travel to a specific point on the southern shore of the **San Luis River**.) Do the following once at either location:
 
 1. Drink until you black out.
