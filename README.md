@@ -65,15 +65,45 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [Notepad++](https://notepad-plus-plus.org/) - text editor; can be made into an IDE with Batch scripts
 - [Turn Notepad++ into an IDE of sorts](https://github.com/subvod/examples/blob/master/NPP-IDE.MD) using **NPPExec** and **Notepad++ Macros**. Can be modified to work with any command-line compiler for any language.
 
-## Programming Related
+### Web Browsers
 
-- [Python](https://github.com/python/cpython) - programming language
-- [TDM-GCC](https://github.com/jmeubank/tdm-gcc) - Windows-focused GNU Compiler Collection; available in both 32 and 64-bit configurations
-- [Flat Assembler](https://flatassembler.net/) - "FASM"; x86/x86-64 assembler
-- [Olly](https://www.ollydbg.de/) - still works fine for 32-bit
+*Browsers:*
+
+[Mozilla Firefox](https://www.mozilla.org/) - Open source, which can be found [here](https://hg.mozilla.org/mozilla-central/).
+
+*Plugins:*
+- [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) - Control how webpages operate using JavaScript. Community documentation is available [on the Wiki](https://wiki.greasespot.net/Main_Page). A list of sites in which scripts [can be uploaded and shared](https://wiki.greasespot.net/User_Script_Hosting).
+- [PageHacker](https://addons.mozilla.org/en-US/firefox/addon/page-hacker/) - an interactive "Inspect Element".
+- [UBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - efficient, wide-spectrum content blocker.
+- [The Stream Detector](https://github.com/rowrawer/stream-detector) - Detects playlists and subtitles used by HLS/DASH/HDS/MSS streams. Assembles readymade youtube-dl/FFmpeg/Streamlink/hlsdl/N_m3u8DL-CLI commands. Addon available [here](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/).
+- [YouTube Video and Audio Downloader](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/) - WebX downloader with UI integrated to YouTube's.
+- [pdf.js](https://github.com/mozilla/pdf.js) - mirror of PDF reader included with Firefox installs.
+
+## Desktop Programming
+
+*Tools/Languages:*
+
+- [Python](https://github.com/python/cpython) - programming language.
+- [TDM-GCC](https://github.com/jmeubank/tdm-gcc) - Windows-focused GNU Compiler Collection; available in both 32 and 64-bit configurations.
+- [Flat Assembler](https://flatassembler.net/) - "FASM"; x86/x86-64 assembler.
+- [Olly](https://www.ollydbg.de/) - still works fine for 32-bit.
 - [PowerShell](https://github.com/PowerShell/PowerShell)
-- [Visual Studio Build Tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16) - base install without editor/IDE
-- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax reference
+- [Visual Studio Build Tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16) - base install without editor/IDE.
+
+*Documents/Articles:*
+
+- An analysis of [why Dev-C++ was deprecated.](https://www.cplusplus.com/forum/articles/36896/).
+
+## Web Programming
+
+*Tools/Languages:*
+
+- [Turndown](https://github.com/mixmark-io/turndown) - HTML to Markdown converter written in HTML and JavaScript.
+- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax quick reference.
+
+*Documents/Articles:*
+
+
 
 ### IDEs
 
@@ -108,7 +138,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 - [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base. SDK for development of C++ plugins available on the same page.
 - [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer.
-- [Red Dead Offline](https://www.rdr2mods.com/downloads/rdr2/weapons/103-red-dead-offline/) - SP conversion for online-exclusive content.
+- [ClothesDB](https://www.rdr2mods.com/wiki/clothes/) - database of hex IDs for clothing, both SP and MP.
 
 *Homeworld 1, Cataclysm, 2, and/or Remastered:*
 
@@ -123,7 +153,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 *SMW, SMW2:*
 
-- [SMWCentral](https://www.smwcentral.net/?p=section&s=tools) - SMW hacking forum, tools, ROM hacks, etc
+- [SMWCentral](https://www.smwcentral.net/) - SMW hacking forum, tools, ROM hacks, etc
 - [FuSoYa's Site](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think FuSoYa has moved most everything to SMWCentral
 - [ASAR](https://github.com/RPGHacker/asar) - 65816 assembler; successor to xkas
 - [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator
@@ -135,3 +165,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [Pokemon Yellow Disassembly](https://github.com/pret/pokeyellow)
 - [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m) - merge project of all VBA branches; gb/gbc/gba emulator
 - [TGB Dual L](https://github.com/libertyernie/tgbdual_L) - Updated builds of TGB Dual, a GBC emulator which implements link cable emulation.
+- [Pkmn Crystal Guide](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13668)
+- [Pkmn Crystal GS Codes](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13410)
+- [Pkmn Yellow Guide](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/64175)
+- [Pkmn Yellow GS Codes](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/6618)
