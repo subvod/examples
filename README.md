@@ -2,13 +2,11 @@
 
 Here's a few clips I enjoy listening to. They'll give you a feel for how I operate:
 
-- https://www.youtube.com/watch?v=VC_rwb8wihs
-- https://www.youtube.com/watch?v=hXpeNKHexCg
+- https://www.youtube.com/watch?v=OHTWeIsP_ck
 - https://www.youtube.com/watch?v=TI6dG99HHX4
 - https://www.youtube.com/watch?v=aZ2lXrtjP6o
 - https://www.youtube.com/watch?v=pJmTHF4XYJY
 - https://www.youtube.com/watch?v=MvzwmoZaNHQ
-- https://www.youtube.com/watch?v=OHTWeIsP_ck
 
 That out of the way, this is a jumbled assortment of random scripts and snippets for referential purposes. I'm not some big time developer. I've spent (probably more than) my fair share of time tinkering around with over 20 languages, but I've primarily focused on C++ and Python since 2013. The few reference files I have for C/C++ are super basic functions I found online for different projects of my own, so I feel no need to upload them here. However, in a section below, I will link all libraries and tools I've used both inside and outside programming.
 
@@ -31,7 +29,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
 - [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
 - [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive download works fine and isn't bundled with "optional" bloatware/adware.
-- [Calibre](https://calibre-ebook.com/) - view and manage ebooks from desktop.
+- [Calibre](https://calibre-ebook.com/) - view and manage ebooks from desktop. [[Docs]](https://manual.calibre-ebook.com/)
 
 ## Media Related
 
@@ -40,21 +38,21 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 *Tools:*
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Stream/download various media in various formats from various sources.
-- [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet.
-- [FFMpeg](https://github.com/FFmpeg/FFmpeg) - Audio/video conversion.
-- [VLC](https://github.com/videolan/vlc) - Media player.
-- [Audacity](https://github.com/audacity/audacity) - Audio editor.
+- [FFMpeg](https://github.com/FFmpeg/FFmpeg) - Audio/video conversion. [[Docs]](https://ffmpeg.org/documentation.html)
+- [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet. [[Docs]](https://opus-codec.org/docs/)
+- [VLC](https://github.com/videolan/vlc) - Media player. [[Docs]](https://wiki.videolan.org/documentation:documentation/)
+- [Audacity](https://github.com/audacity/audacity) - Audio editor. [[Docs]](https://manual.audacityteam.org/)
 
 *References:*
 
-- [READ ABOUT RIAA'S FAILED ATTEMPT TO SHUT DOWN YOUTUBE-DL :)](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
-- [Automate the download and conversion/extraction of audio and video from the internet](https://github.com/subvod/examples/blob/master/youtube-dl.MD) using **youtube-dl** and **ffmpeg**.
+- RIAA's [failed attempt to shut down youtube-dl](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/). :)
+- Automate the [downloading and conversion/extraction of audio/video](https://github.com/subvod/examples/blob/master/youtube-dl.MD) using **youtube-dl** and **ffmpeg**.
 
 ### Image
 
 *Tools:*
 
-- [GIMP](https://gitlab.gnome.org/GNOME/gimp) - Image editor. Extensive support via plugins. [[Documentation]](https://docs.gimp.org/2.10/en/) [[Tutorials]](https://www.gimp.org/tutorials/)
+- [GIMP](https://gitlab.gnome.org/GNOME/gimp) - Image editor. Extensive support via plugins. [[Docs]](https://docs.gimp.org/2.10/en/) [[Tutorials]](https://www.gimp.org/tutorials/)
 - [nomacs](https://github.com/nomacs/nomacs) - Image viewer with integrated adjustable window transparency.
 - [GreenShot](https://github.com/greenshot/greenshot) - Screen capture software with autosave.
 - [ImageMagick](https://github.com/ImageMagick/ImageMagick) - Image editor with command-line untilities.
@@ -63,16 +61,16 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 ### 3D
 
-- [Blender](https://developer.blender.org/diffusion/) - 3D Editor
+- [Blender](https://developer.blender.org/diffusion/) - 3D Editor [[Docs]](https://docs.blender.org/) [[Tutorials]](https://www.blender.org/support/tutorials/)
 - [Wings3D](http://www.wings3d.com/) - 3D Editor
 
 ### Word Processors
 
-- [LibreOffice](https://www.libreoffice.org/) - collection of alternatives for MS Office.
+- [LibreOffice](https://www.libreoffice.org/) - collection of alternatives for MS Office. [[Docs]](https://documentation.libreoffice.org/en/english-documentation/)
 
 ### Text Editors
 
-- [Notepad++](https://notepad-plus-plus.org/) - text editor; can be made into an IDE with Batch scripts
+- [Notepad++](https://notepad-plus-plus.org/) - text editor; can be made into an IDE with Batch scripts. [[Docs]](https://npp-user-manual.org/)
 - [Turn Notepad++ into an IDE of sorts](https://github.com/subvod/examples/blob/master/NPP-IDE.MD) using **NPPExec** and **Notepad++ Macros**. Can be modified to work with any command-line compiler for any language.
 
 ### Web Browsers
@@ -95,7 +93,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 - [Olly](https://www.ollydbg.de/) - still works fine for 32-bit.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - scripting language.
-- [Flat Assembler](https://flatassembler.net/) - "FASM"; x86/x86-64 assembler. [[Documentation]](https://flatassembler.net/docs.php) [[Examples]](https://flatassembler.net/examples.php)
+- [Flat Assembler](https://flatassembler.net/) - "FASM"; x86/x86-64 assembler. [[Docs]](https://flatassembler.net/docs.php) [[Examples]](https://flatassembler.net/examples.php)
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - universal CLI.
 
 ### C/C++ Programming
@@ -131,7 +129,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 *Tools:*
 
-- [Python](https://www.python.org/) - programming language. [[Documentation]](https://docs.python.org/3/) [[Source Repo]](https://github.com/python/cpython)
+- [Python](https://www.python.org/) - programming language. [[Docs]](https://docs.python.org/3/) [[Source Repo]](https://github.com/python/cpython)
 
 *References:*
 
@@ -148,7 +146,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 ## Game-Specific Libraries/Tools/References/Mods
 
-- [Minetest](https://github.com/minetest/minetest) - an open source voxel game engine. Basically Minecraft that runs native rather than through JVM/JRE.
+- [Minetest](https://github.com/minetest/minetest) - an open source voxel game engine. Basically Minecraft that runs native rather than through JVM/JRE. [[Wiki]](https://wiki.minetest.net/)
 
 *Grand Theft Auto V:*
 
@@ -179,7 +177,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 *SMW, SMW2:*
 
-- [SMWCentral](https://www.smwcentral.net/) - SMW hacking forum, tools, ROM hacks, etc
+- [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Documents]](https://www.smwcentral.net/?p=section&s=documents)
 - [FuSoYa's Site](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think FuSoYa has moved most everything to SMWCentral
 - [ASAR](https://github.com/RPGHacker/asar) - 65816 assembler; successor to xkas
 - [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator
@@ -189,7 +187,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [RGBDS](https://github.com/gbdev/rgbds) - Rednex Gameboy Development System
 - [Pokemon Crystal Disassembly](https://github.com/pret/pokecrystal)
 - [Pokemon Yellow Disassembly](https://github.com/pret/pokeyellow)
-- [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m) - merge project of all VBA branches; gb/gbc/gba emulator
+- [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m) - merge project of all VBA branches; GB/GBC/GBA emulator.
 - [TGB Dual L](https://github.com/libertyernie/tgbdual_L) - Updated builds of TGB Dual, a GBC emulator which implements link cable emulation.
 - [Pkmn Crystal Guide](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13668)
 - [Pkmn Crystal GS Codes](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13410)
