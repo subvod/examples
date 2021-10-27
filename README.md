@@ -16,7 +16,7 @@ Directly below are my small projects I've managed to muster up in the past two y
 
 [RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). - Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc.
 
-[stats.html](https://github.com/subvod/examples/blob/master/stats.html) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**.
+[TCGRW.MD](https://github.com/subvod/examples/blob/master/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**.
 
 [ASUS ROG Zephyrus G14 (2021) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the **2021 ASUS G14** because I'm a fucking normie piece of shit.
 
