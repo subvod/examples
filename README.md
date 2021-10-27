@@ -8,15 +8,19 @@ Here's a few clips I enjoy listening to. They'll give you a feel for how I opera
 - https://www.youtube.com/watch?v=pJmTHF4XYJY
 - https://www.youtube.com/watch?v=MvzwmoZaNHQ
 
-That out of the way, this is a jumbled assortment of random scripts and snippets for referential purposes. I'm not some big time developer. I've spent (probably more than) my fair share of time tinkering around with over 20 languages, but I've primarily focused on C++ and Python since 2013. The few reference files I have for C/C++ are super basic functions I found online for different projects of my own, so I feel no need to upload them here. However, in a section below, I will link all libraries and tools I've used both inside and outside programming.
+Anyways, this is a jumbled assortment of random scripts and snippets for referential purposes. I'm not some big time developer. I've spent (probably more than) my fair share of time tinkering around with over 20 languages since 2008. I've dabbled in a little bit of everything: Z80, Java, 65816, Object Pascal, D, C#, Batch, Rust, etc. But after all the experimenting I've done I came to primarily focus on developing with C++ and Python. I came to that conclusion sometime in 2013. The few reference files I have for C/C++ are super basic functions I found online for different projects of my own, so I feel no need to upload them here. I no longer have access to any of my larger projects thanks to an unfortunate accident involving me typing up some code during the worst thunderstorm in the area since 28 years ago (allegedly). Fried my old laptop. However, in a section below, I will link all libraries and tools I've used both inside and outside programming. Hopefully these will give others a head start, or at the very least some sort of insight as to what they want to do.
 
-[rdr2-maps](https://github.com/subvod/rdr2-maps) *Red Dead Redemption 2 Map Archives* - Locations for rare/uncommon animals and places you can sit in Red Dead Redemption 2.
+Directly below are my small projects I've managed to muster up in the past two years. Not much programming-wise, as you'll see, but I learned Markdown in the process so there's some faint glimmer of silver lining. :)
 
-[RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). *Red Dead Redemption 2 Reference Document* - Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), etc.
+[rdr2-maps](https://github.com/subvod/rdr2-maps) - High-res maps marked with locations for rare/uncommon animals and places you can sit, etc in **Red Dead Redemption 2**.
 
-[stats.html](https://github.com/subvod/examples/blob/master/stats.html) *Tom Clancy's Ghost Recon Wildlands Reference Document* - Referential document containing weapon, vehicle, and NPC data, among other things.
+[RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). - Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc.
 
-[ASUS ROG Zephyrus G14 (2021) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the 2021 ASUS G14 because I'm a fucking normie piece of shit. :)
+[stats.html](https://github.com/subvod/examples/blob/master/stats.html) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**.
+
+[ASUS ROG Zephyrus G14 (2021) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the **2021 ASUS G14** because I'm a fucking normie piece of shit.
+
+And in case you haven't noticed already... yes, there will be some marginally crude language and possible references to comic mischief here and there. If you've even the slightest amount of mental fortitude, you'll do just fine. Otherwise, if you can't handle either of those or are so in favor of having your freedoms taken away just so mine do as well (while those who take those freedoms retain their own): bitch boys need not read further but instead [watch this](https://www.youtube.com/watch?v=j22bnzmjcQM).
 
 # MISCELLANEOUS
 
@@ -24,18 +28,27 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 ## System Utilities
 
+*Tools:*
+
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Alternative to CCleaner because Avast fucked it up.
-- [7-Zip](https://www.7-zip.org/) - Alternative (and I personally think superior) to WinRAR. [[Source Repo]](https://sourceforge.net/projects/sevenzip/)
-- [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
-- [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
-- [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive isn't bundled with "optional" bloatware/adware. [[Backup]](https://www.mediafire.com/file/vc97e7249287jdd) [[Source Repo]](https://github.com/cheat-engine/cheat-engine)
+- [7-Zip](https://www.7-zip.org/) - File compression and archiving. I was a WinRAR fanboy for over a decade. Why? No clue. [[Source Repo]](https://sourceforge.net/projects/sevenzip/)
 - [Calibre](https://calibre-ebook.com/) - view and manage ebooks from desktop. [[Docs]](https://manual.calibre-ebook.com/) [[Source Repo]](https://github.com/kovidgoyal/calibre)
 - [JREPL v8.6](https://www.dostips.com/forum/viewtopic.php?f=3&t=6044) - Regex text processor. Batch-JScript hybrid. [[Backup]](https://www.mediafire.com/file/l8u0w1dczi1ns69)
-- [DarkComet](https://www.mediafire.com/file/u6mu5h49ed5gpq6) - backup of the classic.
+- [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive isn't bundled with "optional" bloatware/adware. [[Backup]](https://www.mediafire.com/file/vc97e7249287jdd) [[Source Repo]](https://github.com/cheat-engine/cheat-engine)
+- [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
+- [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
 - [Olly](https://www.ollydbg.de/) - x86 assembly-level debugger.
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - universal CLI.
 - [MediaFire](https://mediafire.com/) - file upload and cloud storage.
 - [windscribe](https://windscribe.com/) - VPN with a free plan offering 10GB per month. No, I am not sponsored by these folks.
+
+*Old Backups of Legacy Programs:*
+
+- [DarkComet](https://www.mediafire.com/file/u6mu5h49ed5gpq6) - Backup of the classic, before the bullshit. Coded in Delphi. No source directly available, but something to look at if you're into this field.
+
+*References:*
+
+- [Regex Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) - on MDN.
 
 ## Media Related
 
@@ -112,7 +125,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [SDL](https://www.libsdl.org/) - Simple DirectMedia Layer. [[Docs]](http://wiki.libsdl.org/FrontPage) [[Source Repo]](https://github.com/libsdl-org/SDL)
 - [OpenGL](https://www.opengl.org/) - 3D graphics lib. [[Wiki]](https://www.khronos.org/opengl/wiki)
 - [EasyHook](https://github.com/EasyHook/EasyHook) - WinAPI hook base.
-- [wxWidgets](https://www.wxwidgets.org/) - cross-platform GUI library. [[Docs]](https://www.wxwidgets.org/docs/) [[Tutorials]](https://www.wxwidgets.org/docs/tutorials/) [[Source Repo]](https://github.com/wxWidgets/wxWidgets)
+- [wxWidgets](https://www.wxwidgets.org/) - cross-platform GUI library. Pairs well with [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder), a GUI creator which can export wxWidgets-compatible code in both C++ and Python. [[Docs]](https://www.wxwidgets.org/docs/) [[Tutorials]](https://www.wxwidgets.org/docs/tutorials/) [[Source Repo]](https://github.com/wxWidgets/wxWidgets)
 - [Boost C++ Libraries](https://www.boost.org/) - a ton of functions for a wide variety of uses. [[Docs]](https://www.boost.org/doc/)
 - [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library. **[Docs]** available on downloads page. [[Source Repo]](https://github.com/SFML/SFML)
 
@@ -120,8 +133,12 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 - [cplusplus.com](https://www.cplusplus.com/) - [[C++ Tutorial]](https://www.cplusplus.com/doc/tutorial/) [[Articles]](https://www.cplusplus.com/articles/) [[Reference]](https://www.cplusplus.com/reference/)
 - [cprogramming.com](https://www.cprogramming.com/) - [[C Tutorial]](https://www.cprogramming.com/tutorial/c-tutorial.html) [[C++ Tutorial]](https://www.cprogramming.com/tutorial/c++-tutorial.html)
-- An analysis of [why Dev-C++ was deprecated](https://www.cplusplus.com/forum/articles/36896/).
 - Command-line [linking with GCC](https://stackoverflow.com/q/15441877). See [SeKa](https://stackoverflow.com/users/2159358)'s answer for a short explanation of the differences between "compiling" and "linking" with **gcc** and **ld** (respectively).
+
+*Articles/Tutorials:*
+
+- [Learn C++ in 10 Hours](https://youtu.be/GQp1zzTwrIg) - A detailed tutorial covering everything you'll need to know for getting started. This is the most comprehensive video tutorial I've found. Somehow, it also has least rehashing of covered topics and superfluous explanations. Most everything is presented in a to-the-point manner.
+- An analysis of [why Dev-C++ was deprecated](https://www.cplusplus.com/forum/articles/36896/).
 - A somewhat detailed [comparison between Rust and C++](https://www.reddit.com/r/rust/comments/bya8k6/programming_with_rust_vs_c_c/).
 
 ### Python
@@ -129,6 +146,10 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 *Tools:*
 
 - [Python](https://www.python.org/) - programming language. [[Docs]](https://docs.python.org/3/) [[Source Repo]](https://github.com/python/cpython)
+
+*Libraries:*
+
+- [wxPython](https://www.wxpython.org/) - cross-platform GUI toolkit. [[Wiki]](https://wiki.wxpython.org/) [[Docs]](https://docs.wxpython.org/) [[Source Repo]](https://github.com/wxWidgets/Phoenix/)
 
 *References:*
 
@@ -141,7 +162,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 *Documents/Articles:*
 
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax quick reference.
-- [MDN](https://developer.mozilla.org/en-US/docs/Web) - Mozilla Developer Network's references archive: [[HTML]](https://developer.mozilla.org/en-US/docs/Web/HTML) [[CSS]](https://developer.mozilla.org/en-US/docs/Web/CSS) [[JavaScript]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - Mozilla Developer Network's reference archive: [[HTML]](https://developer.mozilla.org/en-US/docs/Web/HTML) [[CSS]](https://developer.mozilla.org/en-US/docs/Web/CSS) [[JavaScript]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Assembly (ASM)
 
@@ -157,13 +178,12 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 *Tools:*
 
-- [PowerShell](https://github.com/PowerShell/PowerShell) - scripting language. 
+- [PowerShell](https://github.com/PowerShell/PowerShell) - scripting language. [[Docs]](https://docs.microsoft.com/en-us/powershell/scripting/developer/windows-powershell-reference)
 - [Invoke-CmdScript](http://windowsitpro.com/powershell/take-charge-environment-variables-powershell) - call CMD scripts from PowerShell. [[Backup]](https://github.com/subvod/examples/blob/master/Invoke-CmdScript.ps1)
 
 *References:*
 
 - [SS64](https://ss64.com/ps/) - PowerShell command reference.
-- [Microsoft](https://docs.microsoft.com/en-us/powershell/scripting/developer/windows-powershell-reference?view=powershell-7.1) - PowerShell reference.
 
 ## Game-Specific Stuff
 
@@ -173,15 +193,21 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 ### Grand Theft Auto V
 
-*Tools/Mods:*
+*Tools:*
 
-- [ScriptHookV](https://www.dev-c.com/gtav/scripthookv/) - ScriptHookV base. SDK for development of C++ plugins available on the same page.
+- [ScriptHookV](http://www.dev-c.com/gtav/) - ScriptHookV base. SDK for development of C++ plugins available on the same page.
 - [CodeWalker](https://github.com/dexyfex/CodeWalker) - Interactive map editor. Discord server serves latest downloads (invite link on [GTA5-Mods](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)). [[Backup v30-dev36]](https://www.mediafire.com/file/382gfs26a40rivs/)
+
+*Mods:*
+
 - [MenyooSP](https://github.com/MAFINS/MenyooSP) - SP trainer.
 - [Enhanced Native Trainer](https://www.gta5-mods.com/scripts/enhanced-native-trainer-zemanez-and-others) - SP trainer with integrated fuel mod, among many other external mods/features.
 - [Enable All Interiors](https://www.gta5-mods.com/scripts/enable-all-interiors-wip) - merge project of existing interior mods.
-- [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions.
+- [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions. [[Source Repo]](https://github.com/I-E-A-I-A-I-O/VigilanteMissions)
 - [LemonUI](https://github.com/justalemon/LemonUI) - UI framework for GTA V. Intended to replace NativeUI.
+
+*Articles/Tutorials:*
+
 - [Enable/disable backfire](https://forums.gta5-mods.com/topic/24300/exhaust-backfire-disable/2) via mods using OpenIV.
 
 ### Red Dead Redemption 2
@@ -218,12 +244,19 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 ### SMW, SMW2
 
-- [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Documents]](https://www.smwcentral.net/?p=section&s=documents)
+*Tools:*
+
+- [ASAR](https://github.com/RPGHacker/asar) - 65816 assembler; successor to xkas. [[SMWCentral]](https://www.smwcentral.net/?p=section&a=details&id=25953)
+- [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator.
+
+*References:*
+
+- [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Docs]](https://www.smwcentral.net/?p=section&s=documents) [[ROM Hacks]](https://www.smwcentral.net/?p=section&s=smwhacks)
 - [FuSoYa's Site](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think FuSoYa has moved most everything to SMWCentral
-- [ASAR](https://github.com/RPGHacker/asar) - 65816 assembler; successor to xkas
-- [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator
 
 ### Pokemon Gen 1 and 2 (RBYGSC)
+
+*Tools:*
 
 - [RGBDS](https://github.com/gbdev/rgbds) - Rednex Gameboy Development System
 - [Pokemon Crystal Disassembly](https://github.com/pret/pokecrystal)
@@ -234,3 +267,6 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [Pkmn Crystal GS Codes](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13410)
 - [Pkmn Yellow Guide](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/64175)
 - [Pkmn Yellow GS Codes](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/6618)
+
+*References:*
+
