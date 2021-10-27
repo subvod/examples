@@ -131,11 +131,9 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 *Tools:*
 
-- [Python](https://www.python.org/) - programming language. [[Source Repo]](https://github.com/python/cpython)
+- [Python](https://www.python.org/) - programming language. [[Documentation]](https://docs.python.org/3/) [[Source Repo]](https://github.com/python/cpython)
 
 *References:*
-
-- Python's [official documentation](https://docs.python.org/3/) hosted online. [Download](https://docs.python.org/3/download.html) available for offline use. Currently available in: PDF, HTML, PlainText, and EPUB. All formats available packed in both **.zip** and **.tar.bz2** archives.
 
 ### Web Programming
 
