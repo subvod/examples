@@ -1,7 +1,11 @@
 # Invokes a Cmd.exe shell script and updates the environment.
 
 # Stolen from:
+# https://www.itprotoday.com/powershell/take-charge-environment-variables-powershell
+
+# ORIGINAL URL (DEFUNCT):
 # http://windowsitpro.com/powershell/take-charge-environment-variables-powershell
+
 # Proper credit given where credit is due. This is madness...
 
 function Invoke-CmdScript {
