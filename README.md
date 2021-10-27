@@ -30,26 +30,36 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [7-Zip](https://www.7-zip.org/) - Alternative (and I personally think superior) to WinRAR.
 - [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
 - [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
-- [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive download works fine and isn't bundled with "optional" bloatware/adware
+- [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive download works fine and isn't bundled with "optional" bloatware/adware.
+- [Calibre](https://calibre-ebook.com/) - view and manage ebooks from desktop.
 
 ## Media Related
 
 ### Audio/Video
 
-- [youtube-dl](https://youtube-dl.org/) - stream/download various media in various formats from various sources.
-- [READ ABOUT RIAA'S FAILED ATTEMPT TO SHUT DOWN YOUTUBE-DL :)](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
+*Tools:*
+
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Stream/download various media in various formats from various sources.
 - [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet.
-- [FFMpeg](https://github.com/FFmpeg/FFmpeg) - audio/video conversion.
-- [VLC](https://github.com/videolan/vlc) - media player.
-- [Audacity](https://github.com/audacity/audacity) - audio editor.
+- [FFMpeg](https://github.com/FFmpeg/FFmpeg) - Audio/video conversion.
+- [VLC](https://github.com/videolan/vlc) - Media player.
+- [Audacity](https://github.com/audacity/audacity) - Audio editor.
+
+*References:*
+
+- [READ ABOUT RIAA'S FAILED ATTEMPT TO SHUT DOWN YOUTUBE-DL :)](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
 - [Automate the download and conversion/extraction of audio and video from the internet](https://github.com/subvod/examples/blob/master/youtube-dl.MD) using **youtube-dl** and **ffmpeg**.
 
 ### Image
 
-- [GIMP](https://gitlab.gnome.org/GNOME/gimp) - image editor.
-- [nomacs](https://github.com/nomacs/nomacs) - image viewer with integrated adjustable window transparency.
-- [GreenShot](https://github.com/greenshot/greenshot) - screen capture software with autosave.
+*Tools:*
+
+- [GIMP](https://gitlab.gnome.org/GNOME/gimp) - Image editor. Extensive support via plugins. [[Documentation]](https://docs.gimp.org/2.10/en/) [[Tutorials]](https://www.gimp.org/tutorials/)
+- [nomacs](https://github.com/nomacs/nomacs) - Image viewer with integrated adjustable window transparency.
+- [GreenShot](https://github.com/greenshot/greenshot) - Screen capture software with autosave.
 - [ImageMagick](https://github.com/ImageMagick/ImageMagick) - Image editor with command-line untilities.
+
+*References:*
 
 ### 3D
 
@@ -69,57 +79,74 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 *Browsers:*
 
-[Mozilla Firefox](https://www.mozilla.org/) - Open source, which can be found [here](https://hg.mozilla.org/mozilla-central/).
+[Mozilla Firefox](https://www.mozilla.org/) - used this exclusively since 2009. [[Source Repo]](https://hg.mozilla.org/mozilla-central/)
 
 *Plugins:*
-- [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) - Control how webpages operate using JavaScript. Community documentation is available [on the Wiki](https://wiki.greasespot.net/Main_Page). A list of sites in which scripts [can be uploaded and shared](https://wiki.greasespot.net/User_Script_Hosting).
+- [ViolentMonkey](https://violentmonkey.github.io/) - Control how webpages operate using JavaScript "userscripts". Alternative for GreaseMonkey. [[Source Repo]](https://github.com/violentmonkey/violentmonkey)
 - [PageHacker](https://addons.mozilla.org/en-US/firefox/addon/page-hacker/) - an interactive "Inspect Element".
 - [UBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - efficient, wide-spectrum content blocker.
-- [The Stream Detector](https://github.com/rowrawer/stream-detector) - Detects playlists and subtitles used by HLS/DASH/HDS/MSS streams. Assembles readymade youtube-dl/FFmpeg/Streamlink/hlsdl/N_m3u8DL-CLI commands. Addon available [here](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/).
+- [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) - HLS/DASH/HDS/MSS stream detector. [[Source Repo]](https://github.com/rowrawer/stream-detector)
 - [YouTube Video and Audio Downloader](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/) - WebX downloader with UI integrated to YouTube's.
 - [pdf.js](https://github.com/mozilla/pdf.js) - mirror of PDF reader included with Firefox installs.
 
-## Desktop Programming
+## Programming Related
 
-*Tools/Languages:*
+### Miscellaneous Programming
 
-- [Python](https://github.com/python/cpython) - programming language.
-- [TDM-GCC](https://github.com/jmeubank/tdm-gcc) - Windows-focused GNU Compiler Collection; available in both 32 and 64-bit configurations.
-- [Flat Assembler](https://flatassembler.net/) - "FASM"; x86/x86-64 assembler.
 - [Olly](https://www.ollydbg.de/) - still works fine for 32-bit.
-- [PowerShell](https://github.com/PowerShell/PowerShell)
-- [Visual Studio Build Tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16) - base install without editor/IDE.
+- [PowerShell](https://github.com/PowerShell/PowerShell) - scripting language.
+- [Flat Assembler](https://flatassembler.net/) - "FASM"; x86/x86-64 assembler.
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - universal CLI.
 
-*Documents/Articles:*
+### C/C++ Programming
 
-- An analysis of [why Dev-C++ was deprecated.](https://www.cplusplus.com/forum/articles/36896/).
+*IDEs:*
 
-## Web Programming
+- [Visual Studio Code](https://github.com/microsoft/vscode) - configurable with JSON scripts. Wide support spectrum via extensions. [[Task Reference]](https://code.visualstudio.com/docs/editor/tasks)
+- [Code::Blocks](https://www.codeblocks.org/) - C, C++, and Fortran IDE.
+
+*Compilers:*
+
+- [TDM-GCC](https://github.com/jmeubank/tdm-gcc) - Windows-focused GNU Compiler Collection; available in both 32 and 64-bit configurations. Can be configured for [use with VSCode](https://code.visualstudio.com/docs/cpp/config-mingw).
+- [Visual Studio Build Tools 2019](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019) - command-line build tools without the IDE or integration with it. Can be configured for [use with VSCode](https://code.visualstudio.com/docs/cpp/config-msvc).
+
+*Libraries:*
+
+- [SDL](https://www.libsdl.org/) - Simple DirectMedia Layer.
+- [OpenGL](https://www.opengl.org/) - 3D graphics lib.
+- [EasyHook](https://github.com/EasyHook/EasyHook) - WinAPI hook base.
+- [wxWidgets](https://www.wxwidgets.org/) - cross-platform GUI library.
+- [Boost C++ Libraries](https://www.boost.org/) - a ton of functions for a wide variety of uses.
+- [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
+
+*References:*
+
+- [cplusplus.com](https://www.cplusplus.com/) - [[C++ Tutorial]](https://www.cplusplus.com/doc/tutorial/) [[Articles]](https://www.cplusplus.com/articles/) [[Reference]](https://www.cplusplus.com/reference/)
+- [cprogramming.com](https://www.cprogramming.com/) - [[C Tutorial]](https://www.cprogramming.com/tutorial/c-tutorial.html) [[C++ Tutorial]](https://www.cprogramming.com/tutorial/c++-tutorial.html)
+- An analysis of [why Dev-C++ was deprecated](https://www.cplusplus.com/forum/articles/36896/).
+- Command-line [linking with GCC](https://stackoverflow.com/q/15441877). See [SeKa](https://stackoverflow.com/users/2159358)'s answer for a short explanation of the differences between "compiling" and "linking" with **gcc** and **ld** (respectively).
+- A somewhat detailed [comparison between Rust and C++](https://www.reddit.com/r/rust/comments/bya8k6/programming_with_rust_vs_c_c/).
+
+### Python Programming
+
+*Tools:*
+
+- [Python](https://www.python.org/) - programming language. [[Source Repo]](https://github.com/python/cpython)
+
+*References:*
+
+- Python's [official documentation](https://docs.python.org/3/) hosted online. [Download](https://docs.python.org/3/download.html) available for offline use. Currently available in: PDF, HTML, PlainText, and EPUB. All formats available packed in both **.zip** and **.tar.bz2** archives.
+
+### Web Programming
 
 *Tools/Languages:*
 
 - [Turndown](https://github.com/mixmark-io/turndown) - HTML to Markdown converter written in HTML and JavaScript.
-- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax quick reference.
 
 *Documents/Articles:*
 
-
-
-### IDEs
-
-- [Visual Studio Code](https://github.com/microsoft/vscode) - automation via JSON. How to [set up GCC with VSCode](https://code.visualstudio.com/docs/cpp/config-mingw). Some [extended task information](https://code.visualstudio.com/docs/editor/tasks) for automation.
-- [Code::Blocks](https://www.codeblocks.org/)
-- [Atom](https://github.com/atom/atom)
-- [PyCharm](https://www.jetbrains.com/pycharm/) - from [JetBrains](https://www.jetbrains.com/).
-
-### Assorted Development Libraries
-
-- [SDL](https://www.libsdl.org/) - Simple DirectMedia Layer for C
-- [OpenGL](https://www.opengl.org/) - C++ graphics lib
-- [EasyHook](https://github.com/EasyHook/EasyHook) - WinAPI hook base
-- [wxWidgets](https://www.wxwidgets.org/) - cross-platform C++ GUI library
-- [Boost C++ Libraries](https://www.boost.org/) - a ton of functions for a wide variety of uses.
-- [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library for C++
+- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax quick reference.
+- [MDN](https://developer.mozilla.org/en-US/docs/Web) - Mozilla Developer Network's references archive: [[HTML]](https://developer.mozilla.org/en-US/docs/Web/HTML) [[CSS]](https://developer.mozilla.org/en-US/docs/Web/CSS) [[JavaScript]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Game-Specific Libraries/Tools/References/Mods
 
@@ -133,6 +160,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 - [Enable All Interiors](https://www.gta5-mods.com/scripts/enable-all-interiors-wip) - merge project of existing interior mods.
 - [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions.
 - [LemonUI](https://github.com/justalemon/LemonUI) - UI framework for GTA V. Intended to replace NativeUI.
+- [Enable/disable backfire](https://forums.gta5-mods.com/topic/24300/exhaust-backfire-disable/2) via mods using OpenIV.
 
 *Red Dead Redemption 2:*
 
