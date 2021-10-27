@@ -95,7 +95,7 @@ That out of the way, this is a jumbled assortment of random scripts and snippets
 
 - [Olly](https://www.ollydbg.de/) - still works fine for 32-bit.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - scripting language.
-- [Flat Assembler](https://flatassembler.net/) - "FASM"; x86/x86-64 assembler.
+- [Flat Assembler](https://flatassembler.net/) - "FASM"; x86/x86-64 assembler. [[Documentation]](https://flatassembler.net/docs.php) [[Examples]](https://flatassembler.net/examples.php)
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - universal CLI.
 
 ### C/C++ Programming
