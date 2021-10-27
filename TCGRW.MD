@@ -1,27 +1,24 @@
-What is this?
-Tips, Tricks, Warnings, and Rambling
-Suspected, Hunted, and Engaged (Team Status and Enemy Alert States)
-NPCs and Enemy AI
-Base Statistics
-The Best Loadout
-Analysis of Critical Hit Mechanics
-Vehicle Stats
-Pistol Stats
-Shotgun Ranges
-Weapon Damage
-Sniper Rifle Bullet Drop
-FAQ, Glitches, and Easter Eggs
+[](#information)
+[](#tips-tricks-warnings-and-rambling)
+[](#game-modes)
+[](#enemy-alert-states)
+[](#stealth-mechanics)
+[](#vehicle-stats)
+[](#weapon-stats)
+[](#faq)
 
-# What is this?
+# Information
 
 This is a collection of numerical data taken during and after testing many aspects of the game. It is meant to be a comprehensive analysis and data archive. All comments which come the slightest bit close to being biased towards a personal opinion will be listed at the bottom of this document. Want some tips on how to efficiently go about killing the Predator? Or maybe read some long ass paragraphs of nothing but opinionated rambling? Head down to the bottom of the document. Otherwise, continue down for the test results.
 
 # Tips, Tricks, Warnings, and Rambling
 
 ### How does explosion damage work?
+
 Explosions work just as they do in other games: more damage as you get closer to the center. Damage radius limits have proven to be difficult to pinpoint (outside of player's explosives). As far as damage through walls, no explosive damage penetrates a "solid" surface (what the game considers to be solid e.g. concrete, brick, etc; excludes tents, fences, etc). Now, damage doesn't penetrate solid surfaces, but explosive force does. This means within the spherical radius, anything which can be affected by explosions will be triggered. This includes gate locks blowing off, windows shattering, boxes destroyed, etc.
 
 ### How to effectively take on enemies?
+
 Try to stay stealthy. Stealth kills get a huge damage boost, so most enemies require only one shot to kill (outside of tier mode). Now, how about when you're made? Shoot and scoot. When you fire a shot or an explosion goes off while enemies are hunting you, they will rush the position that shot/explosion came from. This includes shooting an enemy but not killing them. Use cover appropriately and place mines behind you when you shift positions. Sometimes, proximity mines by themselves may not deal enough damage to take down an enemy, especially in online matchmaking. I recommend using a proxy combined with a C4 or mine. Basically just set down a C4/mine, then a proxy directly next to or on top of it. Not only do you expand your explosion radius, the explosion from the C4 essentially guarantees the kill. This isn't to knock the fact that the Prox Mine and Mine work differently. The Prox Mine is triggered exclusively by personnel walking within the trigger radius. While the Mine is triggered by both vehicles and personnel, it is triggered by a dead hit. This means it has no trigger radius and must be crossed or stepped on to be activated.
 
 ### Why use diversion lures over flashbangs?
@@ -62,7 +59,7 @@ Guerilla Mode can be used in conjunction with Tier Mode. Multipliers carry over 
 <table>
 <tr>
 <th scope="col">WAVE #</th>
-<th scope="col">PRESTIGECREDITS</th>
+<th scope="col">PRESTIGE<br>CREDITS</th>
 <th scope="col">RESOURCES</th>
 </tr>
 <tr>
@@ -92,7 +89,7 @@ Guerilla Mode can be used in conjunction with Tier Mode. Multipliers carry over 
 </tr>
 </table>
 
-# Suspected, Hunted, and Engaged (Team Status and Enemy Alert States)
+# Enemy Alert States
 
 There are five (5) alert states which enemies of any faction can be in. The icon above enemies which have no alert status will not blink. At "Suspected" and "Hunted", the icon will begin to blink slowly. At "Engaged" status, the icon blinks rapidly. The "Hunted" stage is broken into two separate stages despite what's shown above the minimap, but the rate of icon blinking is the same between the two.
   
@@ -144,12 +141,12 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </tr>
 <tr>
 <td>Rebel Soldier</td>
-<td>AK-47,Skorpion,M4A1 <sub>[FG]</sub></td>
+<td>AK-47<br>Skorpion,M4A1 <sub>[FG]</sub></td>
 <td>N/A</td>
 </tr>
 <tr>
 <td>Rebel Veteran</td>
-<td>SR3M,M4A1 <sub>[FG]</sub></td>
+<td>SR3M<br>M4A1 <sub>[FG]</sub></td>
 <td>N/A</td>
 </tr>
 <tr>
@@ -174,7 +171,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </tr>
 <tr>
 <td>Santa Blanca Sniper</td>
-<td>M40A5,Dragunov <sub>[NR]</sub>,SR25 <sub>[FG]</sub></td>
+<td>M40A5<br>Dragunov <sub>[NR]</sub><br>SR25 <sub>[FG]</sub></td>
 <td>4</td>
 </tr>
 <tr>
@@ -184,7 +181,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </tr>
 <tr>
 <td>Unidad Sniper</td>
-<td>MSR,Dragunov <sub>[NR]</sub>,SR25 <sub>[FG]</sub></td>
+<td>MSR<br>Dragunov <sub>[NR]</sub><br>SR25 <sub>[FG]</sub></td>
 <td>5</td>
 </tr>
 <tr>
@@ -194,17 +191,17 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </tr>
 <tr>
 <td>Santa Blanca Soldier</td>
-<td>M4A1,805 Bren A2,PP19,Dual-Wield SMG-11,D-50 <sub>[FG]</sub>,MP7 <sub>[FG]</sub></td>
+<td>M4A1<br>805 Bren A2<br>PP19<br>Dual-Wield SMG-11<br>D-50 <sub>[FG]</sub><br>MP7 <sub>[FG]</sub></td>
 <td>5</td>
 </tr>
 <tr>
 <td>Santa Blanca Soldier (Vested)</td>
-<td>G36C,805 Bren A2,MPX,Dual-Wield Skorpion/SMG-11,AK-47 <sub>[NR]</sub>,PP19 <sub>[NR]</sub>,D-50 <sub>[FG]</sub></td>
+<td>G36C<br>805 Bren A2<br>MPX<br>Dual-Wield Skorpion<br>Dual-Wield SMG-11<br>AK-47 <sub>[NR]</sub><br>PP19 <sub>[NR]</sub><br>D-50 <sub>[FG]</sub></td>
 <td>13</td>
 </tr>
 <tr>
 <td>Los Sin Almas Soldier (Vested) <sub>[NR]</sub></td>
-<td>AK-47,PP19</td>
+<td>AK-47<br>PP19</td>
 <td>13</td>
 </tr>
 <tr>
@@ -214,7 +211,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </tr>
 <tr>
 <td>Santa Blanca Heavy Soldier</td>
-<td>6P41,Type 95 <sub>[NR]</sub>,Mk249 <sub>[FG]</sub></td>
+<td>6P41<br>Type 95 <sub>[NR]</sub><br>Mk249 <sub>[FG]</sub></td>
 <td>16</td>
 </tr>
 <tr>
@@ -224,22 +221,22 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </tr>
 <tr>
 <td>Unidad Heavy Soldier</td>
-<td>Mk249,Type 95 <sub>[NR]</sub></td>
+<td>Mk249<br>Type 95 <sub>[NR]</sub></td>
 <td>17</td>
 </tr>
 <tr>
 <td>Santa Blanca Veteran</td>
-<td>AK-12,G36C,MPX,M4A1 <sub>[FG]</sub></td>
+<td>AK-12<br>G36C<br>MPX<br>M4A1 <sub>[FG]</sub></td>
 <td>18</td>
 </tr>
 <tr>
 <td>Unidad Soldier</td>
-<td>R5 RGP,AK-47 <sub>[NR]</sub>,M4A1 <sub>[FG]</sub></td>
+<td>R5 RGP<br>AK-47 <sub>[NR]</sub><br>M4A1 <sub>[FG]</sub></td>
 <td>18</td>
 </tr>
 <tr>
 <td>Unidad Veteran</td>
-<td>Vector .45 ACP,PP19 <sub>[NR]</sub></td>
+<td>Vector .45 ACP<br>PP19 <sub>[NR]</sub></td>
 <td>18</td>
 </tr>
 <tr>
@@ -259,21 +256,57 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </tr>
 </table>
 	
-**[NR]** *Narco Road DLC*<br>
-**[FG]** *Fallen Ghosts DLC*
+<sub>[NR]</sub> *Narco Road DLC*<br>
+<sub>[FG]</sub> *Fallen Ghosts DLC*
 
-# Remote Campsites/Checkpoints
+### Remote Campsites/Checkpoints
 
 These are randomly populated by cartel and/or Unidad and/or rebel forces, anywhere from 2 to 4 of each type. Sometimes these campsites will have two or three factions, meaning one day you might pass it with just two cartel gunners while the next may have both Unidad and rebels. Population conditions are unknown. There is a special type of campsite spawn where it appears the cartel and Unidad are negotiating. In this scenario, there will be a Santa Blanca Veteran along with two Santa Blanca Soldiers and an Unidad Veteran with two Unidad Soldiers.
-	
-# Road Patrols
+
+### Base Statistics
+
+There are many bases in both the stock game and DLCs. Listed below are statistics of some of the largest.
+
+<table>
+<tr>
+<th scope="col">NAME</th>
+<th scope="col">PROVINCE</th>
+<th scope="col">TOTAL NPCs</th>
+<th scope="col">SNIPERS</th>
+<th scope="col">HEAVIES</th>
+<th scope="col">VETERANS</th>
+<th scope="col">SOLDIERS</th>
+</tr>
+<tr>
+<td>F.O.B. Serpiente <sub>[NR]</sub></td>
+<td>Flor de Oro</td>
+<td>71</td>
+<td>18</td>
+<td>16</td>
+<td>1</td>
+<td>36</td>
+</tr>
+<tr>
+<td>M.O.B. Condor<br>[Full House Glitch](#mob-condor-full-house)</td>
+<td>Media Luna</td>
+<td>70</td>
+<td>15</td>
+<td>10</td>
+<td>4</td>
+<td>41</td>
+</tr>
+</table>
+
+**<sub>[NR]</sub>** *In Narco Road DLC*
+
+### Road Patrols
 
 Below is data taken from observing road patrol vehicles in the full game and both DLCs. Unidad road patrols and cartel reinforcement vehicles' occupants may vary based on location, e.g. more difficult provinces will have more heavies and veterans (and more occupants in general). A Unidad 4x4 in Itacua will have two soldiers, a driver and gunner, while the same vehicle in Koani may be loaded down with four heavies. Exceptions to this rule (those with occupants which do not vary based on location) are marked with an asterisk.
 	
 <table>
 <tr>
 <th scope="col">VEHICLE</th>
-<th scope="col">MAXIMUMNUMBEROFOCCUPANTS</th>
+<th scope="col">MAXIMUM<br>NUMBEROF<br>OCCUPANTS</th>
 <th scope="col">OCCUPANT TYPES</th>
 </tr>  
 <tr>
@@ -292,7 +325,7 @@ Below is data taken from observing road patrol vehicles in the full game and bot
 <td>Unidad SoldierUnidad Heavy</td>
 </tr>
 <tr>
-<td>Unidad4x4</td>
+<td>Unidad 4x4</td>
 <td>4</td>
 <td>Unidad Soldier/Unidad Heavy</td>
 </tr>
@@ -318,22 +351,22 @@ Below is data taken from observing road patrol vehicles in the full game and bot
 </tr>
 </table>
 
-**[x]** *Occupants do not vary.*<br>
-**[NR]** *Narco Road DLC*<br>
-**[FG]** *Fallen Ghosts DLC*
+<sub>[x]</sub> *Occupants do not vary.*<br>
+<sub>[NR]</sub> *Narco Road DLC*<br>
+<sub>[FG]</sub> *Fallen Ghosts DLC*
 
-# Cover, Concealment, Sound, Lighting, and Detection Avoidance
+# Stealth Mechanics
 
 All weapon classes have their own noise detection with no difference between weapons of the same class despite what the "noise reduction" bar may show. Compensators do not affect noise, again despite what the stat bar shows. Below are the maximum distances at which gunfire is heard by an enemy NPC. This is a flat number, no variables change noise detection distance. For example, an enemy will hear your unsuppressed MP5 at 60m, but if you take a mere one step backwards he won't hear a thing at 61m.
 
 <table>
 <tr>
 <th scope="col">CLASS</th>
-<th scope="col">SUPPRESSEDSUSPECTED</th>
-<th scope="col">UNSUPPRESSEDSUSPECTED</th>
+<th scope="col">SUPPRESSED<br>SUSPECTED</th>
+<th scope="col">UNSUPPRESSED<br>SUSPECTED</th>
 </tr>
 <tr>
-<td>Crossbow,<br>Five-seveN Blacklist,<br>Whisper</td>
+<td>Crossbow<br>Five-seveN Blacklist<br>Whisper</td>
 <td>0m</td>
 <td>0m</td>
 </tr>
@@ -422,50 +455,77 @@ Time of day also plays a part in visual detection distance (lighting in general 
 <td>45 m</td>
 </tr>
 </table>
-  
-[*] *Enemies in vehicles have a 360&deg; visual radius. The vehicle does not act as cover/concealment visibility-wise, either.*
-  
-# Base Statistics
 
-There are many bases in both the stock game and DLCs. Listed below are statistics of some of the largest.
+<sub>[*]</sub> *Enemies in vehicles have a 360&deg; visual radius. The vehicle does not act as cover/concealment visibility-wise, either.*
+
+# Vehicle Stats
+
+Below are armor testing results and information on vehicles available in the game. All of these except for the **"Pickup Truck"**, **"Armored SUV"**, and **"Helicopter"** are unlocked via **Prestige/Spec Ops Crate**. The former three are unlocked through **Rebel Support** missions. All shot numbers listed apply to all variants of the vehicles. All names are listed as they appear when unlocked via Crate. Parenthesis include other names the vehicle could go by and/or names shown when entering them. 
 
 <table>
 <tr>
-<th scope="col">NAME</th>
-<th scope="col">PROVINCE</th>
-<th scope="col">TOTAL NPCs</th>
-<th scope="col">SNIPERS</th>
-<th scope="col">HEAVIES</th>
-<th scope="col">VETERANS</th>
-<th scope="col">SOLDIERS</th>
+<th scope="col">VEHICLE(S)</th>
+<th scope="col">SHOTS TAKEN<br>(VS M60E4)</th>
 </tr>
 <tr>
-<td>F.O.B. Serpiente <sub>[NR]</sub></td>
-<td>Flor de Oro</td>
-<td>71</td>
-<td>18</td>
+<td>APC <sub>[S] [U]</sub></td>
+<td>33</td>
+</tr>
+<tr>
+<td>Military 4x4 (Humvee) <sub>[S]</sub><br>Armored SUV <sub>[U]</sub>
+<td>19</td>
+</tr>
+<tr>
+<td>Military Truck (Barracks) <sub>[U]</sub><br>Old School Truck (Comms Convoy) <sub>[S]</sub></td>
+<td>17</td>
+</tr>
+<tr>
+<td>SB Trophy Buggy <sub>[S]</sub><br>Trophy Truck <sub>[S]</sub><br>Armored Digger <sub>[S] [U]</sub><br>DIY Armored Truck<br>Truck <sub>[R] [C]</sub><br>Tanker <sub>[C]</sub><br>Tractor</td>
 <td>16</td>
-<td>1</td>
-<td>36</td>
 </tr>
 <tr>
-<td>M.O.B. Condor<a href="#glee">(Full House Glitch)</td>
-<td>Media Luna</td>
-<td>70</td>
+<td>Unidad Armored Buggy (AMV) <sub>[U]</sub><br>Zeus Pickup <sub>[S]</sub></td>
 <td>15</td>
+</tr>
+<tr>
+<td>Rescue Helicopter<br>Unidad Buggy (Small) <sub>[U]</sub></td>
+<td>13</td>
+</tr>
+<tr>
+<td>Rescue Truck (Meds Convoy) <sub>[S]</sub><br>Unidad 4x4 (Camo Jeep)<sub>[U]</sub><br>Unidad Truck (F-350)<sub>[U]</sub></td>
+<td>12</td>
+</tr>
+<tr>
+<td>Offroader (Black Jeep)<br>Plane (Large) <sub>[S] [U] [C]</sub><br>Plane (Small) <sub>[S] [U] [C]</sub><br>Pickup <sub>[R] [C]</sub><br>SUV <sub>[C]</sub>,4x4 <sub>[S]</sub><br>Van <sub>[C]</sub></td>
+<td>11</td>
+</tr>
+<tr>
+<td>Helicopter (Large) <sub>[S] [U]</sub><br>Sports Car <sub>[S]</sub><br>Muscle Car <sub>[S]</sub><br>Sedan <sub>[S]</sub></td>
 <td>10</td>
-<td>4</td>
-<td>41</td>
+</tr>
+<tr>
+<td>Military Chopper (Apache) <sub>[U]</sub><br>Helicopter (Small) <sub>[S] [U] [R]</sub><br>Vintage Car <sub>[S]</sub></td>
+<td>9</td>
+</tr>
+<tr>
+<td>Bike</td>
+<td>6</td>
 </tr>
 </table>
 
-**<sub>[NR]</sub>** *Narco Road DLC*
+<sub>[x]</sub> *Passenger can enter and fire from the trunk.*<br>
+<sub>[R]</sub> *Used by the Rebels and/or located at their campsites.*<br>
+<sub>[U]</sub> *Used by Unidad and/or located at their campsites.*<br>
+<sub>[S]</sub> *Used by SBC and/or located at their campsites..*<br>
+<sub>[C]</sub> *Used by civilian NPCs and may spawn randomly.*
 
-# The Best Loadout
+# Weapon Stats
+
+### The Best Loadout
 
 Statistically speaking, the best loadout in vanilla Wildlands (the stock version of the game excluding DLCs and crate unlocks) for covering all ranges is: M4A1, MSR, and Lady Killer. The M4A1 has the fastest potential TTK over all other assault rifles. The MSR, when equipped with the long barrel, holds one-shot kill potential anywhere on the body. (All other sniper rifles do not have that capability except for the HTI. However the HTI is also bolt-action and holds only five (5) rounds.) The Lady Killer has the highest damage of all pistols in the stock game. Both the Five-seveN Blacklist and Whisper (a.k.a. the Maxim 9) are the only silent pistols in the game, but the Whisper has the absolute lowest damage of any weapon in the game. DLC weapons which perform better than the aforementioned are the SR25 Jungle (sniper) and Five-seveN Blacklist (pistol). The SR25 Jungle has 20-round capacity, is semi-auto, and shoots flat out to 350m and holds one-shot capability to everything, identical to the Desert Tech HTI BDC. Therefore the statistical best loadout including DLC weapons is: M4A1, SR25 Jungle, and Five-seveN Blacklist.
-   
-# The Best Weapons Per Class
+
+### The Best Weapons Per Class
 
 <table>
 <tr>
@@ -512,9 +572,7 @@ Statistically speaking, the best loadout in vanilla Wildlands (the stock version
 </tr>
 </table>
 
-# Analysis of Critical Hit Mechanics
-
-### Breakdown
+### Critical Hit Mechanics
   
 A critical hit deals double the damage of a regular round fired from a weapon. After extensive gameplay, the way the game appears to calculate critical hit chance is dependent upon four factors: **shots fired**, **length of burst**, **shot placement**, and **target proximity**. I say four because any weapon (outside of Tier Mode and other than the Whisper pistol) will always one-shot unalerted enemies regardless of armor level. The game appears to just automatically kick the damage booster to well over 100% so as to guarantee a one-shot kill. Headshots work in this same manner. That being the case, analysis results will be based on experience with alerted enemies, specifically and exclusively regular Unidad soldiers (not heavy machine gunners or veterans).
 	
@@ -522,68 +580,27 @@ The game does appear to have a "damage drop over distance" mechanic, or somethin
 	
 **Balancing For Critical Hits:** High rate of fire means a higher chance of landing a critical hit. Most weapons with a low rate of fire have higher base damage compared to other weapons in their class to compensate for the lower rate of fire (thus lower chance of critting). However, as far as balancing goes, the M4A1 is about as good as it gets when it comes to "the best of both worlds". Closely ranked competitors are the AK-12 and G36C.
 
-# Vehicle Stats
+### Testing Restrictions and Controlled Variables
 
-Below are armor testing results and information on vehicles available in the game. All of these except for the **"Pickup Truck"**, **"Armored SUV"**, and **"Helicopter"** are unlocked via **Prestige/Spec Ops Crate**. The former three are unlocked through **Rebel Support** missions. All shot numbers listed apply to all variants of the vehicles. All names are listed as they appear when unlocked via Crate. Parenthesis include other names the vehicle could go by and/or names shown when entering them. 
+Hard target (vehicle) tests were conducted at Koani Bravo on extreme difficulty, tier mode off, against a player-spawned Unidad APC. Weapons had no attachments other than barrel modifications listed. Soft target (regular Unidad solider, not heavy or veteran) were tested at M.O.B. Jaguar in Flor de Oro, M.O.B. Condor in Media Luna, and F.O.B. Serpiente in Flor de Oro (used in Narco Road DLC because of high target count). All soft targets were taken out within "Engaged" status at point blank range (within 10m). Base damage values were recorded using semi-auto trigger with any weapon where it was available, otherwise full auto was used in a one-round burst fashion if a weapon did not offer a semi-auto trigger. All shots taken were center-mass and kept above the waistline. Kills involving any sort of critical hit were disregarded to avoid inflating the numbers.
 
-<table>
-<tr>
-<th scope="col">VEHICLE(S)</th>
-<th scope="col">SHOTS TAKEN<br>(VS M60E4)</th>
-</tr>
-<tr>
-<td>APC <sub>[S] [U]</sub></td>
-<td>33</td>
-</tr>
-<tr>
-<td>Military 4x4 (Humvee) <sub>[S]</sub>,Armored SUV <sub>[U]</sub>
-<td>19</td>
-</tr>
-<tr>
-<td>Military Truck (Barracks) <sub>[U]</sub>,Old School Truck (Comms Convoy) <sub>[S]</sub></td>
-<td>17</td>
-</tr>
-<tr>
-<td>SB Trophy Buggy <sub>[S]</sub>,Trophy Truck <sub>[S]</sub>,Armored Digger <sub>[S] [U]</sub>,DIY Armored Truck,Truck <sub>[R] [C]</sub>,Tanker <sub>[C]</sub>,Tractor</td>
-<td>16</td>
-</tr>
-<tr>
-<td>Unidad Armored Buggy (AMV) <sub>[U]</sub>,Zeus Pickup <sub>[S]</sub></td>
-<td>15</td>
-</tr>
-<tr>
-<td>Rescue Helicopter,Unidad Buggy (Small) <sub>[U]</sub></td>
-<td>13</td>
-</tr>
-<tr>
-<td>Rescue Truck (Meds Convoy) <sub>[S]</sub>,Unidad 4x4 (Camo Jeep)<sub>[U]</sub>,Unidad Truck (F-350)<sub>[U]</sub></td>
-<td>12</td>
-</tr>
-<tr>
-<td>Offroader (Black Jeep),Plane (Large) <sub>[S] [U] [C]</sub>,Plane (Small) <sub>[S] [U] [C]</sub>,Pickup <sub>[R] [C]</sub>,SUV <sub>[C]</sub>,4x4 <sub>[S]</sub>,Van <sub>[C]</sub></td>
-<td>11</td>
-</tr>
-<tr>
-<td>Helicopter (Large) <sub>[S] [U]</sub>,Sports Car <sub>[S]</sub>,Muscle Car <sub>[S]</sub>,Sedan <sub>[S]</sub></td>
-<td>10</td>
-</tr>
-<tr>
-<td>Military Chopper (Apache) <sub>[U]</sub>,Helicopter (Small) <sub>[S] [U] [R]</sub>,Vintage Car <sub>[S]</sub></td>
-<td>9</td>
-</tr>
-<tr>
-<td>Bike</td>
-<td>6</td>
-</tr>
-</table>
+### Soft Targets
 
-<sub>[x]</sub> *Passenger can enter and fire from the trunk.*<br>
-<sub>[R]</sub> *Used by the Rebels and/or located at their campsites.*<br>
-<sub>[U]</sub> *Used by Unidad and/or located at their campsites.*<br>
-<sub>[S]</sub> *Used by SBC and/or located at their campsites..*<br>
-<sub>[C]</sub> *Used by civilian NPCs and may spawn randomly.*
+Soft target "burst potential" testing is meant to give some idea as to how effective the weapon is in full auto and burst firing modes. This is meant to reveal a rough TTK based on number of rounds per burst. All burst tests start at the highest ROF trigger (three round burst). If a 3RB trigger wasn't available, full auto was used. If the only firing mode available is semi-auto, the weapon was fired as quickly as possible. For sniper rifles, base soft target damage was tested in two ways to ensure accuracy: shooting the feet and shooting the chest. If a sniper rifle has '1' in the "soft target" column, it will one-shot even in the foot. Otherwise, the maximum number of shots taken to the foot was listed. Some sniper rifles (such as the M40A5 and all sniper rifles chambered in .338LM) may one-shot center mass, but require two shots on extremeties. These individual differences were not recorded, as the MSR (with a long barrel) is the only .338LM rifle which kills in one shot regardless of shot placement. For sniper rifle "burst potential" within bolt actions, the least number of chest shots taken was used. (This is to show possible discrepancies between different hitboxes). For all weapons, aim down sight target lock-on assistance was used and firing began right after full ADS (scope in). Only targets that ate the entire burst were counted, all others were disregarded. Same as flat damage values, kills involving critical hits were disregarded as well.
+	
+### Penetration
 
-# Pistol Stats
+Each weapon class has its own penetration, as in they're guaranteed to shoot through certain surfaces. Some weapons penetrate more surfaces than others, as in one may go through a sandbag while another of the same class may not. For the most part, almost all weapons of a class will penetrate the same surface types and layers. Weapon penetration (both statistical and as shown in-game) appears to have no effect on armored personnel targets.
+
+### Shotguns
+
+It's rather difficult to test shotgun damage and maintain control of consistency. Shotgun damage tests on soft targets were done the same as every other weapon, up close and personal, to ensure no excess of rogue variables. Within 10m, all shotguns' spread remains in an area small enough to keep track of how many shells are fired. Past a certain distance (varying from shotgun to shotgun) the spread progressively widens, making farther shots difficult to record.
+
+### "Special" Weapons
+
+These are the guns that cannot be edited in the Gunsmith. Take note that the name of the weapon doesn't indicate it operates the same way its stock counterpart does. Differences may include bullet drop, base damage, rate of fire, reload speed, etc. For example, the P416 Micteca operates as if it were an M4A1 while the M4A1 Temple operates as if it were an M16.
+
+### Pistol Stats
 
 Below are test results for all sidearms in the game. Range values are tested maximums and are listed as 1m below the distance at which the bullet loses substance (is no longer considered a shot by the game). Hard target values are shots taken to destroy a Pickup. Soft target values are shots taken against a Unidad soldier.
 
@@ -860,31 +877,9 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 </tr>
 </table>
 
-# Weapon Damage
+### Damage Stats
 
-# Testing Restrictions and Controlled Variables
-
-Hard target (vehicle) tests were conducted at Koani Bravo on extreme difficulty, tier mode off, against a player-spawned Unidad APC. Weapons had no attachments other than barrel modifications listed. Soft target (regular Unidad solider, not heavy or veteran) were tested at M.O.B. Jaguar in Flor de Oro, M.O.B. Condor in Media Luna, and F.O.B. Serpiente in Flor de Oro (used in Narco Road DLC because of high target count). All soft targets were taken out within "Engaged" status at point blank range (within 10m). Base damage values were recorded using semi-auto trigger with any weapon where it was available, otherwise full auto was used in a one-round burst fashion if a weapon did not offer a semi-auto trigger. All shots taken were center-mass and kept above the waistline. Kills involving any sort of critical hit were disregarded to avoid inflating the numbers.
-
-# Soft Targets
-
-Soft target "burst potential" testing is meant to give some idea as to how effective the weapon is in full auto and burst firing modes. This is meant to reveal a rough TTK based on number of rounds per burst. All burst tests start at the highest ROF trigger (three round burst). If a 3RB trigger wasn't available, full auto was used. If the only firing mode available is semi-auto, the weapon was fired as quickly as possible. For sniper rifles, base soft target damage was tested in two ways to ensure accuracy: shooting the feet and shooting the chest. If a sniper rifle has '1' in the "soft target" column, it will one-shot even in the foot. Otherwise, the maximum number of shots taken to the foot was listed. Some sniper rifles (such as the M40A5 and all sniper rifles chambered in .338LM) may one-shot center mass, but require two shots on extremeties. These individual differences were not recorded, as the MSR (with a long barrel) is the only .338LM rifle which kills in one shot regardless of shot placement. For sniper rifle "burst potential" within bolt actions, the least number of chest shots taken was used. (This is to show possible discrepancies between different hitboxes). For all weapons, aim down sight target lock-on assistance was used and firing began right after full ADS (scope in). Only targets that ate the entire burst were counted, all others were disregarded. Same as flat damage values, kills involving critical hits were disregarded as well.
-	
-# Penetration
-
-Each weapon class has its own penetration, as in they're guaranteed to shoot through certain surfaces. Some weapons penetrate more surfaces than others, as in one may go through a sandbag while another of the same class may not. For the most part, almost all weapons of a class will penetrate the same surface types and layers. Weapon penetration (both statistical and as shown in-game) appears to have no effect on armored personnel targets.
-	
-# Shotguns
-
-It's rather difficult to test shotgun damage and maintain control of consistency. Shotgun damage tests on soft targets were done the same as every other weapon, up close and personal, to ensure no excess of rogue variables. Within 10m, all shotguns' spread remains in an area small enough to keep track of how many shells are fired. Past a certain distance (varying from shotgun to shotgun) the spread progressively widens, making farther shots difficult to record.
-	
-# "Special" Weapons
-
-These are the guns that cannot be edited in the Gunsmith. Take note that the name of the weapon doesn't indicate it operates the same way its stock counterpart does. Differences may include bullet drop, base damage, rate of fire, reload speed, etc. For example, the P416 Micteca operates as if it were an M4A1 while the M4A1 Temple operates as if it were an M16.
-	
-# "**INV**" for Ineffective Damage
-
-Any weapon/barrel configuration listed as "**INV**" is rendered virtually ineffective against hard targets, i.e. an APC will take upwards of 200+ shots, realistically invulnerable to damage from that configuration.
+Any weapon/barrel configuration listed as `INV` is rendered virtually ineffective against hard targets, i.e. an APC will take upwards of 200+ shots, realistically invulnerable to damage from that configuration.
 
 <table>
 <tr>
@@ -2225,11 +2220,11 @@ This list is in descending order, with the highest hitting (least bullet drop) r
 <th scope="col">AMMO TYPE</th>
 </tr>
 <tr>
-<td>Extranjeros BFGHTI Muddy Bones</td>
+<td>Extranjeros BFG<br>HTI Muddy Bones</td>
 <td>.50 BMG</td>
 </tr>
 <tr>
-<td>SR25 JungleMk14 Occult</td>
+<td>SR25 Jungle<br>Mk14 Occult</td>
 <td>7.62x51mm</td>
 </tr>
 <tr>
@@ -2241,7 +2236,7 @@ This list is in descending order, with the highest hitting (least bullet drop) r
 <td>.338</td>
 </tr>
 <tr>
-<td>Z93 AMRBFG-50A</td>
+<td>Z93 AMR<br>BFG-50A</td>
 <td>.50 BMG</td>
 </tr>
 <tr>
@@ -2278,9 +2273,9 @@ This list is in descending order, with the highest hitting (least bullet drop) r
 </tr>
 </table><br>
 
-# FAQ, Glitches, and Easter Eggs
+# FAQ
 
-**SPOILERS AHEAD!**
+*Faq, glitches and easter eggs.* **SPOILERS AHEAD!**
 	  
 ### Ghost Mode speedrun for Gold Exoskeleton suit?
 
