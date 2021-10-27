@@ -1,10 +1,10 @@
-[Information](#information)
-[Tips, Tricks, Warnings, and Rambling](#tips-tricks-warnings-and-rambling)
-[Game Modes](#game-modes)
-[Enemy Alert States](#enemy-alert-states)
-[Stealth Mechanics](#stealth-mechanics)
-[Vehicle Stats](#vehicle-stats)
-[Weapon Stats](#weapon-stats)
+[Information](#information)<br>
+[Tips, Tricks, Warnings, and Rambling](#tips-tricks-warnings-and-rambling)<br>
+[Game Modes](#game-modes)<br>
+[Enemy Alert States](#enemy-alert-states)<br>
+[Stealth Mechanics](#stealth-mechanics)<br>
+[Vehicle Stats](#vehicle-stats)<br>
+[Weapon Stats](#weapon-stats)<br>
 [FAQ, Glitches, and Bugs](#faq)
 
 # Information
