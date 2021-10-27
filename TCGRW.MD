@@ -5,7 +5,8 @@
 [Stealth Mechanics](#stealth-mechanics)<br>
 [Vehicle Stats](#vehicle-stats)<br>
 [Weapon Stats](#weapon-stats)<br>
-[FAQ, Glitches, and Bugs](#faq)
+[FAQ, Glitches, and Bugs](#faq)<br>
+[Credits](#credits)
 
 # Information
 
@@ -2351,3 +2352,8 @@ When an enemy is mounted on a vehicle turret, they will take considerably more h
 ### Mesh Glitch in ADS
 
 While wearing some icon skins (Smoke, Kapkan, etc) and using certain weapons (M4A1, 416, etc.) with certain optics (CompM4, Digital Scope, TA31H, etc), the player may be able to see some parts of the character mesh while aiming down sight. Notable optics which resolve this (still unfixed) issue are the Panoramic Sight and EXPS3.
+
+# Credits
+
+- [Eroktic](https://www.youtube.com/channel/UCHmvQlYVHbkm4oKkgqezgIg) - some weapons testing and working out how aggro works.
+- [Darkdally](https://www.youtube.com/c/Darkdally) - weapons testing.
