@@ -31,9 +31,8 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 *Tools:*
 
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Alternative to CCleaner because Avast fucked it up.
-- [7-Zip](https://www.7-zip.org/) - File compression and archiving. I was a WinRAR fanboy for over a decade. Why? No clue. [[Source Repo]](https://sourceforge.net/projects/sevenzip/)
+- [7-Zip](https://www.7-zip.org/) - File compression and archiving. I was a WinRAR fanboy for over a decade. Why? No clue. [[Source Repo]](https://sourceforge.net/projects/sevenzip/) ; LZMA2 for binary/images, PPMd for plaintext.
 - [Calibre](https://calibre-ebook.com/) - view and manage ebooks from desktop. [[Docs]](https://manual.calibre-ebook.com/) [[Source Repo]](https://github.com/kovidgoyal/calibre)
-- [JREPL v8.6](https://www.dostips.com/forum/viewtopic.php?f=3&t=6044) - Regex text processor. Batch-JScript hybrid. [[Backup]](https://www.mediafire.com/file/l8u0w1dczi1ns69)
 - [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive isn't bundled with "optional" bloatware/adware. [[Backup]](https://www.mediafire.com/file/vc97e7249287jdd) [[Source Repo]](https://github.com/cheat-engine/cheat-engine)
 - [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
 - [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
@@ -48,7 +47,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *References:*
 
-- [Regex Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) - on MDN.
+- [DO NOT DEFRAGMENT YOUR SSD](https://superuser.com/questions/1594/why-cant-you-defragment-solid-state-drives) - Defragmenting does nothing but spike write cycles, lowering SSD lifespan because of how they operate. This is not the case for HDDs with physical disks. Defragmenting is beneficial for HDDs, not SSDs.
 
 ## Media Related
 
@@ -178,18 +177,28 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *Tools:*
 
-- [PowerShell](https://github.com/PowerShell/PowerShell) - scripting language. [[Docs]](https://docs.microsoft.com/en-us/powershell/scripting/developer/windows-powershell-reference)
+- [PowerShell](https://github.com/PowerShell/PowerShell) - scripting language. [[Docs]](https://docs.microsoft.com/en-us/powershell/scripting/developer/windows-powershell-reference) [[Source Repo]](https://github.com/PowerShell/PowerShell)
 - [Invoke-CmdScript](http://windowsitpro.com/powershell/take-charge-environment-variables-powershell) - call CMD scripts from PowerShell. [[Backup]](https://github.com/subvod/examples/blob/master/Invoke-CmdScript.ps1)
 
 *References:*
 
 - [SS64](https://ss64.com/ps/) - PowerShell command reference.
 
+### Batch, JScript, VBScript
+
+*Tools:*
+
+- [JREPL](https://www.dostips.com/forum/viewtopic.php?f=3&t=6044) - Regex text processor. Batch-JScript hybrid. [[Backup]](https://www.mediafire.com/file/l8u0w1dczi1ns69)
+
+*References:*
+
+- [Rob van der Woude's Scripting Pages](https://www.robvanderwoude.com/) - A collection of (administrative) scripting related information.
+
+### Regex (Regular Expressions)
+
+- [Regex Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) - on MDN.
+
 ## Game-Specific Stuff
-
-### Minetest
-
-- [Minetest](https://github.com/minetest/minetest) - an open source voxel game engine. Basically Minecraft that runs native rather than through JVM/JRE. [[Wiki]](https://wiki.minetest.net/)
 
 ### Grand Theft Auto V
 
@@ -205,6 +214,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [Enable All Interiors](https://www.gta5-mods.com/scripts/enable-all-interiors-wip) - merge project of existing interior mods.
 - [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions. [[Source Repo]](https://github.com/I-E-A-I-A-I-O/VigilanteMissions)
 - [LemonUI](https://github.com/justalemon/LemonUI) - UI framework for GTA V. Intended to replace NativeUI.
+- [Rainbomizer](https://gtaforums.com/topic/974412-v-rainbomizer/) - Randomizer collection. [Source Repo](https://github.com/Parik27/V.Rainbomizer)
 
 *Articles/Tutorials:*
 
@@ -219,7 +229,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *References:*
 
-- [ClothesDB](https://www.rdr2mods.com/wiki/clothes/) - database of hex IDs for clothing, both SP and MP.
+- [RDR2Mods](https://www.rdr2mods.com/) - focused around RDR2 modding. Wiki with databases, tutorials, and references (including hash IDs). [[Wiki]](https://www.rdr2mods.com/wiki/)
 
 ### Homeworld 1, Cataclysm, 2, and/or Remastered
 
@@ -252,7 +262,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 *References:*
 
 - [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Docs]](https://www.smwcentral.net/?p=section&s=documents) [[ROM Hacks]](https://www.smwcentral.net/?p=section&s=smwhacks)
-- [FuSoYa's Site](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think FuSoYa has moved most everything to SMWCentral
+- [FuSoYa's Site](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think [FuSoYa](https://www.smwcentral.net/?p=profile&id=9435) has moved most everything to SMWCentral.
 
 ### Pokemon Gen 1 and 2 (RBYGSC)
 
@@ -263,10 +273,20 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [Pokemon Yellow Disassembly](https://github.com/pret/pokeyellow)
 - [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m) - merge project of all VBA branches; GB/GBC/GBA emulator.
 - [TGB Dual L](https://github.com/libertyernie/tgbdual_L) - Updated builds of TGB Dual, a GBC emulator which implements link cable emulation.
+
+*References:*
+
 - [Pkmn Crystal Guide](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13668)
 - [Pkmn Crystal GS Codes](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13410)
 - [Pkmn Yellow Guide](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/64175)
 - [Pkmn Yellow GS Codes](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/6618)
 
-*References:*
+### Minetest
 
+- [Minetest](https://github.com/minetest/minetest) - an open source voxel game engine. Basically Minecraft that runs native rather than through JVM/JRE. [[Wiki]](https://wiki.minetest.net/)
+
+### Forza
+
+*Tutorials/Articles:*
+
+- [Creating Accurate Logos](https://forums.forzamotorsport.net/turn10_postst133507_-Guide--Creating-Accurate-Logos.aspx) - tutorial by **PJTierney**. I recommend using **nomacs**. (Link in system tools.)
