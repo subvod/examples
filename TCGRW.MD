@@ -1103,9 +1103,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>M40A5</td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
-<td>8 (Long)<br>9 (Standard)10 (Short)</td>
-<td>1 (Long)<br>2 (Standard)2 (Short)</td>
-<td>1 (Long)<br>2 (Standard)2 (Short)</td>
+<td>8 (Long)<br>9 (Standard)<br>10 (Short)</td>
+<td>1 (Long)<br>2 (Standard)<br>2 (Short)</td>
+<td>1 (Long)<br>2 (Standard)<br>2 (Short)</td>
 </tr>
 <tr>
 <td>M40A5 Golden Sun<sub>[DLC]</sub></td>
@@ -1407,7 +1407,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>SR-635</td>
 <td>SMG</td>
 <td>6x35mm</td>
-<td>37 (Standard)<br>**INV** (Short)</td>
+<td>37 (Standard)<br>INV (Short)</td>
 <td>4 (Standard)<br>5 (Short)</td>
 <td>3 (Standard)<br>3 (Short)</td>
 </tr>
@@ -1575,7 +1575,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>R5 RGP</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>42 (Long)<br><br>46 (Standard)</td>
+<td>42 (Long)<br>46 (Standard)</td>
 <td>6 (Long)<br>6 (Standard)</td>
 <td>3 (Long)<br>3 (Standard)</td>
 </tr>
@@ -1775,7 +1775,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>ACR</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>50 (Long)<br>54 (Standard)<br>**INV** (Short)</td>
+<td>50 (Long)<br>54 (Standard)<br>INV (Short)</td>
 <td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
 <td>4 (Long)<br>4 (Standard)<br>4 (Short)</td>
 </tr>
@@ -1791,7 +1791,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>PSG</td>
 <td>SMG</td>
 <td>9x19mm</td>
-<td>50 (Long)<br>**INV** (Standard)</td>
+<td>50 (Long)<br>INV (Standard)</td>
 <td>6 (Long)<br>6 (Standard)</td>
 <td>4 (Long)<br>4 (Standard)</td>
 </tr>
@@ -1815,7 +1815,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>PP19</td>
 <td>SMG</td>
 <td>9x18mmMakarov</td>
-<td>51 (Long)<br>**INV** (Standard)</td>
+<td>51 (Long)<br>INV (Standard)</td>
 <td>6 (Long)<br>6 (Standard)</td>
 <td>4 (Long)<br>4 (Standard)</td>
 </tr>
@@ -1839,7 +1839,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>P90</td>
 <td>SMG</td>
 <td>5.7x28mm</td>
-<td>52 (Long)<br>**INV** (Standard)</td>
+<td>52 (Long)<br>INV (Standard)</td>
 <td>6 (Long)<br>6 (Standard)</td>
 <td>3 (Long)<br>4 (Standard)</td>
 </tr>
@@ -1983,7 +1983,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>MPX</td>
 <td>SMG</td>
 <td>9x19mm</td>
-<td>56 (Long)<br>**INV** (Standard)</td>
+<td>56 (Long)<br>INV (Standard)</td>
 <td>6 (Long)<br>6 (Standard)</td>
 <td>4 (Long)<br>4 (Standard)</td>
 </tr>
@@ -2007,7 +2007,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>G2 (FAMAS)</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>58 (Standard)<br>**INV** (Short)</td>
+<td>58 (Standard)<br>INV (Short)</td>
 <td>7 (Standard)<br>8 (Short)</td>
 <td>4 (Standard)<br>5 (Short)</td>
 </tr>
@@ -2103,7 +2103,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>Vector .45 ACP</td>
 <td>SMG</td>
 <td>.45 ACP</td>
-<td>68 (Standard)<br>**INV** (Short)</td>
+<td>68 (Standard)<br>INV (Short)</td>
 <td>8 (Standard)<br>9 (Short)</td>
 <td>5 (Standard)<br>5 (Short)</td>
 </tr>
@@ -2143,7 +2143,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>SR-635 Apparition<sub>[DLC]</sub></td>
 <td>SMG</td>
 <td>6x35mm</td>
-<td>**INV**</td>
+<td>INV</td>
 <td>5</td>
 <td>3</td>
 </tr>
@@ -2151,7 +2151,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>PP19 Executioner<sub>[DLC]</sub></td>
 <td>SMG</td>
 <td>9x18mmMakarov</td>
-<td>**INV**</td>
+<td>INV</td>
 <td>6</td>
 <td>4</td>
 </tr>
@@ -2159,7 +2159,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>Golden Vector<sub>[DLC]</sub></td>
 <td>SMG</td>
 <td>9x19mm</td>
-<td>**INV**</td>
+<td>INV</td>
 <td>10</td>
 <td>6</td>
 </tr>
@@ -2167,7 +2167,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>P90 Doorkicker<sub>[DLC]</sub></td>
 <td>SMG</td>
 <td>5.7x28mm</td>
-<td>**INV**</td>
+<td>INV</td>
 <td>7</td>
 <td>5</td>
 </tr>
@@ -2175,7 +2175,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>P90 Glory<sub>[DLC]</sub></td>
 <td>SMG</td>
 <td>5.7x28mm</td>
-<td>**INV**</td>
+<td>INV</td>
 <td>8</td>
 <td>4</td>
 </tr>
@@ -2183,7 +2183,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>P90 Mirmillo<sub>[DLC]</sub></td>
 <td>SMG</td>
 <td>5.7x28mm</td>
-<td>**INV**</td>
+<td>INV</td>
 <td>8</td>
 <td>4</td>
 </tr>
@@ -2191,7 +2191,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>Residuos</td>
 <td>SMG</td>
 <td>9x18mmMakarov</td>
-<td>**INV**</td>
+<td>INV</td>
 <td>6</td>
 <td>4</td>
 </tr>
@@ -2199,7 +2199,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>MPX Traveler<sub>[DLC]</sub></td>
 <td>SMG</td>
 <td>9x19mm</td>
-<td>**INV**</td>
+<td>INV</td>
 <td>6</td>
 <td>4</td>
 </tr>
