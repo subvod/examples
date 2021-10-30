@@ -142,7 +142,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </tr>
 <tr>
 <td>Rebel Soldier</td>
-<td>AK-47<br>Skorpion,M4A1 <sub>[FG]</sub></td>
+<td>AK-47<br>Skorpion, M4A1 <sub>[FG]</sub></td>
 <td>N/A</td>
 </tr>
 <tr>
@@ -919,25 +919,25 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>Z93 AMR<sub>[DLC]</sub></td>
 <td>Sniper</td>
 <td>.50 BMG</td>
-<td>2 (Long)2 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
+<td>2 (Long)<br>2 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
 <td>HTI</td>
 <td>Sniper</td>
 <td>.50 BMG</td>
-<td>2 (Long)3 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
+<td>2 (Long)<br>3 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
 <td>BFG-50A<sub>[DLC]</sub></td>
 <td>Sniper</td>
 <td>.50 BMG</td>
-<td>2 (Long)3 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
+<td>2 (Long)<br>3 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
 <td>TAC-50<sub>[DLC]</sub></td>
@@ -975,33 +975,33 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>FRF-2<sub>[DLC]</sub></td>
 <td>Sniper</td>
 <td>.338 LM</td>
-<td>5 (Long)6 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
+<td>5 (Long)<br>6 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
 <td>SR-1</td>
 <td>Sniper</td>
 <td>.338 LM</td>
-<td>5 (Long)6 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
+<td>5 (Long)<br>6 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
 <td>MSR</td>
 <td>Sniper</td>
 <td>.338 LM</td>
-<td>5 (Long)5 (Standard)6 (Short)</td>
-<td>1 (Long)1 (Standard)1 (Short)</td>
-<td>1 (Long)1 (Standard)1 (Short)</td>
+<td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
+<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
+<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
 </tr>
 <tr>
 <td>R93 LRS2<sub>[DLC]</sub></td>
 <td>Sniper</td>
 <td>.338 LM</td>
-<td>5 (Long)5 (Standard)6 (Short)</td>
-<td>1 (Long)1 (Standard)1 (Short)</td>
-<td>1 (Long)1 (Standard)1 (Short)</td>
+<td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
+<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
+<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
 </tr>
 <tr>
 <td>MSR Thermite<sub>[DLC]</sub></td>
@@ -1031,9 +1031,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>Super Shorty</td>
 <td>Shotgun</td>
 <td>12ga</td>
-<td>6 (Long)6 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
 <td>El Cuentista</td>
@@ -1071,9 +1071,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>SRSA1</td>
 <td>Sniper</td>
 <td>.338 LM</td>
-<td>6 (Long)6 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
 <td>The Warhawk</td>
@@ -1087,25 +1087,25 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>M1891</td>
 <td>Sniper</td>
 <td>7.62x54mmR</td>
-<td>7 (Long)8 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
+<td>7 (Long)<br>8 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
 <td>L115A3</td>
 <td>Sniper</td>
 <td>.338 LM</td>
-<td>7 (Long)7 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
-<td>1 (Long)1 (Standard)</td>
+<td>7 (Long)<br>7 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
+<td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
 <td>M40A5</td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
-<td>8 (Long)9 (Standard)10 (Short)</td>
-<td>1 (Long)2 (Standard)2 (Short)</td>
-<td>1 (Long)2 (Standard)2 (Short)</td>
+<td>8 (Long)<br>9 (Standard)10 (Short)</td>
+<td>1 (Long)<br>2 (Standard)2 (Short)</td>
+<td>1 (Long)<br>2 (Standard)2 (Short)</td>
 </tr>
 <tr>
 <td>M40A5 Golden Sun<sub>[DLC]</sub></td>
@@ -1183,9 +1183,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>SPAS-12</td>
 <td>Shotgun</td>
 <td>12ga</td>
-<td>13 (Long)13 (Standard)13 (Short)</td>
-<td>1 (Long)1 (Standard)1 (Short)</td>
-<td>1 (Long)1 (Standard)1 (Short)</td>
+<td>13 (Long)<br>13 (Standard)<br>13 (Short)</td>
+<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
+<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
 </tr>
 <tr>
 <td>SPAS-12 Skulls and Blood<sub>[DLC]</sub></td>
@@ -1199,9 +1199,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>SR25</td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
-<td>14 (Standard)16 (Short)</td>
-<td>2 (Standard)2 (Short)</td>
-<td>2 (Standard)2 (Short)</td>
+<td>14 (Standard)<br>16 (Short)</td>
+<td>2 (Standard)<br>2 (Short)</td>
+<td>2 (Standard)<br>2 (Short)</td>
 </tr>
 <tr>
 <td>SR25 Liberator<sub>[DLC]</sub></td>
@@ -1263,17 +1263,17 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>M4 Super 90<sub>[DLC]</sub></td>
 <td>Shotgun</td>
 <td>12ga</td>
-<td>18 (Standard)18 (Short)</td>
-<td>2 (Standard)2 (Short)</td>
-<td>2 (Standard)2 (Short)</td>
+<td>18 (Standard)<br>18 (Short)</td>
+<td>2 (Standard)<br>2 (Short)</td>
+<td>2 (Standard)<br>2 (Short)</td>
 </tr>
 <tr>
 <td>Dragunov (SVD)</td>
 <td>Sniper</td>
 <td>7.62x54mmR</td>
-<td>18 (Standard)19 (Short)</td>
-<td>3 (Standard)3 (Short)</td>
-<td>3 (Standard)2 (Short)</td>
+<td>18 (Standard)<br>19 (Short)</td>
+<td>3 (Standard)<br>3 (Short)</td>
+<td>3 (Standard)<br>2 (Short)</td>
 </tr>
 <tr>
 <td>&iexcl;SILENCIO!</td>
@@ -1287,9 +1287,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>SASG-12</td>
 <td>Shotgun</td>
 <td>12ga</td>
-<td>19 (Long)21 (Standard)</td>
-<td>2 (Long)2 (Standard)</td>
-<td>2 (Long)2 (Standard)</td>
+<td>19 (Long)<br>21 (Standard)</td>
+<td>2 (Long)<br>2 (Standard)</td>
+<td>2 (Long)<br>2 (Standard)</td>
 </tr>
 <tr>
 <td>ACS-12<sub>[DLC]</sub></td>
@@ -1319,9 +1319,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>MK14</td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
-<td>31 (Long)34 (Standard)</td>
-<td>4 (Long)4 (Standard)</td>
-<td>4 (Long)3 (Standard)</td>
+<td>31 (Long)<br>34 (Standard)</td>
+<td>4 (Long)<br>4 (Standard)</td>
+<td>4 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>Experimento #42</td>
@@ -1335,9 +1335,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>9mm C1</td>
 <td>SMG</td>
 <td>9x19mm</td>
-<td>32 (Long)35 (Standard)</td>
-<td>4 (Long)5 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>32 (Long)<br>35 (Standard)</td>
+<td>4 (Long)<br>5 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>Dragonbreath<sub>[NR]</sub></td>
@@ -1399,17 +1399,17 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>Mk 17</td>
 <td>AR</td>
 <td>7.62x51mm</td>
-<td>36 (Long)39 (Standard)42 (Short)</td>
-<td>5 (Long)5 (Standard)6 (Short)</td>
-<td>3 (Long)3 (Standard)3 (Short)</td>
+<td>36 (Long)<br>39 (Standard)<br>42 (Short)</td>
+<td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
+<td>3 (Long)<br>3 (Standard)<br>3 (Short)</td>
 </tr>
 <tr>
 <td>SR-635</td>
 <td>SMG</td>
 <td>6x35mm</td>
-<td>37 (Standard)****INV**** (Short)</td>
-<td>4 (Standard)5 (Short)</td>
-<td>3 (Standard)3 (Short)</td>
+<td>37 (Standard)<br>**INV** (Short)</td>
+<td>4 (Standard)<br>5 (Short)</td>
+<td>3 (Standard)<br>3 (Short)</td>
 </tr>
 <tr>
 <td>Mk14 Captain<sub>[DLC]</sub></td>
@@ -1447,17 +1447,17 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>Mk 16<sub>[DLC]</sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>37 (Long)40 (Standard)44 (Short)</td>
-<td>5 (Long)5 (Standard)6 (Short)</td>
-<td>3 (Long)3 (Standard)3 (Short)</td>
+<td>37 (Long)<br>40 (Standard)<br>44 (Short)</td>
+<td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
+<td>3 (Long)<br>3 (Standard)<br>3 (Short)</td>
 </tr>
 <tr>
 <td>6P41</td>
 <td>LMG</td>
 <td>7.62x54mm</td>
-<td>38 (Long)41 (Standard)</td>
-<td>4 (Long)4 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>38 (Long)<br>41 (Standard)</td>
+<td>4 (Long)<br>4 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>El Bast&oacute;n</td>
@@ -1471,9 +1471,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>PSG-1<sub>[DLC]</sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
-<td>38 (Long)41 (Standard)</td>
-<td>5 (Long)6 (Standard)</td>
-<td>5 (Long)3 (Standard)</td>
+<td>38 (Long)<br>41 (Standard)</td>
+<td>5 (Long)<br>6 (Standard)</td>
+<td>5 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>PSG-1 Mercenary<sub>[DLC]</sub></td>
@@ -1495,9 +1495,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>G28</td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
-<td>38 (Long)41 (Standard)</td>
-<td>5 (Long)6 (Standard)</td>
-<td>5 (Long)3 (Standard)</td>
+<td>38 (Long)<br>41 (Standard)</td>
+<td>5 (Long)<br>6 (Standard)</td>
+<td>5 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>Eagle Stare<sub>[NR]</sub></td>
@@ -1575,9 +1575,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>R5 RGP</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>42 (Long)46 (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>42 (Long)<br><br>46 (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>LVOA-C Bad News</td>
@@ -1591,41 +1591,41 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>AK-47</td>
 <td>AR</td>
 <td>7.62x39mm</td>
-<td>43 (Long)47 (Standard)53 (Short)</td>
-<td>6 (Long)6 (Standard)7 (Short)</td>
-<td>3 (Long)3 (Standard)4 (Short)</td>
+<td>43 (Long)<br>47 (Standard)<br>53 (Short)</td>
+<td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
+<td>3 (Long)<br>3 (Standard)<br>4 (Short)</td>
 </tr>
 <tr>
 <td>AUG A3<sub>[DLC]</sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>43 (Long)46 (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>43 (Long)<br>46 (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>416<sub>[DLC]</sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>44 (Long)47 (Standard)55 (Short)</td>
-<td>5 (Long)6 (Standard) (Short)</td>
-<td>3 (Long)4 (Standard) (Short)</td>
+<td>44 (Long)<br>47 (Standard)<br>55 (Short)</td>
+<td>5 (Long)<br>6 (Standard)<br> (Short)</td>
+<td>3 (Long)<br>4 (Standard)<br> (Short)</td>
 </tr>
 <tr>
 <td>AK-74<sub>[DLC]</sub></td>
 <td>AR</td>
 <td>7.62x39mm</td>
-<td>44 (Long)51 (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>3 (Long)4 (Standard)</td>
+<td>44 (Long)<br>51 (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>3 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>R4<sub>[DLC]</sub></td>
 <td>AR</td>
 <td>7.62x39mm</td>
-<td>44 (Long)50 (Standard)</td>
-<td>5 (Long)6 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>44 (Long)<br>50 (Standard)</td>
+<td>5 (Long)<br>6 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>Ritmo</td>
@@ -1639,9 +1639,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>AK-12</td>
 <td>AR</td>
 <td>7.62x39mm</td>
-<td>45 (Long)51 (Standard)</td>
-<td>5 (Long)6 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>45 (Long)<br>51 (Standard)</td>
+<td>5 (Long)<br>6 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>SC4000<sub>[DLC]</sub></td>
@@ -1655,25 +1655,25 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>9x19VSN</td>
 <td>SMG</td>
 <td>9x19mm</td>
-<td>46 (Long)46 (Standard)</td>
-<td>5 (Long)6 (Standard)</td>
-<td>3 (Long)4 (Standard)</td>
+<td>46 (Long)<br>46 (Standard)</td>
+<td>5 (Long)<br>6 (Standard)</td>
+<td>3 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>805 Bren A2</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>46 (Long)49 (Standard)54 (Short)</td>
-<td>5 (Long)6 (Standard)6 (Short)</td>
-<td>3 (Long)4 (Standard)4 (Short)</td>
+<td>46 (Long)<br>49 (Standard)<br>54 (Short)</td>
+<td>5 (Long)<br>6 (Standard)<br>6 (Short)</td>
+<td>3 (Long)<br>4 (Standard)<br>4 (Short)</td>
 </tr>
 <tr>
 <td>L85A2</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>46 (Standard)52 (Short)</td>
-<td>6 (Standard)6 (Short)</td>
-<td>4 (Standard)4 (Short)</td>
+<td>46 (Standard)<br>52 (Short)</td>
+<td>6 (Standard)<br>6 (Short)</td>
+<td>4 (Standard)<br>4 (Short)</td>
 </tr>
 <tr>
 <td>9x19VSN Replicant<sub>[DLC]</sub></td>
@@ -1687,9 +1687,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>G36C<sub>[DLC]</sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>46 (Long)53 (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>46 (Long)<br>53 (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>El Commandante<sub>[1]</sub><sub>[DLC]</sub></td>
@@ -1711,25 +1711,25 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>M4A1</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>47 (Long)52 (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>47 (Long)<br>52 (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>TAR-21</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>48 (Long)53 (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>4 (Long)4 (Standard)</td>
+<td>48 (Long)<br>53 (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>Stoner LMG A1</td>
 <td>LMG</td>
 <td>5.56x45mm</td>
-<td>48 (Long)52 (Standard)</td>
-<td>5 (Long)5 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>48 (Long)<br>52 (Standard)</td>
+<td>5 (Long)<br>5 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>Extranjeros MDR<sub>[DLC]</sub></td>
@@ -1751,17 +1751,17 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>Mk 48</td>
 <td>LMG</td>
 <td>7.62x51mm</td>
-<td>49 (Long)53 (Standard)</td>
-<td>5 (Long)5 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>49 (Long)<br>53 (Standard)</td>
+<td>5 (Long)<br>5 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>MDR<sub>[DLC]</sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>49 (Long)54 (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>4 (Long)4 (Standard)</td>
+<td>49 (Long)<br>54 (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>AK-47 Uprising<sub>[DLC]</sub></td>
@@ -1775,9 +1775,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>ACR</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>50 (Long)54 (Standard)**INV** (Short)</td>
-<td>6 (Long)6 (Standard)7 (Short)</td>
-<td>4 (Long)4 (Standard)4 (Short)</td>
+<td>50 (Long)<br>54 (Standard)<br>**INV** (Short)</td>
+<td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
+<td>4 (Long)<br>4 (Standard)<br>4 (Short)</td>
 </tr>
 <tr>
 <td>Veteran Bren<sub>[DLC]</sub></td>
@@ -1791,9 +1791,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>PSG</td>
 <td>SMG</td>
 <td>9x19mm</td>
-<td>50 (Long)**INV** (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>4 (Long)4 (Standard)</td>
+<td>50 (Long)<br>**INV** (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>Dollar Sign<sub>[NR]</sub></td>
@@ -1807,17 +1807,17 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>556xi</td>
 <td>AR</td>
 <td>7.62x39mm</td>
-<td>51 (Long)57 (Standard)63 (Short)</td>
-<td>6 (Long)6 (Standard)7 (Short)</td>
-<td>4 (Long)4 (Standard)5 (Short)</td>
+<td>51 (Long)<br>57 (Standard)<br>63 (Short)</td>
+<td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
+<td>4 (Long)<br>4 (Standard)<br>5 (Short)</td>
 </tr>
 <tr>
 <td>PP19</td>
 <td>SMG</td>
 <td>9x18mmMakarov</td>
-<td>51 (Long)**INV** (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>4 (Long)4 (Standard)</td>
+<td>51 (Long)<br>**INV** (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>Stoner Veteran<sub>[DLC]</sub></td>
@@ -1839,9 +1839,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>P90</td>
 <td>SMG</td>
 <td>5.7x28mm</td>
-<td>52 (Long)**INV** (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>3 (Long)4 (Standard)</td>
+<td>52 (Long)<br>**INV** (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>3 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>Honey Badger<sub>[DLC]</sub></td>
@@ -1935,17 +1935,17 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>PDR<sub>[DLC]</sub></td>
 <td>SMG</td>
 <td>5.56x45mm</td>
-<td>54 (Long)61 (Standard)</td>
-<td>6 (Long)7 (Standard)</td>
-<td>4 (Long)4 (Standard)</td>
+<td>54 (Long)<br>61 (Standard)</td>
+<td>6 (Long)<br>7 (Standard)</td>
+<td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>SR3M</td>
 <td>AR</td>
 <td>7.62x39mm</td>
-<td>54 (Long)63 (Standard)</td>
-<td>6 (Long)7 (Standard)</td>
-<td>4 (Long)4 (Standard)</td>
+<td>54 (Long)<br>63 (Standard)</td>
+<td>6 (Long)<br>7 (Standard)</td>
+<td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>Llamativo</td>
@@ -1967,9 +1967,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>AC-AR<sub>[DLC]</sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>56 (Standard)60 (Short)</td>
-<td>6 (Standard)7 (Short)</td>
-<td>4 (Standard)4 (Short)</td>
+<td>56 (Standard)<br>60 (Short)</td>
+<td>6 (Standard)<br>7 (Short)</td>
+<td>4 (Standard)<br>4 (Short)</td>
 </tr>
 <tr>
 <td>Type 95 Initiate<sub>[DLC]</sub></td>
@@ -1983,9 +1983,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>MPX</td>
 <td>SMG</td>
 <td>9x19mm</td>
-<td>56 (Long)**INV** (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>4 (Long)4 (Standard)</td>
+<td>56 (Long)<br>**INV** (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>Mendeleyev</td>
@@ -1999,17 +1999,17 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>U100<sub>[DLC]</sub></td>
 <td>LMG</td>
 <td>5.56x45mm</td>
-<td>57 (Long)63 (Standard)</td>
-<td>6 (Long)6 (Standard)</td>
-<td>3 (Long)3 (Standard)</td>
+<td>57 (Long)<br>63 (Standard)</td>
+<td>6 (Long)<br>6 (Standard)</td>
+<td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
 <td>G2 (FAMAS)</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>58 (Standard)**INV** (Short)</td>
-<td>7 (Standard)8 (Short)</td>
-<td>4 (Standard)5 (Short)</td>
+<td>58 (Standard)<br>**INV** (Short)</td>
+<td>7 (Standard)<br>8 (Short)</td>
+<td>4 (Standard)<br>5 (Short)</td>
 </tr>
 <tr>
 <td>FAL<sub>[DLC]</sub></td>
@@ -2039,17 +2039,17 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>P416</td>
 <td>AR</td>
 <td>5.56x45mm</td>
-<td>59 (Standard)65 (Short)</td>
-<td>7 (Standard)8 (Short)</td>
-<td>4 (Standard)5 (Short)</td>
+<td>59 (Standard)<br>65 (Short)</td>
+<td>7 (Standard)<br>8 (Short)</td>
+<td>4 (Standard)<br>5 (Short)</td>
 </tr>
 <tr>
 <td>MP5</td>
 <td>SMG</td>
 <td>9x19mm</td>
-<td>59 (Long)66 (Standard)</td>
-<td>7 (Long)8 (Standard)</td>
-<td>4 (Long)5 (Standard)</td>
+<td>59 (Long)<br>66 (Standard)</td>
+<td>7 (Long)<br>8 (Standard)</td>
+<td>4 (Long)<br>5 (Standard)</td>
 </tr>
 <tr>
 <td>Vector Spectra<sub>[DLC]</sub></td>
@@ -2071,17 +2071,17 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>Mk249</td>
 <td>LMG</td>
 <td>5.56x45mm</td>
-<td>65 (Long)70 (Standard)</td>
-<td>7 (Long)7 (Standard)</td>
-<td>4 (Long)4 (Standard)</td>
+<td>65 (Long)<br>70 (Standard)</td>
+<td>7 (Long)<br>7 (Standard)</td>
+<td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
 <td>MP7</td>
 <td>SMG</td>
 <td>4.6x30mm</td>
-<td>66 (Long)70 (Standard)</td>
-<td>8 (Long)8 (Standard)</td>
-<td>5 (Long)5 (Standard)</td>
+<td>66 (Long)<br>70 (Standard)</td>
+<td>8 (Long)<br>8 (Standard)</td>
+<td>5 (Long)<br>5 (Standard)</td>
 </tr>
 <tr>
 <td>MP5 Dragon's Breath<sub>[DLC]</sub></td>
@@ -2095,17 +2095,17 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>MG121</td>
 <td>LMG</td>
 <td>7.62x51mm</td>
-<td>66 (Standard)74 (Short)</td>
-<td>7 (Standard)8 (Short)</td>
-<td>3 (Standard)4 (Short)</td>
+<td>66 (Standard)<br>74 (Short)</td>
+<td>7 (Standard)<br>8 (Short)</td>
+<td>3 (Standard)<br>4 (Short)</td>
 </tr>
 <tr>
 <td>Vector .45 ACP</td>
 <td>SMG</td>
 <td>.45 ACP</td>
-<td>68 (Standard)**INV** (Short)</td>
-<td>8 (Standard)9 (Short)</td>
-<td>5 (Standard)5 (Short)</td>
+<td>68 (Standard)<br>**INV** (Short)</td>
+<td>8 (Standard)<br>9 (Short)</td>
+<td>5 (Standard)<br>5 (Short)</td>
 </tr>
 <tr>
 <td>T95 Spectre<sub>[DLC]</sub></td>
@@ -2135,9 +2135,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>Scorpion EVO 3</td>
 <td>SMG</td>
 <td>9x19mm</td>
-<td>73 (Long)78 (Standard)</td>
-<td>8 (Long)9 (Standard)</td>
-<td>5 (Long)5 (Standard)</td>
+<td>73 (Long)<br>78 (Standard)</td>
+<td>8 (Long)<br>9 (Standard)</td>
+<td>5 (Long)<br>5 (Standard)</td>
 </tr>
 <tr>
 <td>SR-635 Apparition<sub>[DLC]</sub></td>
@@ -2355,5 +2355,12 @@ While wearing some icon skins (Smoke, Kapkan, etc) and using certain weapons (M4
 
 # Credits
 
+*References:*
+
 - [Eroktic](https://www.youtube.com/channel/UCHmvQlYVHbkm4oKkgqezgIg) - some weapons testing and working out how aggro works.
 - [Darkdally](https://www.youtube.com/c/Darkdally) - weapons testing.
+
+*Tools Used:*
+
+- [Notepad++](https://notepad-plus-plus.org/) - creating the whole document. Also used integrated Regex search/replace for conversion from HTML to MD.
+- [Regex Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) - referenced during conversion from HTML to MD.
