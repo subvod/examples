@@ -2,11 +2,11 @@
 
 Here's a few clips I enjoy listening to. They'll give you a feel for how I operate:
 
-- https://www.youtube.com/watch?v=OHTWeIsP_ck
-- https://www.youtube.com/watch?v=TI6dG99HHX4
-- https://www.youtube.com/watch?v=aZ2lXrtjP6o
-- https://www.youtube.com/watch?v=pJmTHF4XYJY
-- https://www.youtube.com/watch?v=MvzwmoZaNHQ
+- https://youtube.be/OHTWeIsP_ck
+- https://youtube.be/TI6dG99HHX4
+- https://youtube.be/aZ2lXrtjP6o
+- https://youtube.be/pJmTHF4XYJY
+- https://youtube.be/MvzwmoZaNHQ
 
 Anyways, this is a jumbled assortment of random scripts and snippets for referential purposes. I'm not some big time developer. I've spent (probably more than) my fair share of time tinkering around with over 20 languages since 2008. I've dabbled in a little bit of everything: Z80, Java, 65816, Object Pascal, D, C#, Batch, Rust, etc. But after all the experimenting I've done I came to primarily focus on developing with C++ and Python. I came to that conclusion sometime in 2013. The few reference files I have for C/C++ are super basic functions I found online for different projects of my own, so I feel no need to upload them here. I no longer have access to any of my larger projects thanks to an unfortunate accident involving me typing up some code during the worst thunderstorm in the area since 28 years ago (allegedly). Fried my old laptop. However, in a section below, I will link all libraries and tools I've used both inside and outside programming. Hopefully these will give others a head start, or at the very least some sort of insight as to what they want to do.
 
@@ -20,7 +20,7 @@ Directly below are my small projects I've managed to muster up in the past two y
 
 [ASUS ROG Zephyrus G14 (2021) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the **2021 ASUS G14** because I'm a fucking normie piece of shit.
 
-And in case you haven't noticed already... yes, there will be some marginally crude language and possible references to comic mischief here and there. If you've even the slightest amount of mental fortitude, you'll do just fine. Otherwise, if you can't handle either of those or are so in favor of having your freedoms taken away just so mine do as well (while those who take those freedoms retain their own): bitch boys need not read further but instead [watch this](https://www.youtube.com/watch?v=j22bnzmjcQM).
+And in case you haven't noticed already... yes, there will be some marginally crude language and possible references to comic mischief here and there. If you've even the slightest amount of mental fortitude, you'll do just fine. Otherwise, if you can't handle either of those or are so in favor of having your freedoms taken away just so mine do as well (while those who take those freedoms retain their own): bitch boys need not read further but instead [watch this](https://youtu.be/j22bnzmjcQM).
 
 # MISCELLANEOUS
 
@@ -167,7 +167,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *Tools:*
 
-- [PowerShell](https://github.com/PowerShell/PowerShell) - scripting language. [[Docs]](https://docs.microsoft.com/en-us/powershell/scripting/developer/windows-powershell-reference) [[Source Repo]](https://github.com/PowerShell/PowerShell)
+- [PowerShell](https://github.com/PowerShell/PowerShell) - scripting language. [[Docs]](https://docs.microsoft.com/en-us/powershell/scripting/developer/windows-powershell-reference)
 - [Invoke-CmdScript](http://windowsitpro.com/powershell/take-charge-environment-variables-powershell) - call CMD scripts from PowerShell. [[Backup]](https://github.com/subvod/examples/blob/master/Invoke-CmdScript.ps1)
 
 *References:*
@@ -182,6 +182,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *References:*
 
+- [SS64](https://ss64.com/nt/) - CMD (Batch) command reference.
 - [Rob van der Woude's Scripting Pages](https://www.robvanderwoude.com/) - A collection of (administrative) scripting related information.
 
 ## Web Programming
@@ -220,7 +221,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *Documents/Articles:*
 
-- [Markdown via VS Code](https://code.visualstudio.com/docs/languages/markdown) - 
+- [Markdown via VS Code](https://code.visualstudio.com/docs/languages/markdown) - how to edit and preview Markdown in VS Code.
 
 ## Game-Specific Stuff
 
@@ -238,7 +239,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [Enable All Interiors](https://www.gta5-mods.com/scripts/enable-all-interiors-wip) - merge project of existing interior mods.
 - [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions. [[Source Repo]](https://github.com/I-E-A-I-A-I-O/VigilanteMissions)
 - [LemonUI](https://github.com/justalemon/LemonUI) - UI framework for GTA V. Intended to replace NativeUI.
-- [Rainbomizer](https://gtaforums.com/topic/974412-v-rainbomizer/) - Randomizer collection. [Source Repo](https://github.com/Parik27/V.Rainbomizer)
+- [Rainbomizer](https://gtaforums.com/topic/974412-v-rainbomizer/) - Configurable randomizer collection. [Source Repo](https://github.com/Parik27/V.Rainbomizer)
 
 *Articles/Tutorials:*
 
@@ -282,10 +283,11 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 - [ASAR](https://github.com/RPGHacker/asar) - 65816 assembler; successor to xkas. [[SMWCentral]](https://www.smwcentral.net/?p=section&a=details&id=25953)
 - [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator.
+- [Lunar Magic](https://fusoya.eludevisibility.org/lm/program.html) - the essential program needed to make SMW hacks. [[SMWCentral]](https://www.smwcentral.net/?p=section&a=details&id=28429)
 
 *References:*
 
-- [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Docs]](https://www.smwcentral.net/?p=section&s=documents) [[ROM Hacks]](https://www.smwcentral.net/?p=section&s=smwhacks)
+- [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Docs]](https://www.smwcentral.net/?p=section&s=documents) [[ROM Hacks]](https://www.smwcentral.net/?p=section&s=smwhacks) [[ROM Map]]()
 - [FuSoYa's Site](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think [FuSoYa](https://www.smwcentral.net/?p=profile&id=9435) has moved most everything to SMWCentral.
 
 ### Pokemon Gen 1 and 2 (RBYGSC)
