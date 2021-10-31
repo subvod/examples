@@ -8,7 +8,7 @@ Here's a few clips I enjoy listening to. They'll give you a feel for how I opera
 - https://youtube.be/pJmTHF4XYJY
 - https://youtube.be/MvzwmoZaNHQ
 
-Anyways, this is a jumbled assortment of random scripts and snippets for referential purposes. I'm not some big time developer. I've spent (probably more than) my fair share of time tinkering around with over 20 languages since 2008. I've dabbled in a little bit of everything: Z80, Java, 65816, Object Pascal, D, C#, Batch, Rust, etc. But after all the experimenting I've done I came to primarily focus on developing with C++ and Python. I came to that conclusion sometime in 2013. The few reference files I have for C/C++ are super basic functions I found online for different projects of my own, so I feel no need to upload them here. I no longer have access to any of my larger projects thanks to an unfortunate accident involving me typing up some code during the worst thunderstorm in the area since 28 years ago (allegedly). Fried my old laptop. However, in a section below, I will link all libraries and tools I've used both inside and outside programming. Hopefully these will give others a head start, or at the very least some sort of insight as to what they want to do.
+Anyways, this is a jumbled assortment of random scripts and snippets for referential purposes. I'm not some big time developer. I've spent (probably more than) my fair share of time tinkering around with over 20 languages since 2008. I've dabbled in a little bit of everything: Z80, Java, 65816, Object Pascal, D, C#, Batch, Rust, etc. But after all the experimenting I've done I came to primarily focus on developing with C++ and Python sometime in 2013. The few reference files I have for C/C++ are super basic functions I found online for different projects of my own, so I feel no need to upload them here. I no longer have access to any of my larger projects done in the past thanks to an unfortunate accident involving me typing up some code during the worst thunderstorm in the area since 1994. Fried my old laptop. (Yes, I know what a surge protector was. No I did not use one on my six-way at the time. Thanks for asking.) However, in a section below, I will link all libraries and tools I've used both inside and outside programming. Hopefully these will give others a head start, or at the very least some sort of insight as to what they want to do.
 
 Directly below are my small projects I've managed to muster up in the past two years. Not much programming-wise, as you'll see, but I learned Markdown in the process so there's some faint glimmer of silver lining. :)
 
@@ -18,13 +18,13 @@ Directly below are my small projects I've managed to muster up in the past two y
 
 [TCGRW.MD](https://github.com/subvod/examples/blob/master/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**.
 
-[ASUS ROG Zephyrus G14 (2021) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the **2021 ASUS G14** because I'm a fucking normie piece of shit.
+[ASUS ROG Zephyrus GA401QM (2021 G14) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the **2021 ASUS G14** because I'm a fucking normie piece of shit.
 
 And in case you haven't noticed already... yes, there will be some marginally crude language and possible references to comic mischief here and there. If you've even the slightest amount of mental fortitude, you'll do just fine. Otherwise, if you can't handle either of those or are so in favor of having your freedoms taken away just so mine do as well (while those who take those freedoms retain their own): bitch boys need not read further but instead [watch this](https://youtu.be/j22bnzmjcQM).
 
 # MISCELLANEOUS
 
-*A collection of jottings.*
+*A collection of jottings. These are tools and references I've used in the past, distant and recent. I do not link to things I've not used/tried myself for credibility reasons. It wouldn't make a whole lot of sense if I just linked to things with which I've no experience.*
 
 ## System Utilities
 
@@ -79,8 +79,8 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 ### 3D
 
-- [Blender](https://developer.blender.org/diffusion/) - 3D Editor [[Docs]](https://docs.blender.org/) [[Tutorials]](https://www.blender.org/support/tutorials/)
-- [Wings3D](http://www.wings3d.com/) - 3D Editor
+- [Blender](https://developer.blender.org/diffusion/) - 3D Editor. [[Docs]](https://docs.blender.org/) [[Tutorials]](https://www.blender.org/support/tutorials/)
+- [Wings3D](http://www.wings3d.com/) - 3D Editor. Considerably less-demanding than larger editors like Blender/3DSMax. I used Wings for modeling/texturing until I got a system powerful enough to run Blender without it freezing up every five minutes.
 
 ### Word Processors
 
@@ -258,18 +258,24 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 ### Homeworld 1, Cataclysm, 2, and/or Remastered
 
-*Tools/Mods:*
+*Tools:*
 
 - [bigDecrypter](https://github.com/mon/bigDecrypter) - Decrypts HWR BIG files. for use with ModPackager/HW2ICArchive.
-- [CFHodEd](https://github.com/Fallen-Angel/CFHodEd) - Universal HOD Editor for both classic and remstered Homeworld games.
-- [Homeworld Universe Mod Tools](https://www.moddb.com/games/homeworld-2/downloads/homeworld-universe-mod-tools) - Various tools for use with HW1, Cataclysm, and HW2.
+- [Homeworld Universe Mod Tools](https://www.moddb.com/games/homeworld-2/downloads/homeworld-universe-mod-tools) - Almost every tool used for HW1 (classic), Cataclysm, and HW2 (classic).
+- [CFHodEd](https://github.com/Fallen-Angel/CFHodEd) - Universal HOD Editor for both classic and remastered Homeworld games.
 - [Hw2 Official v1.1 Patch](https://www.moddb.com/games/homeworld-2/downloads/homeworld-2-v-11-patch-last-and-only-patch) - The only official HW2 game update from Relic.
-- [HomeworldSDL](https://github.com/aheadley/homeworld) - source code for HW1's game engine.
-- [fda2aifc](https://www.mediafire.com/file/nbc2qrz93nvt2n3) - converts **.fda** to **.aifc** audio formats. Old backup from **Relic**.
-- [Common Controls](https://www.mediafire.com/file/y8c6o4omi9ah06r) - Req'd by some old HW1, Cata, and HW2 tools.
+- [fda2aifc](https://www.mediafire.com/file/nbc2qrz93nvt2n3) - converts **.fda** to **.aifc** audio formats. Old backup from Relic.
+- [Common Controls](https://www.mediafire.com/file/y8c6o4omi9ah06r) - External libraries req'd by some old HW1, Cata, and HW2 tools.
 - [CFLuaDC](https://www.mediafire.com/file/gljt3lb0ik97l02) - 4E354B's Lua decompiler.
-- [HW2CDRP](https://www.mediafire.com/file/csulrdwbosymob7) - Decompiled data archive.
-- [No-CD Patches](https://www.mediafire.com/file/sm4wb37gj4pzl9d) - English and German game engine v1.1 patches.
+- [HW2CDRP](https://www.mediafire.com/file/csulrdwbosymob7) - **HW2 C**lean **D**ata **R**esource **P**roject. (Decompiled data archive.)
+- [No-CD Patches](https://www.mediafire.com/file/sm4wb37gj4pzl9d) - Backup of English and German game engine v1.1 patches. (Hw2 Classic only.)
+- [HomeworldSDL](https://github.com/aheadley/homeworld) - source code for HW1's game engine.
+
+*Mods:*
+
+- [Complex Simple (Simplex)](https://www.moddb.com/mods/homeworld-2-complex-simple) - Massive mod based on the Complex mod. [Siliconworm](https://www.moddb.com/members/m-o-m) has assured he will not adapt the mod to HWR because reasons.
+- [R.E.A.R.M.](https://www.moddb.com/mods/rearm) - **R**earmament **E**xpansion **A**nd **R**edesign **M**od for Hw2 classic. [R.E.A.R.M. V2](https://www.moddb.com/mods/rearm-v2) is adapted to HWR, but it seems [Pouk](https://www.moddb.com/members/pouk) hasn't made significant progress in a very long time.
+- [Homeworld 2 Complex](https://www.moddb.com/mods/homeworld-2-complex) - Complex mod, originally developed for Hw2 classic. [Complex Remastered](https://www.moddb.com/mods/homeworld-complex/downloads) is the adapted to HWR.
 
 *References:*
 
