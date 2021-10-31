@@ -105,7 +105,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [YouTube Video and Audio Downloader](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/) - WebX downloader with UI integrated to YouTube's.
 - [pdf.js](https://github.com/mozilla/pdf.js) - mirror of PDF reader included with Firefox installs.
 
-## Programming Related
+## Desktop Programming
 
 ### C/C++
 
@@ -139,6 +139,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [Learn C++ in 10 Hours](https://youtu.be/GQp1zzTwrIg) - A detailed tutorial covering everything you'll need to know for getting started. This is the most comprehensive video tutorial I've found. Somehow, it also has least rehashing of covered topics and superfluous explanations. Most everything is presented in a to-the-point manner.
 - An analysis of [why Dev-C++ was deprecated](https://www.cplusplus.com/forum/articles/36896/).
 - A somewhat detailed [comparison between Rust and C++](https://www.reddit.com/r/rust/comments/bya8k6/programming_with_rust_vs_c_c/).
+- [Understanding C Program Compilation Process Using GCC](https://youtu.be/PzsXHGVTScI) - An explanation of the process with intermediate files and options needed when performing each step individually.
 
 ### Python
 
@@ -151,17 +152,6 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [wxPython](https://www.wxpython.org/) - cross-platform GUI toolkit. [[Wiki]](https://wiki.wxpython.org/) [[Docs]](https://docs.wxpython.org/) [[Source Repo]](https://github.com/wxWidgets/Phoenix/)
 
 *References:*
-
-### Web Programming
-
-*Tools/Languages:*
-
-- [Turndown](https://github.com/mixmark-io/turndown) - HTML to Markdown converter written in HTML and JavaScript.
-
-*Documents/Articles:*
-
-- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax quick reference.
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - Mozilla Developer Network's reference archive: [[HTML]](https://developer.mozilla.org/en-US/docs/Web/HTML) [[CSS]](https://developer.mozilla.org/en-US/docs/Web/CSS) [[JavaScript]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Assembly (ASM)
 
@@ -184,7 +174,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 - [SS64](https://ss64.com/ps/) - PowerShell command reference.
 
-### Batch, JScript, VBScript
+### Batch/JScript/VBScript (Windows System Scripting)
 
 *Tools:*
 
@@ -194,9 +184,43 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 - [Rob van der Woude's Scripting Pages](https://www.robvanderwoude.com/) - A collection of (administrative) scripting related information.
 
+## Web Programming
+
+### HTML5
+
+*References:*
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - tag reference on MDN.
+
+### CSS
+
+*References:*
+
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - tag reference on MDN.
+
+### JavaScript
+
+*References:*
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - reference on MDN.
+
 ### Regex (Regular Expressions)
 
 - [Regex Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) - on MDN.
+
+### Markdown
+
+*Tools/Languages:*
+
+- [Turndown](https://github.com/mixmark-io/turndown) - HTML to Markdown converter written in HTML and JavaScript.
+
+*References:*
+
+- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax quick reference.
+
+*Documents/Articles:*
+
+- [Markdown via VS Code](https://code.visualstudio.com/docs/languages/markdown) - 
 
 ## Game-Specific Stuff
 
@@ -289,4 +313,4 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *Tutorials/Articles:*
 
-- [Creating Accurate Logos](https://forums.forzamotorsport.net/turn10_postst133507_-Guide--Creating-Accurate-Logos.aspx) - tutorial by **PJTierney**. I recommend using **nomacs**. (Link in system tools.)
+- [Creating Accurate Logos](https://forums.forzamotorsport.net/turn10_postst133507_-Guide--Creating-Accurate-Logos.aspx) - tutorial by **PJTierney**. I recommend using **nomacs**; link in [Image Tools](#image).
