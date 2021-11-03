@@ -2,11 +2,11 @@
 
 Here's a few clips I enjoy listening to. They'll give you a feel for how I operate:
 
-- https://youtube.be/OHTWeIsP_ck
-- https://youtube.be/TI6dG99HHX4
-- https://youtube.be/aZ2lXrtjP6o
-- https://youtube.be/pJmTHF4XYJY
-- https://youtube.be/MvzwmoZaNHQ
+- https://youtu.be/OHTWeIsP_ck
+- https://youtu.be/TI6dG99HHX4
+- https://youtu.be/aZ2lXrtjP6o
+- https://youtu.be/pJmTHF4XYJY
+- https://youtu.be/MvzwmoZaNHQ
 
 Anyways, this is a jumbled assortment of random scripts and snippets for referential purposes. I'm not some big time developer. I've spent (probably more than) my fair share of time tinkering around with over 20 languages since 2008. I've dabbled in a little bit of everything: Z80, Java, 65816, Object Pascal, D, C#, Batch, Rust, etc. But after all the experimenting I've done I came to primarily focus on developing with C++ and Python sometime in 2013. The few reference files I have for C/C++ are super basic functions I found online for different projects of my own, so I feel no need to upload them here. I no longer have access to any of my larger projects done in the past thanks to an unfortunate accident involving me typing up some code during the worst thunderstorm in the area since 1994. Fried my old laptop. (Yes, I know what a surge protector was. No I did not use one on my six-way at the time. Thanks for asking.) However, in a section below, I will link all libraries and tools I've used both inside and outside programming. Hopefully these will give others a head start, or at the very least some sort of insight as to what they want to do.
 
