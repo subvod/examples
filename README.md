@@ -31,19 +31,15 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 *Tools:*
 
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Alternative to CCleaner because Avast fucked it up.
-- [7-Zip](https://www.7-zip.org/) - File compression and archiving. I was a WinRAR fanboy for over a decade. Why? No clue. [[Source Repo]](https://sourceforge.net/projects/sevenzip/) ; LZMA2 for binary/images, PPMd for plaintext.
-- [Calibre](https://calibre-ebook.com/) - view and manage ebooks from desktop. [[Docs]](https://manual.calibre-ebook.com/) [[Source Repo]](https://github.com/kovidgoyal/calibre)
-- [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive isn't bundled with "optional" bloatware/adware. [[Backup]](https://www.mediafire.com/file/vc97e7249287jdd) [[Source Repo]](https://github.com/cheat-engine/cheat-engine)
+- [7-Zip](https://www.7-zip.org/) - File compression and archiving. I was a WinRAR fanboy for over a decade. Why? No clue. [[Source Code]](https://sourceforge.net/projects/sevenzip/) ; LZMA2 for binary/images, PPMd for plaintext.
+- [Calibre](https://calibre-ebook.com/) - view and manage ebooks from desktop. [[Docs]](https://manual.calibre-ebook.com/) [[Source Code]](https://github.com/kovidgoyal/calibre)
+- [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive isn't bundled with "optional" bloatware/adware. [[Backup]](https://www.mediafire.com/file/vc97e7249287jdd) [[Source Code]](https://github.com/cheat-engine/cheat-engine)
 - [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
 - [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
 - [Olly](https://www.ollydbg.de/) - x86 assembly-level debugger.
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - universal CLI.
 - [MediaFire](https://mediafire.com/) - file upload and cloud storage.
 - [windscribe](https://windscribe.com/) - VPN with a free plan offering 10GB per month. No, I am not sponsored by these folks.
-
-*Old Backups of Legacy Programs:*
-
-- [DarkComet](https://www.mediafire.com/file/u6mu5h49ed5gpq6) - Backup of the classic, before the bullshit. Coded in Delphi. No source directly available, but something to look at if you're into this field.
 
 *References:*
 
@@ -57,9 +53,9 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Stream/download various media in various formats from various sources.
 - [FFMpeg](https://github.com/FFmpeg/FFmpeg) - Audio/video conversion. [[Docs]](https://ffmpeg.org/documentation.html)
-- [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet. [[Docs]](https://opus-codec.org/docs/) [[Source Repo]](https://gitlab.xiph.org/xiph/opus-tools)
-- [VLC](https://www.videolan.org/) - Media player. [[Docs]](https://wiki.videolan.org/documentation:documentation/) [[Source Repo]](https://github.com/videolan/vlc)
-- [Audacity](https://www.audacityteam.org/) - Audio editor. [[Docs]](https://manual.audacityteam.org/) [[Source Repo]](https://github.com/audacity/audacity)
+- [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet. [[Docs]](https://opus-codec.org/docs/) [[Source Code]](https://gitlab.xiph.org/xiph/opus-tools)
+- [VLC](https://www.videolan.org/) - Media player. [[Docs]](https://wiki.videolan.org/documentation:documentation/) [[Source Code]](https://github.com/videolan/vlc)
+- [Audacity](https://www.audacityteam.org/) - Audio editor. [[Docs]](https://manual.audacityteam.org/) [[Source Code]](https://github.com/audacity/audacity)
 
 *References:*
 
@@ -70,38 +66,45 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *Tools:*
 
-- [GIMP](https://gitlab.gnome.org/GNOME/gimp) - Image editor. Extensive support via plugins. [[Docs]](https://docs.gimp.org/2.10/en/) [[Tutorials]](https://www.gimp.org/tutorials/)
+- [GIMP](https://www.gimp.org/) - Image editor. Extensive support via plugins. [[Docs]](https://docs.gimp.org/2.10/en/) [[Tutorials]](https://www.gimp.org/tutorials/) [[Source Code]](https://gitlab.gnome.org/GNOME/gimp)
 - [nomacs](https://github.com/nomacs/nomacs) - Image viewer with integrated adjustable window transparency.
 - [GreenShot](https://github.com/greenshot/greenshot) - Screen capture software with autosave.
-- [ImageMagick](https://github.com/ImageMagick/ImageMagick) - Image editor with command-line untilities.
+- [ImageMagick](https://imagemagick.org/) - Image editor with command-line untilities. [[Source Code]](https://github.com/ImageMagick/ImageMagick)
 
 *References:*
 
+- [Batch Converting via ImageMagick](https://stackoverflow.com/q/30414346) - With a `FOR` loop.
+
 ### 3D
 
-- [Blender](https://developer.blender.org/diffusion/) - 3D Editor. [[Docs]](https://docs.blender.org/) [[Tutorials]](https://www.blender.org/support/tutorials/)
-- [Wings3D](http://www.wings3d.com/) - 3D Editor. Considerably less-demanding than larger editors like Blender/3DSMax. I used Wings for modeling/texturing until I got a system powerful enough to run Blender without it freezing up every five minutes.
+- [Blender](https://developer.blender.org/diffusion/) - 3D Editor. [[Docs]](https://docs.blender.org/) [[Tutorials]](https://www.blender.org/support/tutorials/) [[Source Code]](https://www.blender.org/get-involved/developers/)
+- [Wings3D](http://www.wings3d.com/) - 3D Editor. Considerably less-demanding than larger editors like Blender/3DSMax. I used Wings for modeling/texturing until I got a system powerful enough to run Blender without it freezing up every five minutes. [[Source Code]](https://github.com/dgud/wings)
 
 ### Word Processors
 
-- [LibreOffice](https://www.libreoffice.org/) - collection of alternatives for MS Office. [[Docs]](https://documentation.libreoffice.org/en/english-documentation/)
+- [LibreOffice](https://www.libreoffice.org/) - collection of alternatives for MS Office. [[Docs]](https://documentation.libreoffice.org/en/english-documentation/) [[Source Code]](https://www.libreoffice.org/about-us/source-code/)
 
 ### Text Editors
 
-- [Notepad++](https://notepad-plus-plus.org/) - text editor; can be made into an IDE with Batch scripts. [[Docs]](https://npp-user-manual.org/)
+*Tools:*
+
+- [Notepad++](https://notepad-plus-plus.org/) - text editor; can be made into an IDE with Batch scripts. [[Docs]](https://npp-user-manual.org/) [[Source Code]](https://github.com/notepad-plus-plus/notepad-plus-plus)
+
+*Articles/Tutorials:*
+
 - [Turn Notepad++ into an IDE of sorts](https://github.com/subvod/examples/blob/master/NPP-IDE.MD) using **NPPExec** and **Notepad++ Macros**. Can be modified to work with any command-line compiler for any language.
 
 ### Web Browsers
 
 *Browsers:*
 
-- [Mozilla Firefox](https://www.mozilla.org/) - used this exclusively since 2009. [[Source Repo]](https://hg.mozilla.org/mozilla-central/)
+- [Mozilla Firefox](https://www.mozilla.org/) - used this exclusively since 2009. [[Source Code]](https://hg.mozilla.org/mozilla-central/)
 
 *Plugins:*
-- [ViolentMonkey](https://violentmonkey.github.io/) - Control how webpages operate using JavaScript "userscripts". Alternative for GreaseMonkey. [[Source Repo]](https://github.com/violentmonkey/violentmonkey)
+- [ViolentMonkey](https://violentmonkey.github.io/) - Control how webpages operate using JavaScript "userscripts". Alternative for GreaseMonkey. [[Source Code]](https://github.com/violentmonkey/violentmonkey)
 - [PageHacker](https://addons.mozilla.org/en-US/firefox/addon/page-hacker/) - an interactive "Inspect Element".
 - [UBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - efficient, wide-spectrum content blocker.
-- [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) - HLS/DASH/HDS/MSS stream detector. [[Source Repo]](https://github.com/rowrawer/stream-detector)
+- [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) - HLS/DASH/HDS/MSS stream detector. [[Source Code]](https://github.com/rowrawer/stream-detector)
 - [YouTube Video and Audio Downloader](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/) - WebX downloader with UI integrated to YouTube's.
 - [pdf.js](https://github.com/mozilla/pdf.js) - mirror of PDF reader included with Firefox installs.
 
@@ -111,8 +114,8 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *IDEs:*
 
-- [VSCode](https://code.visualstudio.com/) - Microsoft Visual Studio Code. Configurable with JSON scripts. Wide support spectrum via extensions. [[Docs]](https://code.visualstudio.com/docs) [[Task Info]](https://code.visualstudio.com/docs/editor/tasks) [[Source Repo]](https://github.com/microsoft/vscode)
-- [Code::Blocks](https://www.codeblocks.org/) - C, C++, and Fortran IDE. [[Docs]](https://www.codeblocks.org/user-manual/) [[Wiki]](https://wiki.codeblocks.org/index.php/Main_Page) [[Source Repo]](https://www.codeblocks.org/downloads/source/)
+- [VS Code](https://code.visualstudio.com/) - Microsoft Visual Studio Code. Technically just a code editor, but configurable with JSON scripts. Wide support spectrum via extensions. Can easily be made into an IDE. [[Docs]](https://code.visualstudio.com/docs) [[Task Info]](https://code.visualstudio.com/docs/editor/tasks) [[Editing 101]](https://code.visualstudio.com/docs/editor/codebasics) [[Source Code]](https://github.com/microsoft/vscode)
+- [Code::Blocks](https://www.codeblocks.org/) - C, C++, and Fortran IDE. [[Docs]](https://www.codeblocks.org/user-manual/) [[Wiki]](https://wiki.codeblocks.org/index.php/Main_Page) [[Source Code]](https://www.codeblocks.org/downloads/source/)
 
 *Compilers:*
 
@@ -121,12 +124,12 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *Libraries:*
 
-- [SDL](https://www.libsdl.org/) - Simple DirectMedia Layer. [[Docs]](http://wiki.libsdl.org/FrontPage) [[Source Repo]](https://github.com/libsdl-org/SDL)
+- [SDL](https://www.libsdl.org/) - Simple DirectMedia Layer. [[Docs]](http://wiki.libsdl.org/FrontPage) [[Source Code]](https://github.com/libsdl-org/SDL)
 - [OpenGL](https://www.opengl.org/) - 3D graphics lib. [[Wiki]](https://www.khronos.org/opengl/wiki)
 - [EasyHook](https://github.com/EasyHook/EasyHook) - WinAPI hook base.
-- [wxWidgets](https://www.wxwidgets.org/) - cross-platform GUI library. Pairs well with [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder), a GUI creator which can export wxWidgets-compatible code in both C++ and Python. [[Docs]](https://www.wxwidgets.org/docs/) [[Tutorials]](https://www.wxwidgets.org/docs/tutorials/) [[Source Repo]](https://github.com/wxWidgets/wxWidgets)
+- [wxWidgets](https://www.wxwidgets.org/) - cross-platform GUI library. Pairs well with [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder), a GUI creator which can export wxWidgets-compatible code in both C++ and Python. [[Docs]](https://www.wxwidgets.org/docs/) [[Tutorials]](https://www.wxwidgets.org/docs/tutorials/) [[Source Code]](https://github.com/wxWidgets/wxWidgets)
 - [Boost C++ Libraries](https://www.boost.org/) - a ton of functions for a wide variety of uses. [[Docs]](https://www.boost.org/doc/)
-- [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library. **[Docs]** available on downloads page. [[Source Repo]](https://github.com/SFML/SFML)
+- [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library. **[Docs]** available on downloads page. [[Source Code]](https://github.com/SFML/SFML)
 
 *References:*
 
@@ -145,11 +148,11 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *Tools:*
 
-- [Python](https://www.python.org/) - programming language. [[Docs]](https://docs.python.org/3/) [[Source Repo]](https://github.com/python/cpython)
+- [Python](https://www.python.org/) - programming language. [[Docs]](https://docs.python.org/3/) [[Source Code]](https://github.com/python/cpython)
 
 *Libraries:*
 
-- [wxPython](https://www.wxpython.org/) - cross-platform GUI toolkit. [[Wiki]](https://wiki.wxpython.org/) [[Docs]](https://docs.wxpython.org/) [[Source Repo]](https://github.com/wxWidgets/Phoenix/)
+- [wxPython](https://www.wxpython.org/) - cross-platform GUI toolkit. [[Wiki]](https://wiki.wxpython.org/) [[Docs]](https://docs.wxpython.org/) [[Source Code]](https://github.com/wxWidgets/Phoenix/)
 
 *References:*
 
@@ -218,6 +221,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 *References:*
 
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax quick reference.
+- [Edit/Preview Markdown in VS Code](https://code.visualstudio.com/docs/languages/markdown) - tutorial/reference.
 
 *Documents/Articles:*
 
@@ -237,9 +241,9 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [MenyooSP](https://github.com/MAFINS/MenyooSP) - SP trainer.
 - [Enhanced Native Trainer](https://www.gta5-mods.com/scripts/enhanced-native-trainer-zemanez-and-others) - SP trainer with integrated fuel mod, among many other external mods/features.
 - [Enable All Interiors](https://www.gta5-mods.com/scripts/enable-all-interiors-wip) - merge project of existing interior mods.
-- [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions. [[Source Repo]](https://github.com/I-E-A-I-A-I-O/VigilanteMissions)
+- [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions. [[Source Code]](https://github.com/I-E-A-I-A-I-O/VigilanteMissions)
 - [LemonUI](https://github.com/justalemon/LemonUI) - UI framework for GTA V. Intended to replace NativeUI.
-- [Rainbomizer](https://gtaforums.com/topic/974412-v-rainbomizer/) - Configurable randomizer collection. [Source Repo](https://github.com/Parik27/V.Rainbomizer)
+- [Rainbomizer](https://gtaforums.com/topic/974412-v-rainbomizer/) - Configurable randomizer collection. [[Source Code]](https://github.com/Parik27/V.Rainbomizer)
 
 *Articles/Tutorials:*
 
