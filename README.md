@@ -8,7 +8,7 @@ Here's a few clips I enjoy listening to. They'll give you a feel for how I opera
 - https://youtu.be/pJmTHF4XYJY
 - https://youtu.be/MvzwmoZaNHQ
 
-Anyways, this is a jumbled assortment of random scripts and snippets for referential purposes. I'm not some big time developer. I've spent (probably more than) my fair share of time tinkering around with over 20 languages since 2008. I've dabbled in a little bit of everything: Z80, Java, 65816, Object Pascal, D, C#, Batch, Rust, etc. But after all the experimenting I've done I came to primarily focus on developing with C++ and Python sometime in 2013. The few reference files I have for C/C++ are super basic functions I found online for different projects of my own, so I feel no need to upload them here. I no longer have access to any of my larger projects done in the past thanks to an unfortunate accident involving me typing up some code during the worst thunderstorm in the area since 1994. Fried my old laptop. (Yes, I know what a surge protector was. No I did not use one on my six-way at the time. Thanks for asking.) However, in a section below, I will link all libraries and tools I've used both inside and outside programming. Hopefully these will give others a head start, or at the very least some sort of insight as to what they want to do.
+Anyways, this is a jumbled assortment of random scripts and snippets for referential purposes. I'm not some big time developer. I've spent (probably more than) my fair share of time tinkering around with over 20 languages since 2008. I've dabbled in a little bit of everything: Z80, Java, 65816, Object Pascal, D, C#, Batch, Rust, etc. But after all the experimenting I've done I came to primarily focus on developing with C++ and Python sometime in 2013. The few reference files I have for C/C++ are super basic functions I found online for different projects of my own, so I feel no need to upload them here. I no longer have access to any of my larger projects done in the past thanks to an unfortunate accident involving me typing up some code during the worst thunderstorm in the area since 1994. Fried my old laptop. (Yes, I knew what a surge protector was. No I did not use one on my six-way at the time. Thanks for asking.) However, in a section below, I will link all libraries and tools I've used both inside and outside programming. Hopefully these will give others a head start, or at the very least some sort of insight as to what they want to do.
 
 Directly below are my small projects I've managed to muster up in the past two years. Not much programming-wise, as you'll see, but I learned Markdown in the process so there's some faint glimmer of silver lining. :)
 
@@ -90,7 +90,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 - [Notepad++](https://notepad-plus-plus.org/) - text editor; can be made into an IDE with Batch scripts. [[Docs]](https://npp-user-manual.org/) [[Source Code]](https://github.com/notepad-plus-plus/notepad-plus-plus)
 
-*Articles/Tutorials:*
+*References:*
 
 - [Turn Notepad++ into an IDE of sorts](https://github.com/subvod/examples/blob/master/NPP-IDE.MD) using **NPPExec** and **Notepad++ Macros**. Can be modified to work with any command-line compiler for any language.
 
@@ -101,12 +101,17 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [Mozilla Firefox](https://www.mozilla.org/) - used this exclusively since 2009. [[Source Code]](https://hg.mozilla.org/mozilla-central/)
 
 *Plugins:*
+
 - [ViolentMonkey](https://violentmonkey.github.io/) - Control how webpages operate using JavaScript "userscripts". Alternative for GreaseMonkey. [[Source Code]](https://github.com/violentmonkey/violentmonkey)
 - [PageHacker](https://addons.mozilla.org/en-US/firefox/addon/page-hacker/) - an interactive "Inspect Element".
 - [UBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - efficient, wide-spectrum content blocker.
 - [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) - HLS/DASH/HDS/MSS stream detector. [[Source Code]](https://github.com/rowrawer/stream-detector)
 - [YouTube Video and Audio Downloader](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/) - WebX downloader with UI integrated to YouTube's.
 - [pdf.js](https://github.com/mozilla/pdf.js) - mirror of PDF reader included with Firefox installs.
+
+*References:*
+
+- How to link [short URLs on Reddit](https://redd.it/28gpzg).
 
 ## Desktop Programming
 
@@ -136,9 +141,6 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [cplusplus.com](https://www.cplusplus.com/) - [[C++ Tutorial]](https://www.cplusplus.com/doc/tutorial/) [[Articles]](https://www.cplusplus.com/articles/) [[Reference]](https://www.cplusplus.com/reference/)
 - [cprogramming.com](https://www.cprogramming.com/) - [[C Tutorial]](https://www.cprogramming.com/tutorial/c-tutorial.html) [[C++ Tutorial]](https://www.cprogramming.com/tutorial/c++-tutorial.html)
 - Command-line [linking with GCC](https://stackoverflow.com/q/15441877). See [SeKa](https://stackoverflow.com/users/2159358)'s answer for a short explanation of the differences between "compiling" and "linking" with **gcc** and **ld** (respectively).
-
-*Articles/Tutorials:*
-
 - [Learn C++ in 10 Hours](https://youtu.be/GQp1zzTwrIg) - A detailed tutorial covering everything you'll need to know for getting started. This is the most comprehensive video tutorial I've found. Somehow, it also has least rehashing of covered topics and superfluous explanations. Most everything is presented in a to-the-point manner.
 - An analysis of [why Dev-C++ was deprecated](https://www.cplusplus.com/forum/articles/36896/).
 - A somewhat detailed [comparison between Rust and C++](https://www.reddit.com/r/rust/comments/bya8k6/programming_with_rust_vs_c_c/).
@@ -155,6 +157,8 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [wxPython](https://www.wxpython.org/) - cross-platform GUI toolkit. [[Wiki]](https://wiki.wxpython.org/) [[Docs]](https://docs.wxpython.org/) [[Source Code]](https://github.com/wxWidgets/Phoenix/)
 
 *References:*
+
+- Piping and executing [external commands in Python](https://stackoverflow.com/questions/5486725/how-to-execute-a-command-prompt-command-from-python).
 
 ### Assembly (ASM)
 
@@ -210,6 +214,8 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 ### Regex (Regular Expressions)
 
+*References:*
+
 - [Regex Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) - on MDN.
 
 ### Markdown
@@ -222,9 +228,6 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax quick reference.
 - [Edit/Preview Markdown in VS Code](https://code.visualstudio.com/docs/languages/markdown) - tutorial/reference.
-
-*Documents/Articles:*
-
 - [Markdown via VS Code](https://code.visualstudio.com/docs/languages/markdown) - how to edit and preview Markdown in VS Code.
 
 ## Game-Specific Stuff
@@ -245,7 +248,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [LemonUI](https://github.com/justalemon/LemonUI) - UI framework for GTA V. Intended to replace NativeUI.
 - [Rainbomizer](https://gtaforums.com/topic/974412-v-rainbomizer/) - Configurable randomizer collection. [[Source Code]](https://github.com/Parik27/V.Rainbomizer)
 
-*Articles/Tutorials:*
+*References:*
 
 - [Enable/disable backfire](https://forums.gta5-mods.com/topic/24300/exhaust-backfire-disable/2) via mods using OpenIV.
 
@@ -323,6 +326,6 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 ### Forza
 
-*Tutorials/Articles:*
+*References:*
 
 - [Creating Accurate Logos](https://forums.forzamotorsport.net/turn10_postst133507_-Guide--Creating-Accurate-Logos.aspx) - tutorial by **PJTierney**. I recommend using **nomacs**; link in [Image Tools](#image).
