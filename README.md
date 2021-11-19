@@ -321,7 +321,6 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [Pkmn Crystal GS Codes](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13410)
 - [Pkmn Yellow Guide](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/64175)
 - [Pkmn Yellow GS Codes](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/6618)
-
 - [IIMarckus's Site](https://iimarckus.org/) - the brains behind the PRET disassemblies.
 
 ### Minetest
