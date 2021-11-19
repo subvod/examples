@@ -117,15 +117,15 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 ### C/C++
 
+*Compilers:*
+
+- [TDM-GCC](https://jmeubank.github.io/tdm-gcc/) - GNU Compiler Collection fit for Windows; available in both 32 and 64-bit configurations. Can be configured for [use with VSCode](https://code.visualstudio.com/docs/cpp/config-mingw). Documentation parallels the [[Docs]](https://gcc.gnu.org/onlinedocs/) of **GCC** itself.
+- [Visual Studio Build Tools 2019](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019) - command-line build tools without the Visual Studio IDE or integration with it. Can be configured for [use with VSCode](https://code.visualstudio.com/docs/cpp/config-msvc). [[Docs]](https://docs.microsoft.com/en-us/cpp/build/reference/c-cpp-building-reference)
+
 *IDEs:*
 
 - [VS Code](https://code.visualstudio.com/) - Microsoft Visual Studio Code. Technically just a code editor, but configurable with JSON scripts. Wide support spectrum via extensions. Can easily be made into an IDE. [[Docs]](https://code.visualstudio.com/docs) [[Task Info]](https://code.visualstudio.com/docs/editor/tasks) [[Editing 101]](https://code.visualstudio.com/docs/editor/codebasics) [[Source Code]](https://github.com/microsoft/vscode)
-- [Code::Blocks](https://www.codeblocks.org/) - C, C++, and Fortran IDE. [[Docs]](https://www.codeblocks.org/user-manual/) [[Wiki]](https://wiki.codeblocks.org/index.php/Main_Page) [[Source Code]](https://www.codeblocks.org/downloads/source/)
-
-*Compilers:*
-
-- [TDM-GCC](https://jmeubank.github.io/tdm-gcc/) - Windows-focused GNU Compiler Collection; available in both 32 and 64-bit configurations. Can be configured for [use with VSCode](https://code.visualstudio.com/docs/cpp/config-mingw). Documentation parallels the [[Docs]](https://gcc.gnu.org/onlinedocs/) of **GCC** itself.
-- [Visual Studio Build Tools 2019](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019) - command-line build tools without the IDE or integration with it. Can be configured for [use with VSCode](https://code.visualstudio.com/docs/cpp/config-msvc). [[Docs]](https://docs.microsoft.com/en-us/cpp/build/reference/c-cpp-building-reference)
+- [Code::Blocks](https://www.codeblocks.org/) - IDE for C, C++, and Fortran. [[Docs]](https://www.codeblocks.org/user-manual/) [[Wiki]](https://wiki.codeblocks.org/index.php/Main_Page) [[Source Code]](https://www.codeblocks.org/downloads/source/)
 
 *Libraries:*
 
@@ -135,6 +135,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [wxWidgets](https://www.wxwidgets.org/) - cross-platform GUI library. Pairs well with [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder), a GUI creator which can export wxWidgets-compatible code in both C++ and Python. [[Docs]](https://www.wxwidgets.org/docs/) [[Tutorials]](https://www.wxwidgets.org/docs/tutorials/) [[Source Code]](https://github.com/wxWidgets/wxWidgets)
 - [Boost C++ Libraries](https://www.boost.org/) - a ton of functions for a wide variety of uses. [[Docs]](https://www.boost.org/doc/)
 - [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library. **[Docs]** available on downloads page. [[Source Code]](https://github.com/SFML/SFML)
+- [MD5 Message Digest Algorithm](https://github.com/deepmind/lab/tree/master/third_party/md) - derived from RSA Data Security, Inc. [[Original Source]](https://opensource.apple.com/source/ppp/ppp-37/ppp/pppd/md5.c.auto.html)
 
 *References:*
 
@@ -150,7 +151,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *Tools:*
 
-- [Python](https://www.python.org/) - programming language. [[Docs]](https://docs.python.org/3/) [[Source Code]](https://github.com/python/cpython)
+- [Python](https://www.python.org/) - the programming language. [[Docs]](https://docs.python.org/3/) [[Source Code]](https://github.com/python/cpython)
 
 *Libraries:*
 
@@ -198,19 +199,19 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *References:*
 
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - tag reference on MDN.
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - MDN reference.
 
 ### CSS
 
 *References:*
 
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - tag reference on MDN.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - MDN reference.
 
 ### JavaScript
 
 *References:*
 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - reference on MDN.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - MDN reference.
 
 ### Regex (Regular Expressions)
 
@@ -271,7 +272,7 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [Homeworld Universe Mod Tools](https://www.moddb.com/games/homeworld-2/downloads/homeworld-universe-mod-tools) - Almost every tool used for HW1 (classic), Cataclysm, and HW2 (classic).
 - [CFHodEd](https://github.com/Fallen-Angel/CFHodEd) - Universal HOD Editor for both classic and remastered Homeworld games.
 - [Hw2 Official v1.1 Patch](https://www.moddb.com/games/homeworld-2/downloads/homeworld-2-v-11-patch-last-and-only-patch) - The only official HW2 game update from Relic.
-- [fda2aifc](https://www.mediafire.com/file/nbc2qrz93nvt2n3) - converts **.fda** to **.aifc** audio formats. Old backup from Relic.
+- [fda2aifc](https://www.mediafire.com/file/nbc2qrz93nvt2n3) - converts `.fda` to `.aifc` audio formats. Old backup from Relic.
 - [Common Controls](https://www.mediafire.com/file/y8c6o4omi9ah06r) - External libraries req'd by some old HW1, Cata, and HW2 tools.
 - [CFLuaDC](https://www.mediafire.com/file/gljt3lb0ik97l02) - 4E354B's Lua decompiler.
 - [HW2CDRP](https://www.mediafire.com/file/csulrdwbosymob7) - **HW2 C**lean **D**ata **R**esource **P**roject. (Decompiled data archive.)
@@ -294,24 +295,25 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 
 *Tools:*
 
-- [ASAR](https://github.com/RPGHacker/asar) - 65816 assembler; successor to xkas. [[SMWCentral]](https://www.smwcentral.net/?p=section&a=details&id=25953)
+- [ASAR](https://www.smwcentral.net/?p=section&a=details&id=25953) - 65816 assembler; successor to xkas. [[Source Code]](https://github.com/RPGHacker/asar)
 - [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator.
 - [Lunar Magic](https://fusoya.eludevisibility.org/lm/program.html) - the essential program needed to make SMW hacks. [[SMWCentral]](https://www.smwcentral.net/?p=section&a=details&id=28429)
 
 *References:*
 
 - [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Docs]](https://www.smwcentral.net/?p=section&s=documents) [[ROM Hacks]](https://www.smwcentral.net/?p=section&s=smwhacks) [[ROM Map]]()
-- [FuSoYa's Site](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think [FuSoYa](https://www.smwcentral.net/?p=profile&id=9435) has moved most everything to SMWCentral.
+- [FuSoYa's Niche](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think [FuSoYa](https://www.smwcentral.net/?p=profile&id=9435) has moved most everything to SMWCentral.
 
 ### Pokemon Gen 1 and 2 (RBYGSC)
 
 *Tools:*
 
-- [RGBDS](https://github.com/gbdev/rgbds) - Rednex Gameboy Development System
-- [Pokemon Crystal Disassembly](https://github.com/pret/pokecrystal)
-- [Pokemon Yellow Disassembly](https://github.com/pret/pokeyellow)
 - [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m) - merge project of all VBA branches; GB/GBC/GBA emulator.
 - [TGB Dual L](https://github.com/libertyernie/tgbdual_L) - Updated builds of TGB Dual, a GBC emulator which implements link cable emulation.
+- [RGBDS](https://github.com/gbdev/rgbds) - **R**ednex **G**ame**B**oy **D**evelopment **S**ystem.
+- [pokeemerald](https://github.com/pret/pokeemerald) - decompilation of Pokemon Emerald.
+- [pokecrystal](https://github.com/pret/pokecrystal) - disassembly of Pokemon Crystal.
+- [pokeyellow](https://github.com/pret/pokeyellow) - disassembly of Pokemon Yellow.
 
 *References:*
 
@@ -319,6 +321,8 @@ And in case you haven't noticed already... yes, there will be some marginally cr
 - [Pkmn Crystal GS Codes](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13410)
 - [Pkmn Yellow Guide](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/64175)
 - [Pkmn Yellow GS Codes](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/6618)
+
+- [IIMarckus's Site](https://iimarckus.org/) - the brains behind the PRET disassemblies.
 
 ### Minetest
 
