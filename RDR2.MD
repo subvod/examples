@@ -54,16 +54,16 @@ Some businesses offer lodging, baths, and/or dining:
 
 Business | Amenities
 :--- | ---
-Flatneck Station<br>Heartlands, NH | Poker
-Keane's Saloon<br>Valentine, Heartlands NH | Oatmeal
-Smithfield's Saloon<br>Valentine, Heartlands, NH | Beef Stew<br>Lamb's Fry with green peas and boiled potatoes.
-Old Light Saloon<br>Van Horn, Roanoke Ridge, NH | Blackjack<br>Fish Stew<br>Lamb's Heart with boiled cabbage.
-Van Horn Post Station<br>Van Horn, Roanoke Ridge, NH | Room<br>Bath
-Rhodes Parlour House<br>Rhodes, Scarlett Meadows, LE | Blackjack<br>Cracked Wheat and Milk<br>Fried Catfish with greens and boiled beans.
-Bastille Saloon<br>Saint Denis, Bayou Nwa, LE | Poker<br>Lobster Bisque<br>Prime Rib with potatoes dauphinoise and spring salad.
-Blackwater Saloon<br>Blackwater, Great Plains, WE | Poker<br>Blackjack<br>Room<br>Bath<br>Peach Cobbler with cream.<br>Roast Prarie Chicken with green beans and mashed potato and gravy.
-Tumbleweed Saloon<br>Tumbleweed, Gaptooth Ridge, NA | Poker<br>Chili<br>Roast Beef with corn and glazed carrots.
-Tumbleweed Gunsmith<br>Tumbleweed, Gaptooth Ridge, NA | Room
+**Flatneck Station**<br>Heartlands, NH | Poker
+**Keane's Saloon**<br>Valentine, Heartlands NH | Oatmeal
+**Smithfield's Saloon**<br>Valentine, Heartlands, NH | Beef Stew<br>Lamb's Fry with green peas and boiled potatoes.
+**Old Light Saloon**<br>Van Horn, Roanoke Ridge, NH | Blackjack<br>Fish Stew<br>Lamb's Heart with boiled cabbage.
+**Van Horn Post Station**<br>Van Horn, Roanoke Ridge, NH | Room<br>Bath
+**Rhodes Parlour House**<br>Rhodes, Scarlett Meadows, LE | Blackjack<br>Cracked Wheat and Milk<br>Fried Catfish with greens and boiled beans.
+**Bastille Saloon**<br>Saint Denis, Bayou Nwa, LE | Poker<br>Lobster Bisque<br>Prime Rib with potatoes dauphinoise and spring salad.
+**Blackwater Saloon**<br>Blackwater, Great Plains, WE | Poker<br>Blackjack<br>Room<br>Bath<br>Peach Cobbler with cream.<br>Roast Prarie Chicken with green beans and mashed potato and gravy.
+**Tumbleweed Saloon**<br>Tumbleweed, Gaptooth Ridge, NA | Poker<br>Chili<br>Roast Beef with corn and glazed carrots.
+**Tumbleweed Gunsmith**<br>Tumbleweed, Gaptooth Ridge, NA | Room
 
 ### Honor And Benefits
 Honor is measured by ranks -8 to +8 on a scale according to the total honor as an integer from -320 to +320. If you don't care for the outfits only available with high honor, honor level in general makes no difference. However honor level does affect some aspects of the game.
