@@ -31,13 +31,12 @@ You're better off with a horse, but it's certainly possible to survive on your o
 ### The Basics
 *NOTE: nothing grows up in the Northwestern snow-covered areas of Ambarino.*
 
-- Cooked meats refill all cores. The amount of restoration changes according to meat type. The best combo of store-bought items I've found is **Baked Beans** and **Fine Brandy** (two of each will fully restore all cores). For wild meats, aside from **Big Game** (the best cut; see below in "Advanced Survival"), the most nutritious cuts are: **Venison**, **Pork**, **Game**, **Succulent Fish**, **Prime Beef**, and **Exotic Bird**. The most common animals for these cuts are **Deer**, **Pronghorn**, **Elk**, **Duck**, and **Rabbit**. Though, **Moose**, **Wild Boar**, **Collard Peccary**, **Domestic Pigs**, **Bison**, **Ox**, **Bull**, **Cow**, **Pheasant**, **Pelican**, **Macaw (Parrot)**, **Carolina Parakeet**, **Sockeye Salmon**, and **Rainbow Trout** all yield meats that greatly restore all cores. When seasoned, these meats fully restore the core associated with the herb used.
-- **Wild Carrots** are the holy grail of horse upkeep. They grow everywhere. Yes, there are two different carrots. You cannot use bought/looted regular **Carrots** in crafting recipes, but they provide the same benefits as **Wild Carrots**. If you're not big on harvesting **Wild Carrots** yourself, farmed **Carrots** are available for purchase at Stables. However if you buy provisions from a Stable, **Hay** is the far superior choice as it is the cheapest cost-per-benefit.
-- Weapon loadout doesn't really matter unless you have a preference towards a certain gun or are going for clean kills. Weapon selection is only limited by story progression, but some weapons can be obtained before they're unlocked via progression. That and it's an open world for a reason.
+- Cooked meats refill all cores. The amount of restoration changes according to meat type. Wild meats are widely available, but the best combo of store-bought items I've found is **Baked Beans** (or **Canned Strawberries**) and **Fine Brandy**. For wild meats, aside from **Big Game** (the best cut; see below in "Advanced Survival"), the most nutritious cuts are: **Venison**, **Pork**, **Game**, **Succulent Fish**, **Prime Beef**, and **Exotic Bird**. The animals yielding these cuts are **Deer**, **Pronghorn**, **Elk**, **Duck**, and **Rabbit**. Though, **Moose**, **Wild Boar**, **Collard Peccary**, **Domestic Pigs**, **Bison**, **Ox**, **Bull**, **Cow**, **Pheasant**, **Pelican**, **Macaw (Parrot)**, **Carolina Parakeet**, **Sockeye Salmon**, and **Rainbow Trout** all yield meats that greatly restore all cores. When seasoned, these meats fully restore the core associated with the herb used.
+
+- **Wild Carrots** are the holy grail of horse upkeep. They grow everywhere. Yes, there are two different carrots: **Wild Carrots** and **Carrots** bought from stables. You cannot use bought/looted regular **Carrots** in crafting recipes, but they provide the same benefits as **Wild Carrots**. If you're not big on harvesting **Wild Carrots** yourself, farmed **Carrots** are available for purchase at Stables. However if you buy provisions from a Stable, **Hay** is the far superior choice as it is the cheapest cost-per-benefit in terms of core restoration.
 - Some animals will charge and kill you: **Grizzly Bears**, **Cougars**, **Wolves**, **Panthers**, and **Alligators** (only if you get super close to them).
-- Some animals are aggressive, but not to the point they'll outright kill you. All large male animals (**Rams**, **Whitetail Bucks**, **Boars/Collared Peccaries**, and **Bull Elk**) will charge and headbutt you if you're not sprinting. Yes, even if you're facing them. There's really no trick to avoiding getting headbutted other than outrunning the animal or killing/spooking it, and that's only if you see it before it happens.
-- All **Snakes** on land will bite you if you get too close to them. If you've got your TV turned up or are using a headset, you'll hear the hissing (and rattling as well if it's a rattler) before they strike... but I have to be within five feet of them to hear it so it's not much of a warning to me even with a headset. For snake bites or ingested **Oleander**, drink a **Potent/Special Health Cure** (or **Potent/Special Miracle Tonic**). Regular **Health Cures** do not cure venom/poison. Alternatively, eating **Ginseng** cures venom/poison (I've not tested this).
-- Some animals will bite you, but won't cause any noticable damage: **Muskrats**, **Beavers**, **Raccoons**, and **Badgers**.
+- Some animals are aggressive, but not to the point they'll outright kill you. All large male animals (**Rams**, **Whitetail Bucks**, **Boars/Collared Peccaries**, and **Bull Elk**) have a random chance to charge and headbutt you. Smaller animals (**Raccoons**, **Muskrats**, **Beavers**, **Badgers**, and **Skunks**) will run and bite you. Yes, even if you're facing them. There's really no trick to avoiding getting headbutted/bitten other than outrunning the animal or killing/spooking it, and that's only if you see it before it happens.
+- All **Snakes** on land will bite you if you get too close to them. If you've got your TV turned up or are using a headset, you'll hear the hissing (and rattling as well if it's a rattler) before they strike... but I have to be within five feet of them to hear it so it's not much of a warning to me even with a headset. You can cure poison (from snake bites or ingested Oleander/Bulrush) with a **Potent** or **Special Health Cure**. Alternatively, you can eat **Ginseng**.
 
 ### "Advanced" Survival
 - If you don't care about honor, there's a shortcut to getting mass quantities of a few select herbs. Rather than go around gathering each one at a time, kill and loot **Murphy Brood** in northwestern **Heartlands** and **Strangers** (residents) at **Butcher Creek**. **Skinner Brothers** in **Tall Trees** and **Nite Folk** in **Bayou Nwa** can have up to four **Burdock Root**, but no other plants. The aforementioned (Murphy Brood and Butcher Creek residents) all have a chance of holding 2 to 4 units of **Currant**, **Sage**, **Ginseng**, **Violet Snowdrop**, or **Burdock Root**. They also have a chance of giving other items: **Regular/Potent Snake Oil** (only from **Murphy Brood**), regular **Herbivore/Predator Bait**, **Opened/Unopened Cover Scent**, and **Moonshine** (only from **Butcher Creek Residents**).
@@ -50,6 +49,21 @@ You're better off with a horse, but it's certainly possible to survive on your o
 - **Cover Scent Lotion** allows you to get way closer to animals without drawing their attention. Craft it from the beginning of **Chapter 2** using **Scent Glands** from **Skunks**, **Beavers**, and **Muskrats**.
 - **Flight Feathers** are required for every secondary arrow type and can be harvested from all flying birds.
 - **Animal Fat** isn't a necessity, but is required for **Explosive Rounds** (unlocked at beginning of **Chapter 2**) which are both fun to use and extremely useful when taking down legendary animals. **Canada Geese**, **Ducks** (not Loons), and **Beavers** are by far the best animals for this as they are plentiful in many areas across the map (north of New Austin), but **Boars/Pigs/Peccary** and **Bears** also yield animal fat. **Geese** and **Ducks** yield **Flight Feathers** (for all improved **Arrow** types) and **Animal Fat** while **Beavers** yield **Scent Glands** (for **Cover Scent Lotion**) and **Animal Fat**. *NOTE: A PRIME LOCATION FOR GEESE, DUCKS, AND BEAVERS IS OWANJILA.*
+
+Some businesses offer lodging, baths, and/or dining:
+
+Business | Amenities
+:--- | ---
+Keane's Saloon | Oatmeal
+Old Light Saloon | Blackjack<br>Fish Stew<br>Lamb's Heart with boiled cabbage.
+Van Horn Post Station | Room<br>Bath
+Bastille Saloon | Poker<br>Lobster Bisque<br>Prime Rib with potatoes dauphinoise and spring salad.
+Rhodes Parlour House | Blackjack<br>Cracked Wheat and Milk<br>Fried Catfish with greens and boiled beans.
+Flatneck Station | Poker
+Blackwater Saloon | Poker<br>Blackjack<br>Room<br>Bath<br>Peach Cobbler with cream.<br>Roast Prarie Chicken with green beans and mashed potato and gravy.
+Tumbleweed Saloon | Poker<br>Chili<br>Roast Beef with corn and glazed carrots.
+Tumbleweed Gunsmith | Room
+Smithfield's Saloon | Beef Stew<br>Lamb's Fry with green peas and boiled potatoes.
 
 ### Honor And Benefits
 Honor is measured by ranks -8 to +8 on a scale according to the total honor as an integer from -320 to +320. If you don't care for the outfits only available with high honor, honor level in general makes no difference. However honor level does affect some aspects of the game.
@@ -69,31 +83,6 @@ Honor | Effect
 40 | When looting bodies, drop rates of potent tonics, restorative items, jewelry, and food is increased.
 0 | When looting bodies, primarily obtain standard tonics, cheap jewelry, basic horse consumables, and used/opened alcohol and tobacco.
 -40 | When looting bodies, drop rates of dead eye tonics, thrown weapons, alcohol, and tobacco are increased. Also receive more money and jewelry when looting lawmen.
-
-### Axis Gangs
-There are six opposing gangs throughout the game. Here's a rundown of where they reside:
-
-**O'Driscoll Boys**
-- Hideouts: Hanging Dog Ranch, Big Valley, WE (before Ep. I); Six Point Cabin, Cumberland Forest, NH
-- Camps: southeast of Fort Wallace, Cumberland Forest, NH
-
-**Lemoyne Raiders**
-- Hideout: Shady Belle, Scarlett Meadows, LE
-- Camps: Abandoned Church, Scarlett Meadows, LE
-
-**Murfree Brood**
-- Hideout: Beaver Hollow, Roanoke Ridge, NH
-- Camps: none, but can be found looting NPC campsites around Roanoke Ridge.
-
-**Del Lobos**
-- Hideout: Fort Mercer, Rio Bravo, NA
-- Camps: Gaptooth Breach, Gaptooth Ridge, NA; Solomon's Folly, Gaptooth Ridge, NA; Twin Rocks, Cholla Springs, NA; Thieve's Landing, Hennigan's Stead, NA
-
-**Skinner Brothers**
-- Camps: east shore of Aurora Basin, Tall Trees, WE; north of Bear Claw, Tall Trees, WE; 
-
-**Laramie Boys**
-- Hideout: Hanging Dog Ranch, Big Valley, WE (after Ep. I)
 
 # GENERAL TIPS AND TRICKS
 
@@ -116,9 +105,13 @@ As you can see, **Special Bitters** makes a bit of a difference, where as **Spec
 
 ### Fast Weapon Familiarity
 - Use dead eye to get headshots.
+- If avoiding law and bounties, enemy hideouts refresh every few in-game days. The numerous Del Lobo hideouts in New Austin become accessible after Chapter 6.
 
 ### Fast Level 4 Bonding Horses
-- Leading your horse yields more bonding points per minute than anything else. The old rubber band trick works for this:
+
+- Leading your horse yields more bonding points per minute than anything else. The old rubber band trick works for this.
+- Food items have their own bonding benefits. Sugar Cubes give the most points.
+
 1. Begin leading your horse.
 2. Travel to the open fields of **The Heartlands**. Alternatively you can go to the plains west of Blackwater, but there are more snakes out that way. (Getting close to any aggressive animal will end the lead.)
 3. Wrap a rubber band around your thumbstick and the end of either palm grip (depending on the length of the rubber band).
@@ -134,14 +127,22 @@ As you can see, **Special Bitters** makes a bit of a difference, where as **Spec
 - Plant drawings are added when a plant is picked/eaten at least once in the immediate area of the icon. Best to pick everything you come across because spawning a plant with a trainer and picking it does not add the icon for some reason.
 - Point of interest, dreamcatcher, dinosaur bone, and rock carving locations are added when they are "investigated".
 
-### Triggering Pearson's Rabbit Request to Obtain the Unique Scout Jacket
+### Triggering Pearson's rabbit request to obtain the unique Scout Jacket.
 - It's available from Ch.2 to Ch.6.
 - Pearson will be drinking beer at his wagon's table. When you walk near him, it will only give a **Greet** prompt when the request is available for activation (like every other request).
 - I ran around camp in Ch.2 for 15 minutes real time and never got the request (had full cores the whole time). I went to camp in Ch.3 after consuming Moonshine, Cocaine Gum, and Chewing Tobacco to completely deplete my cores and voila, requested right as I walk into camp! Maybe coincidental, I've no numbers for solid proof this works. But if it is just coincidence, it's one hell of a coincidence. Also tested in Ch. 2. Took about 20 minutes, but those 20 minutes are nothing compared to a few hours total spend entering/exiting camp to get him to spawn there. It's worth a shot. :)
 
+### Triggering Jack's thimble request.
+
+- Available only after completing `A Fisher of Fish`. He will randomly come up to you explaining how Abigail will be upset.
+
+### Triggering Dutch's pipe request.
+
+- I have never been able to trigger it in Chapter 2. The earliest I've ever gotten it is right after starting Chapter 3.
+
 ### Alcohol
 
-*Below is a list of alcohol values per item. Value amounts to "proof*. Higher proof means drunk quicker.
+*Below is a list of alcohol values per item. Value amounts to proof. Higher proof means drunk quicker.
 
 Name | Value
 :--- | ---
@@ -161,7 +162,7 @@ Aged Pirate Rum | 0.5
 
 ### Saddles
 
-There is no definitive "best all around saddle", it all depends upon personal preference. I go for the **Panther Trail Saddle** because it looks the best on my Amber Champagne MFT. (The looks are the worth the 4% compromise to me.) However, the **Beaver Roping Saddle** is technically the "best" saddle solely in terms of game logic because it provides the highest Stamina Regen (same as **Panther** and **Rattlesnake** saddles) and **Health Core Drain** bonuses. My reasoning behind this is: horse health core drain intensifies when they're dirty. I don't brush my horse often, so a lot of times it's just dirty. That being the case, the occasional health core penalty is lowered that much more with the Beaver Saddle.
+I go for the **Panther Trail Saddle** because it looks the best on my Amber Champagne MFT. (The looks are the worth the 4% compromise to me.) However, the **Beaver Roping Saddle** is technically the "best" saddle solely in terms of game logic because it provides the highest Stamina Regen (same as **Panther** and **Rattlesnake** saddles) and **Health Core Drain** bonuses. My reasoning behind this is: horse health core drain intensifies when they're dirty. I don't brush my horse often, so a lot of times it's just dirty. That being the case, the occasional health core penalty is lowered that much more with the Beaver Saddle.
 
 - **HCD** *Health Core Drain*
 - **SCD** *Stamina Core Drain*
@@ -182,179 +183,16 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 ### Traveling Long Distances Automatically
 - Aside from fast travel (unlocked by purchasing the map from the camp ledger), you can autopilot to a destination: set a destination (must be in a road/path) on the map, hop on your horse and begin sprinting towards the waypoint. While sprinting, hold down the SELECT button (XB1) or X button (on PS4) to enter cinematic view. Black bars will appear and you will travel to the waypoint. **NOTE: events still occur, it's just a different camera view. You can still get attacked by a predator or enemies.
 
-### Looting saddle bags and not getting kicked in the face.
+### Looting saddle bags and not getting the shit kicked out of you.
+*This glitch allows you to search both saddle bags of any horse without getting kicked in the face.*
+
 1. Hop on the horse you want to loot.
-2. Ride/lead the horse right next to any static entity that will partially block you phsically digging through the saddle bag, be it a tree, rock/boulder, wagon, train, etc. Ensure after you hop off that the **Search Saddle Bag** prompt is still there.
+2. Ride/lead the horse right next to any static object that will partially block you phsically digging through the saddle bag, be it a tree, rock/boulder, wagon, train, etc. Ensure after you hop off that the **Search Saddle Bag** prompt is still there. A good point of reference (for me) is the edge of the object must be just behind the saddle bag.
 3. Search the saddle bag.
 4. Enjoy your saddle bag loot never having to get kicked in the face ever again.
 
 ### Farming gritty fish meat for potent predator bait.
 - Fish off of the docks around **Lagras** during rainy weather. Neither **Rock Bass** nor **Perch** spawn around **Lagras**, so you've not to worry about snagging one of those bastards. On the flip side, you may get **Smallmouth/Largemouth Bass**, **Chain Pickerel**, and/or **Lake Sturgeon**. Another plus is **Bullhead Catfish**, **Channel Catfish**, and **Longnose Gar** also spawn around there, all of which yield **Gritty Fish Meat**.
-
-# GLITCHES, BUGS, AND CHEATS (AS WELL AS HOW TO FIX THEM)
-These are all the bugs/glitches/cheats I found notable. Some are bad, some are good.
-
-*The meaning of "cheat" is dependent upon a player's perspective on gameplay morality. The player can choose whether or not to use "cheats" at their own discretion. A "bug" or "glitch" is anything that isn't meant to happen.*
-
-### Launch from horse with carcass stowed on side.
-
-This might not be very useful, but I found that with a Condor stored on the side of a horse, getting off on the same side launches me up about 10 feet before landing.
-
-### Double skins from animals.
-
-*If an animal can be carried, this glitch can be used for it. Basically everything but Meese, Elk, (big) Alligators, Bison, Boars/Javelinas, Bears, etc, and all small game like squirrels, small birds, toads/frogs, etc.*
-
-*This is noted in the Hunting Tips section, but I'm on the borderline between it being a glitch or not. There's no semi-abnormal thing to this like there is with un-scoping the Rolling Block and Carcano. Nonetheless, here it is.*
-
-1. Skin an animal.
-2. Stow the skin if applicable.
-3. Pick up and stow the skinned carcass on your horse.
-4. Ride to a Trapper, Butcher, or Pearson (at camp).
-5. Sell/donate the skinned carcass and skin itself. It will count as two skins, and you'll also get the +2 in the Compendium. That's how I have skinned 42 Californian Owls but killed only 21. :)
-
-### Steal any horse from any stable.
-
-[Source.](https://www.youtube.com/watch?v=F2J00n9a7-s)
-
-*This works with all horses at every Stable. You must be able to buy the horse after it's unlocked. (Unlocking it puts the horse physically in the stable to be bought. For example, you can't steal an Amber Champagne MFT from Scarlett Meadows before Chapter 4.) Stealing horses in this manner doesn't reduce honor. Some Stables are easier to hit than others, though.*
-
-1. Get any wagon or buggy. Larger ones are preferable.
-2. Ride the wagon to the Stable which houses the horse you want to steal.
-3. Put on a mask/bandana.
-4. As you enter the Stable, pull out any gun, aim, and fire just as the horse enters the doors of the stable. Doing this prevents the Stable doors from closing.
-5. Ensure you've at least one witness. It's necessary for this method.
-6. Park the wagon between the Stable doors. (Again, to ensure they don't close.)
-7. Hop off the wagon and go to the horse you want to steal.
-8. You won't be able to mount the horse, so feed it using the **Horse Menu** until it registers as a **Temporary Horse**.
-9. Hide until the witnesses/law stop searching. You can mount the horse just before the search ends to auto-enter the stable. If not, the black bars will appear and you'll enter horseless into the Stable.
-10. Exit the stable, travel a ways away, and whistle for your temporary horse. Most of the time they will jump over the gates and run to you. If it doesn't come after a while, move around while continuing to call the horse.
-11. Mount the horse and take it to any Stable, even the one you stole it from. Doesn't matter where.
-12. Saddle up and enjoy your free horse!
-
-### Remove scope from carcano and/or rolling block rifles.
-
-[Source.](https://www.youtube.com/watch?v=Mst4pshFcD0)
-
-Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode, you can permanently de-scope (un-scope?) both the Rolling Block and Carcano Rifles. This glitch isn't entirely permanent, but only because you can just go to a Gunsmith and re-equip any scope to negate it. The rifle(s) will remain scopeless as long as you don't re-scope them at the Gunsmith. They will not gain the auto-aim function even if it's turned on. They still operate as the regular rifle, you're just no longer forced to scope in.
-
-1. Hop on your horse, equip either sniper, and place it in the saddle holster.
-2. Enter any Gunsmith.
-3. Change the scope on the rifle. (Doesn't matter which, it just has to be changed.)
-4. While still viewing in the Gunsmith menu, equip the rifle to your shoulder.
-5. Exit the Gunsmith and draw the rifle you holstered earlier (LB on XB1, unsure on PS4).
-6. The scopeless rifle on your back will drop. Pick it up.
-
-### Universal saddle blankets.
-
-[Source.](https://www.youtube.com/watch?v=vSIyry-KePE)
-
-*Some Trapper saddles have unique blankets. This method does not work with two saddles which have thier own unique blankets. You can glitch the panther blanket with the Rattlesnake Vaquero Saddle but not with the Alligator Saddle.*
-
-1. Enter a stable.
-2. Equip the saddle which has the blanket you want to use.
-3. Exit the stable.
-4. Re-enter the stable.
-5. Equip the saddle you want to use with the blanket.
-6. Exit the stable.
-7. Enjoy your Rattlesnake Saddle with a Panther blanket! (Or whichever combination you choose.)
-
-### Getting the silver dapple pinto missouri fox trotter at no cost for Arthur.
-
-[Source.](https://www.youtube.com/watch?v=bATG5JB9cNA)
-[Alternative method](https://www.youtube.com/watch?v=ehB9-N1VMa4) using render distance exploit.
-
-1. *Save your game.*
-2. Trigger the mission **Arcadia for Amateurs - III**. This does not work when replaying the mission.
-3. When nearing the horses, enter **Eagle Eye** and track the Fox Trotter. Ensure you are tracking the correct horse. Sometimes its trail with be golden (like a Legendary Animal) and show up as *Unknown Animal*, but most of the time it'll show as **Herd** like the other horses.
-4. Keep spamming Eagle Eye to maintain its trail. Just before you pass by Albert Mason, enter Eagle Eye one last time. This will extend the time you have to skip the cutscene before Eagle Eye cuts out.
-5. Skip the cutscene immediately to end the mission as soon as possible. Eagle Eye deteriorates during the cutscene.
-6. Continue Eagle Eye-ing the trail and follow it until you reach the horse. If the trail clips through the ground or becomes increasingly erratic, continue in the same direction you last saw the trail heading in. On all of my run throughs using this glitch, the Silver Dapple runs to **Elysian Pool**.
-7. When you locate the horse, run alongside it and spam **Jump to Horse**. It will take some time because the horse is so jittery and you must be in perfect alignment to jump.
-8. Tame the horse and bond it to **Level 1** via feeding.
-9. DO NOT GET OFF OF THE HORSE. Ride it to the nearest **Stable**.
-10. Stable the horse and saddle up your original horse.
-11. Exit the stable, save the game, and reload.
-12. Enjoy your free, wild **Silver Dapple Pinto Missouri Fox Trotter**! :)
-
-*There are alternative methods of doing this, but they generally involve a ton of waiting, reloading, and praying to RNGsus. Yes, I'm talking about the random encounter with they lady whose horse "up and died on her". No, I don't recommend you try that over this unless you enjoy pain.*
-
-### Saving Arthur's money for John.
-
-[Source.](https://www.youtube.com/watch?v=Gu5s3l6w7h0)
-
-The **Aberdeen Pig Farm** is inhabited by an incestual brother and sister, whom together work as a team of serial killers. There is a sort of side mission with these two: as either John or Arthur you can eat dinner with them. During which they'll offer some drinks. After drinking a few times, you pass out and wake up in their body dump site with no money. A decent backing for sticking to the story, I think, is: Arthur gets robbed, John reads about it in his journal, John goes to the farm and takes the money as it's of no use to Arthur at that point. :)
-
-Go there and get robbed as Arthur right before the mission **"Red Dead Redemption"** (the last mission in which the player controls Arthur) but do not go back and kill them, nor get your money. Wait until you take control of John, travel to the farm, and retreive the cash from the safe behind the picture of "Mama" directly behind the front door. Kill or spare them as you see fit.
-
-### Getting out of map. (Travel to Guarma/Mexico/Canada.)
-
-[OOB on San Luis River.](https://www.youtube.com/watch?v=kYmREKUf09A)
-[OOB on San Luis River (alternate).](https://www.youtube.com/watch?v=GfM9vxakKTA)
-[Bridge glitch.](https://www.youtube.com/watch?v=VSRt7FPGItE)
-[OOB far northeast.](https://www.youtube.com/watch?v=eppF2TnLt00)
-[OOB in Devil's Cave.](https://www.youtube.com/watch?v=Kx0llq2e8qs)
-[OOB at Aurora Basin.](https://www.youtube.com/watch?v=KKgIuLrLe8A) - using slide glitch.
-
-You'll need enough alcohol to blackout to do this. If you've got the **Wolf Heart Trinket**, you'll need a lot. Now, to get compendium entries and sketches as Arthur for animals specific to New Austin (and/or Guarma before/after of Chapter 5), or just to run around and explore, you can travel out of bounds via the far west end (at the edge of a drop-off) in the **Devil's Cave**. If you're running post-Epilogue and want to explore the southern side out-of-map or travel to Guarma much quicker, an infinitely faster method is to travel to a specific point on the southern shore of the **San Luis River**.) Do the following once at either location:
-
-1. Drink until you black out.
-2. Do nondescript things while blacked out. (How the character scales seemingly sheer surfaces whilst blackout drunk is unclear. Ah, the wonders of moonshine!)
-3. Wake up out of map.
-
-**GETTING TO GUARMA:** Guarma is located at the southeast (bottom right) corner of the map. Go in that general direction until you hit the low poly (jellytown) ground. Any low-poly area is considered the physical "end of the map" which you'll fall through. If you hit a 90-degree corner, turn on it (after turning you should be facing south). Follow the seam until you begin to float (walk up an invisible hill). Turn to face the low poly section, walk a few steps over the seam and Guarma's map will render in.
-
-- A quick side note: I black out drunk on the east side of **Aurora Basin** and woke up on the west side out-of-bounds. I will try to replicate this soon, but the few times afterwards resulted in no joy.
-
-### Speed crafting.
-
-Want to stock up on crafted consumables? Download [CheatEngine](https://www.cheatengine.org/downloads.php). I use the RAR archive version which you don't have to join Patreon for; it doesn't come bundled with "optional" adware/bloatware like the installer does, but feel free to use what you want. Be sure to launch the 64-bit version of CheatEngine when using it in RDR2. Open "RDR2.exe" via the Open Process dialog and check "Enable Speedhack". You can adjust the speed as you see fit. When finished, uncheck the box to disable the speedhack.
-
-Sometimes, a glitch may occur where the crafting process of some items (seemingly random) will freeze halfway through. I use 500x speed and travel near Colter when doing this, which seems to lower the chance of this happening.
-
-### Discount at Saint Denis shops as reward for killing Jean Marc as ordered by Mayor Henri Lemieux.
-
-This can be done with Arthur and the discount will transfer to John. However, I calculated my discount with max honor and post-story mode I'm getting only a 55% discount. According to my player menu I am getting the full 50% max honor discount. According to everyone online the discount is meant to be 10% regardless of honor. I'm unsure if I just have a glitch, if the total discount at shops is meant to have be capped at 55%, or if the discount is lowered to 5% if transferred to John rather than doing the Mayor's final mission as John and (possibly) getting the full 10%. Regardless, 5% is better than nothing.
-
-### Duplicate journal sketches.
-
-This is not likely a bug, but you can get journal sketches of certain things as both Arthur and John. Such as the **Cave Devil**, **Tree King**, **Hermit Man**, and **Blind Man Cassidy**.
-
-### Unable to save custom outfits.
-
-Apparently this has been around for a long time and to this day goes unfixed. What happens is your saved custom outfits start glitching by starting at two, then to three, and eventually if the glitch continues you'll no longer be able to save any custom outfits. This can be bypassed by using a trainer on PC, but the only "easy" way around it is to unlock the **Legend of the East** outfit, equip and store it on your horse, then load outfits from your trainer. As far as consoles go, if there is a known workaround I haven't been made aware of it.
-
-### Legend of the East outfit not unlocking after 90th challenge.
-
-This is a glitch that remains unfixed. Many players have completed Bandit 10 as their final challenge and not had the outfit unlock. I, myself, have had it not unlock doing Explorer 10 as my final challenge. Always make a save before completing your final (90th) challenge, and if nothing else avoid doing Bandit 10 or Explorer 10 as your final challenge as these are problem-causers. If there is no turning back (like the position I was in, saving after completing the last challenge):
-
-1. Open the settings menu and press [Y] (on Xbox controller) to open the cheat menu.
-2. Enter the cheat "Vanity. All is vanity"
-3. Close the settings menu.
-4. Open a Trainer; I use Rampage.
-5. Enable the cheat bypass function.
-6. Go back to the Settings menu, enable the cheat you entered (unlock all outfits)
-7. Go back in game and equip the **Legend of the East** outfit at camp.
-8. Save your game.
-
-### Micro-Stuttering, FPS Drops, ERR_GFX_STATE Popup/Crash, and other graphics issues.
-
-For micro-stuttering (I had it about once every ten seconds):
-
-1. Change your graphics API. If you're using Vulkan, change to DX12. If the contrary, do the opposite.
-2. Close the game.
-3. Update/reinstall your graphics driver. Yeah, it's cliche... but the shit worked for me. Be sure to do a **CLEAN INSTALL** when reinstalling/updating the driver. It fixed the micro-stuttering I was encountering (about once every ten seconds). System info: ASUS G14 (2021) AMD Ryzen 9 5900HS @ 3301 MHz, 16384MB, NVIDIA RTX 3060 Laptop GPU, RDR2 Build 1436, NVIDIA Driver v471.96
-4. (Optional extra step.) Do as shown below for fixing the "ERR_GFX_STATE" error. I periodically (about once a week) do this regardless and I'm able to eliminate micro-stuttering. I don't reinstall my drivers once a week, I just delete everything in the Settings folder except for "system.xml" (to retain graphics settings).
-5. Restart your computer.
-6. Start the game.
-
-For the *ERR_GFX_STATE* popup and crash:
-
-1. Reference: https://www.reddit.com/r/RDR2/comments/dxlreb/err_gfx_state/
-2. Close the game, if running.
-3. Navigate to the folder "%USERPROFILE%\Documents\Rockstar Games\Red Dead Redemption 2\Settings".
-4. Delete everything in it except for "system.xml". (Unless you don't want to keep your existing graphics settings.
-5. Restart your computer.
-5. Start the game.
 
 # HUNTING TIPS
 
@@ -435,7 +273,7 @@ Below are all fish grouped by:
 - bite sequence ('N' is for a nibble; 'B' is a bite)
 - meat type
 
-Name | WEAT | FAVE | BITE | MEAT
+Name | WEAT | BAIT | BITE | MEAT
 :--- | --- | --- | --- | ---
 Bluegill | Rain | Cheese | NB | Gritty
 Bullhead Catfish | Rain | Corn | NNNBB | Gritty
@@ -476,52 +314,22 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 # PLANT/HERB LOCATIONS
 
 ### Vanilla Flower
+
 **NOTE:** Localized to **Bayou Nwa, LE**.
 
 - Bayall Edge, Bayou Nwa, LE (highest concentration is around **Bayall Edge**)
+
 ### English Mace
+
 **NOTE:** Localized to **New Austin**, but can be found sporadically outside of the state.
 
 - east of **O'Creagh's Run**; northwest of **Martha's Swain**; only 5 plants
 - east of **Mysterious Hill Home**; "You don't see this every day..."
-- Lone Mule Stead, Big Valley, WE
-- along the **San Luis River** from the 'H' in "WEST ELIZABETH" to a bit west of **Scratching Post, Gaptooth Ridge, NA**; **NOTE: IT GROWS NEAR THE RIVER BUT NOT DIRECTLY ON THE BANKS LIKE MILKWEED DOES.**
+- along the **San Luis River** from the 'H' in "WEST ELIZABETH" to a bit west of **Scratching Post, Gaptooth Ridge, NA**; **IT GROWS NEAR THE RIVER BUT NOT DIRECTLY ON THE BANKS LIKE MILKWEED DOES.**
 - north and northeast of **MacFarlane's Ranch** in **Hennigan's Stead, NA**
-### Prarie Poppy
-**NOTE:** Localized to southeastern **Cholla Springs, NA** (south of **Armadillo**) and **Great Plains, WE**.
-
-- south of **Armadillo**; northwest of **Lake Don Julio**
-- southwest of **Blackwater**
-### Wild Feverfew
-**NOTE:** Localized to (primarily northern half of) **Hennigan's Stead, NA**.
-
-- from the east side of **Pike's Basin, Hennigan's Stead, NA** to northeastern **Armadillo, Cholla Springs, NA**
-### Indian Tobacco
-- along the north side of the road running southwest out of **Valentine**
-- south of Rhodes along the railroad tracks from **Clemens Point** to **Bolger Glade**
-- Heartlands, NH (far western side)
-- Cumberland Forest, NH
-- Scarlett Meadows, LE
-- Little Creek River, Big Valley, WE (forests to the north and south)
-- Tall Trees, WE (southwestern side)
-### Alaskan Ginseng
-- Roanoke Ridge, NH (high concentration between **Doverhill** and **Brandywine Drop**; both sides of the train tracks)
-- chance to loot up to 4 plants from **Murphy Brood** (**Beaver Hollow** is their home base)
-- chance to loot up to 4 plants from **Strangers** (residents) at **Butcher Creek**; you will lose honor by killing/looting them
-- Chez Porter, Grizzlies West, AM (5 plants in a small garden next to the big barn)
-- Big Valley, WE
-- Grizzlies East, AM
-- Grizzlies West, AM
-### American Ginseng
-- Tall Trees, WE (high concentration all inside the path surrounding "LL TREES" in "TALL TREES" and "Tanner's Reach")
-- Heartlands, NH
-- Cumberland Forest, NH
-- Scarlett Meadows, LE
-- Great Plains, WE
-### Wintergreen Berry
-**Map:** https://i.imgur.com/92rcgLU.jpeg
 
 # ITEM LOCATIONS
+
 **NOTE:** items in containers (lockboxes, chests, cabinets, wardrobes, etc) will respawn regardless of rarity. Rare items (i.e. Aged Pirate Rum) do not respawn unless they're in a container. Respawnable items are bold.
 
 ### Ginseng Elixir
@@ -595,52 +403,26 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 - **Armadillo, Cholla Springs, NA (lockbox in abandoned campsite east of Armadillo)**
 - **Tumbleweed, Gaptooth Ridge, NA (lockbox at foot of one of four wagons; southwest of Tumbleweed)**
 
-### Arrows
-- Northwest of Mercer Station; west of the 'A' in "New Austin" close to the nearest road running North/South. (On the east side of the road but directly West of the 'A'.) There's some wagons shot to hell with 30+ arrows you can collect. They do not respawn. Skinners or Natives? Who knows?
-
 ### Moonshine
 - Van Horn, Roanoke Ridge, NH (first floor deck on southeast corner of big yellow house; west of Van Horn Trading Post)
 - Witches Cauldron, Grizzlies East, AM
-- Stilt Shack, Big Valley, WE (high shelf)
-- Hermit Woman's Shack, Big Valley, WE (high shelf)
 - Dakota River, Big Valley, WE (random campsite under rockface along west shore; south of Cumberland Falls; north of Little Creek River)
-- Watson's Cabin, Big Valley, WE (northwest of Wallace Station)
 - Benedict Point, Rio Bravo, NA (under bunk bed in southeastern cabin)
 
 ### Whiskey Case
+- Valentine, Heartlands, NH (Circus Camp on the southwest side of Valentine)
 - Lagras, Bayou Nwa, LE (northernmost house; on the side facing the road)
-- behind dive bar in St. Denis
+- Saint Denis, Bayou Nwa, LE (behind dive bar)
+- Hill Haven Ranch, Scarlett Meadows, LE (inside the ranch house)
 
 ### Beer Case
 - Castor's Ridge, Heartlands, NH
 - Downes Ranch, Heartlands, NH
-- Van Horn (docks?)
+- Van Horn (inside the trap house by the water)
 - Beecher's Hope, Great Plains, WE (after Epilogue II)
 
-### Whiskey / Beer Case (Random Pick)
+### Whiskey / Beer Case (Random Chance)
 - Lagras, Bayou Nwa, LE (northernmost house)
-
-### Gold Bars
-- Braithewaite Manor, Scarlett Meadows, LE (lockbox a few steps east of Catherine Braithewaite's body)
-- Ridgewood Farm, Cholla Springs, NA (lockbox behind barn has gold bar but cannot be interacted with; climb the shed, drop down, and kick it or use throwing knives to force it out of the lockbox after which it can be looted)
-
-### Large Jewelry Bag
-- Wapiti Indian Reservation, Grizzlies East, AM (lockbox at foot of bridge on south side of Wapiti)
-- Cumberland Forest, NH (foot of small dead tree on cliff edge; east side of Cumberland Forest)
-- Huron Glen, Roanoke Ridge, NH (under a log west of abandoned wagon; south of Huron Glen)
-- Mossy Flats, Roanoke Ridge, NH (by a big log near east river shore; southwest of Fort Brennand)
-- Bolger Glade, Scarlett Meadows, LE (lockbox under collapsed wall inside Abandoned Church)
-- Shady Belle, Scarlett Meadows, LE (lockbox in small mausoleum east of Shady Belle)
-- Shady Belle, Scarlett Meadows, LE (lockbox on southeasternmost islet; foot of dead tree with fish strung up)
-- Train wreck
-- Diablo Ridge, Big Valley, WE (under table in furniture pile; northwest of Diablo Ridge)
-- Lone Mule Stead, Big Valley, WE (lockbox in shed; southwest of Bard's Crossing)
-
-### Gold Nugget
-- Owanjila, Big Valley, WE (lockbox by wagon wreck on west shore of creek feeding into Owanjila)
-- Elysian Pool, Roanoke Ridge, NH (inside lone chimney south of pool)
-- Horseshoe Overlook, Heartlands, NH (lockbox at campsite in burned forest)
-- Fort Brennand, Roanoke Ridge, NH (chest in cellar)
 
 ### Pamphlets
 - **Special Health Cure** (inside a chest at the scaffolding of **Face in Cliff** or reward for recovering medical wagon during the stranger mission **"No Good Deed"** from Dr. Alphonse Renaud)
@@ -651,68 +433,222 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 - **Special Horse Reviver** (tree stump southwest of **Hill Haven Ranch**)
 - **Poison Arrow** (in a lockbox beside the **Mysterious Hill Home**)
 
+# Bounty Missions and Targets
+
+*Monetary rewards for returning the target.*
+
+Name | Gang | Condition | Reward | Poster Location
+:--- | --- | --- | --- | ---
+Benedict Allbright | None | Alive | $50 | Valentine
+Ellie Anne Swan | None | Alive | $25 | Valentine
+Joshua Brown | None | Alive | $40 | Strawberry
+Bart Cavanaugh | Laramie | Dead or Alive | $60 | Strawberry
+Mark Johnson | None | Alive | $25 | Rhodes
+Robbie LaidLaw | None | Alive | $35 | Rhodes
+Camille de Millemont | Lemoyne Raiders | Dead or Alive | $55 | Rhodes
+Anthony Foreman** † | Foreman Brothers | Alive | $85 | Saint Denis
+Lindsey Wofford | Lemoyne Raiders | Dead or Alive | $100 | Saint Denis
+Elias Green † | Skinner Brothers | Dead or Alive | $90 | Blackwater
+Otis Skinner † | Skinner Brothers | Dead or Alive | $75 | Blackwater
+Herman Zizendorf † | None | Alive | $30 | Blackwater
+Esteban Cortez † | Del Lobo | Dead or Alive | $65 | Tumbleweed
+Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
+
+† Posted only in 1907.
+** Available only if spared in his relevant story mission.
+
 # MISSABLE CONTENT
-*Grouped by time period. Stranger missions can be done with John post-game, but best to knock them out with Arthur to be safe, right?*
 
-### Acquire Before Ch.6
-- **Classic Raccoon Mountain Hat** from Jon at Valentine Saloon
-- **Bucket Hat** from Appleseed Timber workers
-- **Newsboy Cap** from enemies during **The Sheep and the Goats (Ch.2)**, **An Honest Mistake (Ch.3)**, **Just a Social Call (Ch.6)**
-- **Fisherman's Hat** from Jeremy Gill (kill him with dynamite at cabin before starting mission)
-- **Rare Shotgun** from Hermit Man north of Annesburg.
-- **Ornate Dagger** dropped by Vampire after killing him.
-- All **Revolvers** dropped by Jim Boy Calloway's old crew members during their respective missions.
-- **Native American Ring** from drunk man random encounter.
-- **Lion's Paw** from killing lion during final part of **He's British, Of Course** (activated north of Bayou Nwa)
-- **Owl Feather Trinket** from Rains Fall during optional mission **Archaeology for Beginners**
-- **Braithewaite's Secret** (the lunatic lady locked in the outhouse west of Braithewaite Mansion)
-- **Horse Races** - Daytime (05:00-17:00). Spend three days in general vicinity (can sleep for this). Must be riding fully bonded horse. Easier to win with temporary horse behind you (gets in their way). Winning these gives permanent stat boosts. (Permanent as in you retain the boost throughout the game on all horses you ride, even as John.) Locations: east (or south?) of **Wallace Station** (race to Diablo Ridge); three-way junction south of **Strawberry Stable**; main road south of **Caliga Hall** just north of train tracks; west side of train tracks northwest of **Southfield Flats**; junction south of **Central Union Railroad** (west of **Mossy Flats**); junction southeast of **Moonstone Pond** (south of **Three Sisters**); double three-way junction south of Bacchus Station (northeast side of **Cumberland Forest**).
+*Missable content grouped by chapter.*
 
-### Ch.1
-- **Oil Company Letter to Cornwall** and **Mining Company Letter to Cornwall** on desk close to door of private train car during **Who the Hell is Leviticus Cornwall?**
+**NOTE:** Some stranger missions can be done with only Arthur.
 
-### Ch.2
-- **Antique Watch** from Wrobel during **Money Lending and Other Sins I**; open the drawer but do not loot the watch, leave the area, return, and take the watch.
-- **Drawing from Jack** for Abigail's thimble from enemies after quest activated)
-- **Scout Jacket** from Pearson for Rabbit carcass
-- **Spurs** from Dutch for Pipe (at Vetter's Echo)
-- **Liberty Hat** worn by enemies during **An American Pastoral Scene** (randomly)
-- **Dutch's Speech Notes** document on a table beside a broken wagon near camp
+### Chapter I
 
-### Ch.3
-- **Mine Share** document in Trelawny's Caravan and **Rare Rolling Block Rifle** from enemy during **Magicians for Sport**
-- **Letter to Angelo Bronte** document on nightstand in same room with **Gold Shield** (both unique) during **Blood Feuds, Ancient and Modern**
-- **Letter to Bronte from the Mayor** on desk and **Theatre Ticket** from talking to smoking people at party during **The Gilded Cage**
-- **Horse Meal Pamphlet** from Kieran exchanged for two Burdock Roots.
+*Items:*
 
-### Ch.4
-- None
+- **Mining Company Letter to Cornwall** - Looted in the last train car in "Who the Hell is Leviticus Cornwall"
+- **Oil Company Letter to Cornwall** - Looted in the last train car in "Who the Hell is Leviticus Cornwall"
 
-### Ch.5
-- **Sun Hat** worn by enemies during **Savagery Unleashed**, **A Kind and Benevolent Despot**, **Hell Hath No Fury** and **Paradise Mercifully Departed**
-- Compendium entries for **Blue and Yellow Macaw**, **Great Green Macaw**, **Scarlet Macaw**, **Red Boa**, **Sunglow Boa**, **Rainbow Boa**, and **Red Footed Booby**.
-- *NOTE: the **Fer-de-Lance Snake** is **not** exclusive to **Guarma** and can be found in **Stillwater Creek** on the main map.*
+### Chapter II
 
-### Ch.6
-- **Owl Feather Trinket** from Rains Fall in **Archaeology for Beginners**. After choosing to help Rains Fall, you must retrieve the sacred items without killing any of the soldiers. Easiest way I've found of going about this is pistol whipping every man. Drink one Special Health Cure, then run around pistol whipping. One to two hits each and they're all out.
+*Missions:*
+- Money Lending and Other Sins (I, II, III)
+- Debt Owed by Mr. Wrobel (see `Antique Watch` in **Items** below)
+- Debt Owed by Chick Matthews
+- Debt Owed by Lilly Millet
+- Good, Honest, Snake Oil (until Chapter 6)
+- We Loved Once and True (I, II, III)
+- Pouring Forth Oil (I + II)
+- Home Robbery with Javier
+- Hunting with Charles
+- Playing five finger fillet with Lenny
+- Event Area missions (3x, look for missable items below) (https://www.youtube.com/watch?v=QUZl1tseOF8)
 
-### Epilogue Pt.1
-- Flat Cap worn by John during **The Wheel**; get it knocked off and pick it back up
-- John's Gambler Hat worn after **Simple Pleasures**; get it knocked off and pick it back up
+*Random Events:*
+- Rescue Bill Williamson: Random Event outside the camp where you’re getting asked to help safe Bill from some Bounty hunters
+- Fundraiser: (Possible Chapter II – IV)
+- Braithwaite's Secret: point of interest, the crazy lady in the outhouse, Gertrude Braithwaite. She is no longer there after Chapter 6
+- Horse Races: can be made unavailable if declined once; https://redd.it/9yq601
 
-### Epilogue Pt.2
-- None
+*Items:*
+- Classic Raccoon Mountain Hat: looted from Jon at **Smithfield's Saloon** in **Valentine**; unavailable after Chapter 6
+- Charity Handbill — On the table of Thomas Downes’ charity in Valentine, you get two chances: He shows up once before `Americans At Rest`, and once again after that- mission. His table ist outside of the new built house adjacent the **Valentine Stable**.
+- Dutch’s Speech Notes: Picked up in **Horseshoe Overlook** camp. (Can be missed if you don’t pick it up before you move to the next camp.)
+- Native American Ring: This is random camp encounter usually in the **Heartlands**, a guy will invite you to his camp, get drunk, reveal his past and pass out, loot him and you get the ring. Effects unknown.
+- John’s cattleman revolver: You can actually get these as Arthur in Chapter 2. There are 2 chances for getting 2 of them (https://reddead.fandom.com/wiki- John%27s_Cattleman_Revolver), `Paying a Social Call`, `The Sheep and the Goats`, `Pouring Forth Oil`
+- Rare shotgun: **Manito Glade** a.k.a. Hermit Man’s shack
+- Jimmy's Pen: during `Polite Society, Valentine Style` only if you spare him; makes some (not all) journal entries more neatly printed; does not affect sketches)
+- Jack's Drawing: thimble request from Jack in chapter II) - u gotta wait a few in game days or hours for he drawing to show up on Arthur’s table.
+- Antique Watch: during/after `Money Lending and Other Sins II` from the Polish guy named *Wrobel*; you have to open the drawer with the watch, take other things until- debt is paid, then run away a bit to the point where **Wrobel** is despawned, then come back and get it
+- Old Brass Compass: you have to go back into **Sinclair’s Cabin** (not shown on the in-game map) immediately after `Geology for Beginners II` and get it
+- Micah Newspaper Clipping and Dutch's Wanted Poster: in **Micah's Camp** after `An American Pastoral Scene`
+- Bucket Hat: Workers at Appleseed Timber Co. before it gets deserted, best done during chapter II
+- Liberty Hat: during `An American Pastoral Scene` and stranger's mission `A Fine Night For it` during the second wave, may take a few retries before it spawns
+- Newsboy Flat Cap: `The Sheep and the Goats`, worn by Cornwall's men
+- Ornate Dagger: can be picked up after killing the Vampire in **Saint Denis** after investigating all **Mysterious Writings** around the city.
+- Flaco's Revolver, Granger's Revolver, Midnight's Pistol: picked up after killing the associated gunslingers during `The Noblest of Men, and a Woman` stranger missions
+- Jack's Drawing: see **Jack's Thimble Request** below
+- Scout Jacket: see **Pearson's Rabbit Request** below
 
-### Carolina Parakeet
-- Located across Bayou Nwa
+*Item Requests:*
+- Jack: Thimble (for **Jack's Drawing**; randomly speaks with you after `A Fisher of Men`)
+- Pearson: Rabbit Carcass (for the unique **Scout Jacket**; interact while he's behind the wagon table with the cauldron on top drinking a beer 08:00-14:00)
+- Abigail: 5$: just after `A Fisher of Men`
+- Jack: Comic Book (automatically during `A Fisher of Men`)
+- Javier: Oleander (interact while at the games table with his knives)
+- Mary-Beth: Fountain Pen (when she is writing in her book behind Arthur's tent; pen found at **Osman Grove**)
+- Pearson: Naval Compass (play poker with anyone and he will join you and give you the quest; compass found at boathouse west shore of **Braithwaite Manor** and post-story at **Ridgewood Farm**)
+- Sean: Kentucky Bourbon (interact with him while he's making fire bottles sitting at his table behind the tent near the campfire from 00:00-18:00, when you see- that the table has spawned, stay near it)
+- Bill: Hair Pomeade (interact while hes sitting on the chair next to his tent)
+- Charles: Moonshine (interact while hes working on arrows at the campfire)
+- Charles: Oleander (interact while hes working on arrows at the campfire)
+- Dutch: Pipe (chapter 2 to 4; interact while he's smoking a cigar outside of his camp)
+- Hosea: Book (interact with him while he's reading or read his book(s) at his tent)
+- Lenny: Pocket Watch (listen to him talking about his past at the campfire 8am-3pm, he tells a story about his father)
+- Susan: Seasoning Herbs (randomly asks; can be any of **Mint**, **Thyme**, or **Oregano**)
 
-### Guarma Animals
-- Scarlett Macaw, Blue and Yellow Macaw, Great Green Macaw, Red Footed Booby, Red-tailed Boa, Rainbow Boa, Sunglow Boa
+### Chapter III
 
-# Item/Wagon Prices
+*Missions:*
+- `Money Lending and Other Sins IV` - Gwyn Hughes, Winton Holmes
+- `The Course of True Love I, II, III`
+- `Home Robbery w/ Sean`
+- `Fishing w/ Kieran`
+- `Fishing w/ Javier`
+- `Coach robbery w/ Sean`
+- `Coach robbery w/ Bill`
+- `Home robbery w/ Sean`
+- `Valentine Bank Robbery`: only if you have the DLC.
+
+*Items:*
+- Lion's Paw Trinket: stranger mission `He's British, of Course IV`
+- Mine Share: **Trelawny’s Caravan** in **Rhodes** explored during the mission `Magicians for Sport`
+- Rare Rolling Block Rifle: during `Magicians for Sport`, the sniper shooting at from the barn has it
+- Golden Shield: Braithwaite mission `Blood Fueds, Ancient and Modern` inside the manor on the fireplace
+- Letter to Angelo Bronte: From **Catherine Braithwaite** that can be looted during `Blood Feuds, Ancient and Modern` in the same room of the **Gold Shield**
+- Braithwaite Brooch: **Catherine Braithwaite's** corpse after `Blood Fueds, Ancient and Modern`
+- Horse Meal Pamphlet: see Kieran's Item Request below
+- Theatre Ticket: interact with smoking people at party during `The Gilded Cage`
+
+*Item Requests:*
+- Tilly: Necklace, play dominoes with her
+- Hosea: American Ginseng
+- Kieran: Burdock Root exchanged for **Horse Meal Pamphlet**; interact while he's tending to the horses at camp
+- Molly: Pocket Mirror (found at **Martha's Swain**)
+- Sadie: Harmonica (found at **Granger's Hoggery**)
+
+### Chapter IV
+
+*Missions:*
+- `Money Lending and Other Sins V`
+- `High and Low Finance`: Ultimate edition bank robbery in **Rhodes** with Charles
+- `Help a Brother Out`
+- `Brothers and Sisters, One and All`
+- `Fatherhood and Other Dreams (I, II)`
+- `Coach Robbery w/ Micah`
+- `Coach Robbery w/ Lenny`
+- `Hunting w/ Pearson`
+- `Rustling w/ Uncle`
+- `Arcadia For Amateurs III` will be missable if you don't do it before Epilogue I.
+
+*Random Events:*
+- Gray's Secret: available in Chapter 4 and beyond, though getting it in the Epilogue is dodgy. It's the corpse of Tavish Gray on the back porch of **Caliga Hall**.
+
+*Items:*
+- Antique Compass: You can get this one BEFORE the mission `A Fine Night for Debauchery`, best explained here https://www.youtube.com/watch?v=pIqYzmGdqDc
+- Electric Chair Blueprint: Professor Bell's corpse after `The Mercies of Knowledge - VIII`; missed if you don't loot him, available from Chapter IV and onwards
+- Letter to Bronte from the mayor: on the table during `The Gilded Cage`; take it at the beginning of the mission before you head out to the others
+- List of Accounts: Letter on Bronte's table during `Revenge is a Dish Best Eaten`
+- Telegram to Police Chief Lambert: Letter on Brontes table during `Revenge is a Dish Best Eaten`
+
+### Chapter V
+
+**WARNING:** After the mission `That's Murfree Country`, bounty hunting is locked until Epilogue I.
+
+**NOTE:** The Guarma-exclusive animals can be accessed after leaving the island via glitches. OOB glitches still work as of 2021/11/13.
+
+**NOTE:** All Boa snakes can be found at the southeast corner of 'E' in "ARROYO D**E** LA VIBORA".
+
+*Missions:*
+- `Savagery Unleashed`: can be missed if you start with Dutch’s mission right after arriving at the island)
+- 2 `Random Encounters`: one where you see some guards chasing some prisoners, and one where arthur falls into a pit trap.
+
+*Items:*
+- Sun Hat: random enemies wearing it during Chapter 5; most easily collected during  `Savagery Unleashed` and `A Kind and Benevolent Despot`
+- Letter from Caroline: found on the table in the mission `Dear Uncle Tacitus`. The mission can be completed without collecting the letter so make sure to collect it.
+
+*Animals:*
+- Scarlet Macaw
+- Blue and Yellow Macaw
+- Great Green Macaw
+- Red-Footed Booby
+- Red-Tailed Boa Snake
+- Rainbow Boa Snake
+- Sunglow Boa Snake
+- Fer de Lance Snake: can be found on the main map at **Stillwater Creek**. On **Guarma**, you can find it in the sugar cane just below the "AG" in "**AG**UASDULCES".
+- Green Turtle: in the water near the beach. You can’t save it in your Compendium but you will get a journal entry.
+- Shark: There is a shark stranded at the beach at some point as well but you can’t interact with it.
+
+### Chapter VI
+
+*Missions:*
+- `Of Men and Angels (I, II)`: only available if `Brothers and Sisters, One and All` is completed
+- `Money Lending and Other Sins (VI, VII)`: J. John Weaters, Arthur Londonderry
+- `Do Not Seek Absolution (I, II)`: high honor needed
+- `The Course of True Love (IV, V)`
+- `Archeology for Beginners`
+- `Honor, Amongst Thieves`: agree to help Captain Monroe during `Archeology for Beginners`
+- `Mrs. Sadie Adler, Widow (I, II)`
+- `The Widow of Willard's Rest (I, II, III)`: 3 stages can be completed only as Arthur
+
+*Items:*
+- Owl Feather Trinket: infiltrate the army camp during `Archeology for Beginners` and get the Chanupa without killing anybody; easy to just pistol whip everyone
+- Military Mountie Hat: during `Archeology for Beginners`, random soldiers at **Fort Wallace** as well
+- Saint Denis Lawman Helmet: during `Goodbye Dear Friend`; WARNING: this one is glitched as you can only keep it on your horse and it has no name in the inventory (so collect on your own risk) - you may get the flying raven claw talisman bug as well
+- Saint Denis Police Outfit:: you can actually keep the outfit; https://www.youtube.com/watch?v=_IkBk2TZef4
+- Liability Agreement: on the table next to money stacks during `The Wisdom of the Elders V`
+- Letter to Tom from Colm: looted from the final O'Driscoll (killed by Sadie Adler) on the second floor of the house during `Sadie Adler, Widow II`
+
+### Epilogue I
+
+- Worn Flat Cap: worn during `The Wheel`; get it knocked off and pick it back up
+- John's Gambler Hat: worn after `Simple Pleasures`; get it knocked off and pick it back up
+
+### Epilogue II
+
+*Items:*
+
+- Fisherman's Hat: dropped by **Jeremy Gill** during `A Fisher of Fish II`; may be obtained by blowing him up with dynamite at **Gill's Landing** before the Epilogue
+- Tornado Boots, Classic Frock Coat, Drifter Hat: Uncle's item request for Peppermint, Hair Pomeade, Kentucky Bourbon, Milkweed, and Skunk Carcass
+- Cholera Handbill: collected from the **Town Crier** in **Armadillo** after interacting
+- Unfinished Letter: random encounter with undertaker in **Armadillo**; the body he puts in the wagon must be looted before it is thrown into the pit
+
+# Item Sell Prices
 
 ### Animal Skins
-*All prices are based on Saint Denis Trapper. Animals listed below each Trapper location are local to the area and will sell for less than normal. The general rule of thumb is the farther away from the animal's habitat, the more it will sell for. Go figure. Cross-country hauling one moose pelt to the Tumbleweed Butcher just for an extra $2.00-3.00*
+
+*All prices are based on Saint Denis Trapper. Animals listed below each Trapper location are local to the area and will sell for the normal price. Selling animals not local to the area you sell them in gives a small bonus in sell price. The general rule of thumb is the farther away from the animal's habitat, the more it will sell for. Go figure. Cross-country hauling one moose pelt to the Tumbleweed Butcher just for an extra $2.00-3.00*
 
 **Saint Denis**
 - Alligator
@@ -771,54 +707,268 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 - Trout
 - Wolf
 
-### Wagons
-- $50.00 Oil Tanker
-- $40.00 Red Stagecoach
-- $25.00 Black Stagecoach
+### Orchids
 
-# JOURNAL ENTRY AND SKETCH DIFFERENCES
-Arthur is a much more skilled draftsman than John. For the most part, Arthur's sketches and his wording when describing situations in journal entries are much more detailed. However there are exceptions. Sometimes, you can get both Arthur's and John's sketches of some scenarios:
+- **Orchids** are flowering plants which can be found sporadically around the entire map aside from **Great Plains, WE** and all of **New Austin**.
+- After completing `Dutchesses and Other Animals`, **Orchids** and **Heron/Egret/Spoonbill Plumes** can be mailed to **Algernon Wasp** for cash. **Gator Eggs** can be sold to the **Trapper**.
+
+**WARNING:** DO NOT SEND MORE THAN ONE ORCHID AT A TIME. Doing so will glitch out the mailing order and you will no longer be able to send orchids or receive payments for them.
+
+Price | Orchid(s)
+:--- | ---
+15 | Dragon's Mouth
+14 | Night Scented<br>Moccasin Flower<br>Ghost<br>Clamshell
+11 | Sparrow's Egg<br>Lady of the Night<br>Cigar<br>Acuna's Star
+10 | Rat Tail<br>Queen's<br>Lady Slipper<br>
+
+# BUGS
+
+*These are bugs which don't appear to have exploitable benefits.*
+
+### Unable to send orchids by mail.
+
+After taking the **Rare Orchids Order**, you can send orchids by mail and receive money in return. Sending more than one orchid at a time will glitch out the mailing order and you will no longer be able to send orchids nor receive the money for orchids you've sent. Always send only one orchid and receive its payment **one at a time** to avoid glitching it.
+
+### Severe flickering or outright blackout in Bluewater Marsh and/or Bayou Nwa.
+
+I've found this to occur only when I'm near a **Snowy Egret** or the **Bluewater Marsh Ghost**. No clue why as it has never happened anywhere else.
+
+### Javier not getting off his horse during Chez Porter Homestead Robbery.
+
+I've run across one glitch twice: once on Xbox One and once on PC. Basically, you start the robbery, travel to Chez Porter with Javier, but when the black bars retract and Javier advises to go on foot from there, he won't get off his horse. The quickest way to fix this is suicide, but you can also run off to abandon Javier thus failing the mission. Either way, afterwards he should spawn off his horse and you can continue the mission.
+
+### Locations not being noted on the map.
+
+I know of several locations which have buggy overworld map names:
+
+- Dormin Crest, Grizzlies West, AM
+- Planter's Baun, Grizzlies West, AM
+- Granger's Hoggery, Heartlands, NH (unobtainable from what I can tell)
+
+These can be obtained, they're just dodgy as shit. Save your game quite a ways away from each before entering them for the first time. Just keep rolling the dice until the name shows up, move onto the next, save again, enter the next, etc, etc. The only location I've never been able to obtain is Granger's Hoggery. I've no idea why.
+
+For **Dormin Crest**, you must enter the cabin while the random encounter is still active. (Where there's a trail coming out of the front door.) I noticed in `PC v1436` the front door jots aside just a tiny bit just before reaching to open it. Still, I had to keep reloading and retrying to get it to show up on the map.
+
+For **Planter's Baun**, I did not explore Grizzlies West extensively as long as I could. Barrow Lagoon and the surrounding area remained with fog of war. In Chapter 3, even though I hadn't explored up there and the fog of war was still there, the name showed up on the map shortly after starting Chapter 3. I've no idea why or how.
+
+### Discount at Saint Denis shops as reward for killing Jean Marc as ordered by Mayor Henri Lemieux.
+
+This can be done with Arthur and the discount will transfer to John. However, I calculated my discount with max honor and post-story mode I'm getting only a 55% discount. According to my player menu I am getting the full 50% max honor discount. According to everyone online the discount is meant to be 10% regardless of honor. I'm unsure if I just have a glitch, if the total discount at shops is meant to have be capped at 55%, or if the discount is lowered to 5% if transferred to John rather than doing the Mayor's final mission as John and (possibly) getting the full 10%. Regardless, 5% is better than nothing.
+
+### Unable to save custom outfits.
+
+Apparently this has been around for a long time and to this day goes unfixed. What happens is your saved custom outfits start glitching by starting at two, then to three, and eventually if the glitch continues you'll no longer be able to save any custom outfits. This can be bypassed by using a trainer on PC, but the only "easy" way around it is to unlock the **Legend of the East** outfit, equip and store it on your horse, then load outfits from your trainer. As far as consoles go, if there is a known workaround I haven't been made aware of it.
+
+### Legend of the East outfit not unlocking after 90th challenge.
+
+This is a glitch that remains unfixed. Many players have completed Bandit 10 as their final challenge and not had the outfit unlock. I, myself, have had it not unlock doing Explorer 10 as my final challenge. Always make a save before completing your final (90th) challenge, and if nothing else avoid doing Bandit 10 or Explorer 10 as your final challenge as these are problem-causers. If there is no turning back (like the position I was in, saving after completing the last challenge):
+
+1. Open the settings menu and press [Y] (on Xbox controller) to open the cheat menu.
+2. Enter the cheat "Vanity. All is vanity"
+3. Close the settings menu.
+4. Open a Trainer; I use Rampage.
+5. Enable the cheat bypass function.
+6. Go back to the Settings menu, enable the cheat you entered (unlock all outfits)
+7. Go back in game and equip the **Legend of the East** outfit at camp.
+8. Save your game.
+
+### Micro-Stuttering, FPS Drops, ERR_GFX_STATE Popup/Crash, and other graphics issues.
+
+For micro-stuttering (I had it about once every ten seconds):
+
+- Restart your computer. Yes, I know, stereotypical. But it generally works even for me.
+- Change your graphics API. If you're using Vulkan, change to DX12. If the contrary, do the opposite. See which works better. Some users Note Vulkan runs a bit faster but DX12 looks crisper/sharper.
+- Update/reinstall your graphics driver. Yeah, again, cliche... but the shit worked for me. Be sure to do a **CLEAN INSTALL** when reinstalling/updating the driver. It fixed the micro-stuttering I was encountering (about once every ten seconds). System info: ASUS G14 (2021) AMD Ryzen 9 5900HS @ 3301 MHz, 16384MB, NVIDIA RTX 3060 Laptop GPU, RDR2 Build 1436, NVIDIA Driver v471.96
+- Periodically delete everything in the Settings folder except for "system.xml" (to retain graphics settings). Some sources claim that deleting the `.bin` files isn't necessary, but I do it anyway and it works. Doing this can also fix crashing because of `ERR_GFX_STATE`. [[Reference.]](https://www.reddit.com/r/RDR2/comments/dxlreb/err_gfx_state/)
+
+# GLITCHES
+
+*These are bugs/glitches which can be exploited.*
+
+### Keep temporary documents.
+
+[Video of using the glitch](https://www.youtube.com/watch?v=jZXI3JYEqv8) by [Alcomahol](https://gtaforums.com/profile/1162284-alcomahol/).
+
+You can obtain almost every temporary document using this glitch. "Almost" because some documents cannot be stored permanently even with this glitch.
+
+1. Inspect/open the document.
+2. Pause the game, enter photo mode, and quickly exit. This enables all document controls for a very, very brief period of time. Including the ability to store it. On PC, you can spam F6 and Enter.
+
+List of documents obtainable and retainable via this glitch:
+
+- Diary (during `The Inquities of History`)
+
+### Launch from horse with carcass stowed on side.
+
+This might not be very useful, but I found that with a Condor stored on the side of a horse, getting off on the same side launches me up about 10 feet before landing.
+
+### Getting caught when quickly dismounting your horse.
+
+While wearing the **Legendary Coyote Half Chaps**, I found that occasionally I'll fumble off my horse when dismounting while the horse is still running. This hasn't happened with anything else, so far.
+
+### Double skins from animals.
+
+Animals can be skinned, then the skinned carcass turned in to the Trapper. You will not get credit for two skins, but it will count as two animals skinned in the Compendium.
+
+### Steal any horse from any stable.
+
+[Source.](https://www.youtube.com/watch?v=F2J00n9a7-s)
+
+*This works with all horses at every Stable. You must be able to buy the horse after it's unlocked. (Unlocking it puts the horse physically in the stable to be bought. For example, you can't steal an Amber Champagne MFT from Scarlett Meadows before Chapter 4.) Stealing horses in this manner doesn't reduce honor. Some Stables are easier to hit than others, though.*
+
+1. Get any wagon or buggy. Larger ones are preferable.
+2. Ride the wagon to the Stable which houses the horse you want to steal.
+3. Put on a mask/bandana.
+4. As you enter the Stable, pull out any gun, aim, and fire just as the horse enters the doors of the stable. Doing this prevents the Stable doors from closing.
+5. Ensure you've at least one witness. It's necessary for this method.
+6. Park the wagon between the Stable doors. (Again, to ensure they don't close.)
+7. Hop off the wagon and go to the horse you want to steal.
+8. You won't be able to mount the horse, so feed it using the **Horse Menu** until it registers as a **Temporary Horse**.
+9. Hide until the witnesses/law stop searching. You can mount the horse just before the search ends to auto-enter the stable. If not, the black bars will appear and you'll enter horseless into the Stable.
+10. Exit the stable, travel a ways away, and whistle for your temporary horse. Most of the time they will jump over the gates and run to you. If it doesn't come after a while, move around while continuing to call the horse.
+11. Mount the horse and take it to any Stable, even the one you stole it from. Doesn't matter where.
+12. Saddle up and enjoy your free horse!
+
+### Remove scope from carcano and/or rolling block rifles.
+
+[Source.](https://www.youtube.com/watch?v=Mst4pshFcD0)
+
+Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode, you can permanently de-scope (un-scope?) both the Rolling Block and Carcano Rifles. This glitch isn't entirely permanent, but only because you can just go to a Gunsmith and re-equip any scope to negate it. The rifle(s) will remain scopeless as long as you don't re-scope them at the Gunsmith. They will not gain the auto-aim function even if it's turned on. They still operate as the regular rifle, you're just no longer forced to scope in.
+
+1. Hop on your horse, equip either sniper, and place it in the saddle holster.
+2. Enter any Gunsmith.
+3. Change the scope on the rifle. (Doesn't matter which, it just has to be changed.)
+4. While still viewing in the Gunsmith menu, equip the rifle to your shoulder.
+5. Exit the Gunsmith and draw the rifle you holstered earlier (LB on XB1, unsure on PS4).
+6. The scopeless rifle on your back will drop. Pick it up.
+
+### Universal saddle blankets.
+
+[Source.](https://www.youtube.com/watch?v=vSIyry-KePE)
+
+*Some Trapper saddles have unique blankets. This method does not work with two saddles which have thier own unique blankets. You can glitch the panther blanket with the Rattlesnake Vaquero Saddle but not with the Alligator Saddle.*
+
+1. Enter a stable.
+2. Equip the saddle which has the blanket you want to use.
+3. Exit the stable.
+4. Re-enter the stable.
+5. Equip the saddle you want to use with the blanket.
+6. Exit the stable.
+7. Enjoy your Rattlesnake Saddle with a Panther blanket! (Or whichever combination you choose.)
+
+### Getting the silver dapple pinto missouri fox trotter at no cost for Arthur.
+
+[Source.](https://www.youtube.com/watch?v=bATG5JB9cNA)
+
+[Alternative method](https://www.youtube.com/watch?v=ehB9-N1VMa4) using render distance exploit.
+
+1. *Save your game.*
+2. Trigger the mission **Arcadia for Amateurs - III**. This does not work when replaying the mission.
+3. When nearing the horses, enter **Eagle Eye** and track the Fox Trotter. Ensure you are tracking the correct horse. Sometimes its trail with be golden (like a Legendary Animal) and show up as *Unknown Animal*, but most of the time it'll show as **Herd** like the other horses.
+4. Keep spamming Eagle Eye to maintain its trail. Just before you pass by Albert Mason, enter Eagle Eye one last time. This will extend the time you have to skip the cutscene before Eagle Eye cuts out.
+5. Skip the cutscene immediately to end the mission as soon as possible. Eagle Eye deteriorates during the cutscene.
+6. Continue Eagle Eye-ing the trail and follow it until you reach the horse. If the trail clips through the ground or becomes increasingly erratic, continue in the same direction you last saw the trail heading in. On all of my run throughs using this glitch, the Silver Dapple runs to **Elysian Pool**.
+7. When you locate the horse, run alongside it and spam **Jump to Horse**. It will take some time because the horse is so jittery and you must be in perfect alignment to jump.
+8. Tame the horse and bond it to **Level 1** via feeding.
+9. DO NOT GET OFF OF THE HORSE. Ride it to the nearest **Stable**.
+10. Stable the horse and saddle up your original horse.
+11. Exit the stable, save the game, and reload.
+12. Enjoy your free, wild **Silver Dapple Pinto Missouri Fox Trotter**! :)
+
+*There are alternative methods of doing this, but they generally involve a ton of waiting, reloading, and praying to RNGsus. Yes, I'm talking about the random encounter with they lady whose horse "up and died on her". No, I don't recommend you try that over this unless you enjoy pain.*
+
+### Saving Arthur's money for John.
+
+[Source.](https://www.youtube.com/watch?v=Gu5s3l6w7h0)
+
+The **Aberdeen Pig Farm** is inhabited by an incestual brother and sister, whom together work as a team of serial killers. There is a sort of side mission with these two: as either John or Arthur you can eat dinner with them. During which they'll offer some drinks. After drinking a few times, you pass out and wake up in their body dump site with no money. A decent backing for sticking to the story, I think, is: Arthur gets robbed, John reads about it in his journal, John goes to the farm and takes the money as it's of no use to Arthur at that point. :)
+
+Go there and get robbed as Arthur right before the mission **"Red Dead Redemption"** (the last mission in which the player controls Arthur) but do not go back and kill them, nor get your money. Wait until you take control of John, travel to the farm, and retreive the cash from the safe behind the picture of "Mama" directly behind the front door. Kill or spare them as you see fit.
+
+### Getting out of map. (Travel to Guarma/Mexico/Canada.)
+
+[OOB on San Luis River.](https://www.youtube.com/watch?v=kYmREKUf09A)
+[OOB on San Luis River (alternate).](https://www.youtube.com/watch?v=GfM9vxakKTA)
+[Bridge glitch.](https://www.youtube.com/watch?v=VSRt7FPGItE)
+[OOB far northeast.](https://www.youtube.com/watch?v=eppF2TnLt00)
+[OOB in Devil's Cave.](https://www.youtube.com/watch?v=Kx0llq2e8qs)
+[OOB at Aurora Basin.](https://www.youtube.com/watch?v=KKgIuLrLe8A) - using slide glitch.
+
+You'll need enough alcohol to blackout to do this. If you've got the **Wolf Heart Trinket**, you'll need a lot. Now, to get compendium entries and sketches as Arthur for animals specific to New Austin (and/or Guarma before/after of Chapter 5), or just to run around and explore, you can travel out of bounds via the far west end (at the edge of a drop-off) in the **Devil's Cave**. If you're running post-Epilogue and want to explore the southern side out-of-map or travel to Guarma much quicker, an infinitely faster method is to travel to a specific point on the southern shore of the **San Luis River**.) Do the following once at either location:
+
+1. Drink until you black out.
+2. Do nondescript things while blacked out. (How the character scales seemingly sheer surfaces whilst blackout drunk is unclear. Ah, the wonders of moonshine!)
+3. Wake up out of map.
+
+**GETTING TO GUARMA:** Guarma is located at the southeast (bottom right) corner of the map. Go in that general direction until you hit the low poly (jellytown) ground. Any low-poly area is considered the physical "end of the map" which you'll fall through. If you hit a 90-degree corner, turn on it (after turning you should be facing south). Follow the seam until you begin to float (walk up an invisible hill). Turn to face the low poly section, walk a few steps over the seam and Guarma's map will render in.
+
+- A quick side note: I black out drunk on the east side of **Aurora Basin** and woke up on the west side out-of-bounds. I will try to replicate this soon, but the few times afterwards resulted in no joy.
+
+### Speed crafting.
+
+*This involves using third-party programs.*
+
+Want to stock up on crafted consumables? Download [CheatEngine](https://www.cheatengine.org/downloads.php). I use the RAR archive version which you don't have to join Patreon for; it doesn't come bundled with "optional" adware/bloatware like the installer does, but feel free to use what you want. Be sure to launch the 64-bit version of CheatEngine when using it in RDR2. Open "RDR2.exe" via the Open Process dialog and check "Enable Speedhack". You can adjust the speed as you see fit. When finished, uncheck the box to disable the speedhack.
+
+Sometimes, a glitch may occur where the crafting process of some items (seemingly random) will freeze halfway through. I use 500x speed and travel near Colter when doing this, which seems to lower the chance of this happening.
+
+### Duplicate journal sketches.
+
+Some POIs can be sketched as both Arthur and John (meaning two journal sketches per game):
 
 - Cave Devil
+- Tree King
+- Hermit Man
 - Blind Man Cassidy
-- Hermit Man (at **Manito Glade**)
+- Strange Statues
 
 # EASTER EGGS
 
-### Places You Can Sit
-https://i.redd.it/47ie1ex1xy331.jpg
-
 ### KKK
+
 Encountered some guys after Epilogue II northeast of Lucky's Cabin (Heartlands, NH). Unsure if they continuously spawn post story or if they're one-time events, but I've found them in four places, three of which were in Lemoyne.
 
 ### Skinner Brothers Yelps
+
 The sounds made by **Skinner Brothers** during ambushes and attacks are the same made by **Wapiti Tribe** members during **My Last Boy**. Likely just a borrowed scare tactic, but the **Skinner Brothers** might have some other motive in doing this. Perhaps some members are tied to the tribe and are protecting land in **Tall Trees**. Or maybe it's just the former. In either case, the jumpscare potential is unreal. Trotting along the paths, you hear screaming out of nowhere but you know what's coming.
 
 ### Voices at Colter
+
 Spooked by those voices before? Especially up at Colter where you know damn well there's no one else around? Perhaps I'm the outlier, but these scared the fuck out of me the first time I was back up there post-story. When returning to previous Van der Linde camps, muffled voices can be heard speaking lines mentioned prior on the story. This happens at every previous camp, not just Colter. But hearing flashback voices up there, at midnight, no wind, no wolf howls, owl hoots, or fox screams, in the snow was a spooky first experience.
 
 ### Whispers in Roanoke Forests
-https://www.reddit.com/r/reddeadmysteries/comments/9z42z3/roanoke_whispers_explained/
+
+[Explanation on Reddit.](https://www.reddit.com/r/reddeadmysteries/comments/9z42z3/roanoke_whispers_explained/)
 
 ### Bolger Glade Whispers
-https://www.reddit.com/r/reddeadredemption/comments/ew1dx0/bolger_glade_sounds/
+
+[Explanation on Reddit.](https://www.reddit.com/r/reddeadredemption/comments/ew1dx0/bolger_glade_sounds/)
 
 ### Feral Man - Wild Man's Journal
+
 This is a random event and the journal item is missable.
 
 https://reddead.fandom.com/wiki/Feral_Man
 
 ### Lemoyne Ghost Train
+
 https://www.youtube.com/watch?v=_fSlasTGGag
 
 # MISCELLANEOUS
 
+### Cool Things
+
+*All references to controls are in terms of Xbox One/Series controllers.*
+
+[Reference](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/)
+
+- Double-tap RB to walk your horse backwards.
+- Perform a flashy holster animation by double-tapping LB. Works with only primary sidearm.
+- You can buy goods from some of the shops at the **Saint Denis Market**.
+
 ### Useful Links
 
-*CodeWalker* https://github.com/dexyfex/CodeWalker
-
-*Missables* https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2
-
-*Rampage Trainer* https://www.nexusmods.com/reddeadredemption2/mods/233
-
-*Complete Map* https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/
+- [CodeWalker](https://github.com/dexyfex/CodeWalker)
+- [Missables](https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2) - missable content. [[Steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=2002543938) [[GTAForums]](https://gtaforums.com/topic/924480-spoilers-everything-missable-in-rdr2/)
+- [Rampage Trainer](https://www.nexusmods.com/reddeadredemption2/mods/233)
+- [Complete Map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/)
