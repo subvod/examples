@@ -54,16 +54,16 @@ Some businesses offer lodging, baths, and/or dining:
 
 Business | Amenities
 :--- | ---
-Keane's Saloon | Oatmeal
-Old Light Saloon | Blackjack<br>Fish Stew<br>Lamb's Heart with boiled cabbage.
-Van Horn Post Station | Room<br>Bath
-Bastille Saloon | Poker<br>Lobster Bisque<br>Prime Rib with potatoes dauphinoise and spring salad.
-Rhodes Parlour House | Blackjack<br>Cracked Wheat and Milk<br>Fried Catfish with greens and boiled beans.
-Flatneck Station | Poker
-Blackwater Saloon | Poker<br>Blackjack<br>Room<br>Bath<br>Peach Cobbler with cream.<br>Roast Prarie Chicken with green beans and mashed potato and gravy.
-Tumbleweed Saloon | Poker<br>Chili<br>Roast Beef with corn and glazed carrots.
-Tumbleweed Gunsmith | Room
-Smithfield's Saloon | Beef Stew<br>Lamb's Fry with green peas and boiled potatoes.
+Flatneck Station<br>Heartlands, NH | Poker
+Keane's Saloon<br>Valentine, Heartlands NH | Oatmeal
+Smithfield's Saloon<br>Valentine, Heartlands, NH | Beef Stew<br>Lamb's Fry with green peas and boiled potatoes.
+Old Light Saloon<br>Van Horn, Roanoke Ridge, NH | Blackjack<br>Fish Stew<br>Lamb's Heart with boiled cabbage.
+Van Horn Post Station<br>Van Horn, Roanoke Ridge, NH | Room<br>Bath
+Rhodes Parlour House<br>Rhodes, Scarlett Meadows, LE | Blackjack<br>Cracked Wheat and Milk<br>Fried Catfish with greens and boiled beans.
+Bastille Saloon<br>Saint Denis, Bayou Nwa, LE | Poker<br>Lobster Bisque<br>Prime Rib with potatoes dauphinoise and spring salad.
+Blackwater Saloon<br>Blackwater, Great Plains, WE | Poker<br>Blackjack<br>Room<br>Bath<br>Peach Cobbler with cream.<br>Roast Prarie Chicken with green beans and mashed potato and gravy.
+Tumbleweed Saloon<br>Tumbleweed, Gaptooth Ridge, NA | Poker<br>Chili<br>Roast Beef with corn and glazed carrots.
+Tumbleweed Gunsmith<br>Tumbleweed, Gaptooth Ridge, NA | Room
 
 ### Honor And Benefits
 Honor is measured by ranks -8 to +8 on a scale according to the total honor as an integer from -320 to +320. If you don't care for the outfits only available with high honor, honor level in general makes no difference. However honor level does affect some aspects of the game.
@@ -104,6 +104,7 @@ Below is data gathered from testing **Potent Tonics** against their **Special** 
 As you can see, **Special Bitters** makes a bit of a difference, where as **Special Snake Oil** does fairly little in terms of better fortification. Overall, if you're short on materials, bought/crafted Potent tonics will do just fine in most situations.
 
 ### Fast Weapon Familiarity
+
 - Use dead eye to get headshots.
 - If avoiding law and bounties, enemy hideouts refresh every few in-game days. The numerous Del Lobo hideouts in New Austin become accessible after Chapter 6.
 
@@ -122,12 +123,14 @@ As you can see, **Special Bitters** makes a bit of a difference, where as **Spec
 - *If on the PC version without a controller, you can use [AutoHotKey](https://www.autohotkey.com/) to simulate holding down the movement key(s).*
 
 ### Map Icons
+
 - I used [this map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) as a reference.
 - Animal drawings are added when an animal is sighted in a specific area. It must be both studied and tracked at least once to add icons the the overworld map. The best thing to do is study and track everything you come across. Hell, I even kill everything I see because why not? Additional locations will be marked as animals are "sighted" (moving the crosshair to highlight them). Looking at animals through binoculars (after studying and tracking at least one to fill the compendium) is by far the most efficient way to populate the map with animal icons. Though, I personally just run around killing everything with **Poison Arrows**. :)
 - Plant drawings are added when a plant is picked/eaten at least once in the immediate area of the icon. Best to pick everything you come across because spawning a plant with a trainer and picking it does not add the icon for some reason.
 - Point of interest, dreamcatcher, dinosaur bone, and rock carving locations are added when they are "investigated".
 
 ### Triggering Pearson's rabbit request to obtain the unique Scout Jacket.
+
 - It's available from Ch.2 to Ch.6.
 - Pearson will be drinking beer at his wagon's table. When you walk near him, it will only give a **Greet** prompt when the request is available for activation (like every other request).
 - I ran around camp in Ch.2 for 15 minutes real time and never got the request (had full cores the whole time). I went to camp in Ch.3 after consuming Moonshine, Cocaine Gum, and Chewing Tobacco to completely deplete my cores and voila, requested right as I walk into camp! Maybe coincidental, I've no numbers for solid proof this works. But if it is just coincidence, it's one hell of a coincidence. Also tested in Ch. 2. Took about 20 minutes, but those 20 minutes are nothing compared to a few hours total spend entering/exiting camp to get him to spawn there. It's worth a shot. :)
@@ -162,14 +165,14 @@ Aged Pirate Rum | 0.5
 
 ### Saddles
 
-I go for the **Panther Trail Saddle** because it looks the best on my Amber Champagne MFT. (The looks are the worth the 4% compromise to me.) However, the **Beaver Roping Saddle** is technically the "best" saddle solely in terms of game logic because it provides the highest Stamina Regen (same as **Panther** and **Rattlesnake** saddles) and **Health Core Drain** bonuses. My reasoning behind this is: horse health core drain intensifies when they're dirty. I don't brush my horse often, so a lot of times it's just dirty. That being the case, the occasional health core penalty is lowered that much more with the Beaver Saddle.
+Technically, the **Beaver Roping Saddle** is the "best" saddle solely in terms of game logic because it provides the highest **Stamina Regen** (same as **Panther** and **Rattlesnake** saddles) and **Health Core Drain** bonuses. My reasoning behind this is: horse health core drain intensifies when they're dirty. I don't brush my horse often, so a lot of times it's just dirty. That being the case, the occasional health core penalty is lowered that much more with the Beaver Saddle.
 
 - **HCD** *Health Core Drain*
 - **SCD** *Stamina Core Drain*
 - **SD** *Stamina (Bar) Drain*
 - **SR** *Stamina (Bar) Regen*
 
-Name | HCD | SCD | SD | SR
+Name | HEALTH CORE<br>DRAIN | STAMINA CORE<br>DRAIN | STAMINA<br>DRAIN | STAMINA<br>REGEN
 :--- | --- | --- | --- | ---
 Boar Mother Hubbard | -22% | -20% | -50% | +20%
 Alligator Ranch Cutter | -24% | -20% | -50% | +22%
@@ -181,9 +184,11 @@ Rattlesnake Vaquero | -22% | -24% | -50% | +24%
 Nuevo Paraiso | -12% | -12% | -25% | +12%
 
 ### Traveling Long Distances Automatically
+
 - Aside from fast travel (unlocked by purchasing the map from the camp ledger), you can autopilot to a destination: set a destination (must be in a road/path) on the map, hop on your horse and begin sprinting towards the waypoint. While sprinting, hold down the SELECT button (XB1) or X button (on PS4) to enter cinematic view. Black bars will appear and you will travel to the waypoint. **NOTE: events still occur, it's just a different camera view. You can still get attacked by a predator or enemies.
 
 ### Looting saddle bags and not getting the shit kicked out of you.
+
 *This glitch allows you to search both saddle bags of any horse without getting kicked in the face.*
 
 1. Hop on the horse you want to loot.
@@ -192,28 +197,46 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 4. Enjoy your saddle bag loot never having to get kicked in the face ever again.
 
 ### Farming gritty fish meat for potent predator bait.
+
 - Fish off of the docks around **Lagras** during rainy weather. Neither **Rock Bass** nor **Perch** spawn around **Lagras**, so you've not to worry about snagging one of those bastards. On the flip side, you may get **Smallmouth/Largemouth Bass**, **Chain Pickerel**, and/or **Lake Sturgeon**. Another plus is **Bullhead Catfish**, **Channel Catfish**, and **Longnose Gar** also spawn around there, all of which yield **Gritty Fish Meat**.
 
 # HUNTING TIPS
 
 ### Debunking the save/reload deal.
+
 - It works. If you're hunting rare spawns, travel to a location which is a small distance away from where the animal is known to be, sleep until the target time (if needed), save the game, and reload. Essentially, you're just refreshing all entity spawns to the area you saved the game in. This is how I managed to spot all the super rare moose spawns (like Painted Sky and along the Upper Montana). **YOU DO NOT HAVE TO EXIT AND RESTART THE WHOLE GAME FOR THE EFFECT TO WORK. THIS GOES FOR ALL SCENARIOS IN WHICH SAVING AND RELOADING IS ADVISED.**
+
 ### Use a headset if possible.
+
 - Use a headset/headphones/earbuds when hunting. Tracking down owls by nothing but their hoots is essentially impossible with my shitty TV speakers. Hell, I even tried my old pair of Skullcandy Ink'd earbuds from 2012 and even with those I can hear everything. You don't have to use a high dollar headset... just something to isolate the game sound.
+
 ### Stealth is usually better.
+
 - If you're roaming around looking for uncommon/rare animals, do not hunt on your horse. Go on foot, crouched, and walk slowly. Crouch running (that's what I call it) creates more noise than regular crouch walking. This difference is especially noticable when cover-scented and very close to animals. You can get within a few feet of most animals by slowly creeping up to them. Being able to get closer also opens up your options for clean kills. If stealth hunting, use the **Bow** for everything unless you're hunting down the middle ground animals which need the **Varmint Rifle** for a perfect carcass. According to my own testing, all "varmints" can be skinned for a perfect pelt when headshot with a regular arrow **EXCEPT FOR THE SKUNK AND GILA MONSTER**. Not to mention, while using the **Bow**, you won't scare off everything within a five mile radius. A number of other players claim the **Bow** is trash, but from my experience its quiet kills serve much better than its great but limited range (especially while hunting rare animals that spook easily, *ahem* Moose *cough cough*).
+
 ### Cover Scent Lotion.
+
 - It helps immensely if you're doing some stealth hunting. Yes, you can stay downwind from the animal you're targeting. However, if you're out for anything and everything... you might spook a deer to your left, it runs towards a rabbit, which then runs towards what you're hunting for, spooks it, and they all leave you in the dust. I hardly use Eagle Eye anymore, but I also have never been bothered to check the wind direction when hunting. I kill all the beavers, skunks, and muskrats I see just for their scent glands.
+
 ### Give the game time to spawn everything.
+
 - Stick around the area you're hunting in for a while. As in, at least a couple days. Sleeping and/or blacking out add to this, what I'm going to call, "time spent in area" mechanic. I think it's just you giving the game time to load in all the time-sensitive and random spawns. A good example: after a whole year of playing this game I've not once seen a moose at Barrow Lagoon... until I traveled to Barrow, set the game to timelapse 72 hours (via trainer), turned around, and there was the ever-so-illusive moose at Barrow, the first and only time I've ever seen it. Same goes for all animals everywhere else. That's how I killed three grizzlies west of Wallace Station within five minutes. That's also how I killed three bull meese in Tall Trees within 10 minutes. Just sleep as long as you can or blackout a couple times. Either that, or save and reload.
+
 ### Dealing with evasive/aggressive animals effectively.
+
 - Having trouble studying aggressive and/or skittish animals? Hit them in a non-critical area with a **Poison Arrow** (regular, white hit marker). This changes their aggro and makes them flee, allowing you to study and track them as they run.
+
 ### Double your skin collection.
+
 - If an animal can be picked up, you can get double skins from it. This is very useful when hunting animals for the **Trapper**. Kill the animal, skin it, stow both the skin and skinned carcass on your horse, ride to the trapper, and sell both the skin and the carcass. You'll also get +2 animals skinned in your Compendium since selling a carcass counts as "skinning" the animal.
+
 ### Farming wild animals.
+
 - Most animals will decompose within 24 hours, aside from massive class animals which decompose to bones, then fully decompose. All animal carcasses from those classified as "massive" (elk, moose, bison, bears, etc) will go to bones 36 hours after being killed, then fully decompose in 72 in-game hours.
 - If you're looking to farm animals for pelts, it's best to get rid of the carcass to skip the decomposition process. I've found three ways of going about this: sell the carcass as a whole (works great when doing the double skin trick), burn the carcass (with **Incendiary Buckshot**, **Fire Bottle**, or a **Fire Arrow**), or shimmy the carcass into to a body of water (even small streams work; I moved a bear into the shallow water on the southeast end of Little Creek River and it was gone after sleeping 26 hours. Alternative but slightly slower methods are: blacking out drunk and/or sleeping. To pass a huge amount of time, sleep as many times as possible and drink until you black out. If you move around a lot, I advise noting the respawn locations of and stocking up on **Aged Pirate Rum**. Only takes four to black out with the **Wolf Heart Trinket**. It's an uncommon loot item, so if you're not out for adventure, which hopefully you are, and would rather buy liquor, buy **Moonshine**. It's the highest proof liquor sold anywhere. **Kentucky Bourbon** is a close competitor but is slightly weaker than **Moonshine**.
+
 ### The best weapons.
+
 *Here's a quick rundown:*
 
 The **Bow** is the best hunting weapon in practice. Yes, its range is limited and does not yield perfect varmint pelts, but... one: the longest range at which you can make Bow kills is outrageous, even if you're a ways away you can close in towards the target and make the kill via deadeye still quite some distance away. Granted, though it may be slim, there is still a chance to miss even with deadeye lock-on when the target is near the outside edge of the bow's maximum range. Two: it can make clean kills on everything except most animals which require the **Varmint Rifle** (which would have been nice to have some Varmint Arrows or just make either Regular or Small Game arrows cleanly kill the varmints). Most varmint kills with regular arrows will almost always yield a one-less-star pelt, i.e. you kill a three star and it will almost always drop to two stars. Be that as it may, there are exceptions to this: a headshot with a poison arrow to beavers and iguanas almost always yields a perfect pelt for me. But every other varmint (skunks, possums, etc) rarely gives a perfect pelt with any arrow kill. And finally, three: you get both Poison Arrows and Dynamite Arrows.
@@ -260,6 +283,7 @@ Bow (~2) | 55 | 166 | 15 | -
 **~2** - The Bow's damage values are listed as follows: regular arrow, improved arrow, small game arrow.
 
 ## Fishing Tips
+
 - Contrary to what the game describes, you can catch just about every fish on any bait/lure.
 - Also contrary to compendium entries, weather doesn't seem to make a damn difference.
 - The **Special Spinner** attracts all species of fish and all species will bite it. Everything from bluegill to northern pike. Once acquired, it is a permanent inventory item and cannot be lost by cutting the line or to a line snap.
@@ -333,6 +357,7 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 **NOTE:** items in containers (lockboxes, chests, cabinets, wardrobes, etc) will respawn regardless of rarity. Rare items (i.e. Aged Pirate Rum) do not respawn unless they're in a container. Respawnable items are bold.
 
 ### Ginseng Elixir
+
 - Cairn Lodge, Grizzlies West, AM
 - Watson's Cabin, Big Valley, WE (northwest of Wallace Station)
 - The Loft, Grizzlies East, AM (top of lookout tower)
@@ -356,6 +381,7 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 - **Cholla Springs, NA (lockbox on abandoned white wagon; northwest of Mercer Station)**
 
 ### Aged Pirate Rum
+
 - Mount Hagen, Grizzlies West, AM (top floor of watch tower; southeast side of Mount Hagen; east of Micah's Hideout)
 - Cotorra Springs, Grizzlies West, AM (east of Granite Pass/Whinyard Strait; southernmost freight car in train wreck below bridge; jump in from cliff overhead)
 - **Grizzlies East, AM (northwest of O'Creagh's Run; lockbox on cliffside south of train tracks; climb down ledges from above first 'I' in "Grizzlies")**
@@ -381,6 +407,7 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 - In lockboxes of random Lemoyne Raider/O'Driscoll campsites.
 
 ### Valerian Root
+
 - Mount Hagen, Grizzlies West, AM (tree stump inside watch tower; southeast side of Mount Hagen; east of Micah's Hideout)
 - Grizzlies East, AM (west side of railway overpass with "AMBARINO" painted on south side; enter overpass through boards on west side; overpass is southeast of The Loft)
 - **Beaver Hollow, Roanoke Ridge, NH (chest in very back of Murphy Brood cave)**
@@ -404,27 +431,32 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 - **Tumbleweed, Gaptooth Ridge, NA (lockbox at foot of one of four wagons; southwest of Tumbleweed)**
 
 ### Moonshine
+
 - Van Horn, Roanoke Ridge, NH (first floor deck on southeast corner of big yellow house; west of Van Horn Trading Post)
 - Witches Cauldron, Grizzlies East, AM
 - Dakota River, Big Valley, WE (random campsite under rockface along west shore; south of Cumberland Falls; north of Little Creek River)
 - Benedict Point, Rio Bravo, NA (under bunk bed in southeastern cabin)
 
 ### Whiskey Case
+
 - Valentine, Heartlands, NH (Circus Camp on the southwest side of Valentine)
 - Lagras, Bayou Nwa, LE (northernmost house; on the side facing the road)
 - Saint Denis, Bayou Nwa, LE (behind dive bar)
 - Hill Haven Ranch, Scarlett Meadows, LE (inside the ranch house)
 
 ### Beer Case
+
 - Castor's Ridge, Heartlands, NH
 - Downes Ranch, Heartlands, NH
 - Van Horn (inside the trap house by the water)
 - Beecher's Hope, Great Plains, WE (after Epilogue II)
 
 ### Whiskey / Beer Case (Random Chance)
+
 - Lagras, Bayou Nwa, LE (northernmost house)
 
 ### Pamphlets
+
 - **Special Health Cure** (inside a chest at the scaffolding of **Face in Cliff** or reward for recovering medical wagon during the stranger mission **"No Good Deed"** from Dr. Alphonse Renaud)
 - **Special Bitters** (lockbox near all the destroyed crates scattered on the ground just south of **Owanjila Dam**)
 - **Special Snake Oil** (under the floor boards of a shack east and slightly south along the railroad tracks of **Eris Field**)
