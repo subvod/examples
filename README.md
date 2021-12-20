@@ -1,22 +1,14 @@
 # Introduction
 
-*Some background info.*
+*This document is just some notes I've taken of programs/techniques I've used over the years. Mostly programming and gaming related, but some system utilities are linked as well. And, in case you haven't already made the assumption, there may be some mild crude language and/or possible references to comic mischief here and there. If you've even the slightest amount of mental fortitude, you'll do just fine. Otherwise, if you can't handle either of those or are so in favor of having your freedoms taken away just so mine do as well (while those who take those freedoms retain their own): bitch boys need not read further but instead [watch this](https://youtu.be/j22bnzmjcQM).*
 
-I have never made programming a profession for myself. I've been a hobbyist programmer since 2008. I began as a skiddy, making fake virus scripts with Batch and VBScript. I began making more complex scripts in 2011, which I like to credit the inspiration to the forums/boards I joined around that time. (Specifics shall be left aside but if you know, you know.) I tried to begin learning C several times from 2011 to 2014, but all attempts to no avail. In 2016, I tried once again, and it just clicked like magic. Ever since, I've been using primarily C and C++ for most of my projects. I learned the basics of Python in 2018, and have been using it ever since. Not particularly regularly, but for any compact automation script, Python works wonders when compared to a system language like Batch. As for everything I've dabbled in, everything from 65816 ASM to C#. Like, most everything: Object Pascal, Java, Z80 ASM, Visual Basic .NET, JavaScript, HTML5, CSS, etc. I'm not much of a web programmer, but I've made use of the formatting tags when making guides. (I actually learned of Markdown after starting this GitHub, and ended up learning it.)
-
-All that aside, this is a jumbled assortment of random scripts and snippets for referential purposes. In a section below, I will link all libraries and tools I've used both inside and outside programming. Hopefully these notes will give others a head start, or at the very least some sort of insight as to what they want to do.
-
-Directly below are my small projects I've managed to muster up in the past two years:
-
-[rdr2-maps](https://github.com/subvod/rdr2-maps) - High-res maps marked with locations for rare/uncommon animals and places you can sit, etc in **Red Dead Redemption 2**.
+[rdr2-maps](https://github.com/subvod/rdr2-maps) - High-res maps marked with locations for rare animals, enemy encounters, and places you can sit in **Red Dead Redemption 2**.
 
 [RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). - Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc.
 
 [TCGRW.MD](https://github.com/subvod/examples/blob/master/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**.
 
 [ASUS ROG Zephyrus GA401QM (2021 G14) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the **2021 ASUS G14** because I'm a fucking normie piece of shit.
-
-And, in case you haven't noticed already, yes there will be some marginally crude language and possible references to comic mischief here and there. If you've even the slightest amount of mental fortitude, you'll do just fine. Otherwise, if you can't handle either of those or are so in favor of having your freedoms taken away just so mine do as well (while those who take those freedoms retain their own): bitch boys need not read further but instead [watch this](https://youtu.be/j22bnzmjcQM).
 
 # MISCELLANEOUS
 
@@ -27,7 +19,7 @@ And, in case you haven't noticed already, yes there will be some marginally crud
 *Tools:*
 
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Alternative to CCleaner because Avast fucked it up.
-- [7-Zip](https://www.7-zip.org/) - File compression and archiving. I was a WinRAR fanboy for over a decade. Why? No clue. [[Source Code]](https://sourceforge.net/projects/sevenzip/) ; LZMA2 for binary/images, PPMd for plaintext.
+- [7-Zip](https://www.7-zip.org/) - File compression and archiving. I was a WinRAR fanboy for over a decade. Why? No clue. [[Source Code]](https://sourceforge.net/projects/sevenzip/) ; use LZMA2 for binary/images, PPMd for plaintext.
 - [Calibre](https://calibre-ebook.com/) - view and manage ebooks from desktop. [[Docs]](https://manual.calibre-ebook.com/) [[Source Code]](https://github.com/kovidgoyal/calibre)
 - [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive isn't bundled with "optional" bloatware/adware. [[Backup]](https://www.mediafire.com/file/vc97e7249287jdd) [[Source Code]](https://github.com/cheat-engine/cheat-engine)
 - [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
@@ -40,6 +32,7 @@ And, in case you haven't noticed already, yes there will be some marginally crud
 *Articles:*
 
 - [DO NOT DEFRAGMENT YOUR SSD](https://superuser.com/questions/1594/why-cant-you-defragment-solid-state-drives) - Defragmenting does nothing but spike write cycles, lowering SSD lifespan because of how they operate. This is not the case for HDDs with physical disks. Defragmenting is beneficial for HDDs, not SSDs.
+- [Compression Benchmark](https://peazip.github.io/peazip-compression-benchmark.html) - Performance comparison of several compression algorithms. Also specifies [file formats less fit for compression](https://peazip.github.io/why-can-not-compress-pdf-avi-mp3-files.html).
 
 ## Media Related
 
@@ -49,7 +42,7 @@ And, in case you haven't noticed already, yes there will be some marginally crud
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Stream/download various media in various formats from various sources.
 - [FFMpeg](https://github.com/FFmpeg/FFmpeg) - Audio/video conversion. [[Docs]](https://ffmpeg.org/documentation.html)
-- [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet. [[Docs]](https://opus-codec.org/docs/) [[Source Code]](https://gitlab.xiph.org/xiph/opus-tools)
+- [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet. Lossy, but it's a witchcrafty compression algorithm. [[Docs]](https://opus-codec.org/docs/) [[Source Code]](https://gitlab.xiph.org/xiph/opus-tools)
 - [VLC](https://www.videolan.org/) - Media player. [[Docs]](https://wiki.videolan.org/documentation:documentation/) [[Source Code]](https://github.com/videolan/vlc)
 - [Audacity](https://www.audacityteam.org/) - Audio editor. [[Docs]](https://manual.audacityteam.org/) [[Source Code]](https://github.com/audacity/audacity)
 
@@ -57,6 +50,7 @@ And, in case you haven't noticed already, yes there will be some marginally crud
 
 - RIAA's [failed attempt to shut down youtube-dl](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/). :)
 - Automate the [downloading and conversion/extraction of audio/video](https://github.com/subvod/examples/blob/master/youtube-dl.MD) using **youtube-dl** and **ffmpeg**.
+- A video comparison of [MP3, M4A, AAC-LC, AAC-HE v1, AAC-HE v2, and Opus codecs](https://youtu.be/3B6pr6-YVyM). No commentary. Includes separate tracks for the data lost with each codec, as well as the original `WAV` as a control.
 
 ### Image
 
@@ -66,18 +60,20 @@ And, in case you haven't noticed already, yes there will be some marginally crud
 - [nomacs](https://github.com/nomacs/nomacs) - Image viewer with integrated adjustable window transparency.
 - [GreenShot](https://github.com/greenshot/greenshot) - Screen capture software with autosave.
 - [ImageMagick](https://imagemagick.org/) - Image editor with command-line untilities. [[Docs]](https://imagemagick.org/script/command-line-tools.php) [[Source Code]](https://github.com/ImageMagick/ImageMagick)
-- [DaFont](https://www.dafont.com/) - Huge database of fonts.
 
-*Articles:*
+*References:*
 
+- [DaFont](https://www.dafont.com/) - Huge database of fonts, free and proprietary.
+- [How to add fonts to Linux, Windows, and Mac OS X](https://docs.gimp.org/2.10/en/gimp-using-fonts.html). Note, at the bottom it specifies you can place font files into your GIMP `fonts` subdirectory to make them available to GIMP only.
 - [Batch Converting via ImageMagick](https://stackoverflow.com/q/30414346) - With a `FOR` loop.
+- [Image Formats Comparison](https://eclipseo.github.io/image-comparison-web/report.html) - Slightly more recent fork of [the original project](http://wyohknott.github.io/image-formats-comparison/report.html) by [wyohknott](https://github.com/WyohKnott).
 
 ### 3D
 
 - [Blender](https://developer.blender.org/diffusion/) - 3D Editor. [[Docs]](https://docs.blender.org/) [[Tutorials]](https://www.blender.org/support/tutorials/) [[Source Code]](https://www.blender.org/get-involved/developers/)
 - [Wings3D](http://www.wings3d.com/) - 3D Editor. Considerably less-demanding than larger editors like Blender/3DSMax. I used Wings for modeling/texturing until I got a system powerful enough to run Blender without it freezing up every five minutes. [[Source Code]](https://github.com/dgud/wings)
 
-### Documentation
+### Document
 
 *Word Processors:*
 
@@ -87,6 +83,10 @@ And, in case you haven't noticed already, yes there will be some marginally crud
 
 - [CudaText](https://cudatext.github.io/) - Cross-platform code editor. [[Source Code]](https://github.com/Alexey-T/CudaText)
 - [Notepad++](https://notepad-plus-plus.org/) - Cross-platform code editor; can be made into an [IDE with Batch scripts, NPPExec, and Macros](https://github.com/subvod/examples/blob/master/NPP-IDE.MD). [[Docs]](https://npp-user-manual.org/) [[Source Code]](https://github.com/notepad-plus-plus/notepad-plus-plus)
+
+*References:*
+
+- You can add fonts for just **LibreOffice** in `<LibreOffice_InstallDirectory>\program\resource\common\fonts`.
 
 ### Web Browsers
 
@@ -143,6 +143,8 @@ And, in case you haven't noticed already, yes there will be some marginally crud
 - An analysis of [why Dev-C++ was deprecated](https://www.cplusplus.com/forum/articles/36896/).
 - A somewhat detailed [comparison between Rust and C++](https://www.reddit.com/r/rust/comments/bya8k6/programming_with_rust_vs_c_c/).
 - [Understanding C Program Compilation Process Using GCC](https://youtu.be/PzsXHGVTScI) - An explanation of the process with intermediate files and options needed when performing each step individually.
+- [How to Debug Using GDB](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html), a quick overview with a basic example.
+- [Reversing and cracking first simple program](https://youtu.be/VroEiMOJPm8), a video tutorial using `gdb`.
 
 ### Python
 
@@ -151,15 +153,17 @@ And, in case you haven't noticed already, yes there will be some marginally crud
 - [Python](https://www.python.org/) - the programming language. [[Docs]](https://docs.python.org/3/) [[Source Code]](https://github.com/python/cpython)
 - [py2exe](https://www.py2exe.org/) - converts Python scripts into Windows `.exe` format able to run without Python being installed. [[Source Code]](https://github.com/py2exe/py2exe)
 - [unpy2exe](https://github.com/matiasb/unpy2exe) - extract `.pyc` files from Windows `.exe` files created with **py2exe**.
-- [python-uncompyle6](https://github.com/rocky/python-uncompyle6/) - cross-version Python bytecode decompiler.
-- [python-decompile3](https://github.com/rocky/python-decompile3) - reverse engineer compiled Python code (v3.7-3.8) `.pyc` files.
+- [python-decompile3](https://github.com/rocky/python-decompile3) - bytecode decompiler for Python v3.7-3.8 `.pyc` files. A refactor of [python-uncompyle6](https://github.com/rocky/python-uncompyle6/) to fix long-standing problems.
 
 *Libraries:*
 
 - [wxPython](https://www.wxpython.org/) - cross-platform GUI toolkit. [[Wiki]](https://wiki.wxpython.org/) [[Docs]](https://docs.wxpython.org/) [[Source Code]](https://github.com/wxWidgets/Phoenix/)
 
-*Articles:*
+*References:*
 
+- [Design of CPython's Compiler](https://devguide.python.org/compiler/). Referenced from [this StackOverflow post](https://stackoverflow.com/a/19917906).
+- `dis`, the [bytecode disassembler module](https://docs.python.org/3/library/dis.html).
+- `py_compile`, [bytecode compiler module](https://docs.python.org/3/library/py_compile.html).
 - Piping and executing [external commands in Python](https://stackoverflow.com/questions/5486725/how-to-execute-a-command-prompt-command-from-python).
 
 ### Assembly (ASM)
