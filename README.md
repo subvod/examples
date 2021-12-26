@@ -124,13 +124,13 @@
 
 *Libraries:*
 
-- [SDL](https://www.libsdl.org/) - Simple DirectMedia Layer. [[Docs]](http://wiki.libsdl.org/FrontPage) [[Source Code]](https://github.com/libsdl-org/SDL)
-- [OpenGL](https://www.opengl.org/) - 3D graphics lib. [[Wiki]](https://www.khronos.org/opengl/wiki)
-- [EasyHook](https://github.com/EasyHook/EasyHook) - WinAPI hook base.
-- [wxWidgets](https://www.wxwidgets.org/) - cross-platform GUI library. Pairs well with [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder), a GUI creator which can export wxWidgets-compatible code in both C++ and Python. [[Docs]](https://www.wxwidgets.org/docs/) [[Tutorials]](https://www.wxwidgets.org/docs/tutorials/) [[Source Code]](https://github.com/wxWidgets/wxWidgets)
-- [Boost C++ Libraries](https://www.boost.org/) - a ton of functions for a wide variety of uses. [[Docs]](https://www.boost.org/doc/)
-- [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library. **[Docs]** available on downloads page. [[Source Code]](https://github.com/SFML/SFML)
-- [MD5 Message Digest Algorithm](https://github.com/deepmind/lab/tree/master/third_party/md) - derived from RSA Data Security, Inc. [[Original Source]](https://opensource.apple.com/source/ppp/ppp-37/ppp/pppd/md5.c.auto.html)
+- [SDL](https://www.libsdl.org/) - Cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via **OpenGL** and **Direct3D**. [[Docs]](http://wiki.libsdl.org/FrontPage) [[Source Code]](https://github.com/libsdl-org/SDL)
+- [OpenGL](https://www.opengl.org/) - Cross-language, cross-platform API for rendering 2D and 3D vector graphics. [[Wiki]](https://www.khronos.org/opengl/wiki)
+- [EasyHook](https://github.com/EasyHook/EasyHook) - The reinvention of Windows API hooking.
+- [wxWidgets](https://www.wxwidgets.org/) - Cross-platform GUI library. Pairs well with [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder), a GUI creator which can export wxWidgets-compatible code in both C++ and Python. [[Docs]](https://www.wxwidgets.org/docs/) [[Tutorials]](https://www.wxwidgets.org/docs/tutorials/) [[Source Code]](https://github.com/wxWidgets/wxWidgets)
+- [Boost C++ Libraries](https://www.boost.org/) - Set of libraries that provides support for tasks and structures such as linear algebra, pseudorandom number generation, multithreading, image processing, regular expressions, and unit testing. [[Docs]](https://www.boost.org/doc/)
+- [SFML](https://www.sfml-dev.org/) - Multi-platform, multi-language library which provides a simple interface to the various components of your PC to ease the development of games and multimedia applications. **[Docs]** available on downloads page. [[Source Code]](https://github.com/SFML/SFML)
+- [MD5 Message Digest Algorithm](https://github.com/deepmind/lab/tree/master/third_party/md) - Message Digest algorithm derived from RSA Data Security, Inc. [[Original Source]](https://opensource.apple.com/source/ppp/ppp-37/ppp/pppd/md5.c.auto.html)
 
 *References:*
 
@@ -141,6 +141,7 @@
 
 - Command-line [linking with GCC](https://stackoverflow.com/q/15441877). See [SeKa](https://stackoverflow.com/users/2159358)'s answer for a short explanation of the differences between "compiling" and "linking" with **gcc** and **ld** (respectively).
 - [Learn C++ in 10 Hours](https://youtu.be/GQp1zzTwrIg) - A detailed tutorial covering everything you'll need to know for getting started. This is the most comprehensive video tutorial I've found. Somehow, it also has least rehashing of covered topics and superfluous explanations. Most everything is presented in a to-the-point manner.
+- [Why system() is evil.](http://www.cplusplus.com/forum/articles/11153/) - A brief overview of why `system()` from `cstdlib` is evil.
 - An analysis of [why Dev-C++ was deprecated](https://www.cplusplus.com/forum/articles/36896/).
 - A somewhat detailed [comparison between Rust and C++](https://www.reddit.com/r/rust/comments/bya8k6/programming_with_rust_vs_c_c/).
 - [Understanding C Program Compilation Process Using GCC](https://youtu.be/PzsXHGVTScI) - An explanation of the process with intermediate files and options needed when performing each step individually.
@@ -180,6 +181,13 @@
 *Articles:*
 
 - How to [call C functions in FASM](https://board.flatassembler.net/topic.php?t=18707).
+- The [differences between x86, x86-64, and x64 explained](https://stackoverflow.com/a/53364541).
+- How to [determine what language a compiled/packaged program was written in](https://reverseengineering.stackexchange.com/q/3362).
+
+*References:*
+
+- [Intel x86 Opcodes](http://ref.x86asm.net/coder32.html)
+- [Intel x64 Opcodes](http://ref.x86asm.net/coder64.html)
 
 ### PowerShell
 
@@ -196,7 +204,7 @@
 
 *Tools:*
 
-- [JREPL](https://www.dostips.com/forum/viewtopic.php?f=3&t=6044) - Regex text processor. Batch-JScript hybrid. [[Backup]](https://www.mediafire.com/file/l8u0w1dczi1ns69)
+- [JREPL](https://www.dostips.com/forum/viewtopic.php?f=3&t=6044) - Regex text processor script (Batch and JScript hybrid). [[Backup]](https://www.mediafire.com/file/l8u0w1dczi1ns69)
 
 *References:*
 
@@ -232,7 +240,7 @@
 
 ### Markdown
 
-*Tools/Languages:*
+*Tools:*
 
 - [Turndown](https://github.com/mixmark-io/turndown) - HTML to Markdown converter written in HTML and JavaScript.
 
@@ -245,6 +253,12 @@
 - [Edit/Preview Markdown in VS Code](https://code.visualstudio.com/docs/languages/markdown) - tutorial/reference.
 - [Markdown via VS Code](https://code.visualstudio.com/docs/languages/markdown) - how to edit and preview Markdown in VS Code.
 
+## Security
+
+*Tools:*
+
+- [hashID](https://github.com/psypanda/hashID) - identifies different types of hashes. Written in Python.
+
 ## Game-Specific Stuff
 
 ### Grand Theft Auto V
@@ -253,6 +267,7 @@
 
 - [ScriptHookV](http://www.dev-c.com/gtav/) - ScriptHookV base. SDK for development of C++ plugins available on the same page.
 - [CodeWalker](https://github.com/dexyfex/CodeWalker) - Interactive map editor. Discord server serves latest downloads (invite link on [GTA5-Mods](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)). [[Backup v30-dev36]](https://www.mediafire.com/file/382gfs26a40rivs/)
+- [OpenIV](https://openiv.com/) - Open and edit RAGE `.rpf` archives. (GTA IV, GTA V, RDR 2, etc).
 
 *Mods:*
 
@@ -276,7 +291,10 @@
 
 *References:*
 
+- [rdr2-maps](https://github.com/subvod/rdr2-maps) - A collection of maps showing locations of places to sit, enemy encounters, and rare animals.
 - [RDR2Mods](https://www.rdr2mods.com/) - focused around RDR2 modding. Wiki with databases, tutorials, and references (including hash IDs). [[Wiki]](https://www.rdr2mods.com/wiki/)
+- [RDOMap](https://jeanropke.github.io/RDOMap/) - Red Dead Online interactive map.
+- [Complete Map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) - Story mode map with all discoverable animal icons and location names.
 
 ### Homeworld 1, Cataclysm, 2, and/or Remastered
 
@@ -309,9 +327,14 @@
 
 *Tools:*
 
-- [ASAR](https://www.smwcentral.net/?p=section&a=details&id=25953) - 65816 assembler; successor to xkas. [[Source Code]](https://github.com/RPGHacker/asar)
-- [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator.
 - [Lunar Magic](https://fusoya.eludevisibility.org/lm/program.html) - the essential program needed to make SMW hacks. [[SMWCentral]](https://www.smwcentral.net/?p=section&a=details&id=28429)
+- [LMSW](https://www.smwcentral.net/?p=section&a=details&id=20746) - allows the internal emulator in Lunar Magic to be used.
+- [ASAR](https://www.smwcentral.net/?p=section&a=details&id=25953) - 65816 assembler; successor to [xkas](https://www.smwcentral.net/?p=section&a=details&id=4615). [[Source Code]](https://github.com/RPGHacker/asar)
+- [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator.
+- [AddMusicK](https://www.smwcentral.net/?p=section&a=details&id=24994) - insert custom music into SMW. Completely hardware compatible and designed with ease-of-use in mind. Supports songs made for both Addmusic 4.05 as well as AddmusicM with minimal tweaking.
+- [UberASM](https://www.smwcentral.net/?p=section&a=details&id=19982) - insert level, overworld, game mode, status bar, sprite and global ASM without using a patch.
+- [ROMclean](https://www.smwcentral.net/?p=section&a=details&id=12178) - checks if your ROM is a clean, headered `(U) [!]` ROM. If it's unclean, it tries to clean it. [JavaScript version](https://media.smwcentral.net/onlinetools/jsromclean.htm) for those paranoid about downloading things.
+- [NPP_HexEdit](https://github.com/chcg/NPP_HexEdit) - Notepad++ Hex Editor plugin.
 
 *References:*
 
