@@ -145,8 +145,6 @@
 - An analysis of [why Dev-C++ was deprecated](https://www.cplusplus.com/forum/articles/36896/).
 - A somewhat detailed [comparison between Rust and C++](https://www.reddit.com/r/rust/comments/bya8k6/programming_with_rust_vs_c_c/).
 - [Understanding C Program Compilation Process Using GCC](https://youtu.be/PzsXHGVTScI) - An explanation of the process with intermediate files and options needed when performing each step individually.
-- [How to Debug Using GDB](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html), a quick overview with a basic example.
-- [Reversing and cracking first simple program](https://youtu.be/VroEiMOJPm8), a video tutorial using `gdb`.
 - [Use regular expressions in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022).
 
 ### Python
@@ -183,6 +181,8 @@
 - How to [call C functions in FASM](https://board.flatassembler.net/topic.php?t=18707).
 - The [differences between x86, x86-64, and x64 explained](https://stackoverflow.com/a/53364541).
 - How to [determine what language a compiled/packaged program was written in](https://reverseengineering.stackexchange.com/q/3362).
+- How to [debug using GDB](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html), a quick overview with a basic example.
+- [Reversing and cracking first simple program](https://youtu.be/VroEiMOJPm8), a video tutorial using `gdb`.
 
 *References:*
 
@@ -313,7 +313,7 @@
 
 *Mods:*
 
-- [Complex Simple (Simplex)](https://www.moddb.com/mods/homeworld-2-complex-simple) - Massive mod based on the Complex mod. [Siliconworm](https://www.moddb.com/members/m-o-m) has assured he will not adapt the mod to HWR because reasons.
+- [Complex Simple (Simplex)](https://www.moddb.com/mods/homeworld-2-complex-simple) - Massive mod based on the Complex mod. [Siliconworm](https://www.moddb.com/members/m-o-m) has made it clear that he will not adapt the mod to HWR because "reasons".
 - [R.E.A.R.M.](https://www.moddb.com/mods/rearm) - **R**earmament **E**xpansion **A**nd **R**edesign **M**od for Hw2 classic. [R.E.A.R.M. V2](https://www.moddb.com/mods/rearm-v2) is adapted to HWR, but it seems [Pouk](https://www.moddb.com/members/pouk) hasn't made significant progress in a very long time.
 - [Homeworld 2 Complex](https://www.moddb.com/mods/homeworld-2-complex) - Complex mod, originally developed for Hw2 classic. [Complex Remastered](https://www.moddb.com/mods/homeworld-complex/downloads) is the adapted to HWR.
 
