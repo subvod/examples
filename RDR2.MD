@@ -4,53 +4,131 @@
 
 *There may or may not be spoilers in here. I didn't proofread it to check. Best just assume there are a few spoilers, but as I recall nothing I go over should be too traumatic.*
 
-[SURVIVING IN THE WILDERNESS](#surviving-in-the-wilderness) *basic survival techniques*
-
-[GENERAL TIPS AND TRICKS](#general-tips-and-tricks) *outside of basic survival*
-
-[GLITCHES, BUGS, AND CHEATS](#glitches) *notable game-breaking glitches, both good and bad, and their known fixes*
-
-[HUNTING TIPS](#hunting-tips) *specific to hunting*
-
-[PLANT/HERB LOCATIONS](#plantherb-locations) *did somebody say English Mace?*
-
-[ITEM LOCATIONS](#item-locations) *collectibles, consumables, documents, etc*
-
-[MISSABLE CONTENT](#missable-content) *yes, it exists*
-
-[ITEM/WAGON PRICES](#itemwagon-prices) *unfinished section; some information to be had*
-
-[EASTER EGGS](#easter-eggs) *B A S I C*
-
-[MISCELLANEOUS](#miscellaneous)
+[SURVIVING IN THE WILDERNESS](#surviving-in-the-wilderness)
+<br>[GENERAL TIPS AND TRICKS](#general-tips-and-tricks)
+<br>[HUNTING TIPS](#hunting-tips)
+<br>[PLANT/HERB LOCATIONS](#plantherb-locations)
+<br>[ITEM LOCATIONS](#item-locations)
+<br>[BOUNTY MISSIONS AND TARGETS](#bounty-missions-and-targets)
+<br>[MISSABLE CONTENT](#missable-content)
+<br>[ITEM SELL PRICES](#item-sell-prices)
+<br>[BUGS](#bugs)
+<br>[GLITCHES](#glitches)
+<br>[EASTER EGGS](#easter-eggs)
+<br>[MISCELLANEOUS](#miscellaneous)
 
 # SURVIVING IN THE WILDERNESS
 
-You're better off with a horse, but it's certainly possible to survive on your own. Survival is pretty straightforward: kill things, collect things, and eat said things. Some consumables provide greater benefit than others and/or are only available in certain regions.
+You're better off with a horse, but it's certainly possible to survive on your own. It's pretty straightforward: kill and collect things, then eat said things. Some consumables provide greater benefit than others and/or are only available in certain regions. Meats must be cooked before consumption.
 
-### The Basics
+### Weather and Proper Attire
+
+The game has dynamic weather and it will change based upon where you're at.
+
+**Dust Storms** are exclusive to all regions west of **Hennigan's Stead, NA**.
+
+**Blizzards** are exclusive to the mountains in northwestern **Grizzlies West, AM**.
+
+**Hurricanes** are exclusive to **Lemoyne** and eastern **Heartlands, NH**.
+
+Weather | Description
+:--- | ---
+Clear (Sunny) | Largely open skies with a few clouds here and there.
+Overcast | Solid layer of clouds across the sky with no Sun peeking through.
+Rain | Temperature drops from normal.
+Thunder | Dry thunderstorm with lightning and thunder, but no rain.
+Thunderstorm | Heavy rain with lightning and thunder.
+Sleet | Temperature drops drastically from normal.
+Blizzard (Whiteout) | Crazy temperature drop. Super low visibility.
+Dust Storm | Super low visibility.
+Windy | Usually indicative of a storm ahead.
+Fog | Very low visibility. More common in **Lemoyne**.
+Mist | Low visibility.
+
+### Killing, Skinning, and Cooking
+
 *NOTE: nothing grows up in the Northwestern snow-covered areas of Ambarino.*
 
-- Cooked meats refill all cores. The amount of restoration changes according to meat type. Wild meats are widely available, but the best combo of store-bought items I've found is **Baked Beans** (or **Canned Strawberries**) and **Fine Brandy**. For wild meats, aside from **Big Game** (the best cut; see below in "Advanced Survival"), the most nutritious cuts are: **Venison**, **Pork**, **Game**, **Succulent Fish**, **Prime Beef**, and **Exotic Bird**. The animals yielding these cuts are **Deer**, **Pronghorn**, **Elk**, **Duck**, and **Rabbit**. Though, **Moose**, **Wild Boar**, **Collard Peccary**, **Domestic Pigs**, **Bison**, **Ox**, **Bull**, **Cow**, **Pheasant**, **Pelican**, **Macaw (Parrot)**, **Carolina Parakeet**, **Sockeye Salmon**, and **Rainbow Trout** all yield meats that greatly restore all cores. When seasoned, these meats fully restore the core associated with the herb used.
+- Cooked meats refill all cores. The amount of restoration changes according to meat type. Wild meats are widely readily available. When seasoned, these meats fully restore the core associated with the herb used. See [Advanced Survival](#advanced-survival) below.
 
-- **Wild Carrots** are the holy grail of horse upkeep. They grow everywhere. Yes, there are two different carrots: **Wild Carrots** and **Carrots** bought from stables. You cannot use bought/looted regular **Carrots** in crafting recipes, but they provide the same benefits as **Wild Carrots**. If you're not big on harvesting **Wild Carrots** yourself, farmed **Carrots** are available for purchase at Stables. However if you buy provisions from a Stable, **Hay** is the far superior choice as it is the cheapest cost-per-benefit in terms of core restoration.
-- Some animals will charge and kill you: **Grizzly Bears**, **Cougars**, **Wolves**, **Panthers**, and **Alligators** (only if you get super close to them).
-- Some animals are aggressive, but not to the point they'll outright kill you. All large male animals (**Rams**, **Whitetail Bucks**, **Boars/Collared Peccaries**, and **Bull Elk**) have a random chance to charge and headbutt you. Smaller animals (**Raccoons**, **Muskrats**, **Beavers**, **Badgers**, and **Skunks**) will run and bite you. Yes, even if you're facing them. There's really no trick to avoiding getting headbutted/bitten other than outrunning the animal or killing/spooking it, and that's only if you see it before it happens.
-- All **Snakes** on land will bite you if you get too close to them. If you've got your TV turned up or are using a headset, you'll hear the hissing (and rattling as well if it's a rattler) before they strike... but I have to be within five feet of them to hear it so it's not much of a warning to me even with a headset. You can cure poison (from snake bites or ingested Oleander/Bulrush) with a **Potent** or **Special Health Cure**. Alternatively, you can eat **Ginseng**.
+Meat | Animal(s)
+:--- | ---
+Stringy Meat | Armadillo<br>Badger<br>Bat<br>Beaver<br>Chipmunk<br>Coyote<br>Fox<br>Muskrat<br>Opossum<br>Raccoon<br>Rat<br>Skunk<br>Snake<br>Squirrel
+Gritty Fish | Bluegill<br>Bullhead Catfish<br>Channel Catfish<br>Longnose Gar
+Herptile Meat | Bullfrog<br>Gila Monster<br>Iguana<br>Toad<br>Turtle
+Gamey Bird | Waxwing<br>Cardinal<br>Blue Jay<br>Condor<br>Cormorant<br>Crow<br>Eagle<br>Egret<br>Hawk<br>Heron<br>Loon<br>Oriole<br>Owl<br>Pigeon<br>Quail<br>Raven<br>Booby<br>Robin<br>Spoonbill<br>Gull<br>Songbird<br>Sparrow<br>Vulture<br>Crane<br>Woodpecker
+Game | Duck<br>Pheasant<br>Rabbit
+Gristly Mutton | Goat<br>Ram<br>Sheep
+Plump Bird | Chicken<br>Goose<br>Turkey<br>Rooster
+Crustacean 	Crab | Plain Crustacean
+Prime Beef Joint | Bison<br>Bull<br>Cow<br>Oxen 	Plain Prime Beef
+Mature Venison | Buck<br>Deer<br>Elk<br>Moose<br>Pronghorn
+Tender Pork Loin | Boar<br>Peccary<br>Pig
+Flaky Fish | Redfin Pickerel<br>Perch<br>Chain Pickerel<br>Rock Bass<br>Muskie<br>Lake Sturgeon<br>Northern Pike<br>Largemouth Bass<br>Smallmouth Bass
+Succulent Fish | Sockeye Salmon<br>Steelhead Trout
+Exotic Bird | Parakeet<br>Parrot<br>Pelican
+Big Game | Alligator<br>Bear<br>Cougar<br>Panther<br>Wolf 
 
-### "Advanced" Survival
-- If you don't care about honor, there's a shortcut to getting mass quantities of a few select herbs. Rather than go around gathering each one at a time, kill and loot **Murphy Brood** in northwestern **Heartlands** and **Strangers** (residents) at **Butcher Creek**. **Skinner Brothers** in **Tall Trees** and **Nite Folk** in **Bayou Nwa** can have up to four **Burdock Root**, but no other plants. The aforementioned (Murphy Brood and Butcher Creek residents) all have a chance of holding 2 to 4 units of **Currant**, **Sage**, **Ginseng**, **Violet Snowdrop**, or **Burdock Root**. They also have a chance of giving other items: **Regular/Potent Snake Oil** (only from **Murphy Brood**), regular **Herbivore/Predator Bait**, **Opened/Unopened Cover Scent**, and **Moonshine** (only from **Butcher Creek Residents**).
-- **Gold Cores** for the player come in handy, and maintaining cores is a key part in RDR2. Player cores can be gilded (made golden) with **Big Game Meat** (harvested from **Alligators**, **Wolves**, **Grizzly Bears**, **Black Bears**, **Cougars**, and **Panthers**) seasoned with the corresponding herb (**Wild Mint** found around rivers/creeks/lakes for *Health*, **Oregano** found near forested areas for *Stamina*, and **Thyme** found in open areas for *Dead Eye*). **Seasoned Big Game Meat** fully restores all cores and yields a gold core for the associated herb used for seasoning lasting 24 in-game hours.
-- **Gold Cores** for the player's horse are immensely beneficial, whether often in firefights or trotting around large distances. **Horse Meal** yields both gold health and stamina cores for a day. The recipie pamphlet can be obtained in **Chapter 3** as a reward for Kieran's item request of Burdock Root. It requires three of each **Currant**, **Beets**, and **Hay** to craft. **Currant** has two variants: **Golden Currant** (all over the northern half of **New Hanover**; also **Tall Trees** and **Great Plains**) and **Blackcurrant** (west of Armadillo). **Beets** and **Hay** can be looted from random NPC campsites/wagons or bought from **Stables**. However the percentage of random campsites/wagons which spawn with these materials is quite infrequent, and even then you'll be taking a gamble. You may get only one of either Beets or Hay at each if you even get either of them. These same campsites/wagons may spawn Celery, Peach, Apple, Pear, etc. Be that as it may, one Horse Meal crafted from Beets and Hay bought from Stables costs $2.70 (versus the $5.00 **"Horse Care Package"** from Stables). Reasonably cheaper than the latter even with high honor discounts. In the long run, it's well worth the time spent traveling to a Stable to stock up on both for making Horse Meal on-the-go. However **Wild Carrots** work just fine, you just have to feed your horse slightly more often.
-- **Special Horse Reviver** and **Horse Ointment** are the only alternative and only true "wilderness" methods of getting gold cores for your horse. The former requires (two of each) **Ginseng**, **Wild Carrot**, and **Parasol Mushroom**. The latter requires (one of each) **Sage**, **Common Bulrush**, and **Yarrow**. They are not bad tradeoffs for Horse Meal as they require less (but more various) ingredients per batch. If you're keen on the "true wilderness" part of the game, go for these two. If you've got the time and money to head into town and stock up on **Beets** and **Hay** ($89.10 and one minute to get 99 of both from a Stable), **Horse Meal** holds the edge benefit/investment wise. *NOTE: HORSE OINTMENT DOES NOT CLEAN YOUR HORSE. YOU'LL STILL HAVE TO BRUSH IT IF IT GETS DIRTY.*
-- **Poison Arrows** works wonders in combat, but are also key when needing to study and/or fend off aggressive animals. Crafting one requires one **Arrow**, one **Flight Feather**, and one **Oleander Sage** (found in the swamps and along the bank of the **Kamassa River** in **Lemoyne**). Hitting anything with a Poison Arrow will cause it to flee, allowing you to study animals as they run away. Even better: spent **Poison Arrows** retain the poison and can be recollected and reused, unlike **Poison Throwing Knives**.
-- **Split Point Rounds** decrease dead eye drain, yield the same damage as "high velocity" rounds, and have increased accuracy. Taking the time to fill up your split point rounds makes a difference that you'll notice. Also, in pure speculation with no numbers to back it up: I feel like split point rounds yield more critical hits overall versus regular/high velocity/express rounds.
-- **Potent Predator/Herbivore Bait** can help quite a bit if you're a stealth hunter. Potent Predator Bait requires a berry (found everywhere) and gritty fish meat, which can be obtained from **Bluegill** (found everywhere, but a notably high population at **Calumet Ravine**), **Bullhead Catfish** (bend of the Kamassa River west of Lagras, in addition to Lagras itself), and/or **Longnose Gar** (found exclusively in **Lagras**). **Potent Herbivore Bait** requires one **Vanilla Flower** (all around the swamps of Bayou Nwa), one **Violet Snowdrop** (high mountain and snowy regions, primarily in **Ambarino**), and one of any **Mushroom** (found across the map). You can craft regular Predator Bait from **Stringy Meat** and a **Berry**, but why not make the most of what you harvest and stick with potent?
-- **Cover Scent Lotion** allows you to get way closer to animals without drawing their attention. Craft it from the beginning of **Chapter 2** using **Scent Glands** from **Skunks**, **Beavers**, and **Muskrats**.
-- **Flight Feathers** are required for every secondary arrow type and can be harvested from all flying birds.
-- **Animal Fat** isn't a necessity, but is required for **Explosive Rounds** (unlocked at beginning of **Chapter 2**) which are both fun to use and extremely useful when taking down legendary animals. **Canada Geese**, **Ducks** (not Loons), and **Beavers** are by far the best animals for this as they are plentiful in many areas across the map (north of New Austin), but **Boars/Pigs/Peccary** and **Bears** also yield animal fat. **Geese** and **Ducks** yield **Flight Feathers** (for all improved **Arrow** types) and **Animal Fat** while **Beavers** yield **Scent Glands** (for **Cover Scent Lotion**) and **Animal Fat**. *NOTE: A PRIME LOCATION FOR GEESE, DUCKS, AND BEAVERS IS OWANJILA.*
+- **Gold Cores** are simply fortified (or "overcharged") cores and can be obtained by cooking and consuming appropriately seasoned **Big Game Meat** or buying a $5.00 meal from an establishment with a kitchen. (Honor does not affect the costs of meals.) The gold core lasts 24 in-game hours, disregarding detrimental effects such as taking damage or wearing an outfit inappropriate for the weather conditions.
+- **Horse Meal** yields both gold horse health and stamina cores for a full 24 hours in-game. The recipie pamphlet can be obtained in **Chapter 3** as a reward for Kieran's item request of Burdock Root. One Horse Meal crafted from three of each Beets and Hay. Bought from Stables costs $2.70 versus the $5.00 **Horse Care Package**. Reasonably cheaper than the latter even with high honor discounts. In the long run, it's well worth the time spent traveling to a Stable to stock up on both for making Horse Meal on-the-go.
+- **Special Horse Reviver** and **Horse Ointment** are the only alternative and only true "wilderness" methods of getting gold cores for your horse. They are not bad tradeoffs for **Horse Meal** as they require less (but more various) ingredients per batch. If you're keen on the "true wilderness" part of the game, go for these two. If you've got the time and money to head into town and stock up on **Beets** and **Hay** ($89.10 and one minute to get 99 of both from a Stable), **Horse Meal** holds the edge benefit/investment wise. *NOTE: HORSE OINTMENT DOES NOT CLEAN YOUR HORSE. YOU'LL STILL HAVE TO BRUSH IT IF IT GETS DIRTY.*
 
-Some businesses offer lodging, baths, and/or dining:
+Item | Core | Recipie
+:--- | --- | ---
+Minty Big Game | Player Health | 1x Big Game Meat<br>1x Wild Mint
+Oregano Big Game | Player Stamina | 1x Big Game Meat<br>1x Oregano
+Thyme Big Game | Player Dead Eye | 1x Big Game Meat<br>1x Creeping Thyme
+Special Horse Reviver | Horse Health | 2x Ginseng<br>2x Wild Carrot<br>2x Parasol Mushroom
+Horse Ointment | Horse Stamina | 1x Sage<br>1x Common Bulrush<br>1x Yarrow
+
+And the herbs needed:
+
+Herb | Location(s)
+:--- | ---
+Wild Mint | Near lakes, ponds, rivers, etc. Water in general.
+Oregano | Forests. Wooded areas.
+Creeping Thyme | Open areas with direct sunlight.
+Ginseng | Forests. Wooded areas. Usually directly under trees.
+Wild Carrot | Pretty much everywhere.
+Parasol Mushroom | All over New Austin, but primarily in well-drained soils.
+Sage | **Hummingbird Sage** grows in forests. **Desert Sage** grows scattered around **Gaptooth Ridge, NA**. **Red Sage** grows only in **Rio Bravo, NA**.
+Common Bulrush | Shorelines of virtually every body of water in the game.
+Yarrow | Wide open areas. (SPOILER: The clue for the `American Dreams` mission in **Big Valley, WE** has six Yarrow within close proximity.)
+
+- **Poison Arrows** are key when needing to study and/or fend off aggressive animals. Hitting anything with a Poison Arrow will cause it to flee, allowing you to study animals as they run away. You can achieve the same effect by landing a critical hit, but Poison Arrows remove the skill required to land such a hit. Even better: spent **Poison Arrows** retain the poison and can be recollected and reused, unlike **Poison Throwing Knives**.
+- **Potent Predator/Herbivore Bait** can help quite a bit if you're a stealth hunter. The recipie pamphlets are given automatically after starting Chapter 2.
+
+Item | Recipie
+:--- | ---
+Potent Predator Bait | 1x Gritty Fish Meat<br>1x Wintergreen Berry/Evergreen Huckleberry/Raspberry/Blackberry
+Potent Herbivore Bait | 1x Vanilla Flower<br>1x Violet Snowdrop<br>1x Parasol Mushroom/Ram's Head/Bay Bolete/Chanterelle
+
+- **Cover Scent Lotion** allows you to get way closer to animals without drawing their attention. The crafting recipie is unlocked upon starting **Chapter 2**. You cook down the **Scent Glands** from **Skunks**, **Beavers**, and **Muskrats**.
+- **Flight Feathers** are required for every "improved" arrow type and can be harvested from all flying birds.
+- **Animal Fat** is required for **Explosive Rounds** (unlocked at beginning of **Chapter 2**) which are both fun to use and extremely useful when taking down legendary animals. **Canada Geese**, **Ducks** (not Loons), and **Beavers** are by far the best animals for this as they are plentiful in many areas across the map (north of New Austin), but **Boars/Pigs/Peccary** and **Bears** also yield animal fat. **Geese** and **Ducks** yield **Flight Feathers** (for all improved **Arrow** types) and **Animal Fat** while **Beavers** yield **Scent Glands** (for **Cover Scent Lotion**) and **Animal Fat**. *NOTE: A PRIME LOCATION FOR GEESE, DUCKS, AND BEAVERS IS OWANJILA.*
+- **Wild Carrots** are the holy grail of horse upkeep. They grow everywhere. The **Carrots** bought from stables cannot be used in crafting recipes, but they provide the same benefits as **Wild Carrots**. If you buy provisions from a Stable, **Hay** is the far superior choice as it is the cheapest cost-per-benefit in terms of core restoration, but does not give as many bonding points per use.
+
+Some animals will charge and kill you, some will randomly charge and headbutt you, some will randomly charge and bite.
+
+Animal(s) | Attack Type
+:--- | ---
+Grizzly Bear<br>Wolf | Warning, charge, kill.
+Cougar<br>Panther | Charge, kill.
+Alligator | Warning, charge, kill.
+Bighorn Ram<br>Whitetail Buck<br>Boar<br>Collared Peccary<br>Bull Elk | Charge, headbutt.
+Raccoon<br>Muskrat<br>Beaver<br>Badger<br>Skunk | Charge, bite.
+All land snakes. | Flee, warning (rattle/hiss), bite.
+
+- All land **Snakes** will bite and envenomate you. You can cure both poison (from ingesting **Oleander Sage**) and venom (from snake bites) with a **Potent** or **Special Health Cure**. Alternatively, you can eat any **Ginseng** plant.
+
+If you don't care about honor, some NPCs have a chance of holding 2-4 of a certain plant when looted:
+
+NPC | Loot
+:--- | ---
+Butcher's Creek Residents<br>Murphy Brood | Currant<br>Sage<br>Ginseng<br>Violet Snowdrop<br>Burdock Root
+Night Folk<br>Skinner Brothers | Burdock Root
+
+- Some businesses offer lodging, baths, table games, and/or dining. If a shop as two meals available, the less costly one will fully restore all cores while the more costly one will yield a gold health core. Completing the batch "minigame" (chore) will yield a gold stamina core.
 
 Business | Amenities
 :--- | ---
@@ -66,12 +144,10 @@ Business | Amenities
 **Tumbleweed Gunsmith**<br>Tumbleweed, Gaptooth Ridge, NA | Room
 
 ### Honor And Benefits
-Honor is measured by ranks -8 to +8 on a scale according to the total honor as an integer from -320 to +320. If you don't care for the outfits only available with high honor, honor level in general makes no difference. However honor level does affect some aspects of the game.
-- Shops give a discount (up to 50% with max high honor) on all items, as well as the ability to buy "high honor" outfits. Honor at or lower than neutral (0) does not affect shop prices.
-- With maximum negative honor, the ambient sounds of deadeye change.
-- Most story dialog changes based on honor level.
-- Arthur and John's mannerisms change based on honor. Example: when pulling a gun, saying "don't make me do this" with high honor versus "I will kill you right here" with low honor.
-- In Chapter 6, actions that affect honor have a multiplier of 1.5x. Use this to your advantage if you run low honor as Arthur but want the "high honor" ending.
+
+Honor is measured by ranks -8 to +8 on a scale according to the total honor as an integer from -320 to +320. It affects some aspects of the game. Interaction dialog change levels are unverified, but the effect does occur.
+
+**NOTE:** In Chapter 6, actions that affect honor have a multiplier of 1.5x. Use this to your advantage if you run low honor as Arthur but want the "high honor" ending.
 
 Honor | Effect
 :--- | ---
@@ -79,15 +155,21 @@ Honor | Effect
 240 | New outfits available in shops.
 200 | 25% discount in all shops
 120 | New outfits available in shops.
-80 | 10% discount in all shops.
+80 | 10% discount in all shops. Interaction dialog changes to "positive".
 40 | When looting bodies, drop rates of potent tonics, restorative items, jewelry, and food is increased.
 0 | When looting bodies, primarily obtain standard tonics, cheap jewelry, basic horse consumables, and used/opened alcohol and tobacco.
 -40 | When looting bodies, drop rates of dead eye tonics, thrown weapons, alcohol, and tobacco are increased. Also receive more money and jewelry when looting lawmen.
+-80 | Interaction dialog changes to "negative".
+-280 | Ambient sounds within dead eye change.
 
 # GENERAL TIPS AND TRICKS
 
-### Testing Tonics
-Below is data gathered from testing **Potent Tonics** against their **Special** variants. Testing was done by sprinting or entering dead eye right after consuming the associated items. Time was clocked when the bar was fully used up and the gold core fully depleted.
+### Own up to five (5) horses at a time.
+
+Up to four horses can be stabled, with a fifth as a "temporary" horse.
+
+### Tonic Strengths Tested
+Ever wondered if Special Tonics are really better than Potent Tonics? Below is data gathered from testing **Potent Tonics** against their **Special** variants. Testing was done by sprinting or entering dead eye right after consuming the associated items. Time was clocked when the bar was fully used up and the gold core fully depleted.
 
 #### Stamina
 1. Oregano Big Game + Special Bitters
@@ -108,7 +190,7 @@ As you can see, **Special Bitters** makes a bit of a difference, where as **Spec
 - Use dead eye to get headshots.
 - If avoiding law and bounties, enemy hideouts refresh every few in-game days. The numerous Del Lobo hideouts in New Austin become accessible after Chapter 6.
 
-### Fast Level 4 Bonding Horses
+### Fast Maximum Bonding Horses (Level 4)
 
 - Leading your horse yields more bonding points per minute than anything else. The old rubber band trick works for this.
 - Food items have their own bonding benefits. Sugar Cubes give the most points.
@@ -135,17 +217,20 @@ As you can see, **Special Bitters** makes a bit of a difference, where as **Spec
 - Pearson will be drinking beer at his wagon's table. When you walk near him, it will only give a **Greet** prompt when the request is available for activation (like every other request).
 - I ran around camp in Ch.2 for 15 minutes real time and never got the request (had full cores the whole time). I went to camp in Ch.3 after consuming Moonshine, Cocaine Gum, and Chewing Tobacco to completely deplete my cores and voila, requested right as I walk into camp! Maybe coincidental, I've no numbers for solid proof this works. But if it is just coincidence, it's one hell of a coincidence. Also tested in Ch. 2. Took about 20 minutes, but those 20 minutes are nothing compared to a few hours total spend entering/exiting camp to get him to spawn there. It's worth a shot. :)
 
-### Triggering Jack's thimble request.
-
-- Available only after completing `A Fisher of Fish`. He will randomly come up to you explaining how Abigail will be upset.
-
 ### Triggering Dutch's pipe request.
 
-- I have never been able to trigger it in Chapter 2. The earliest I've ever gotten it is right after starting Chapter 3.
+- I have never been able to trigger it in Chapter 2. The earliest I've ever gotten it is right after starting Chapter 3. Dutch has been in the same animation and outfit in Chapter 2, but the prompt never came up like it did (properly) in Chapter 3.
 
-### Alcohol
+### Alcohol Strength Values
 
-*Below is a list of alcohol values per item. Value amounts to proof. Higher proof means drunk quicker.
+Below is a list of alcohol values per item. Coped from [this Reddit post](https://redd.it/9s6qnk/). Values amount to "proof", and are the base values before any modifiers. Higher proof means drunk quicker. A value of `1.00` is "blackout drunk". The **Wolf's Heart Trinket** halves the effects of all alcohol.
+
+Total | State
+:--- | ---
+Sober | 0.00 to 0.49
+Tipsy | 0.50 to 0.74
+Drunk | 0.75 to 0.99
+Blackout | 1.00+
 
 Name | Value
 :--- | ---
@@ -192,13 +277,9 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 *This glitch allows you to search both saddle bags of any horse without getting kicked in the face.*
 
 1. Hop on the horse you want to loot.
-2. Ride/lead the horse right next to any static object that will partially block you phsically digging through the saddle bag, be it a tree, rock/boulder, wagon, train, etc. Ensure after you hop off that the **Search Saddle Bag** prompt is still there. A good point of reference (for me) is the edge of the object must be just behind the saddle bag.
-3. Search the saddle bag.
+2. Ride/lead the horse right next to any solid, static object that will partially block you phsically digging through the saddle bag, be it a tree, rock/boulder, wagon, train, etc. Ensure after you hop off that the **Search Saddle Bag** prompt is still there. A good point of reference (for me) is the edge of the object must be just behind the saddle bag.
+3. Search the saddle bag. When done right, the game will not allow the animation to complete because you'd clip too far into the horse. This works in much the same way as evading the full animal skinning animation.
 4. Enjoy your saddle bag loot never having to get kicked in the face ever again.
-
-### Farming gritty fish meat for potent predator bait.
-
-- Fish off of the docks around **Lagras** during rainy weather. Neither **Rock Bass** nor **Perch** spawn around **Lagras**, so you've not to worry about snagging one of those bastards. On the flip side, you may get **Smallmouth/Largemouth Bass**, **Chain Pickerel**, and/or **Lake Sturgeon**. Another plus is **Bullhead Catfish**, **Channel Catfish**, and **Longnose Gar** also spawn around there, all of which yield **Gritty Fish Meat**.
 
 # HUNTING TIPS
 
@@ -226,9 +307,9 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 
 - Having trouble studying aggressive and/or skittish animals? Hit them in a non-critical area with a **Poison Arrow** (regular, white hit marker). This changes their aggro and makes them flee, allowing you to study and track them as they run.
 
-### Double your skin collection.
+### Farming gritty fish meat for potent predator bait.
 
-- If an animal can be picked up, you can get double skins from it. This is very useful when hunting animals for the **Trapper**. Kill the animal, skin it, stow both the skin and skinned carcass on your horse, ride to the trapper, and sell both the skin and the carcass. You'll also get +2 animals skinned in your Compendium since selling a carcass counts as "skinning" the animal.
+- Fish off of the docks around **Lagras** during rainy weather. Neither **Rock Bass** nor **Perch** spawn around **Lagras**, so you've not to worry about snagging one of those bastards. On the flip side, you may get **Smallmouth/Largemouth Bass**, **Chain Pickerel**, and/or **Lake Sturgeon**. Another plus is **Bullhead Catfish**, **Channel Catfish**, and **Longnose Gar** also spawn around there, all of which yield **Gritty Fish Meat**.
 
 ### Farming wild animals.
 
@@ -465,7 +546,7 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 - **Special Horse Reviver** (tree stump southwest of **Hill Haven Ranch**)
 - **Poison Arrow** (in a lockbox beside the **Mysterious Hill Home**)
 
-# Bounty Missions and Targets
+# BOUNTY MISSIONS AND TARGETS
 
 *Monetary rewards for returning the target.*
 
@@ -676,7 +757,7 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 - Cholera Handbill: collected from the **Town Crier** in **Armadillo** after interacting
 - Unfinished Letter: random encounter with undertaker in **Armadillo**; the body he puts in the wagon must be looted before it is thrown into the pit
 
-# Item Sell Prices
+# ITEM SELL PRICES
 
 ### Animal Skins
 
@@ -761,6 +842,10 @@ Price | Orchid(s)
 
 After taking the **Rare Orchids Order**, you can send orchids by mail and receive money in return. Sending more than one orchid at a time will glitch out the mailing order and you will no longer be able to send orchids nor receive the money for orchids you've sent. Always send only one orchid and receive its payment **one at a time** to avoid glitching it.
 
+### Double skins.
+
+- If an animal can be picked up, you can get two ticks added to its `Skinned` counter in the **Compendium**. This does not yield two skins per animal, it just counts as skinning it twice.
+
 ### Severe flickering or outright blackout in Bluewater Marsh and/or Bayou Nwa.
 
 I've found this to occur only when I'm near a **Snowy Egret** or the **Bluewater Marsh Ghost**. No clue why as it has never happened anywhere else.
@@ -817,6 +902,10 @@ For micro-stuttering (I had it about once every ten seconds):
 
 *These are bugs/glitches which can be exploited.*
 
+### Break down large fish.
+
+For whatever reason, there is no prompt to break down large fish. Here's how: after picking it up right after landing it, select the "cook" option. **DO NOT EAT THE FIRST PIECE.** Instead, store it in your satchel, then exit the cooking menu. All large fish yield 2-4 (random quantity) of their associated meat.
+
 ### Keep temporary documents.
 
 [Video of using the glitch](https://www.youtube.com/watch?v=jZXI3JYEqv8) by [Alcomahol](https://gtaforums.com/profile/1162284-alcomahol/).
@@ -837,10 +926,6 @@ This might not be very useful, but I found that with a Condor stored on the side
 ### Getting caught when quickly dismounting your horse.
 
 While wearing the **Legendary Coyote Half Chaps**, I found that occasionally I'll fumble off my horse when dismounting while the horse is still running. This hasn't happened with anything else, so far.
-
-### Double skins from animals.
-
-Animals can be skinned, then the skinned carcass turned in to the Trapper. You will not get credit for two skins, but it will count as two animals skinned in the Compendium.
 
 ### Steal any horse from any stable.
 
@@ -917,7 +1002,7 @@ The **Aberdeen Pig Farm** is inhabited by an incestual brother and sister, whom 
 
 Go there and get robbed as Arthur right before the mission **"Red Dead Redemption"** (the last mission in which the player controls Arthur) but do not go back and kill them, nor get your money. Wait until you take control of John, travel to the farm, and retreive the cash from the safe behind the picture of "Mama" directly behind the front door. Kill or spare them as you see fit.
 
-### Getting out of map. (Travel to Guarma/Mexico/Canada.)
+### Getting out of bounds.
 
 [OOB on San Luis River.](https://www.youtube.com/watch?v=kYmREKUf09A)
 [OOB on San Luis River (alternate).](https://www.youtube.com/watch?v=GfM9vxakKTA)
@@ -926,7 +1011,7 @@ Go there and get robbed as Arthur right before the mission **"Red Dead Redemptio
 [OOB in Devil's Cave.](https://www.youtube.com/watch?v=Kx0llq2e8qs)
 [OOB at Aurora Basin.](https://www.youtube.com/watch?v=KKgIuLrLe8A) - using slide glitch.
 
-You'll need enough alcohol to blackout to do this. If you've got the **Wolf Heart Trinket**, you'll need a lot. Now, to get compendium entries and sketches as Arthur for animals specific to New Austin (and/or Guarma before/after of Chapter 5), or just to run around and explore, you can travel out of bounds via the far west end (at the edge of a drop-off) in the **Devil's Cave**. If you're running post-Epilogue and want to explore the southern side out-of-map or travel to Guarma much quicker, an infinitely faster method is to travel to a specific point on the southern shore of the **San Luis River**.) Do the following once at either location:
+You'll need enough alcohol to blackout to do this, and it works anywhere applicable. Most spots under cliffs work well. If you've got the **Wolf Heart Trinket**, you'll need a lot. Now, to get compendium entries and sketches as Arthur for animals specific to New Austin (and/or Guarma before/after of Chapter 5), or just to run around and explore, you can travel out of bounds via the far west end (at the edge of a drop-off) in the **Devil's Cave**. If you're running post-Epilogue and want to explore the southern side out-of-map or travel to Guarma much quicker, an infinitely faster method is to travel to a specific point on the southern shore of the **San Luis River**.) Do the following once at either location:
 
 1. Drink until you black out.
 2. Do nondescript things while blacked out. (How the character scales seemingly sheer surfaces whilst blackout drunk is unclear. Ah, the wonders of moonshine!)
@@ -938,7 +1023,7 @@ You'll need enough alcohol to blackout to do this. If you've got the **Wolf Hear
 
 ### Speed crafting.
 
-*This involves using third-party programs.*
+*This involves using third-party programs. Some recipies can be done seamlessly by holding A (on Xbox). For example, ammunition.*
 
 Want to stock up on crafted consumables? Download [CheatEngine](https://www.cheatengine.org/downloads.php). I use the RAR archive version which you don't have to join Patreon for; it doesn't come bundled with "optional" adware/bloatware like the installer does, but feel free to use what you want. Be sure to launch the 64-bit version of CheatEngine when using it in RDR2. Open "RDR2.exe" via the Open Process dialog and check "Enable Speedhack". You can adjust the speed as you see fit. When finished, uncheck the box to disable the speedhack.
 
@@ -995,7 +1080,7 @@ https://www.youtube.com/watch?v=_fSlasTGGag
 [Reference](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/)
 
 - Double-tap RB to walk your horse backwards.
-- Perform a flashy holster animation by double-tapping LB. Works with only primary sidearm.
+- Perform a flashy holster animation by double-tapping LB. Works with only primary sidearm. Does not work with Sawed Off Shotgun.
 - You can buy goods from some of the shops at the **Saint Denis Market**.
 
 ### Useful Links
