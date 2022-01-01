@@ -7,6 +7,7 @@
 [SURVIVING IN THE WILDERNESS](#surviving-in-the-wilderness)
 <br>[GENERAL TIPS AND TRICKS](#general-tips-and-tricks)
 <br>[HUNTING TIPS](#hunting-tips)
+<br>[FISHING TIPS](#fishing-tips)
 <br>[PLANT/HERB LOCATIONS](#plantherb-locations)
 <br>[ITEM LOCATIONS](#item-locations)
 <br>[BOUNTY MISSIONS AND TARGETS](#bounty-missions-and-targets)
@@ -25,25 +26,20 @@ You're better off with a horse, but it's certainly possible to survive on your o
 
 The game has dynamic weather and it will change based upon where you're at.
 
-**Dust Storms** are exclusive to all regions west of **Hennigan's Stead, NA**.
-
-**Blizzards** are exclusive to the mountains in northwestern **Grizzlies West, AM**.
-
-**Hurricanes** are exclusive to **Lemoyne** and eastern **Heartlands, NH**.
-
 Weather | Description
 :--- | ---
 Clear (Sunny) | Largely open skies with a few clouds here and there.
 Overcast | Solid layer of clouds across the sky with no Sun peeking through.
-Rain | Temperature drops from normal.
-Thunder | Dry thunderstorm with lightning and thunder, but no rain.
+Rain | Slight temperature drop.
+Thunder | Dry thunderstorm with lightning and thunder, but no rain. Slight temperature drop.<br>More common in **Great Plains, WE** and all of **New Austin**.
 Thunderstorm | Heavy rain with lightning and thunder.
-Sleet | Temperature drops drastically from normal.
-Blizzard (Whiteout) | Crazy temperature drop. Super low visibility.
-Dust Storm | Super low visibility.
-Windy | Usually indicative of a storm ahead.
-Fog | Very low visibility. More common in **Lemoyne**.
-Mist | Low visibility.
+Hurricane | Strong wind and heavy rain. Fast-moving cloud cover across the sky.<br>Exclusive to the entire state of **Lemoyne** and eastern **Heartlands, NH**.
+Sleet | Freezing rain. Occasional gusts.<br>More common in **Big Valley, WE** and western **Heartlands, NH**.
+Blizzard (Whiteout) | Crazy temperature drop. Super low visibility.<br>Exclusive to the northwestern portion of **Grizzlies West, AM** (high mountains).
+Windy | Leaves and other animated particles flying around. Audible wind.<br>Usually indicative of a storm ahead.
+Fog | Cloud cover moves close to ground. Very low visibility.<br>More common in **Bayou Nwa, LE**, **Bluewater Marsh, LE**, and **Roanoke Ridge, NH**.
+Mist | Very light rain, almost like fog. Low visibility.<br>More common in early morning.
+Dust Storm | Strong wind, thick dust. Super low visibility. <br>Exclusive to all regions of **New Austin** except **Hennigan's Stead, NA**.
 
 ### Killing, Skinning, and Cooking
 
@@ -60,8 +56,8 @@ Gamey Bird | Waxwing<br>Cardinal<br>Blue Jay<br>Condor<br>Cormorant<br>Crow<br>E
 Game | Duck<br>Pheasant<br>Rabbit
 Gristly Mutton | Goat<br>Ram<br>Sheep
 Plump Bird | Chicken<br>Goose<br>Turkey<br>Rooster
-Crustacean 	Crab | Plain Crustacean
-Prime Beef Joint | Bison<br>Bull<br>Cow<br>Oxen 	Plain Prime Beef
+Crustacean | Crab
+Prime Beef Joint | Bison<br>Bull<br>Cow<br>Ox
 Mature Venison | Buck<br>Deer<br>Elk<br>Moose<br>Pronghorn
 Tender Pork Loin | Boar<br>Peccary<br>Pig
 Flaky Fish | Redfin Pickerel<br>Perch<br>Chain Pickerel<br>Rock Bass<br>Muskie<br>Lake Sturgeon<br>Northern Pike<br>Largemouth Bass<br>Smallmouth Bass
@@ -69,9 +65,11 @@ Succulent Fish | Sockeye Salmon<br>Steelhead Trout
 Exotic Bird | Parakeet<br>Parrot<br>Pelican
 Big Game | Alligator<br>Bear<br>Cougar<br>Panther<br>Wolf 
 
-- **Gold Cores** are simply fortified (or "overcharged") cores and can be obtained by cooking and consuming appropriately seasoned **Big Game Meat** or buying a $5.00 meal from an establishment with a kitchen. (Honor does not affect the costs of meals.) The gold core lasts 24 in-game hours, disregarding detrimental effects such as taking damage or wearing an outfit inappropriate for the weather conditions.
-- **Horse Meal** yields both gold horse health and stamina cores for a full 24 hours in-game. The recipie pamphlet can be obtained in **Chapter 3** as a reward for Kieran's item request of Burdock Root. One Horse Meal crafted from three of each Beets and Hay. Bought from Stables costs $2.70 versus the $5.00 **Horse Care Package**. Reasonably cheaper than the latter even with high honor discounts. In the long run, it's well worth the time spent traveling to a Stable to stock up on both for making Horse Meal on-the-go.
-- **Special Horse Reviver** and **Horse Ointment** are the only alternative and only true "wilderness" methods of getting gold cores for your horse. They are not bad tradeoffs for **Horse Meal** as they require less (but more various) ingredients per batch. If you're keen on the "true wilderness" part of the game, go for these two. If you've got the time and money to head into town and stock up on **Beets** and **Hay** ($89.10 and one minute to get 99 of both from a Stable), **Horse Meal** holds the edge benefit/investment wise. *NOTE: HORSE OINTMENT DOES NOT CLEAN YOUR HORSE. YOU'LL STILL HAVE TO BRUSH IT IF IT GETS DIRTY.*
+**Gold Cores** are simply fortified (or "overcharged") cores and can be obtained by cooking and consuming appropriately seasoned **Big Game Meat** or buying a $5.00 meal from an establishment with a kitchen. (Honor does not affect the costs of meals.) The gold core lasts 24 in-game hours, disregarding detrimental effects such as taking damage or wearing an outfit inappropriate for the weather conditions.
+
+**Horse Meal** yields both gold horse health and stamina cores for a full 24 hours in-game. The recipie pamphlet can be obtained in **Chapter 3** as a reward for Kieran's item request of Burdock Root. One Horse Meal crafted from three of each Beets and Hay. Bought from Stables costs $2.70 versus the $5.00 **Horse Care Package**. Reasonably cheaper than the latter even with high honor discounts. In the long run, it's well worth the time spent traveling to a Stable to stock up on both for making Horse Meal on-the-go.
+
+**Special Horse Reviver** and **Horse Ointment** are the only alternative and only true "wilderness" methods of getting gold cores for your horse. They are not bad tradeoffs for **Horse Meal** as they require less (but more various) ingredients per batch. If you're keen on the "true wilderness" part of the game, go for these two. If you've got the time and money to head into town and stock up on **Beets** and **Hay** ($89.10 and one minute to get 99 of both from a Stable), **Horse Meal** holds the edge benefit/investment wise. *NOTE: HORSE OINTMENT DOES NOT CLEAN YOUR HORSE. YOU'LL STILL HAVE TO BRUSH IT IF IT GETS DIRTY.*
 
 Item | Core | Recipie
 :--- | --- | ---
@@ -103,10 +101,11 @@ Item | Recipie
 Potent Predator Bait | 1x Gritty Fish Meat<br>1x Wintergreen Berry/Evergreen Huckleberry/Raspberry/Blackberry
 Potent Herbivore Bait | 1x Vanilla Flower<br>1x Violet Snowdrop<br>1x Parasol Mushroom/Ram's Head/Bay Bolete/Chanterelle
 
-- **Cover Scent Lotion** allows you to get way closer to animals without drawing their attention. The crafting recipie is unlocked upon starting **Chapter 2**. You cook down the **Scent Glands** from **Skunks**, **Beavers**, and **Muskrats**.
 - **Flight Feathers** are required for every "improved" arrow type and can be harvested from all flying birds.
 - **Animal Fat** is required for **Explosive Rounds** (unlocked at beginning of **Chapter 2**) which are both fun to use and extremely useful when taking down legendary animals. **Canada Geese**, **Ducks** (not Loons), and **Beavers** are by far the best animals for this as they are plentiful in many areas across the map (north of New Austin), but **Boars/Pigs/Peccary** and **Bears** also yield animal fat. **Geese** and **Ducks** yield **Flight Feathers** (for all improved **Arrow** types) and **Animal Fat** while **Beavers** yield **Scent Glands** (for **Cover Scent Lotion**) and **Animal Fat**. *NOTE: A PRIME LOCATION FOR GEESE, DUCKS, AND BEAVERS IS OWANJILA.*
 - **Wild Carrots** are the holy grail of horse upkeep. They grow everywhere. The **Carrots** bought from stables cannot be used in crafting recipes, but they provide the same benefits as **Wild Carrots**. If you buy provisions from a Stable, **Hay** is the far superior choice as it is the cheapest cost-per-benefit in terms of core restoration, but does not give as many bonding points per use.
+
+### Animal Attacks
 
 Some animals will charge and kill you, some will randomly charge and headbutt you, some will randomly charge and bite.
 
@@ -115,26 +114,31 @@ Animal(s) | Attack Type
 Grizzly Bear<br>Wolf | Warning, charge, kill.
 Cougar<br>Panther | Charge, kill.
 Alligator | Warning, charge, kill.
-Bighorn Ram<br>Whitetail Buck<br>Boar<br>Collared Peccary<br>Bull Elk | Charge, headbutt.
+Bighorn Ram<br>Whitetail Buck<br>Bull Elk<br>Wild Boar<br>Collared Peccary<br>Ox<br>Bull<br>Alpine Goat<br>(Domestic) Pig | Charge, headbutt.
 Raccoon<br>Muskrat<br>Beaver<br>Badger<br>Skunk | Charge, bite.
-All land snakes. | Flee, warning (rattle/hiss), bite.
+All land snakes. | Flee, warning, bite.
 
 - All land **Snakes** will bite and envenomate you. You can cure both poison (from ingesting **Oleander Sage**) and venom (from snake bites) with a **Potent** or **Special Health Cure**. Alternatively, you can eat any **Ginseng** plant.
 
-If you don't care about honor, some NPCs have a chance of holding 2-4 of a certain plant when looted:
+### Looting plants and skins from NPCs.
+
+If you don't care about honor, some NPCs have a chance to be holding small animal skins (random quality and species). Some, less-random NPCs have a chance of holding 2-4 of a certain plant when looted:
 
 NPC | Loot
 :--- | ---
-Butcher's Creek Residents<br>Murphy Brood | Currant<br>Sage<br>Ginseng<br>Violet Snowdrop<br>Burdock Root
+Butcher Creek Residents<br>Murphy Brood | Currant<br>Sage<br>Ginseng<br>Violet Snowdrop<br>Burdock Root
 Night Folk<br>Skinner Brothers | Burdock Root
 
-- Some businesses offer lodging, baths, table games, and/or dining. If a shop as two meals available, the less costly one will fully restore all cores while the more costly one will yield a gold health core. Completing the batch "minigame" (chore) will yield a gold stamina core.
+### Blackjack, Bath, and Beyond
+
+Some businesses offer lodging, baths, table games, and/or dining. If a shop as two meals available, the less costly one will fully restore all cores while the more costly one will yield a gold health core. Completing the batch "minigame" (chore) will yield a gold stamina core.
 
 Business | Amenities
 :--- | ---
 **Flatneck Station**<br>Heartlands, NH | Poker
 **Keane's Saloon**<br>Valentine, Heartlands NH | Oatmeal
-**Smithfield's Saloon**<br>Valentine, Heartlands, NH | Beef Stew<br>Lamb's Fry with green peas and boiled potatoes.
+**Smithfield's Saloon**<br>Valentine, Heartlands, NH | Poker<br>Beef Stew<br>Lamb's Fry with green peas and boiled potatoes.
+**Saints Hotel**<br>Valentine, Heartlands, NH | Room<br>Bath
 **Old Light Saloon**<br>Van Horn, Roanoke Ridge, NH | Blackjack<br>Fish Stew<br>Lamb's Heart with boiled cabbage.
 **Van Horn Post Station**<br>Van Horn, Roanoke Ridge, NH | Room<br>Bath
 **Rhodes Parlour House**<br>Rhodes, Scarlett Meadows, LE | Blackjack<br>Cracked Wheat and Milk<br>Fried Catfish with greens and boiled beans.
@@ -166,18 +170,23 @@ Honor | Effect
 
 ### Own up to five (5) horses at a time.
 
-Up to four horses can be stabled, with a fifth as a "temporary" horse.
+Up to four horses can be stabled, with a fifth as a "temporary" horse anywhere outside of the Stable.
 
-### Tonic Strengths Tested
+### How to tame wild horses.
+
+After hopping on, hold the stick in the opposite direction of where the horse is turning. If it's turning left, hold LS to the right. It's turning right, hold LS to the left.
+
+### Testing tonics.
+
 Ever wondered if Special Tonics are really better than Potent Tonics? Below is data gathered from testing **Potent Tonics** against their **Special** variants. Testing was done by sprinting or entering dead eye right after consuming the associated items. Time was clocked when the bar was fully used up and the gold core fully depleted.
 
-#### Stamina
+**Stamina**
 1. Oregano Big Game + Special Bitters
 - 01:54:04
 2. Oregano Big Game + Potent Bitters
 - 01:42:87
 
-#### Dead Eye
+**Dead Eye**
 1. Thyme Big Game + Special Snake Oil
 - 0:44:21
 2. Thyme Big Game + Potent Snake Oil
@@ -185,12 +194,12 @@ Ever wondered if Special Tonics are really better than Potent Tonics? Below is d
 
 As you can see, **Special Bitters** makes a bit of a difference, where as **Special Snake Oil** does fairly little in terms of better fortification. Overall, if you're short on materials, bought/crafted Potent tonics will do just fine in most situations.
 
-### Fast Weapon Familiarity
+### How to max weapon familiarity fast.
 
 - Use dead eye to get headshots.
 - If avoiding law and bounties, enemy hideouts refresh every few in-game days. The numerous Del Lobo hideouts in New Austin become accessible after Chapter 6.
 
-### Fast Maximum Bonding Horses (Level 4)
+### How to max bond horses fast.
 
 - Leading your horse yields more bonding points per minute than anything else. The old rubber band trick works for this.
 - Food items have their own bonding benefits. Sugar Cubes give the most points.
@@ -210,22 +219,23 @@ As you can see, **Special Bitters** makes a bit of a difference, where as **Spec
 - Animal drawings are added when an animal is sighted in a specific area. It must be both studied and tracked at least once to add icons the the overworld map. The best thing to do is study and track everything you come across. Hell, I even kill everything I see because why not? Additional locations will be marked as animals are "sighted" (moving the crosshair to highlight them). Looking at animals through binoculars (after studying and tracking at least one to fill the compendium) is by far the most efficient way to populate the map with animal icons. Though, I personally just run around killing everything with **Poison Arrows**. :)
 - Plant drawings are added when a plant is picked/eaten at least once in the immediate area of the icon. Best to pick everything you come across because spawning a plant with a trainer and picking it does not add the icon for some reason.
 - Point of interest, dreamcatcher, dinosaur bone, and rock carving locations are added when they are "investigated".
+- All map icons do not change based on what character discovered them. The journal sketches do, though.
 
-### Triggering Pearson's rabbit request to obtain the unique Scout Jacket.
+### Tricky camp item requests.
 
-- It's available from Ch.2 to Ch.6.
-- Pearson will be drinking beer at his wagon's table. When you walk near him, it will only give a **Greet** prompt when the request is available for activation (like every other request).
-- I ran around camp in Ch.2 for 15 minutes real time and never got the request (had full cores the whole time). I went to camp in Ch.3 after consuming Moonshine, Cocaine Gum, and Chewing Tobacco to completely deplete my cores and voila, requested right as I walk into camp! Maybe coincidental, I've no numbers for solid proof this works. But if it is just coincidence, it's one hell of a coincidence. Also tested in Ch. 2. Took about 20 minutes, but those 20 minutes are nothing compared to a few hours total spend entering/exiting camp to get him to spawn there. It's worth a shot. :)
+*Triggering Pearson's rabbit request to obtain the unique Scout Jacket:*
 
-### Triggering Dutch's pipe request.
+It's available from Ch.2 to Ch.6. Pearson will be drinking beer at his wagon's table. When you walk near him, it will only give a **Greet** prompt when the request is available for activation (like every other request). I ran around camp in Ch.2 for 15 minutes real time and never got the request (had full cores the whole time). I went to camp in Ch.3 after consuming Moonshine, Cocaine Gum, and Chewing Tobacco to completely deplete my cores and voila, requested right as I walk into camp! Maybe coincidental, I've no numbers for solid proof this works. But if it is just coincidence, it's one hell of a coincidence. Also tested in Ch. 2. Took about 20 minutes, but those 20 minutes are nothing compared to a few hours total spend entering/exiting camp to get him to spawn there. It's worth a shot. :)
 
-- I have never been able to trigger it in Chapter 2. The earliest I've ever gotten it is right after starting Chapter 3. Dutch has been in the same animation and outfit in Chapter 2, but the prompt never came up like it did (properly) in Chapter 3.
+*Triggering Dutch's pipe request:*
 
-### Alcohol Strength Values
+I have never been able to trigger it in Chapter 2. The earliest I've ever gotten it is right after starting Chapter 3. Dutch has been in the same animation and outfit in Chapter 2, but the prompt never came up like it did (properly) in Chapter 3.
+
+### Alcohol strength and states.
 
 Below is a list of alcohol values per item. Coped from [this Reddit post](https://redd.it/9s6qnk/). Values amount to "proof", and are the base values before any modifiers. Higher proof means drunk quicker. A value of `1.00` is "blackout drunk". The **Wolf's Heart Trinket** halves the effects of all alcohol.
 
-Total | State
+State | Range
 :--- | ---
 Sober | 0.00 to 0.49
 Tipsy | 0.50 to 0.74
@@ -248,38 +258,28 @@ Moonshine | 0.3
 Whiskey Bottle | 0.4
 Aged Pirate Rum | 0.5
 
-### Saddles
+### Saddles.
 
 Technically, the **Beaver Roping Saddle** is the "best" saddle solely in terms of game logic because it provides the highest **Stamina Regen** (same as **Panther** and **Rattlesnake** saddles) and **Health Core Drain** bonuses. My reasoning behind this is: horse health core drain intensifies when they're dirty. I don't brush my horse often, so a lot of times it's just dirty. That being the case, the occasional health core penalty is lowered that much more with the Beaver Saddle.
 
-- **HCD** *Health Core Drain*
-- **SCD** *Stamina Core Drain*
-- **SD** *Stamina (Bar) Drain*
-- **SR** *Stamina (Bar) Regen*
-
 Name | HEALTH CORE<br>DRAIN | STAMINA CORE<br>DRAIN | STAMINA<br>DRAIN | STAMINA<br>REGEN
 :--- | --- | --- | --- | ---
-Boar Mother Hubbard | -22% | -20% | -50% | +20%
-Alligator Ranch Cutter | -24% | -20% | -50% | +22%
-Bear Dakota | -20% | -24% | -50% | +22%
 Beaver Roping | -26% | -20% | -50% | +24%
 Panther Trail | -20% | -26% | -50% | +24%
-Cougar McClelland | -20% | -22% | -50% | +20%
 Rattlesnake Vaquero | -22% | -24% | -50% | +24%
+Alligator Ranch Cutter | -24% | -20% | -50% | +22%
+Bear Dakota | -20% | -24% | -50% | +22%
+Cougar McClelland | -20% | -22% | -50% | +20%
+Boar Mother Hubbard | -22% | -20% | -50% | +20%
 Nuevo Paraiso | -12% | -12% | -25% | +12%
 
-### Traveling Long Distances Automatically
+### Traveling long distances automatically.
 
-- Aside from fast travel (unlocked by purchasing the map from the camp ledger), you can autopilot to a destination: set a destination (must be in a road/path) on the map, hop on your horse and begin sprinting towards the waypoint. While sprinting, hold down the SELECT button (XB1) or X button (on PS4) to enter cinematic view. Black bars will appear and you will travel to the waypoint. **NOTE: events still occur, it's just a different camera view. You can still get attacked by a predator or enemies.
+Aside from fast travel (unlocked by purchasing the map from the camp ledger), you can autopilot to a destination: set a destination (must be in a road/path) on the map, hop on your horse and begin sprinting towards the waypoint. While sprinting, hold down the SELECT button (XB1) or X button (on PS4) to enter cinematic view. Black bars will appear and you will travel to the waypoint.
 
-### Looting saddle bags and not getting the shit kicked out of you.
+**NOTE:** I've observed that sometimes, regardless of distance, when I arrive at the waypoint my horse will have a full stamina core and bar. I've seen this only when doing so with a level 4 bonded horse (and feeding it a **Horse Meal** and injecting a **Potent Horse Stimulant** before going into Cinematic Camera). Every time I've done this with a non-max-level bonded horse, it always ends up with an empty stamina core and bar regardless of what I feed/inject it with.
 
-*This glitch allows you to search both saddle bags of any horse without getting kicked in the face.*
-
-1. Hop on the horse you want to loot.
-2. Ride/lead the horse right next to any solid, static object that will partially block you phsically digging through the saddle bag, be it a tree, rock/boulder, wagon, train, etc. Ensure after you hop off that the **Search Saddle Bag** prompt is still there. A good point of reference (for me) is the edge of the object must be just behind the saddle bag.
-3. Search the saddle bag. When done right, the game will not allow the animation to complete because you'd clip too far into the horse. This works in much the same way as evading the full animal skinning animation.
-4. Enjoy your saddle bag loot never having to get kicked in the face ever again.
+**NOTE:** events still occur, it's just a different camera view. You can still get attacked by a predator or enemies.
 
 # HUNTING TIPS
 
@@ -293,11 +293,11 @@ Nuevo Paraiso | -12% | -12% | -25% | +12%
 
 ### Stealth is usually better.
 
-- If you're roaming around looking for uncommon/rare animals, do not hunt on your horse. Go on foot, crouched, and walk slowly. Crouch running (that's what I call it) creates more noise than regular crouch walking. This difference is especially noticable when cover-scented and very close to animals. You can get within a few feet of most animals by slowly creeping up to them. Being able to get closer also opens up your options for clean kills. If stealth hunting, use the **Bow** for everything unless you're hunting down the middle ground animals which need the **Varmint Rifle** for a perfect carcass. According to my own testing, all "varmints" can be skinned for a perfect pelt when headshot with a regular arrow **EXCEPT FOR THE SKUNK AND GILA MONSTER**. Not to mention, while using the **Bow**, you won't scare off everything within a five mile radius. A number of other players claim the **Bow** is trash, but from my experience its quiet kills serve much better than its great but limited range (especially while hunting rare animals that spook easily, *ahem* Moose *cough cough*).
+- If you're roaming around looking for uncommon/rare animals, do not hunt on your horse. Go on foot, crouched, and walk slowly. Crouch running (that's what I call it) creates more noise than regular crouch walking. This difference is especially noticable when cover-scented and very close to animals. You can get within a few feet of most animals by slowly creeping up to them. Being able to get closer also opens up your options for clean kills. If stealth hunting, use the **Bow** for everything unless you're hunting down the middle ground animals which need the **Varmint Rifle** for a perfect carcass. Not to mention, while using the **Bow**, you won't scare off everything within a five mile radius. A number of other players claim the **Bow** is trash, but from my experience its quiet kills serve much better than its great but limited range (especially while hunting rare animals that spook easily, *ahem* Moose *cough cough*). The only time I recommend fast-paced hunting is when you know where the animal is or if you've an insane reaction time (primarily relating to hunting cougars/panthers).
 
 ### Cover Scent Lotion.
 
-- It helps immensely if you're doing some stealth hunting. Yes, you can stay downwind from the animal you're targeting. However, if you're out for anything and everything... you might spook a deer to your left, it runs towards a rabbit, which then runs towards what you're hunting for, spooks it, and they all leave you in the dust. I hardly use Eagle Eye anymore, but I also have never been bothered to check the wind direction when hunting. I kill all the beavers, skunks, and muskrats I see just for their scent glands.
+- It helps immensely if you're doing some stealth hunting. The crafting recipie is unlocked upon starting **Chapter 2**. You cook down the **Scent Glands** from **Skunks**, **Beavers**, and **Muskrats**. You to get way closer to animals without drawing their attention. Yes, you can stay downwind from the animal you're targeting. However, if you're out for anything and everything... you might spook a deer to your left, it runs towards a rabbit, which then runs towards what you're hunting for, spooks it, and they all leave you in the dust.
 
 ### Give the game time to spawn everything.
 
@@ -363,32 +363,44 @@ Bow (~2) | 55 | 166 | 15 | -
 
 **~2** - The Bow's damage values are listed as follows: regular arrow, improved arrow, small game arrow.
 
-## Fishing Tips
+### How to get perfect skins, pelts, hides, etc.
+
+According to my own testing, all "varmints" can be skinned for a perfect pelt when headshot with a regular arrow except for the **Skunk** and **Gila Monster**. You're still chancing it, though.
+
+Below is a chart showing the ideal weapon for all animals when shooting for perfect pelts. [Source.](https://redd.it/a3afo9)
+
+Class | Weapon(s) | Animal(s)
+:--- | --- | ---
+Small Game | Bow (Small Game Arrow) | Bullfrog<br>Toad<br>Snake<br>Blue Jay<br>Songbird<br>Macaw (Parrot)<br>Cardinal<br>Sparrow<br>Pheasant<br>Waxwing<br>Woodpecker<br>Quail<br>Crow<br>Carolina Parakeet<br>Raven<br>Oriole<br>Chicken<br>Rooster<br>Booby<br>Pigeon<br>Duck<br>Robin<br>Loon<br>Gull<br>Bat<br>Squirrel<br>Rat<br>Chipmunk
+Moderate Game | Varmint Rifle | Beaver<br>Eagle<br>Owl<br>Crane<br>Pelican<br>Cormorant<br>Spoonbill<br>Egret<br>Heron<br>Turkey<br>Hawk<br>Vulture<br>Condor<br>Goose<br>Iguana<br>Gila Monster<br>Rabbit<br>Armadillo<br>Badger<br>Muskrat<br>Opossum<br>Raccoon<br>Skunk
+Medium Game | Normal Arrow<br>Poison Arrow<br>Throwing Knife<br>Poison Throwing Knife<br>Repeater<br>Rifle<br>Sniper Rifle | Coyote<br>Fox<br>(Domestic) Pig
+Large Game | Normal Arrow<br>Poison Arrow<br>Poison Throwing Knife<br>Rifle<br>Sniper Rifle | Boar<br>Pronghorn<br>Goat<br>Buck<br>Deer<br>Cougar<br>Sheep<br>Panther<br>Collared Peccary<br>Bighorn Ram<br>Wolf<br>Alligator (Small)<br>Turtle
+Massive Game | Improved Arrow<br>Poison Arrow<br>Poison Throwing Knife<br>Rifle<br>Sniper Rifle<br>Shotgun Slug | Alligator<br>Grizzly/Black Bear<br>American Bison<br>Rocky Mountain Cow/Bull Elk<br>Western Cow/Bull Moose<br>Angus/Devon/Hereford Bull<br>Angus/Devon Ox<br>Florida Cracker Cow
+
+# FISHING TIPS
 
 - Contrary to what the game describes, you can catch just about every fish on any bait/lure.
 - Also contrary to compendium entries, weather doesn't seem to make a damn difference.
-- The **Special Spinner** attracts all species of fish and all species will bite it. Everything from bluegill to northern pike. Once acquired, it is a permanent inventory item and cannot be lost by cutting the line or to a line snap.
-- The **Special Lake/River/Swamp Lures** work great if you're shooting for only big/medium fish as small fish will not bite any of the three.
+- You can attract all nearby fish by quick pressing RT. Do not use more than once unless the fish near your line aren't ones you want as flicking RT more than once while fish are near the bait/lure will scare them off.
+- The **Special Spinner** attracts all species of fish and all species will bite it. Everything from bluegill to northern pike. Once acquired, it is a permanent inventory item and cannot be lost due to cutting or snapping the line.
+- The **Special Lake/River/Swamp Lures** work great if you're shooting for only big/medium fish as small fish will not bite any of the three. These are also permanent inventory items.
+- If you dislike clutter and don't plan on using other types of baits/lures (worms, crayfish, crickets, regular lures), do not buy a whole lot of them as you have to manually lose them. There is no "discard" option in the satchel for these.
+- Push LS down to lower your rod. Keep it down while reeling when awaiting a bite. When you get a bite, pull LS back. This both sets the hook and pulls the fish in at the same time, giving you a head start right off the bat.
+- Continue using LS up and down to pull the fish in faster, unless you're a glutton for punishment. Reeling in fish like the **Legendary Muskie** are a bitch if you don't know about using LS to make faster progress. I learned the hard way, you needn't.
 - All fish have a specific pattern of nibbling/biting. Once you can recall what fish do what, you won't even need to use Eagle Eye to see what's down there.
 - When using any bait, after a number of nibbles and bites your bait will completely deteriorate and you'll have to reel in and rebait. Lures are not affected by numerous bites.
 
-Below are all fish grouped by:
-- active weather
-- favorite bait/lure
-- bite sequence ('N' is for a nibble; 'B' is a bite)
-- meat type
-
-Name | WEAT | BAIT | BITE | MEAT
+Name | Active Weather | Favorite Bait | Bite Sequence<br>`N` = Nibble<br>`B` = Bite | Meat Type
 :--- | --- | --- | --- | ---
 Bluegill | Rain | Cheese | NB | Gritty
 Bullhead Catfish | Rain | Corn | NNNBB | Gritty
 Perch | Sunny | Bread | NB | Flaky
 Rock Bass | Sunny | Cheese | NBB | Flaky
 Chain Pickerel | Sunny | Corn | BNNB | Flaky
-Redfin Pickerel | Sunny | Bread |  | Flaky
+Redfin Pickerel | Sunny | Bread | NBB | Flaky
 Smallmouth Bass | Rain | Cricket | NNBB | Flaky
 Largemouth Bass | Rain | Crayfish | BBBNB | Flaky
-Steelhead Trout | Rain | Worm |  | Succulent
+Steelhead Trout | Rain | Worm | NBBB | Succulent
 Sockeye Salmon | Overcast | River Lure | BNB | Succulent
 Lake Sturgeon | Overcast | Lake Lure | NNNNBBBB | Flaky
 Muskie | Overcast | Lake Lure | BNBNBBB | Flaky
@@ -398,22 +410,28 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 
 ## Horses
 
-### White Arabian
+**White Arabian**
 - Lake Isabella, Grizzlies West, AM
-### Red Chestnut Arabian
+
+**Red Chestnut Arabian**
 - Owanjila, Big Valley, WE (in woods west of lake)
-### Warped Brindle Arabian
+
+**Warped Brindle Arabian**
 - Tempest Rim, Grizzlies West, AM (north of Wapiti)
-### Perino Andalusian
+
+**Perino Andalusian**
 - east bank of **Kamassa River** on cliffside at **Brandywine Drop**
-### Few Spotted Appaloosa
+
+**Few Spotted Appaloosa**
 - Heartlands, NH (west of Oil Derrick)
-### Tiger Striped Bay Mustang
+
+**Tiger Striped Bay Mustang**
 - Rio del Lobo Rock, Rio Bravo, NA (south of Legendary Pronghorn spawn)
-### Black American Standardbred
+
+**Black American Standardbred**
 - Little Creek River, Big Valley, WE (along north bank; southeast of Watson's Cabin)
-- there is a spawn in new austin with 3 other random horses; don't recall exactly where
-### Blood Bay Thoroughbred
+
+**Blood Bay Thoroughbred**
 - Larned Sod, Heartlands, NH (southwest of house)
 
 # PLANT/HERB LOCATIONS
@@ -430,8 +448,16 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 
 - east of **O'Creagh's Run**; northwest of **Martha's Swain**; only 5 plants
 - east of **Mysterious Hill Home**; "You don't see this every day..."
-- along the **San Luis River** from the 'H' in "WEST ELIZABETH" to a bit west of **Scratching Post, Gaptooth Ridge, NA**; **IT GROWS NEAR THE RIVER BUT NOT DIRECTLY ON THE BANKS LIKE MILKWEED DOES.**
+- along the **San Luis River** from the 'H' in "WEST ELIZABETH" to a bit west of **Scratching Post, Gaptooth Ridge, NA**; **IT GROWS NEAR THE RIVER BUT NOT DIRECTLY ON THE BANKS LIKE MILKWEED AND BULRUSH DO.**
 - north and northeast of **MacFarlane's Ranch** in **Hennigan's Stead, NA**
+
+### Wild Feverfew
+
+- sporadically across **Hennigan's Stead, NA** and **Cholla Springs, NA**.
+
+### Red Sage
+
+- grows only in **Rio Bravo, NA**.
 
 # ITEM LOCATIONS
 
@@ -567,8 +593,8 @@ Herman Zizendorf † | None | Alive | $30 | Blackwater
 Esteban Cortez † | Del Lobo | Dead or Alive | $65 | Tumbleweed
 Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 
-† Posted only in 1907.
-** Available only if spared in his relevant story mission.
+- `†` Posted only in 1907.
+- `**` Available only if spared in his associated story mission.
 
 # MISSABLE CONTENT
 
@@ -596,20 +622,20 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 - Home Robbery with Javier
 - Hunting with Charles
 - Playing five finger fillet with Lenny
-- Event Area missions (3x, look for missable items below) (https://www.youtube.com/watch?v=QUZl1tseOF8)
+- Event Area missions (3x, look for missable items below) [Video.](https://www.youtube.com/watch?v=QUZl1tseOF8)
 
 *Random Events:*
 - Rescue Bill Williamson: Random Event outside the camp where you’re getting asked to help safe Bill from some Bounty hunters
 - Fundraiser: (Possible Chapter II – IV)
 - Braithwaite's Secret: point of interest, the crazy lady in the outhouse, Gertrude Braithwaite. She is no longer there after Chapter 6
-- Horse Races: can be made unavailable if declined once; https://redd.it/9yq601
+- Horse Races: can be made unavailable if declined once; [Reddit post.](https://redd.it/9yq601)
 
 *Items:*
 - Classic Raccoon Mountain Hat: looted from Jon at **Smithfield's Saloon** in **Valentine**; unavailable after Chapter 6
 - Charity Handbill — On the table of Thomas Downes’ charity in Valentine, you get two chances: He shows up once before `Americans At Rest`, and once again after that- mission. His table ist outside of the new built house adjacent the **Valentine Stable**.
 - Dutch’s Speech Notes: Picked up in **Horseshoe Overlook** camp. (Can be missed if you don’t pick it up before you move to the next camp.)
 - Native American Ring: This is random camp encounter usually in the **Heartlands**, a guy will invite you to his camp, get drunk, reveal his past and pass out, loot him and you get the ring. Effects unknown.
-- John’s cattleman revolver: You can actually get these as Arthur in Chapter 2. There are 2 chances for getting 2 of them (https://reddead.fandom.com/wiki- John%27s_Cattleman_Revolver), `Paying a Social Call`, `The Sheep and the Goats`, `Pouring Forth Oil`
+- John’s cattleman revolver: You can actually get these as Arthur in Chapter 2. Missions: `Paying a Social Call`, `The Sheep and the Goats`, `Pouring Forth Oil`. [Reference.](https://reddead.fandom.com/wiki/John%27s_Cattleman_Revolver#Acquisition)
 - Rare shotgun: **Manito Glade** a.k.a. Hermit Man’s shack
 - Jimmy's Pen: during `Polite Society, Valentine Style` only if you spare him; makes some (not all) journal entries more neatly printed; does not affect sketches)
 - Jack's Drawing: thimble request from Jack in chapter II) - u gotta wait a few in game days or hours for he drawing to show up on Arthur’s table.
@@ -689,7 +715,7 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 - Gray's Secret: available in Chapter 4 and beyond, though getting it in the Epilogue is dodgy. It's the corpse of Tavish Gray on the back porch of **Caliga Hall**.
 
 *Items:*
-- Antique Compass: You can get this one BEFORE the mission `A Fine Night for Debauchery`, best explained here https://www.youtube.com/watch?v=pIqYzmGdqDc
+- Antique Compass: You can get this one BEFORE the mission `A Fine Night for Debauchery`, [best explained here](https://www.youtube.com/watch?v=pIqYzmGdqDc)
 - Electric Chair Blueprint: Professor Bell's corpse after `The Mercies of Knowledge - VIII`; missed if you don't loot him, available from Chapter IV and onwards
 - Letter to Bronte from the mayor: on the table during `The Gilded Cage`; take it at the beginning of the mission before you head out to the others
 - List of Accounts: Letter on Bronte's table during `Revenge is a Dish Best Eaten`
@@ -738,8 +764,8 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 *Items:*
 - Owl Feather Trinket: infiltrate the army camp during `Archeology for Beginners` and get the Chanupa without killing anybody; easy to just pistol whip everyone
 - Military Mountie Hat: during `Archeology for Beginners`, random soldiers at **Fort Wallace** as well
-- Saint Denis Lawman Helmet: during `Goodbye Dear Friend`; WARNING: this one is glitched as you can only keep it on your horse and it has no name in the inventory (so collect on your own risk) - you may get the flying raven claw talisman bug as well
-- Saint Denis Police Outfit:: you can actually keep the outfit; https://www.youtube.com/watch?v=_IkBk2TZef4
+- Saint Denis Lawman Helmet: during `Goodbye Dear Friend`; WARNING: this one is glitched as you can only keep it on your horse and it has no name in the inventory (so collect on your own risk): you may get the flying raven claw talisman bug as well
+- Saint Denis Police Outfit: you can actually keep the outfit; [Video.](https://www.youtube.com/watch?v=_IkBk2TZef4)
 - Liability Agreement: on the table next to money stacks during `The Wisdom of the Elders V`
 - Letter to Tom from Colm: looted from the final O'Driscoll (killed by Sadie Adler) on the second floor of the house during `Sadie Adler, Widow II`
 
@@ -763,69 +789,19 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 
 *All prices are based on Saint Denis Trapper. Animals listed below each Trapper location are local to the area and will sell for the normal price. Selling animals not local to the area you sell them in gives a small bonus in sell price. The general rule of thumb is the farther away from the animal's habitat, the more it will sell for. Go figure. Cross-country hauling one moose pelt to the Tumbleweed Butcher just for an extra $2.00-3.00*
 
-**Saint Denis**
-- Alligator
-- American Bullfrog
-- Black Bear
-- Boar
-- Chipmunk
-- Cormorant
-- Crane
-- Egret
-- Heron
-- Oriole
-- Panther
-- Pelican
-- Seagull
-- Western Toad
-
-**Roanoke Ridge**
-- Beaver
-- Boar
-- Cougar
-- Eagle
-- Elk
-- Goose
-- Loon
-- Moose
-- Salmon
-- Trout
-- Wolf
-
-**Black Bone Forest**
-- Beaver
-- Bighorn
-- Chipmunk
-- Cougar
-- Eagle
-- Elk
-- Goose
-- Grizzly Bear
-- Moose
-- Pronghorn
-- Wolf
-
-**Riggs Station**
-- Beaver
-- Bighorn
-- Chipmunk
-- Cougar
-- Elk
-- Goose
-- Grizzly Bear
-- Loon
-- Moose
-- Pronghorn
-- Salmon
-- Trout
-- Wolf
+Local Area | Animal(s)
+:--- | ---
+Saint Denis | Alligator<br>American Bullfrog<br>Black Bear<br>Boar<br>Chipmunk<br>Cormorant<br>Crane<br>Egret<br>Heron<br>Oriole<br>Panther<br>Pelican<br>Seagull<br>Western Toad<br>
+Roanoke Ridge | Beaver<br>Boar<br>Cougar<br>Eagle<br>Rocky Mountain Elk<br>Canada Goose<br>Loon<br>Moose<br>Sockeye Salmon<br>Steelhead Trout<br>Wolf<br>
+Black Bone Forest | Beaver<br>Bighorn<br>Chipmunk<br>Cougar<br>Eagle<br>Elk<br>Goose<br>Grizzly Bear<br>Moose<br>Pronghorn<br>Wolf<br>
+Riggs Station | Beaver<br>Bighorn<br>Chipmunk<br>Cougar<br>Elk<br>Goose<br>Grizzly Bear<br>Loon<br>Moose<br>Pronghorn<br>Salmon<br>Trout<br>Wolf<br>
 
 ### Orchids
 
 - **Orchids** are flowering plants which can be found sporadically around the entire map aside from **Great Plains, WE** and all of **New Austin**.
-- After completing `Dutchesses and Other Animals`, **Orchids** and **Heron/Egret/Spoonbill Plumes** can be mailed to **Algernon Wasp** for cash. **Gator Eggs** can be sold to the **Trapper**.
+- After completing `Dutchesses and Other Animals`, you can collect the `Rare Orchids Order` from the board at any **Post Office**. This allows **Orchids** and **Heron/Egret/Spoonbill Plumes** to be mailed to **Algernon Wasp** for cash. **Gator Eggs** can be sold to the **Trapper**.
 
-**WARNING:** DO NOT SEND MORE THAN ONE ORCHID AT A TIME. Doing so will glitch out the mailing order and you will no longer be able to send orchids or receive payments for them.
+**WARNING:** AFTER COMPLETING ALL STAGES OF `Dutchesses and Other Animals`, DO NOT SEND MORE THAN ONE ORCHID SPECIES AT A TIME. [More info here.](#unable-to-send-orchids-by-mail)
 
 Price | Orchid(s)
 :--- | ---
@@ -840,7 +816,7 @@ Price | Orchid(s)
 
 ### Unable to send orchids by mail.
 
-After taking the **Rare Orchids Order**, you can send orchids by mail and receive money in return. Sending more than one orchid at a time will glitch out the mailing order and you will no longer be able to send orchids nor receive the money for orchids you've sent. Always send only one orchid and receive its payment **one at a time** to avoid glitching it.
+After taking the **Rare Orchids Order**, sending more than one species of orchid at a time will glitch out the mailing order and you will no longer be able to send orchids nor receive the money for orchids you've sent. Always send only one orchid and receive its payment **one at a time** to avoid glitching it. The mailing menu automatically sends all of whatever Orchid you select for mailing, and this case doesn't apply to the glitch. However, sending more than one Orchid species (example **Dragon's Mouth** and **Acuna's Star**) at the same time will glitch out the mailing order and you will no longer be able to send Orchids or receive payments for them.
 
 ### Double skins.
 
@@ -852,7 +828,7 @@ I've found this to occur only when I'm near a **Snowy Egret** or the **Bluewater
 
 ### Javier not getting off his horse during Chez Porter Homestead Robbery.
 
-I've run across one glitch twice: once on Xbox One and once on PC. Basically, you start the robbery, travel to Chez Porter with Javier, but when the black bars retract and Javier advises to go on foot from there, he won't get off his horse. The quickest way to fix this is suicide, but you can also run off to abandon Javier thus failing the mission. Either way, afterwards he should spawn off his horse and you can continue the mission.
+I've run across one glitch twice: once on Xbox One and once on PC. Basically, you start the robbery, travel to **Chez Porter** with Javier, but when the black bars retract and Javier advises to go on foot from there, he won't get off his horse. The quickest way to fix this is suicide, but you can also run off to abandon Javier thus failing the mission. Either way, afterwards he should spawn off his horse and you can continue the mission.
 
 ### Locations not being noted on the map.
 
@@ -860,13 +836,16 @@ I know of several locations which have buggy overworld map names:
 
 - Dormin Crest, Grizzlies West, AM
 - Planter's Baun, Grizzlies West, AM
-- Granger's Hoggery, Heartlands, NH (unobtainable from what I can tell)
+- Nekoti Rock, Tall Trees, WE
+- Rattlesnake Hollow, Cholla Springs, NA
 
 These can be obtained, they're just dodgy as shit. Save your game quite a ways away from each before entering them for the first time. Just keep rolling the dice until the name shows up, move onto the next, save again, enter the next, etc, etc. The only location I've never been able to obtain is Granger's Hoggery. I've no idea why.
 
-For **Dormin Crest**, you must enter the cabin while the random encounter is still active. (Where there's a trail coming out of the front door.) I noticed in `PC v1436` the front door jots aside just a tiny bit just before reaching to open it. Still, I had to keep reloading and retrying to get it to show up on the map.
+For **Dormin Crest**, you must enter the cabin while the random encounter is still active. (Where there's a trail coming out of the front door.) I noticed in `PC v1436` the front door jots aside just a tiny bit just before reaching to open it. This only happens when the event is active. Still, I had to keep reloading and retrying to get it to show up on the map.
 
-For **Planter's Baun**, I did not explore Grizzlies West extensively as long as I could. Barrow Lagoon and the surrounding area remained with fog of war. In Chapter 3, even though I hadn't explored up there and the fog of war was still there, the name showed up on the map shortly after starting Chapter 3. I've no idea why or how.
+For **Planter's Baun**, I did not explore Grizzlies West extensively as long as I could. Barrow Lagoon and the surrounding area remained with fog of war. In Chapter 3, even though I hadn't explored up there and the fog of war was still there, the name showed up on the map shortly after starting Chapter 3. Yes, on top of the fog of war. I've no idea why or how.
+
+For **Nekoti Rock** and **Rattlesnake Hollow**, there appear to be very small, specific areas you have to visit to get the names to pop. I've not narrowed down exactly where aside from inside the small caves and atop the highest peaks just aside OOB (respectively).
 
 ### Discount at Saint Denis shops as reward for killing Jean Marc as ordered by Mayor Henri Lemieux.
 
@@ -898,9 +877,20 @@ For micro-stuttering (I had it about once every ten seconds):
 - Update/reinstall your graphics driver. Yeah, again, cliche... but the shit worked for me. Be sure to do a **CLEAN INSTALL** when reinstalling/updating the driver. It fixed the micro-stuttering I was encountering (about once every ten seconds). System info: ASUS G14 (2021) AMD Ryzen 9 5900HS @ 3301 MHz, 16384MB, NVIDIA RTX 3060 Laptop GPU, RDR2 Build 1436, NVIDIA Driver v471.96
 - Periodically delete everything in the Settings folder except for "system.xml" (to retain graphics settings). Some sources claim that deleting the `.bin` files isn't necessary, but I do it anyway and it works. Doing this can also fix crashing because of `ERR_GFX_STATE`. [[Reference.]](https://www.reddit.com/r/RDR2/comments/dxlreb/err_gfx_state/)
 
+The last step can be semi-automated using [BleachBit](https://github.com/bleachbit/bleachbit). (I began using it when Avast decided to fuck up CCleaner.) All you have to do is `BleachBit > Preferences > Custom > Add Folder` and add your RDR2 `Settings` folder. Then, `BleachBit > Preferences > Whitelist` and add your `system.xml` file to prevent BleachBit from deleting it (retaining your GFX settings).
+
 # GLITCHES
 
 *These are bugs/glitches which can be exploited.*
+
+### Looting saddle bags and not getting the shit kicked out of you.
+
+*This glitch allows you to search both saddle bags of any horse without getting kicked in the face.*
+
+1. Hop on the horse you want to loot.
+2. Ride/lead the horse right next to any solid, static object that will partially block you phsically digging through the saddle bag, be it a tree, rock/boulder, wagon, train, etc. Ensure after you hop off that the **Search Saddle Bag** prompt is still there. A good point of reference (for me) is the edge of the object must be just behind the saddle bag.
+3. Search the saddle bag. When done right, the game will not allow the animation to complete because you'd clip too far into the horse. This works in much the same way as evading the full animal skinning animation.
+4. Enjoy your saddle bag loot never having to get kicked in the face ever again.
 
 ### Break down large fish.
 
@@ -921,7 +911,7 @@ List of documents obtainable and retainable via this glitch:
 
 ### Launch from horse with carcass stowed on side.
 
-This might not be very useful, but I found that with a Condor stored on the side of a horse, getting off on the same side launches me up about 10 feet before landing.
+This might not be very useful, but I found that with a Condor stored on the side of a horse, getting off on the same side launches me up about 10 feet before landing. I've been able to launch atop buildings you normally wouldn't be able to access doing this.
 
 ### Getting caught when quickly dismounting your horse.
 
@@ -973,7 +963,7 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 6. Exit the stable.
 7. Enjoy your Rattlesnake Saddle with a Panther blanket! (Or whichever combination you choose.)
 
-### Getting the silver dapple pinto missouri fox trotter at no cost for Arthur.
+### Getting the Silver Dapple Pinto Missouri Fox Trotter at no cost for Arthur.
 
 [Source.](https://www.youtube.com/watch?v=bATG5JB9cNA)
 
@@ -1051,7 +1041,7 @@ The sounds made by **Skinner Brothers** during ambushes and attacks are the same
 
 ### Voices at Colter
 
-Spooked by those voices before? Especially up at Colter where you know damn well there's no one else around? Perhaps I'm the outlier, but these scared the fuck out of me the first time I was back up there post-story. When returning to previous Van der Linde camps, muffled voices can be heard speaking lines mentioned prior on the story. This happens at every previous camp, not just Colter. But hearing flashback voices up there, at midnight, no wind, no wolf howls, owl hoots, or fox screams, in the snow was a spooky first experience.
+Spooked by those voices before? Especially up at Colter where you know damn well there's no one else around? Perhaps I'm the outlier, but these scared the fuck out of me the first time I was back up there post-story. When returning to previous Van der Linde camps, muffled voices can be heard speaking lines mentioned prior on the story. This happens at every previous camp, not just Colter. But hearing flashback voices up there, at midnight, no wind, no wolf howls, owl hoots, or fox yelps, in the snow was a spooky first experience.
 
 ### Whispers in Roanoke Forests
 
