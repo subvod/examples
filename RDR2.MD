@@ -129,7 +129,7 @@ NPC | Loot
 Butcher Creek Residents<br>Murphy Brood | Currant<br>Sage<br>Ginseng<br>Violet Snowdrop<br>Burdock Root
 Night Folk<br>Skinner Brothers | Burdock Root
 
-### Blackjack, Bath, and Beyond
+### Bed, Bath, and Beyond
 
 Some businesses offer lodging, baths, table games, and/or dining. If a shop as two meals available, the less costly one will fully restore all cores while the more costly one will yield a gold health core. Completing the batch "minigame" (chore) will yield a gold stamina core.
 
@@ -383,30 +383,32 @@ Massive Game | Improved Arrow<br>Poison Arrow<br>Poison Throwing Knife<br>Rifle<
 - Also contrary to compendium entries, weather doesn't seem to make a damn difference.
 - You can attract all nearby fish by quick pressing RT. Do not use more than once unless the fish near your line aren't ones you want as flicking RT more than once while fish are near the bait/lure will scare them off.
 - The **Special Spinner** attracts all species of fish and all species will bite it. Everything from bluegill to northern pike. Once acquired, it is a permanent inventory item and cannot be lost due to cutting or snapping the line.
-- The **Special Lake/River/Swamp Lures** work great if you're shooting for only big/medium fish as small fish will not bite any of the three. These are also permanent inventory items.
+- **Lures** (both regular and special variants) work great if you're shooting for only big/medium fish as small fish will not bite any of them.
+- **Special Lures** are permanent inventory items and cannot be lost to a line snap.
+- **Special Lures** count as their regular counterparts in the **Compendium** Fish entries. As in, you can catch a **Channel Catfish** with either a **Regular** or **Special Swamp Lure** as both count towards 100% for that species. Regular baits (bread, corn, worms, etc) are not cross-compatible for **Compendium** completion.
 - If you dislike clutter and don't plan on using other types of baits/lures (worms, crayfish, crickets, regular lures), do not buy a whole lot of them as you have to manually lose them. There is no "discard" option in the satchel for these.
 - Push LS down to lower your rod. Keep it down while reeling when awaiting a bite. When you get a bite, pull LS back. This both sets the hook and pulls the fish in at the same time, giving you a head start right off the bat.
 - Continue using LS up and down to pull the fish in faster, unless you're a glutton for punishment. Reeling in fish like the **Legendary Muskie** are a bitch if you don't know about using LS to make faster progress. I learned the hard way, you needn't.
 - All fish have a specific pattern of nibbling/biting. Once you can recall what fish do what, you won't even need to use Eagle Eye to see what's down there.
 - When using any bait, after a number of nibbles and bites your bait will completely deteriorate and you'll have to reel in and rebait. Lures are not affected by numerous bites.
 
-Name | Active Weather | Favorite Bait | Bite Sequence<br>`N` = Nibble<br>`B` = Bite | Meat Type
-:--- | --- | --- | --- | ---
-Bluegill | Rain | Cheese | NB | Gritty
-Bullhead Catfish | Rain | Corn | NNNBB | Gritty
-Perch | Sunny | Bread | NB | Flaky
-Rock Bass | Sunny | Cheese | NBB | Flaky
-Chain Pickerel | Sunny | Corn | BNNB | Flaky
-Redfin Pickerel | Sunny | Bread | NBB | Flaky
-Smallmouth Bass | Rain | Cricket | NNBB | Flaky
-Largemouth Bass | Rain | Crayfish | BBBNB | Flaky
-Steelhead Trout | Rain | Worm | NBBB | Succulent
-Sockeye Salmon | Overcast | River Lure | BNB | Succulent
-Lake Sturgeon | Overcast | Lake Lure | NNNNBBBB | Flaky
-Muskie | Overcast | Lake Lure | BNBNBBB | Flaky
-Channel Catfish | Overcast | Swamp Lure | NNNB | Gritty
-Longnose Gar | Overcast | Swamp Lure | NNNNNNNB | Gritty
-Northern Pike | Overcast | River Lure | BBBBBB | Flaky
+Name | Active Weather | Favorite Bait | Area(s) | Bite Sequence<br>`N` = Nibble<br>`B` = Bite | Meat Type
+:--- | --- | --- | --- | --- | ---
+Bluegill | Rain | Cheese | Pretty much everywhere. | NB | Gritty
+Bullhead Catfish | Rain | Corn | Lagras, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (from west of **Lagras** to **Crawdad Willies**)<br>Lannaheechee River, Bayou Nwa, LE (east of **Lagras** | NNNBB | Gritty
+Perch | Sunny | Bread | Everywhere north of the **Upper Montana River** | NB | Flaky
+Rock Bass | Sunny | Cheese | Pretty much everywhere. | NBB | Flaky
+Chain Pickerel | Sunny | Corn | Pretty much everywhere. | BNNB | Flaky
+Redfin Pickerel | Sunny | Bread | Dakota River, Heartlands, NH (from **Little Creek River** mouth to **Bard's Crossing**<br>Upper Montana River, Big Valley, WE( from southeast of **Owanjila** to **Flat Iron Lake**<br>Ringneck Creek, Scarlett Meadows, LE<br>Kamassa River, Bayou Nwa, LE (west-northwest of **Bayall Edge**)<br>Kamassa River, Bluewater Marsh, LE (**Trapper's Cabin** to northeast of **Maclean's House**)<br>Lannaheechee River, Bayou Nwa, LE (east of **Lakay**)<br>Lannaheechee River, Scarlett Meadows, LE (south of **Shady Belle** to south of **Catfish Jacksons**)<br>Aurora Basin, Tall Trees, WE<br>Lower Montana River, Tall Trees, WE (the entire river)<br>Stillwater Creek, Hennigan's Stead, NA<br>San Luis River, Hennigan's Stead, NA (all the way to **Sea of Coronado**<br>Lake Don Julio, Rio Bravo, NA | NBB | Flaky
+Smallmouth Bass | Rain | Cricket | Lannahechee River, Bluewater Marsh, LE (from **Copperhead Landing** to **Van Horn Mansion**)<br>Lagras, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (from **Macomb's End** to east of **Hill Haven Ranch**)<br>Ringneck Creek, Scarlett Meadows, LE<br>Kamassa River, Bayou Nwa, LE (east of **Prinz & Co.**)<br>Lannahechee River, Scarlett Meadows, LE (southwest of **Shady Belle**)<br>Flat Iron Lake, Scarlett Meadows, LE (around shipwreck islands)<br>Dakota River, Heartlands, NH (northeast of **Painted Sky**)<br>Upper Montana River, Big Valley, WE<br>Lake Don Julio, Rio Bravo, NA | NNBB | Flaky
+Largemouth Bass | Rain | Crayfish | Kamassa River, Bluewater Marsh, LE (from **Houseboat** to **Fishing Spot**)<br>Canebreak Manor, Bluewater Marsh, LE (north of **Canebreak Manor**)<br>Kamassa River, Scarlett Meadows, LE (from west of **Bayall Edge** to north of **Caliga Hall**)<br>Lannahechee River, Bayou Nwa, LE (from **Crawdad Willies** to south of **Shady Belle**)<br>Flat Iron Lake, Scarlett Meadows, LE (around southern islands west of **Braithwaite Manor**)<br>Gill's Landing, Heartlands, NH (southwest of **Gill's Landing**)<br>Bard's Crossing, Heartlands, NH (from **Bard's Crossing** to southeast of **Lone Mule Stead**)<br>Upper Montana River, Big Valley, WE (south of **Fort Riggs**)<br>Aurora Basin, Tall Trees, WE<br>Stillwater Creek, Hennigan's Stead, NA | BBBNB | Flaky
+Steelhead Trout | Rain | Worm | Kamassa River, Roanoke Ridge, NH (from south of **Fort Brennand** to **Houseboat**)<br>Lannahechee River, Scarlett Meadows, LE (southwest and southeast of **Catfish Jacksons**)<br>Flat Iron Lake, Scarlett Meadows, LE (from **Clemens Point** to southeast of **Gill's Landing**)<br>Dakota River, Heartlands, NH (from **Limpany** to **Bard's Crossing**)<br>Quaker's Cove, Great Plains, WE<br>Lower Montana River, Tall Trees, WE (northwest of **Stillwater Creek**)<br>San Luis River, Hennigan's Stead, NA (from **Brittlebrush Trawl** to the base of **Manteca Falls**)<br>San Luis River, Gaptooth Ridge, NA (southeast of **Scratching Post**) | NBBB | Succulent
+Sockeye Salmon | Overcast | River Lure | Kamassa River, Roanoke Ridge, NH (from west of **Huron Glen** to east of **Maclean's House**)<br>O'Creagh's Run, Grizzlies East, AM<br>Dakota River, Cumberland Forest, NH (from **Bacchus Bridge** to north of **Chadwick Farm**)<br>Whinyard Strait, Grizzlies West, AM<br>Dakota River, Big Valley, WE (from **Cumberland Falls** to northwest of **Painted Sky**)<br>Little Creek River, Big Valley, WE (all west of **Watson's Cabin**)<br>Owanjila, Big Valley, WE (both the northwest side of **Owanjila** and creek feeding into it) | BNB | Succulent
+Lake Sturgeon | Overcast | Lake Lure | Lannahechee River, Bluewater Marsh, LE (southwest of **Copperhead Landing**)<br>Lagras, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (from **Siltwater Strand** to northeast of **Prinz & Co.**)<br>Flat Iron Lake, Heartlands, NH (all around **Gill's Landing**)<br>Flat Iron Lake, Great Plains, WE (south of 'H' in "WEST ELIZABET**H**") | NNNNBBBB | Flaky
+Muskie | Overcast | Lake Lure | Lannahechee River, Roanoke Ridge, NH (from **Van Horn Trading Post** to **Van Horn Mansion**)<br>Lannahechee River, Roanoke Ridge, NH (southeast of **Annesburg**<br>Kamassa River, Roanoke Ridge, NH (from **Willard's Rest** to **Feral Man's Cave**)<br>O'Creagh's Run, Grizzlies East, AM<br>Calumet Ravine, Grizzlies East, AM (to **Donner Falls**)<br>Lake Isabella, Grizzlies West, AM<br>Owanjila, Big Valley, WE | BNBNBBB | Flaky
+Channel Catfish | Overcast | Swamp Lure | Lannahechee River, Bayou Nwa, LE (east of **Lakay**)<br>Lagras, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (from **Maclean;s House** to **Prinz & Co.**) | NNNB | Gritty
+Longnose Gar | Overcast | Swamp Lure | Lagras, Bayou Nwa, LE<br>Bayall Edge, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (southeast of **Caliga Hall** to **Crawdad Willies**) | NNNNNNNB | Gritty
+Northern Pike | Overcast | River Lure | Lannahechee River, Roanoke Ridge, NH (north of **Van Horn Trading Post**)<br>Kamassa River, Roanoke Ridge, NH (from **Brandywine Drop** to southwest of **Beaver Hollow**)<br>Dakota River, Cumberland Forest, NH (from northwest of **Fort Wallace** to west of **Valentine**)<br>Cattail Pond, Grizzlies West, AM<br>Lake Isabella, Grizzlies West, AM | BBBBBB | Flaky
 
 ## Horses
 
@@ -459,9 +461,16 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 
 - grows only in **Rio Bravo, NA**.
 
+### Sparrow's Egg Orchid
+
+- NE of second 'O' in "RIO RRAV**O**"
+
 # ITEM LOCATIONS
 
-**NOTE:** items in containers (lockboxes, chests, cabinets, wardrobes, etc) will respawn regardless of rarity. Rare items (i.e. Aged Pirate Rum) do not respawn unless they're in a container. Respawnable items are bold.
+### Notes
+
+- Some information taken from [Chest & Lockbox Locatons](https://redd.it/9th89h/).
+- Items in containers (lockboxes, chests, cabinets, wardrobes, etc) will respawn regardless of rarity. Rare items (i.e. Aged Pirate Rum) do not respawn unless they're in a container. Respawnable items are bold.
 
 ### Ginseng Elixir
 
@@ -555,7 +564,7 @@ Northern Pike | Overcast | River Lure | BBBBBB | Flaky
 
 - Castor's Ridge, Heartlands, NH
 - Downes Ranch, Heartlands, NH
-- Van Horn (inside the trap house by the water)
+- Van Horn, Roanoke Ridge, NH (inside the trap house by the water)
 - Beecher's Hope, Great Plains, WE (after Epilogue II)
 
 ### Whiskey / Beer Case (Random Chance)
@@ -631,24 +640,23 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 - Horse Races: can be made unavailable if declined once; [Reddit post.](https://redd.it/9yq601)
 
 *Items:*
-- Classic Raccoon Mountain Hat: looted from Jon at **Smithfield's Saloon** in **Valentine**; unavailable after Chapter 6
-- Charity Handbill — On the table of Thomas Downes’ charity in Valentine, you get two chances: He shows up once before `Americans At Rest`, and once again after that- mission. His table ist outside of the new built house adjacent the **Valentine Stable**.
-- Dutch’s Speech Notes: Picked up in **Horseshoe Overlook** camp. (Can be missed if you don’t pick it up before you move to the next camp.)
-- Native American Ring: This is random camp encounter usually in the **Heartlands**, a guy will invite you to his camp, get drunk, reveal his past and pass out, loot him and you get the ring. Effects unknown.
-- John’s cattleman revolver: You can actually get these as Arthur in Chapter 2. Missions: `Paying a Social Call`, `The Sheep and the Goats`, `Pouring Forth Oil`. [Reference.](https://reddead.fandom.com/wiki/John%27s_Cattleman_Revolver#Acquisition)
-- Rare shotgun: **Manito Glade** a.k.a. Hermit Man’s shack
-- Jimmy's Pen: during `Polite Society, Valentine Style` only if you spare him; makes some (not all) journal entries more neatly printed; does not affect sketches)
-- Jack's Drawing: thimble request from Jack in chapter II) - u gotta wait a few in game days or hours for he drawing to show up on Arthur’s table.
-- Antique Watch: during/after `Money Lending and Other Sins II` from the Polish guy named *Wrobel*; you have to open the drawer with the watch, take other things until- debt is paid, then run away a bit to the point where **Wrobel** is despawned, then come back and get it
-- Old Brass Compass: you have to go back into **Sinclair’s Cabin** (not shown on the in-game map) immediately after `Geology for Beginners II` and get it
-- Micah Newspaper Clipping and Dutch's Wanted Poster: in **Micah's Camp** after `An American Pastoral Scene`
-- Bucket Hat: Workers at Appleseed Timber Co. before it gets deserted, best done during chapter II
-- Liberty Hat: during `An American Pastoral Scene` and stranger's mission `A Fine Night For it` during the second wave, may take a few retries before it spawns
-- Newsboy Flat Cap: `The Sheep and the Goats`, worn by Cornwall's men
-- Ornate Dagger: can be picked up after killing the Vampire in **Saint Denis** after investigating all **Mysterious Writings** around the city.
-- Flaco's Revolver, Granger's Revolver, Midnight's Pistol: picked up after killing the associated gunslingers during `The Noblest of Men, and a Woman` stranger missions
-- Jack's Drawing: see **Jack's Thimble Request** below
-- Scout Jacket: see **Pearson's Rabbit Request** below
+- **Classic Raccoon Mountain Hat**: looted from **Jon** at **Smithfields Saloon** in **Valentine**; unavailable after Ch. 6
+- **Charity Handbill**: on the table of **Thomas Downes’** charity in **Valentine**; he shows up once before `Americans At Rest`, and once again after that mission; his table is outside of the newly built house adjacent the **Valentine Stable**.
+- **Dutch’s Speech Notes**: picked up in **Horseshoe Overlook** camp; can be missed if you don’t pick it up before you move to the next camp
+- **Native American Ring**: This is random camp encounter usually in the **Heartlands**, a guy will invite you to his camp, get drunk, reveal his past and pass out; loot him and you get the ring; effects unknown
+- **John’s Cattleman Revolver**: You can actually get these as **Arthur** in Ch. 2 missions `Paying a Social Call`, `The Sheep and the Goats`, `Pouring Forth Oil` [Reference.](https://reddead.fandom.com/wiki/John%27s_Cattleman_Revolver#Acquisition)
+- **Rare Shotgun**: used by **Hermit Man** at **Manito Glade**
+- **Jimmy's Pen**: during `Polite Society, Valentine Style` only if you spare him; makes some (not all) journal entries more neatly written and darker; does not affect sketches)
+- **Jack's Drawing**: reward for Jack's item request (Thimble); request available only in Chapter 2; unlocks shortly after `A Fisher of Men`
+- **Antique Watch**: during/after `Money Lending and Other Sins II` from the Polish guy named **Wrobel**; you have to open the drawer with the watch, take other things until debt is paid, then run away a bit to the point where **Wrobel** is despawned, then come back and get it
+- **Old Brass Compass**: you have to go back into **Sinclair’s Cabin** (not shown on the in-game map) immediately after `Geology for Beginners II` and get it
+- **Micah Newspaper Clipping** and **Dutch's Wanted Poster**: in **Micah's Camp** after `An American Pastoral Scene`
+- **Bucket Hat**: worn by workers at **Appleseed Timber Co.** before it gets deserted; best done during Ch. 2
+- **Liberty Hat**: worn by enemies during `An American Pastoral Scene` and stranger mission `A Fine Night For it` during the second wave, may take a few retries before an enemy spawns wearing it
+- **Newsboy Flat Cap**: worn by Cornwall's men during `The Sheep and the Goats`
+- **Ornate Dagger**: can be picked up after killing the **Vampire** in **Saint Denis** after investigating all **Mysterious Writings** around the city
+- **Flaco's Revolver, Granger's Revolver, Midnight's Pistol, Calloway's Revolver**: picked up after killing the associated gunslingers during `The Noblest of Men, and a Woman` stranger missions
+- **Scout Jacket**: reward for **Pearson's** Rabbit request; he will be standing at his wagon drinking beer and whistling. Greet him to enable the request.
 
 *Item Requests:*
 - Jack: Thimble (for **Jack's Drawing**; randomly speaks with you after `A Fisher of Men`)
@@ -798,17 +806,17 @@ Riggs Station | Beaver<br>Bighorn<br>Chipmunk<br>Cougar<br>Elk<br>Goose<br>Grizz
 
 ### Orchids
 
-- **Orchids** are flowering plants which can be found sporadically around the entire map aside from **Great Plains, WE** and all of **New Austin**.
+- **Orchids** are flowering plants which can be found sporadically around the entire map aside from **Great Plains, WE** and all of **New Austin** (aside from a single **Sparrow's Egg Orchid** in **Rio Bravo, NA**).
 - After completing `Dutchesses and Other Animals`, you can collect the `Rare Orchids Order` from the board at any **Post Office**. This allows **Orchids** and **Heron/Egret/Spoonbill Plumes** to be mailed to **Algernon Wasp** for cash. **Gator Eggs** can be sold to the **Trapper**.
 
 **WARNING:** AFTER COMPLETING ALL STAGES OF `Dutchesses and Other Animals`, DO NOT SEND MORE THAN ONE ORCHID SPECIES AT A TIME. [More info here.](#unable-to-send-orchids-by-mail)
 
 Price | Orchid(s)
 :--- | ---
-15 | Dragon's Mouth
-14 | Night Scented<br>Moccasin Flower<br>Ghost<br>Clamshell
-11 | Sparrow's Egg<br>Lady of the Night<br>Cigar<br>Acuna's Star
-10 | Rat Tail<br>Queen's<br>Lady Slipper<br>
+$15.00 | Dragon's Mouth
+$14.00 | Night Scented<br>Moccasin Flower<br>Ghost<br>Clamshell
+$11.00 | Sparrow's Egg<br>Lady of the Night<br>Cigar<br>Acuna's Star
+$10.00 | Rat Tail<br>Queen's<br>Lady Slipper<br>
 
 # BUGS
 
@@ -1015,9 +1023,11 @@ You'll need enough alcohol to blackout to do this, and it works anywhere applica
 
 *This involves using third-party programs. Some recipies can be done seamlessly by holding A (on Xbox). For example, ammunition.*
 
-Want to stock up on crafted consumables? Download [CheatEngine](https://www.cheatengine.org/downloads.php). I use the RAR archive version which you don't have to join Patreon for; it doesn't come bundled with "optional" adware/bloatware like the installer does, but feel free to use what you want. Be sure to launch the 64-bit version of CheatEngine when using it in RDR2. Open "RDR2.exe" via the Open Process dialog and check "Enable Speedhack". You can adjust the speed as you see fit. When finished, uncheck the box to disable the speedhack.
+Download [CheatEngine](https://www.cheatengine.org/downloads.php). I use the RAR archive version which you don't have to join Patreon for; it doesn't come bundled with "optional" adware/bloatware like the installer does, but feel free to use what you want. Be sure to launch the 64-bit version of CheatEngine when using it in RDR2. Open "RDR2.exe" via the Open Process dialog and check "Enable Speedhack". You can adjust the speed as you see fit. When finished, uncheck the box to disable the speedhack.
 
 Sometimes, a glitch may occur where the crafting process of some items (seemingly random) will freeze halfway through. I use 500x speed and travel near Colter when doing this, which seems to lower the chance of this happening.
+
+I have not found a concrete way to alter item counts with CheatEngine. Looking into editing save files.
 
 ### Duplicate journal sketches.
 
@@ -1030,6 +1040,8 @@ Some POIs can be sketched as both Arthur and John (meaning two journal sketches 
 - Strange Statues
 
 # EASTER EGGS
+
+Many sourced from the [Red Dead Fandom](https://reddead.fandom.com/wiki/Easter_Eggs_%26_Secrets_in_Redemption_2).
 
 ### KKK
 
