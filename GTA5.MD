@@ -8,15 +8,15 @@
 
 # TABLE OF CONTENTS
 
-[UNIQUE VEHICLES](#unique-vehicles)
-&emsp;[Epsilon Variant Color](#epsilon-variant-color)
-&emsp;[Random Purchase Colors](#random-purchase-colors)
-[RARE VEHICLES](#rare-vehicles)
-&emsp;[Regular Vehicles](#regular-vehicles)
-&emsp;[NPC-Modified Vehicles](#npc-modified-vehicles)
-&emsp;[Sandking XL](#sandking-xl)
-&emsp;[Beach Bum Update Vehicles](#beach-bum-update-vehicles)
-&emsp;[Gang Vehicles](#gang-vehicles)
+[UNIQUE VEHICLES](#unique-vehicles)<br>
+&emsp;[Epsilon Variant Color](#epsilon-variant-color)<br>
+&emsp;[Random Purchase Colors](#random-purchase-colors)<br>
+[RARE VEHICLES](#rare-vehicles)<br>
+&emsp;[Regular Vehicles](#regular-vehicles)<br>
+&emsp;[NPC-Modified Vehicles](#npc-modified-vehicles)<br>
+&emsp;[Sandking XL](#sandking-xl)<br>
+&emsp;[Beach Bum Update Vehicles](#beach-bum-update-vehicles)<br>
+&emsp;[Gang Vehicles](#gang-vehicles)<br>
 [SECURITY VANS](#security-vans)
 
 # UNIQUE VEHICLES
