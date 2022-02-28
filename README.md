@@ -6,6 +6,8 @@
 
 [RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). - Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc.
 
+[GTA5.MD](https://github.com/subvod/examples/blob/master/GTA5.MD) - Notes on single player GTA V. Rare vehicles, unique vehicles, NPC-modified vehicles, etc.
+
 [TCGRW.MD](https://github.com/subvod/examples/blob/master/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**.
 
 [ASUS ROG Zephyrus GA401QM (2021 G14) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the **2021 ASUS G14** because I'm a fucking normie piece of shit.
@@ -20,11 +22,9 @@
 
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Alternative to CCleaner because Avast fucked it up.
 - [7-Zip](https://www.7-zip.org/) - File compression and archiving. I was a WinRAR fanboy for over a decade. Why? No clue. [[Source Code]](https://sourceforge.net/projects/sevenzip/) ; use LZMA2 for binary/images, PPMd for plaintext.
-- [Calibre](https://calibre-ebook.com/) - view and manage ebooks from desktop. [[Docs]](https://manual.calibre-ebook.com/) [[Source Code]](https://github.com/kovidgoyal/calibre)
 - [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive isn't bundled with "optional" bloatware/adware. [[Backup]](https://www.mediafire.com/file/vc97e7249287jdd) [[Source Code]](https://github.com/cheat-engine/cheat-engine)
 - [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
 - [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
-- [Olly](https://www.ollydbg.de/) - x86 assembly-level debugger.
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - universal CLI.
 - [MediaFire](https://mediafire.com/) - file upload and cloud storage.
 - [windscribe](https://windscribe.com/) - VPN with a free plan offering 10GB per month. No, I am not sponsored by these folks.
@@ -45,12 +45,14 @@
 - [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet. Lossy, but it's a witchcrafty compression algorithm. [[Docs]](https://opus-codec.org/docs/) [[Source Code]](https://gitlab.xiph.org/xiph/opus-tools)
 - [VLC](https://www.videolan.org/) - Media player. [[Docs]](https://wiki.videolan.org/documentation:documentation/) [[Source Code]](https://github.com/videolan/vlc)
 - [Audacity](https://www.audacityteam.org/) - Audio editor. [[Docs]](https://manual.audacityteam.org/) [[Source Code]](https://github.com/audacity/audacity)
+- [LosslessCut](https://github.com/mifi/lossless-cut) - The Swiss army knife of lossless audio/video editing.
 
 *Articles:*
 
 - RIAA's [failed attempt to shut down youtube-dl](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/). :)
 - Automate the [downloading and conversion/extraction of audio/video](https://github.com/subvod/examples/blob/master/youtube-dl.MD) using **youtube-dl** and **ffmpeg**.
 - A video comparison of [MP3, M4A, AAC-LC, AAC-HE v1, AAC-HE v2, and Opus codecs](https://youtu.be/3B6pr6-YVyM). No commentary. Includes separate tracks for the data lost with each codec, as well as the original `WAV` as a control.
+- [Trim OPUS audio losslessly](https://hydrogenaud.io/index.php?topic=113498.0) using **ffmpeg** and **LosslessCut**.
 
 ### Image
 
@@ -78,6 +80,7 @@
 *Word Processors:*
 
 - [LibreOffice](https://www.libreoffice.org/) - collection of alternatives for MS Office. [[Docs]](https://documentation.libreoffice.org/en/english-documentation/) [[Source Code]](https://www.libreoffice.org/about-us/source-code/)
+- [Calibre](https://calibre-ebook.com/) - view and manage ebooks from desktop. [[Docs]](https://manual.calibre-ebook.com/) [[Source Code]](https://github.com/kovidgoyal/calibre)
 
 *Text/Code Editors:*
 
@@ -86,6 +89,7 @@
 
 *References:*
 
+- [List of Latin Abbreviations](https://en.wikipedia.org/wiki/List_of_Latin_abbreviations) on Wikipedia.
 - [Search by Regular Expressions in Notepad++](https://npp-user-manual.org/docs/searching/#regular-expressions).
 - You can add fonts for just **LibreOffice** in `<LibreOffice_InstallDirectory>\program\resource\common\fonts`.
 
@@ -100,7 +104,7 @@
 - [ViolentMonkey](https://violentmonkey.github.io/) - Control how webpages operate using JavaScript "userscripts". Alternative for GreaseMonkey. [[Source Code]](https://github.com/violentmonkey/violentmonkey)
 - [PageHacker](https://addons.mozilla.org/en-US/firefox/addon/page-hacker/) - an interactive "Inspect Element".
 - [UBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - efficient, wide-spectrum content blocker.
-- [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) - HLS/DASH/HDS/MSS stream detector. [[Source Code]](https://github.com/rowrawer/stream-detector)
+- [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) - HLS/DASH/HDS/MSS stream detector. Pinpoints `.m3u8` playlists from streams. [[Source Code]](https://github.com/rowrawer/stream-detector)
 - [YouTube Video and Audio Downloader](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/) - WebX downloader with UI integrated to YouTube's.
 - [pdf.js](https://github.com/mozilla/pdf.js) - mirror of PDF reader included with Firefox installs.
 
@@ -163,18 +167,20 @@
 *References:*
 
 - [Design of CPython's Compiler](https://devguide.python.org/compiler/). Referenced from [this StackOverflow post](https://stackoverflow.com/a/19917906).
-- `dis`, the [bytecode disassembler module](https://docs.python.org/3/library/dis.html).
-- `py_compile`, [bytecode compiler module](https://docs.python.org/3/library/py_compile.html).
+- [dis](https://docs.python.org/3/library/dis.html) - bytecode disassembler module
+- [py_compile](https://docs.python.org/3/library/py_compile.html) - bytecode compiler module
 
 *Articles:*
 
 - Piping and executing [external commands in Python](https://stackoverflow.com/a/5486820).
+- Discussion on the [Python compilation/interpretation process](https://stackoverflow.com/q/3299648).
 
 ### Assembly (ASM)
 
 *Tools:*
 
 - [FASM](https://flatassembler.net/) - flat assembler for 32 and 64-bit code. [[Docs]](https://flatassembler.net/docs.php) [[Examples]](https://flatassembler.net/examples.php)
+- [Olly](https://www.ollydbg.de/) - x86 assembly-level debugger.
 
 *Articles:*
 
@@ -251,7 +257,6 @@
 *Articles:*
 
 - [Edit/Preview Markdown in VS Code](https://code.visualstudio.com/docs/languages/markdown) - tutorial/reference.
-- [Markdown via VS Code](https://code.visualstudio.com/docs/languages/markdown) - how to edit and preview Markdown in VS Code.
 
 ## Security
 
@@ -261,42 +266,7 @@
 
 ## Game-Specific Stuff
 
-### Grand Theft Auto V
-
-*Tools:*
-
-- [ScriptHookV](http://www.dev-c.com/gtav/) - ScriptHookV base. SDK for development of C++ plugins available on the same page.
-- [CodeWalker](https://github.com/dexyfex/CodeWalker) - Interactive map editor. Discord server serves latest downloads (invite link on [GTA5-Mods](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)). [[Backup v30-dev36]](https://www.mediafire.com/file/382gfs26a40rivs/)
-- [OpenIV](https://openiv.com/) - Open and edit RAGE `.rpf` archives. (GTA IV, GTA V, RDR 2, etc).
-
-*Mods:*
-
-- [MenyooSP](https://github.com/MAFINS/MenyooSP) - SP trainer.
-- [Enhanced Native Trainer](https://www.gta5-mods.com/scripts/enhanced-native-trainer-zemanez-and-others) - SP trainer with integrated fuel mod, among many other external mods/features.
-- [Enable All Interiors](https://www.gta5-mods.com/scripts/enable-all-interiors-wip) - merge project of existing interior mods.
-- [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions. [[Source Code]](https://github.com/I-E-A-I-A-I-O/VigilanteMissions)
-- [LemonUI](https://www.gta5-mods.com/tools/lemonui) - UI framework for GTA V. Intended to replace NativeUI. [[Source Code]](https://github.com/justalemon/LemonUI)
-- [Rainbomizer](https://gtaforums.com/topic/974412-v-rainbomizer/) - Configurable randomizer collection. [[Source Code]](https://github.com/Parik27/V.Rainbomizer)
-
-*Articles:*
-
-- [Enable/disable backfire](https://forums.gta5-mods.com/topic/24300/exhaust-backfire-disable/2) via mods using OpenIV.
-
-### Red Dead Redemption 2
-
-*Tools/Mods:*
-
-- [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base. SDK for development of C++ plugins available on the same page.
-- [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer.
-
-*References:*
-
-- [rdr2-maps](https://github.com/subvod/rdr2-maps) - A collection of maps showing locations of places to sit, enemy encounters, and rare animals.
-- [RDR2Mods](https://www.rdr2mods.com/) - focused around RDR2 modding. Wiki with databases, tutorials, and references (including hash IDs). [[Wiki]](https://www.rdr2mods.com/wiki/)
-- [RDOMap](https://jeanropke.github.io/RDOMap/) - Red Dead Online interactive map.
-- [Complete Map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) - Story mode map with all discoverable animal icons and location names.
-
-### Homeworld 1, Cataclysm, 2, and/or Remastered
+### Homeworld Remastered
 
 *Tools:*
 
@@ -308,12 +278,13 @@
 - [Common Controls](https://www.mediafire.com/file/y8c6o4omi9ah06r) - External libraries req'd by some old HW1, Cata, and HW2 tools.
 - [CFLuaDC](https://www.mediafire.com/file/gljt3lb0ik97l02) - 4E354B's Lua decompiler.
 - [HW2CDRP](https://www.mediafire.com/file/csulrdwbosymob7) - **HW2 C**lean **D**ata **R**esource **P**roject. (Decompiled data archive.)
-- [No-CD Patches](https://www.mediafire.com/file/sm4wb37gj4pzl9d) - Backup of English and German game engine v1.1 patches. (Hw2 Classic only.)
+- [No-CD Patches](https://www.mediafire.com/file/sm4wb37gj4pzl9d) - Backup of **(original HW2)** English and German game engine v1.1 patches.
 - [HomeworldSDL](https://github.com/aheadley/homeworld) - source code for HW1's game engine.
 
 *Mods:*
 
 - [Complex Simple (Simplex)](https://www.moddb.com/mods/homeworld-2-complex-simple) - Massive mod based on the Complex mod. [Siliconworm](https://www.moddb.com/members/m-o-m) has made it clear that he will not adapt the mod to HWR because "reasons".
+- [Tactical Fleet Simulator](https://www.moddb.com/mods/tactical-fleet-simulator) - Transforms Homeworld2 into a tactics-oriented strategy game.
 - [R.E.A.R.M.](https://www.moddb.com/mods/rearm) - **R**earmament **E**xpansion **A**nd **R**edesign **M**od for Hw2 classic. [R.E.A.R.M. V2](https://www.moddb.com/mods/rearm-v2) is adapted to HWR, but it seems [Pouk](https://www.moddb.com/members/pouk) hasn't made significant progress in a very long time.
 - [Homeworld 2 Complex](https://www.moddb.com/mods/homeworld-2-complex) - Complex mod, originally developed for Hw2 classic. [Complex Remastered](https://www.moddb.com/mods/homeworld-complex/downloads) is the adapted to HWR.
 
@@ -341,12 +312,13 @@
 - [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Docs]](https://www.smwcentral.net/?p=section&s=documents) [[ROM Hacks]](https://www.smwcentral.net/?p=section&s=smwhacks)
 - [FuSoYa's Niche](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think [FuSoYa](https://www.smwcentral.net/?p=profile&id=9435) has moved most everything to SMWCentral.
 
-### Pokemon Gen 1 and 2 (RBYGSC)
+### Pokemon Gens I-IV
 
 *Tools:*
 
 - [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m) - merge project of all VBA branches; GB/GBC/GBA emulator.
-- [TGB Dual L](https://github.com/libertyernie/tgbdual_L) - Updated builds of TGB Dual, a GBC emulator which implements link cable emulation.
+- [TGB Dual L](https://github.com/libertyernie/tgbdual_L) - Updated builds of TGB Dual, a GB/GBC emulator which supports link cable emulation.
+- [DeSmuME](http://desmume.org/download/) - Nintendo DS emulator. Nightly builds are current.
 - [RGBDS](https://github.com/gbdev/rgbds) - **R**ednex **G**ame**B**oy **D**evelopment **S**ystem.
 - [pokeemerald](https://github.com/pret/pokeemerald) - decompilation of Pokemon Emerald.
 - [pokecrystal](https://github.com/pret/pokecrystal) - disassembly of Pokemon Crystal.
@@ -354,10 +326,9 @@
 
 *References:*
 
-- [Pkmn Crystal Guide](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13668)
-- [Pkmn Crystal GS Codes](https://gamefaqs.gamespot.com/gbc/375087-pokemon-crystal-version/faqs/13410)
-- [Pkmn Yellow Guide](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/64175)
-- [Pkmn Yellow GS Codes](https://gamefaqs.gamespot.com/gameboy/198314-pokemon-yellow-version-special-pikachu-edition/faqs/6618)
+- [GameFAQs](https://gamefaqs.gamespot.com/) - Walkthroughs, reference docs, cheat codes, glitches, etc.
+- [Bulbapedia](https://bulbapedia.bulbagarden.net/) - Walkthroughs, wiki, reference docs, glitches, etc.
+- [Serebii](https://www.serebii.net/) - Reference docs.
 - [IIMarckus's Site](https://iimarckus.org/) - the brains behind the PRET disassemblies.
 
 ### Minetest
