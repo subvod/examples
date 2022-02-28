@@ -15,6 +15,7 @@
 &emsp;[Sandking XL](#sandking-xl)<br>
 &emsp;[Beach Bum Update Vehicles](#beach-bum-update-vehicles)<br>
 &emsp;[Gang Vehicles](#gang-vehicles)<br>
+&emsp;[Neons Only](#neons-only)<br>
 [SECURITY VANS](#security-vans)<br>
 [CONVERTIBLES](#convertibles)
 
@@ -90,7 +91,7 @@ Below are vehicles which are rare, but not missable. The type of vehicle being d
 
 When approaching any known spawn of significant rarity, drive slowly. I've found maintaining 20 mph and just barely touching the throttle works best.
 
-### REGULAR VEHICLES
+### Regular Vehicles
 
 These are regular vehicles, just highly localized and/or generally hard to find.
 
@@ -115,7 +116,7 @@ Truffade | Adder | In front of **Sessanta Nove** on **Portola Drive** in **Rockf
 Vapid | Liberator | **Rebel Radio Tower** in **Grand Senora Desert**. 
 Vapid | Stretch<br>(Pink) | This unique variant spawns only here and at night. In front of **Cockatoos** night club on the southwest side of the intersection at **Hawick Avenue** and **Eastbourne Way** on the eastern edge of **Rockford Hills**.
 
-### NPC-MODIFIED VEHICLES
+### NPC-Modified Vehicles
 
 These spawn pre-modified in two or more variants of each.
 
@@ -123,6 +124,7 @@ Make | Model
 :--- | ---
 Albany | Alpha
 Bravado | Gauntlet
+Bravado | Rat-Truck
 Benefactor | Dubsta2
 Benefactor | Feltzer
 Benefactor | Glendale
@@ -147,6 +149,7 @@ Ubermacht | Sentinel
 Ubermacht | Sentinel XS
 Vapid | Blade
 Vapid | Dominator
+Vapid | Sandking XL
 Vulcar | Warrener
 
 Location | Time | Vehicle(s) | Details
@@ -184,11 +187,26 @@ Rockford Hills | - | Dubsta<br>Rhapsody | Driving out of **Didiersachs** undergr
 Rockford Hills | 10:00-18:00 | Pigalle | Driving west along **Boulevard Del Perro** past the **Rockford Hills Sign**.
 Vinewood Hills | 06:00-12:00 | Massacro | Parked in front of (open) garage door at **6085 Milton Road**. Just east of intersection with **Mount Vinewood Drive**.
 Great Chaparral | 22:00-00:00 | Dominator<br>Ruiner<br>Sabre Turbo | One vehicle parked on west side of **Ammu-Nation** on **Route 68**. Another NPC-modified vehicle is driving west, pulls in, and parks next to the stationary vehicle. Two NPC drivers exit the vehicles and smoke/chat. The vehicles at random, but sometimes it will be two variants of the same base vehicle.
+Tongva Hills | - | Sandking XL | Driving west on **Route 68**. Spawns somwhere near the **RON** fuel station south of **Lago Zancudo** (marsh flats). Turns left onto **Great Ocean Highway** southbound.
+Grand Senora Desert | - | Sandking XL | Grand Senora Desert | Parked in the lot of **Larry's RV Sales** on **Route 68** (across from **Los Santos Customs**).
+Grapeseed | 12:00-18:00 | Rat-Loader | Driving out of the **Ltd** Fuel Station in **Grapeseed**, headed northeast on **Grapeseed Main Street**.
 Raton Canyon | - | - | Driving south across the **Cassidy Creek Bridge**.
 Mount Gordo | - | Ruiner<br>Sabre Turbo | Driving west on feeder road (north side of **Great Ocean Highway**), past **Up 'n' Atom Diner** restaurant, then merging onto **Great Ocean Highway** westbound.
-Grapeseed | 12:00-18:00 | Rat-Loader | Driving out of the **Ltd** Fuel Station in **Grapeseed**, headed northeast on **Grapeseed Main Street**.
+Paleto Bay | - | Sandking XL | I swear I've run across more than one somewhere around Paleto. Unconfirmed until I do.
+Paleto Bay | - | Rat-Truck | Parked outside **Beeker's Garage**.
 
-### NEONS ONLY
+### Gang Vehicles
+
+All gangs have their own colors painted onto their cars. Families' color is green, Ballas purple, Vagos yellow. Families are at the northern end of **Grove Street** in **Chamberlain Hills**. Ballas are at the southern end of **Grove Street**, also in **Chamberlain Hills**. Vagos are at the southwest end of **Jamestown Street** in **Rancho**. All gang vehicles spawn with the same upgrades, only the paint is different:
+
+- Vapid Peyote
+- Declasse Tornado
+- Albany Manana
+- Albany Buccaneer
+
+Regular variants of each can be obtained at the bus junkyard on the intersection of **South Shambles Street** and **Hanger Way** in **El Burro Heights**. This location works most often at night, and the vehicles will not have any upgrades. Non-gang variants (with upgrades) can be found at **Olson's Autos** on **El Rancho Boulevard** in **Cypress Flats**. The vehicles found here have the same upgrades, but no specific paintjob.
+
+### Neons Only
 
 These vehicles spawn with just neons installed.
 
@@ -196,16 +214,6 @@ Location | Time | Vehicle(s) | Details
 :--- | --- | ----- | ---
 Richman | 17:00-18:00 | Sabre Turbo | Driving south on **North Rockford Drive**. Pulls into driveway of fourth house north from **Kortz Drive**.
 Vinewodd | 20:00 | Peyote | Parked at **Liquor Hole** (across from **Tequi-La-La**) on **Eclipse Boulevard**.
-
-### SANDKING XL
-
-If you're driving any truck or van, these spots are likely to spawn an NPC-modified **Sandking XL**. There are two variants: one is yellow, and the other blue. Both can spawn at any location listed below.
-
-Location | Details
-:--- | ---
-Grand Senora Desert | Parked in the lot of **Larry's RV Sales** on **Route 68** (across from **Los Santos Customs**).
-Tongva Hills | Driving west on **Route 68**. Spawns somwhere near the **RON** fuel station south of **Lago Zancudo** (marsh flats). Turns left onto **Great Ocean Highway** southbound.
-Paleto Bay | I swear I've run across more than one somewhere around Paleto. Unconfirmed until I do.
 
 ### BEACH BUM UPDATE VEHICLES
 
@@ -223,17 +231,6 @@ Del Perro | Parked afront brown house with green window trim, green garage doors
 Banham Canyon | Parked on beach at the northernmost end of **Banham Canyon**.
 Banham Canyon | Parked on shoulder of **Great Ocean Highway**. Driven southbound onto **Inseno Road**.
 Chumash | Parked afront orange house on southern end of **Barbareno Road**. 10:00
-
-### GANG VEHICLES
-
-All gangs have their own colors painted onto their cars. Families' color is green, Ballas purple, Vagos yellow. Families are at the northern end of **Grove Street** in **Chamberlain Hills**. Ballas are at the southern end of **Grove Street**, also in **Chamberlain Hills**. Vagos are at the southwest end of **Jamestown Street** in **Rancho**. All gang vehicles spawn with the same upgrades, only the paint is different:
-
-- Vapid Peyote
-- Declasse Tornado
-- Albany Manana
-- Albany Buccaneer
-
-Regular variants of each can be obtained at the bus junkyard on the intersection of **South Shambles Street** and **Hanger Way** in **El Burro Heights**. This location works most often at night, and the vehicles will not have any upgrades. Non-gang variants (with upgrades) can be found at **Olson's Autos** on **El Rancho Boulevard** in **Cypress Flats**. The vehicles found here have the same upgrades, but no specific paintjob.
 
 # SECURITY VANS
 
