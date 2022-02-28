@@ -213,7 +213,7 @@ These vehicles spawn with just neons installed.
 Location | Time | Vehicle(s) | Details
 :--- | --- | ----- | ---
 Richman | 17:00-18:00 | Sabre Turbo | Driving south on **North Rockford Drive**. Pulls into driveway of fourth house north from **Kortz Drive**.
-Vinewodd | 20:00 | Peyote | Parked at **Liquor Hole** (across from **Tequi-La-La**) on **Eclipse Boulevard**.
+Vinewood | 20:00 | Peyote | Parked at **Liquor Hole** (across from **Tequi-La-La**) on **Eclipse Boulevard**.
 
 ### BEACH BUM UPDATE VEHICLES
 
