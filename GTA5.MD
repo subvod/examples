@@ -6,6 +6,12 @@
 
 # TABLE OF CONTENTS
 
+[MODS](#mods)<br>
+&emsp;[Tools](#tools)<br>
+&emsp;[Trainers](#trainers)<br>
+&emsp;[Quality Control](#quality-control)<br>
+&emsp;[Gameplay Mods](#gameplay-mods)<br>
+&emsp;[References](#references)<br>
 [UNIQUE VEHICLES](#unique-vehicles)<br>
 &emsp;[Epsilon Variant Color](#epsilon-variant-color)<br>
 &emsp;[Random Purchase Colors](#random-purchase-colors)<br>
@@ -18,6 +24,40 @@
 &emsp;[Neons Only](#neons-only)<br>
 [SECURITY VANS](#security-vans)<br>
 [CONVERTIBLES](#convertibles)
+
+# MODS
+
+### Tools
+
+- [ScriptHookV](http://www.dev-c.com/gtav/) - Allows scripts written in C++ to be run. SDK for development of C++ plugins available on the same page.
+- [ScriptHookVDotNet](https://github.com/crosire/scripthookvdotnet) - Allows scripts written in any .NET language to be run.
+- [CodeWalker](https://github.com/dexyfex/CodeWalker) - Interactive map editor. Discord server serves latest downloads (invite link on [GTA5-Mods](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)). [[Backup v30-dev36]](https://www.mediafire.com/file/382gfs26a40rivs/)
+- [OpenIV](https://openiv.com/) - Open and edit RAGE `.rpf` archives. (GTA IV, GTA V, RDR 2, etc).
+- [LemonUI](https://www.gta5-mods.com/tools/lemonui) - UI framework for GTA V. Intended to replace NativeUI. [[Source Code]](https://github.com/justalemon/LemonUI)
+
+### Trainers
+
+- [MenyooSP](https://github.com/MAFINS/MenyooSP) - SP trainer.
+- [Enhanced Native Trainer](https://www.gta5-mods.com/scripts/enhanced-native-trainer-zemanez-and-others) - SP trainer.
+- [RampageTrainer](https://www.gta5-mods.com/scripts/rampage-trainer) - SP trainer.
+
+### Quality Control
+
+- [Map Fixes](https://www.gta5-mods.com/maps/map-fixes) - fixes a ton of map errors.
+
+### Gameplay Mods
+
+- [Fuel Reloaded](https://www.gta5-mods.com/scripts/fuel-mod-reloaded-fuel-in-all-vehicle-types-electric-cars-charge-at-home-rpm-based-and-more) - Fuel mod with 4 consumption types and 8 vehicle types. Almost fully customizeable.
+- [Railroad Engineer](https://www.gta5-mods.com/scripts/railroad-engineer) - Control trains and trams.
+- [Enable All Interiors](https://www.gta5-mods.com/scripts/enable-all-interiors-wip) - Merge project of existing interior mods.
+- [Remastered Atlas](https://www.gta5-mods.com/misc/atlas-colored-map-16k-that-also-works-in-radar) - Colorized pause menu and radar maps.
+- [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions. [[Source Code]](https://github.com/I-E-A-I-A-I-O/VigilanteMissions)
+- [Rainbomizer](https://gtaforums.com/topic/974412-v-rainbomizer/) - Configurable randomizer collection. [[Source Code]](https://github.com/Parik27/V.Rainbomizer)
+
+### References
+
+- [Enable/disable backfire](https://forums.gta5-mods.com/topic/24300/exhaust-backfire-disable/2) via mods using OpenIV.
+- [Weapon, med kit, and armor locations](https://gtaforums.com/topic/696088-weapons-locations/), all compiled nice and neat.
 
 # UNIQUE VEHICLES
 
