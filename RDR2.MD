@@ -16,7 +16,7 @@
 <br>[BUGS](#bugs)
 <br>[GLITCHES](#glitches)
 <br>[EASTER EGGS](#easter-eggs)
-<br>[MISCELLANEOUS](#miscellaneous)
+<br>[MISCELLANEOUS](#miscellaneous) (Mods and such.)
 
 # SURVIVING IN THE WILDERNESS
 
@@ -26,20 +26,20 @@ You're better off with a horse, but it's certainly possible to survive on your o
 
 The game has dynamic weather and it will change based upon where you're at.
 
-Weather | Description
-:--- | ---
-Clear (Sunny) | Largely open skies with a few clouds here and there.
-Overcast | Solid layer of clouds across the sky with no Sun peeking through.
-Rain | Slight temperature drop.
-Thunder | Dry thunderstorm with lightning and thunder, but no rain. Slight temperature drop.<br>More common in **Great Plains, WE** and all of **New Austin**.
-Thunderstorm | Heavy rain with lightning and thunder.
-Hurricane | Strong wind and heavy rain. Fast-moving cloud cover across the sky.<br>Exclusive to the entire state of **Lemoyne** and eastern **Heartlands, NH**.
-Sleet | Freezing rain. Occasional gusts.<br>More common in **Big Valley, WE** and western **Heartlands, NH**.
-Blizzard (Whiteout) | Crazy temperature drop. Super low visibility.<br>Exclusive to the northwestern portion of **Grizzlies West, AM** (high mountains).
-Windy | Leaves and other animated particles flying around. Audible wind.<br>Usually indicative of a storm ahead.
-Fog | Cloud cover moves close to ground. Very low visibility.<br>More common in **Bayou Nwa, LE**, **Bluewater Marsh, LE**, and **Roanoke Ridge, NH**.
-Mist | Very light rain, almost like fog. Low visibility.<br>More common in early morning.
-Dust Storm | Strong wind, thick dust. Super low visibility. <br>Exclusive to all regions of **New Austin** except **Hennigan's Stead, NA**.
+Weather | Effects | Location(s)
+:--- | --- | ---
+Clear (Sunny) | Mostly clear with a few clouds here and there. | Everywhere.
+Overcast | Solid layer of cloud cover. | Everywhere except New Austin.
+Rain | Visible rain. | Everywhere.
+Thunder | Just lightning/thunder, no rain. | Everywhere.
+Thunderstorm | Heavy rain with lightning and thunder. | Everywhere.
+Hurricane | Strong wind and heavy rain. | State of Lemoyne<br>Heartlands, NH
+Sleet | Freezing rain. Occasional gusts. | Big Valley, WE<bt>Heartlands, NH<br>Roanoke Ridge, NH
+Blizzard (Whiteout) | High winds. Heavy snow. Super low visibility. | Northwestern portion of **Grizzlies West, AM** (high mountains).
+Windy | Leaves and other animated particles flying around. Audible wind. Usually indicative of a storm ahead. | Everywhere.
+Fog | Very low visibility. | Bayou Nwa, LE<br>Bluewater Marsh, LE<br>Roanoke Ridge, NH
+Mist | Low visibility. More common in early mornings.
+Dust Storm | Strong wind. Super low visibility.| All regions of **New Austin** except **Hennigan's Stead, NA**.
 
 ### Killing, Skinning, and Cooking
 
@@ -122,7 +122,7 @@ All land snakes. | Flee, warning, bite.
 
 ### Looting plants and skins from NPCs.
 
-If you don't care about honor, some NPCs have a chance to be holding small animal skins (random quality and species). Some, less-random NPCs have a chance of holding 2-4 of a certain plant when looted:
+If you don't care about honor, some NPCs have a chance to be holding small animal skins (random quality and species). These are primarily hunters found out in the wilderness. An easy-to-spot event is a hunter placing a carcass on their horse. Fishing NPCs have the same property. Some less-random NPCs have a chance of holding 2-4 of a certain plant when looted:
 
 NPC | Loot
 :--- | ---
@@ -139,6 +139,7 @@ Business | Amenities
 **Keane's Saloon**<br>Valentine, Heartlands NH | Oatmeal
 **Smithfield's Saloon**<br>Valentine, Heartlands, NH | Poker<br>Beef Stew<br>Lamb's Fry with green peas and boiled potatoes.
 **Saints Hotel**<br>Valentine, Heartlands, NH | Room<br>Bath
+**Wallace Station**<br>Big Valley, WE | Wardrobe
 **Old Light Saloon**<br>Van Horn, Roanoke Ridge, NH | Blackjack<br>Fish Stew<br>Lamb's Heart with boiled cabbage.
 **Van Horn Post Station**<br>Van Horn, Roanoke Ridge, NH | Room<br>Bath
 **Rhodes Parlour House**<br>Rhodes, Scarlett Meadows, LE | Blackjack<br>Cracked Wheat and Milk<br>Fried Catfish with greens and boiled beans.
@@ -168,17 +169,17 @@ Honor | Effect
 
 # GENERAL TIPS AND TRICKS
 
-### Own up to five (5) horses at a time.
+### How many horses can I own?
 
-Up to four horses can be stabled, with a fifth as a "temporary" horse anywhere outside of the Stable.
+Up to four horses can be stabled, with a fifth as a "temporary" horse anywhere outside of the Stable. Temporary horses will have a horse head icon (with no bit) on the main map and minimap. Your main (saddle) horse will have the same icon but with a bit and harness. When you reach bonding level 1 with a new horse, your temporary horse will despawn automatically if it's far enough away.
 
-### How to tame wild horses.
+### How to tame wild horses?
 
-After hopping on, hold the stick in the opposite direction of where the horse is turning. If it's turning left, hold LS to the right. It's turning right, hold LS to the left.
+After hopping on, hold the stick in the opposite direction of where the horse is turning. If it's turning left, hold LS to the right. It's turning right, hold LS to the left. The backwards and forwards movements aren't needed, just left to right.
 
 ### Testing tonics.
 
-Ever wondered if Special Tonics are really better than Potent Tonics? Below is data gathered from testing **Potent Tonics** against their **Special** variants. Testing was done by sprinting or entering dead eye right after consuming the associated items. Time was clocked when the bar was fully used up and the gold core fully depleted.
+Testing **Potent Tonics** against their **Special** variants was done by sprinting or entering dead eye right after consuming the associated items. Time was clocked when the bar was fully used up and the gold core fully depleted.
 
 **Stamina**
 1. Oregano Big Game + Special Bitters
@@ -194,15 +195,18 @@ Ever wondered if Special Tonics are really better than Potent Tonics? Below is d
 
 As you can see, **Special Bitters** makes a bit of a difference, where as **Special Snake Oil** does fairly little in terms of better fortification. Overall, if you're short on materials, bought/crafted Potent tonics will do just fine in most situations.
 
-### How to max weapon familiarity fast.
+### How to max weapon familiarity fast?
+
+Yes, it's a thing and if you'd never seen it on the Compendium for each weapon you'd never know of it. Familiarity affects all stats, and the more familiar you are with a weapon, the better shot you become with it.
 
 - Use dead eye to get headshots.
 - If avoiding law and bounties, enemy hideouts refresh every few in-game days. The numerous Del Lobo hideouts in New Austin become accessible after Chapter 6.
 
-### How to max bond horses fast.
+### How to max bond horses fast?
 
-- Leading your horse yields more bonding points per minute than anything else. The old rubber band trick works for this.
-- Food items have their own bonding benefits. Sugar Cubes give the most points.
+- Food items have their own unique bonding point yields. Sugar Cubes give the most points, paralleling what some **Stable Owners** claim.
+- Completing two horse races with at least one of the associated NPCs will both allow you to bond with your horse while spurring and (after winning the second race) gives a third bar of speed for your saddled horse. Traveling in cinematic mode gives bonding points after completing the second race; a great legitimate way to bond AFK.
+- Leading your horse yields more bonding points per minute than anything else. The old rubber band trick works for this. CheatEngine64's speedhack also works wonders if you're rushing or just short on time.
 
 1. Begin leading your horse.
 2. Travel to the open fields of **The Heartlands**. Alternatively you can go to the plains west of Blackwater, but there are more snakes out that way. (Getting close to any aggressive animal will end the lead.)
@@ -210,18 +214,18 @@ As you can see, **Special Bitters** makes a bit of a difference, where as **Spec
 4. Do other things for a while. (About 20 minutes.)
 5. Come back to your fully bonded horse.
 
-- *THIS IDLE METHOD DOESN'T ELIMINATE THE POSSIBILITY OF HOSTILITY FROM BOUNTY HUNTERS, BUSHWHACKERS, ROBBERS, AGGRESSIVE ANIMALS, ETC. MIGHT WANT TO PEEK AT THE SCREEN EVERY NOW AND THEN AND/OR KEEP AN EAR OUT.*
+- *BY DOING THIS, YOU'RE BASICALLY STILL IN-GAME, SO THE POSSIBILITY OF HOSTILITY FROM BOUNTY HUNTERS, BUSHWHACKERS, ROBBERS, AGGRESSIVE ANIMALS, ETC IS STILL PRESENT. MIGHT WANT TO PEEK AT THE SCREEN EVERY NOW AND THEN AND/OR KEEP AN EAR OUT.*
 - *If on the PC version without a controller, you can use [AutoHotKey](https://www.autohotkey.com/) to simulate holding down the movement key(s).*
 
 ### Map Icons
 
 - I used [this map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) as a reference.
 - Animal drawings are added when an animal is sighted in a specific area. It must be both studied and tracked at least once to add icons the the overworld map. The best thing to do is study and track everything you come across. Hell, I even kill everything I see because why not? Additional locations will be marked as animals are "sighted" (moving the crosshair to highlight them). Looking at animals through binoculars (after studying and tracking at least one to fill the compendium) is by far the most efficient way to populate the map with animal icons. Though, I personally just run around killing everything with **Poison Arrows**. :)
-- Plant drawings are added when a plant is picked/eaten at least once in the immediate area of the icon. Best to pick everything you come across because spawning a plant with a trainer and picking it does not add the icon for some reason.
+- Plant drawings are added when a plant is picked/eaten at least once in the immediate area of the icon. Best to pick everything you come across because spawning a plant with a trainer and picking it does not add the icon for some reason (unlike skinning/tracking animals).
 - Point of interest, dreamcatcher, dinosaur bone, and rock carving locations are added when they are "investigated".
 - All map icons do not change based on what character discovered them. The journal sketches do, though.
 
-### Tricky camp item requests.
+### How to trigger Camp Item Requests?
 
 *Triggering Pearson's rabbit request to obtain the unique Scout Jacket:*
 
@@ -258,9 +262,9 @@ Moonshine | 0.3
 Whiskey Bottle | 0.4
 Aged Pirate Rum | 0.5
 
-### Saddles.
+### What's the best saddle?
 
-Technically, the **Beaver Roping Saddle** is the "best" saddle solely in terms of game logic because it provides the highest **Stamina Regen** (same as **Panther** and **Rattlesnake** saddles) and **Health Core Drain** bonuses. My reasoning behind this is: horse health core drain intensifies when they're dirty. I don't brush my horse often, so a lot of times it's just dirty. That being the case, the occasional health core penalty is lowered that much more with the Beaver Saddle.
+Technically, the **Beaver Roping Saddle** is the "best" saddle solely in terms of game logic because it provides the highest **Stamina Regen** (same as **Panther** and **Rattlesnake** saddles) and **Health Core Drain** bonuses. My reasoning behind this is: horse health core drain intensifies when they're dirty. I don't brush my horse often, so a lot of times it's just dirty. That being the case, the occasional health core penalty is lowered that much more with the Beaver Saddle. If you often push your horse hard and brush it once in a while, the **Panther Trail Saddle** is more fit for you. All that said, even though the aforementioned are the "best" stat-wise, I occasionally use the **Alligator Ranch Cutter** or **Cougar McClelland** saddles on my **Sooty Buckskin Dutch Warmblood** just because they look better on it. The stats don't differ a ton between higher-end **Trapper** saddles, so I generally just match the saddle to the horse I'm using. **Panther Trail** looks damn good to me on an **Amber Champagne MFT**.
 
 Name | HEALTH CORE<br>DRAIN | STAMINA CORE<br>DRAIN | STAMINA<br>DRAIN | STAMINA<br>REGEN
 :--- | --- | --- | --- | ---
@@ -316,52 +320,48 @@ Aside from fast travel (unlocked by purchasing the map from the camp ledger), yo
 - Most animals will decompose within 24 hours, aside from massive class animals which decompose to bones, then fully decompose. All animal carcasses from those classified as "massive" (elk, moose, bison, bears, etc) will go to bones 36 hours after being killed, then fully decompose in 72 in-game hours.
 - If you're looking to farm animals for pelts, it's best to get rid of the carcass to skip the decomposition process. I've found three ways of going about this: sell the carcass as a whole (works great when doing the double skin trick), burn the carcass (with **Incendiary Buckshot**, **Fire Bottle**, or a **Fire Arrow**), or shimmy the carcass into to a body of water (even small streams work; I moved a bear into the shallow water on the southeast end of Little Creek River and it was gone after sleeping 26 hours. Alternative but slightly slower methods are: blacking out drunk and/or sleeping. To pass a huge amount of time, sleep as many times as possible and drink until you black out. If you move around a lot, I advise noting the respawn locations of and stocking up on **Aged Pirate Rum**. Only takes four to black out with the **Wolf Heart Trinket**. It's an uncommon loot item, so if you're not out for adventure, which hopefully you are, and would rather buy liquor, buy **Moonshine**. It's the highest proof liquor sold anywhere. **Kentucky Bourbon** is a close competitor but is slightly weaker than **Moonshine**.
 
-### The best weapons.
+### What is the best weapon?
 
-*Here's a quick rundown:*
+In practice, the **Bow** is the best hunting weapon for three reasons:
 
-The **Bow** is the best hunting weapon in practice. Yes, its range is limited and does not yield perfect varmint pelts, but... one: the longest range at which you can make Bow kills is outrageous, even if you're a ways away you can close in towards the target and make the kill via deadeye still quite some distance away. Granted, though it may be slim, there is still a chance to miss even with deadeye lock-on when the target is near the outside edge of the bow's maximum range. Two: it can make clean kills on everything except most animals which require the **Varmint Rifle** (which would have been nice to have some Varmint Arrows or just make either Regular or Small Game arrows cleanly kill the varmints). Most varmint kills with regular arrows will almost always yield a one-less-star pelt, i.e. you kill a three star and it will almost always drop to two stars. Be that as it may, there are exceptions to this: a headshot with a poison arrow to beavers and iguanas almost always yields a perfect pelt for me. But every other varmint (skunks, possums, etc) rarely gives a perfect pelt with any arrow kill. And finally, three: you get both Poison Arrows and Dynamite Arrows.
+1. Yes, its range is limited and does not yield perfect varmint pelts, but the longest range at which you can make Bow kills is outrageous. Even if you're a ways away you can close in towards the target and make the kill via deadeye still quite some distance away. Granted, though it may be slim, there is still a chance to miss even with deadeye lock-on when the target is near the outside edge of the bow's maximum range.
+2. It can make clean kills on everything except most animals which require the **Varmint Rifle** (which would have been nice to have some Varmint Arrows or just make either Regular or Small Game arrows cleanly kill the varmints). Most varmint kills with regular arrows will almost always yield a one-less-star pelt, i.e. you kill a three star and it will almost always drop to two stars. Be that as it may, there are exceptions to this: a headshot with a poison arrow to beavers and iguanas almost always yields a perfect pelt for me when skinning the two-star carcass. But every other varmint (skunks, possums, etc) rarely gives a perfect pelt with any arrow kill.
+3. You get to craft and use **Poison/Fire/Dynamite Arrows**.
 
-For rifles, the **Bolt Action** is the best in practice. There are two subclasses of **Rifles**: medium and heavy. The **Springfield** and **Bolt Action** are medium rifles. They've the same limited effective range and bullet velocity, but dominate within that range. The **Carcano** and **Rolling Block** are heavy rifles. They're more powerful than the aforementioned medium rifles and have near-hitscan bullet velocity... but two caveats: they must be scoped in (ADS) when aiming and do not allow dead eye lock-on (unlike the medium rifles). According to in-game stats:
-
-- The **Bolt Action** just sacrifices a bit of damage for better accuracy, fire rate, and reload. All in all, unless you're constantly taking very long shots, the **Bolt Action** is better in practice and works for most everyone. However the **Springfield's** only let down is it's single-round capacity.
-- The **Carcano** surpasses the **Rolling Block** on every point. It does everything the **Rolling Block** does, but with a six-round clip, slight damage increase, and near hitscan bullet velocity. Both of them will one-shot-headshot-kill a bear at any reasonable distance. Overall in practice, an unscoped **Carcano** is the best heavy rifle.
-- For revolvers, I use akimbo **LeMats**. Statistically speaking, the **Double Action** has the best DPS (damage per second), but the **LeMat** is just badass to me. Not to mention you get a secondary shotgun barrel.
-- For pistols, I use akimbo **Mausers**. Yes, even though the **M1911** has better damage and the **Semi Auto's** slightly higher fire rate allows it to make stupid fast deadeye kills, the **Mauser** gets the extra two rounds per clip and nearly matches the **Semi Auto's** rate of fire. It's essentially the middle ground, best of both worlds.
+- Scoped rifles are more powerful than medium rifles and have near-hitscan bullet velocity, but two caveats: they must be scoped in when aiming (unless the de-scope glitch is used) and do not allow dead eye lock-on (even if de-scoped via glitch). The **Carcano** surpasses the **Rolling Block** on every point. It does everything the **Rolling Block** does, but with a six-round clip. Both of them will one-shot-headshot-kill a bear at any reasonable distance. Overall in practice, an unscoped **Carcano** is the best heavy rifle. It must be noted as well that a **Carcano** with **Express Ammo** deals more damage per shot than a **Rolling Block** with **Express Ammo**.
+- The medium rifles, the **Bolt Action** sacrifices just a bit of damage for better accuracy, fire rate, and reload. All in all, unless you're constantly taking very long shots, the **Bolt Action** is better in practice and works for most everyone. The **Springfield's** slightly higher damage is not a proportional tradeoff to the loss of accuracy and single-round capacity.
+- For revolvers, the **LeMat** comes out on top in terms of damage. The  **Double Action** has the best DPS (damage per second), but the **LeMat** also offers a secondary shotgun barrel. Slow to reload both the cap and ball ammo as well as the center grapeshot barrel, but you get everything in one package. The shotgun barrel itself appears to have quite less effective range than a **Sawed Off Shotgun**, but it's still mad effective at close range as a shotgun is meant to be.
+- For pistols, **Mauser** is the best all-around. Yes, the **M1899** has better damage and accuracy. Yes, the **Semi Auto** slightly higher fire rate allows it to make stupid fast deadeye kills. The **Mauser** reigns because it gets the extra two rounds per clip (10 total; where as the **Semi Auto** and **M1899**) and nearly matches the **Semi Auto Pistol** rate of fire. It's essentially the middle ground, best of both worlds.
 
 Below is a damage chart organized by weapon and bullet type (ordered corresponding to what's in-game). Weapon rows are grouped by class, with the highest damage of its class being at the top and all others in descending order. Incendiary and explosive ammo was not tested because... well, you know. Shotguns weren't tested either because... you get the gist. Testing was done with five shots of each bullet type for all weapons to eliminate one-off cases. All shots were to a grizzly's rear upper thigh (outside any critical/fatal areas). Damage was measured via RampageTrainer's in-game NPC debug feature.
 
-**NOTE:** *split point rounds deal slightly more damage at close range than high velocity rounds. I've yet to test them at longer ranges, though I imagine it'll be no different from a distance.*
+Split point rounds deal slightly more damage at close range than high velocity rounds. I've yet to test them at longer ranges, though I imagine it'll be no different from a distance. Weapon familiarity does not affect damage. I've not tested shotguns yet. All unique weapons are identical to their regular counterparts (in terms of damage) except for those listed below.
 
-**NOTE:** *all unique weapons are identical to their regular counterparts (in terms of damage) except for those listed below.*
+Weapon | Class | Unlocked After | REG | HIV | SPL | EXP
+:--- | --- | --- | --- | --- | --- | ---
+Carcano | Rifle | `Goodbye, Dear Friend` | 57 | 70 | 78 | 85
+Rolling Block | Rifle | `Pouring Forth Oil` | 69 | 74 | 76 | 83
+Rare Rolling Block | Rifle | `Magicians for Sport`<br>**Held by Bounty Hunter in barn near end of mission.** | 68 | 73 | 75 | 79
+Springfield | Rifle | `Eastward Bound` | 60 | 62 | 64 | 66
+Bolt Action | Rifle | `Preaching Forgiveness as He Went` | 53 | 56 | 59 | 63
+Litchfield | Repeater | `Goodbye, Dear Friend` | 48 | 51 | 55 | 58
+Carbine | Repeater | `Old Friends` | 43 | 45 | 48 | 51
+Volcanic | Pistol | `Eastward Bound` | 40 | 43 | 46 | 50
+Lancaster | Repeater | `An American Pastoral Scene` | 36 | 38 | 41 | 43
+LeMat | Revolver | `The Gilded Cage`<br>**Saint Denis Gunsmith only.** | 33 | 35 | 37 | 40
+Evans | Repeater | `An Honest Mistake`<br>or `Advertising, The New American Art` | 34 | 35 | 38 | 39
+Schofield | Revolver | `Blessed are the Meek?` | 29 | 32 | 33 | 36
+Cattleman | Revolver | `Outlaws from the West` | 22 | 24 | 25 | 28
+M1899 | Pistol | `The Battle of Shady Belle`<br>**Saint Denis Gunsmith only.** | 22 | 24 | 26 | 28
+Double Action | Revolver | `A Strange Kindness` | 21 | 22 | 24 | 27
+Algernon's<br>High Roller | Revolver | `Dutchesses and Other Animals VI` | 20 | 23 | 24 | 27
+Micah's | Revolver | `American Venom`<br>**On Micach's corpse.** | 20 | 22 | 25 | 26
+Mauser | Pistol | `That's Murfree Country`<br>**Saint Denis and Valentine Gunsmiths only.** | 21 | 22 | 25 | 26
+Semi Auto | Pistol | `The Joys of Civilization`<br>**Saint Denis and Valentine Gunsmiths only.** | 19 | 21 | 23 | 25
+Varmint | Rifle | `Eastward Bound`<br>Free for Special/Ultimate edition players. | 19 | - | - | -
+Bow | N/A | `The Aftermath of Genesis` | 55<br>(REG) | 166<br>(IMP) | 15<br>(SGM) | 55+<br>(PSN)<br>**[*]**
 
-Weapon | REG | HIV | SPL | EXP
-:--- | --- | --- | --- | ---
-Carcano | 57 | 70 | 78 | 85
-Rolling Block | 69 | 74 | 76 | 83
-Rare Rolling Block | 68 | 73 | 75 | 79
-Springfield | 60 | 62 | 64 | 66
-Bolt Action | 53 | 56 | 59 | 63
-Litchfield | 48 | 51 | 55 | 58
-Carbine | 43 | 45 | 48 | 51
-Volcanic | 40 | 43 | 46 | 50
-Lancaster | 36 | 38 | 41 | 43
-LeMat | 33 | 35 | 37 | 40
-Evans | 34 | 35 | 38 | 39
-Schofield | 29 | 32 | 33 | 36
-Cattleman | 22 | 24 | 25 | 28
-M1899 | 22 | 24 | 26 | 28
-Double Action | 21 | 22 | 24 | 27
-Algernon's (~1) | 20 | 23 | 24 | 27
-Micah's | 20 | 22 | 25 | 26
-Mauser | 21 | 22 | 25 | 26
-Semi Auto | 19 | 21 | 23 | 25
-Varmint | 19 | - | - | -
-Bow (~2) | 55 | 166 | 15 | -
-
-**~1** - The **High Roller Revolver** deals the same damage as **Algernon's**.
-
-**~2** - The Bow's damage values are listed as follows: regular arrow, improved arrow, small game arrow.
+**[*]** Poison Arrows deal the same initial damage as Regular Arrows, but continue to deal damage at a certain rate. I couldn't find any immediate information on what that rate is, but have observed it myself with RampageTrainer's debug menu.
 
 ### How to get perfect skins, pelts, hides, etc.
 
@@ -381,7 +381,8 @@ Massive Game | Improved Arrow<br>Poison Arrow<br>Poison Throwing Knife<br>Rifle<
 
 - Contrary to what the game describes, you can catch just about every fish on any bait/lure.
 - Also contrary to compendium entries, weather doesn't seem to make a damn difference.
-- You can attract all nearby fish by quick pressing RT. Do not use more than once unless the fish near your line aren't ones you want as flicking RT more than once while fish are near the bait/lure will scare them off.
+- Certain fish are attracted to certain lures/baits, but quick-pressing RT will attract all fish to your lure/bait. Be that as mit may, some may not necessarily nibble/bite it. Flicking RT more than once while fish are near the bait/lure will scare them off.
+- Small fish will not nibble/bite regular/special lures (aside from the **Special Spinner**).
 - The **Special Spinner** attracts all species of fish and all species will bite it. Everything from bluegill to northern pike. Once acquired, it is a permanent inventory item and cannot be lost due to cutting or snapping the line.
 - **Lures** (both regular and special variants) work great if you're shooting for only big/medium fish as small fish will not bite any of them.
 - **Special Lures** are permanent inventory items and cannot be lost to a line snap.
@@ -395,15 +396,15 @@ Massive Game | Improved Arrow<br>Poison Arrow<br>Poison Throwing Knife<br>Rifle<
 Name | Active Weather | Favorite Bait | Area(s) | Bite Sequence<br>`N` = Nibble<br>`B` = Bite | Meat Type
 :--- | --- | --- | --- | --- | ---
 Bluegill | Rain | Cheese | Pretty much everywhere. | NB | Gritty
-Bullhead Catfish | Rain | Corn | Lagras, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (from west of **Lagras** to **Crawdad Willies**)<br>Lannaheechee River, Bayou Nwa, LE (east of **Lagras** | NNNBB | Gritty
+Bullhead Catfish | Rain | Corn | Lagras, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (from west of **Lagras** to **Crawdad Willies**)<br>Lannaheechee River, Bayou Nwa, LE (east of **Lagras**) | NNNBB | Gritty
 Perch | Sunny | Bread | Everywhere north of the **Upper Montana River** | NB | Flaky
 Rock Bass | Sunny | Cheese | Pretty much everywhere. | NBB | Flaky
 Chain Pickerel | Sunny | Corn | Pretty much everywhere. | BNNB | Flaky
-Redfin Pickerel | Sunny | Bread | Dakota River, Heartlands, NH (from **Little Creek River** mouth to **Bard's Crossing**<br>Upper Montana River, Big Valley, WE( from southeast of **Owanjila** to **Flat Iron Lake**<br>Ringneck Creek, Scarlett Meadows, LE<br>Kamassa River, Bayou Nwa, LE (west-northwest of **Bayall Edge**)<br>Kamassa River, Bluewater Marsh, LE (**Trapper's Cabin** to northeast of **Maclean's House**)<br>Lannaheechee River, Bayou Nwa, LE (east of **Lakay**)<br>Lannaheechee River, Scarlett Meadows, LE (south of **Shady Belle** to south of **Catfish Jacksons**)<br>Aurora Basin, Tall Trees, WE<br>Lower Montana River, Tall Trees, WE (the entire river)<br>Stillwater Creek, Hennigan's Stead, NA<br>San Luis River, Hennigan's Stead, NA (all the way to **Sea of Coronado**<br>Lake Don Julio, Rio Bravo, NA | NBB | Flaky
+Redfin Pickerel | Sunny | Bread | Dakota River, Heartlands, NH (from **Little Creek River** mouth to **Bard's Crossing**)<br>Upper Montana River, Big Valley, WE (from southeast of **Owanjila** to **Flat Iron Lake**)<br>Ringneck Creek, Scarlett Meadows, LE<br>Kamassa River, Bayou Nwa, LE (west-northwest of **Bayall Edge**)<br>Kamassa River, Bluewater Marsh, LE (**Trapper's Cabin** to northeast of **Maclean's House**)<br>Lannaheechee River, Bayou Nwa, LE (east of **Lakay**)<br>Lannaheechee River, Scarlett Meadows, LE (south of **Shady Belle** to south of **Catfish Jacksons**)<br>Aurora Basin, Tall Trees, WE<br>Lower Montana River, Tall Trees, WE (the entire river)<br>Stillwater Creek, Hennigan's Stead, NA<br>San Luis River, Hennigan's Stead, NA (all the way to **Sea of Coronado**)<br>Lake Don Julio, Rio Bravo, NA | NBB | Flaky
 Smallmouth Bass | Rain | Cricket | Lannahechee River, Bluewater Marsh, LE (from **Copperhead Landing** to **Van Horn Mansion**)<br>Lagras, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (from **Macomb's End** to east of **Hill Haven Ranch**)<br>Ringneck Creek, Scarlett Meadows, LE<br>Kamassa River, Bayou Nwa, LE (east of **Prinz & Co.**)<br>Lannahechee River, Scarlett Meadows, LE (southwest of **Shady Belle**)<br>Flat Iron Lake, Scarlett Meadows, LE (around shipwreck islands)<br>Dakota River, Heartlands, NH (northeast of **Painted Sky**)<br>Upper Montana River, Big Valley, WE<br>Lake Don Julio, Rio Bravo, NA | NNBB | Flaky
 Largemouth Bass | Rain | Crayfish | Kamassa River, Bluewater Marsh, LE (from **Houseboat** to **Fishing Spot**)<br>Canebreak Manor, Bluewater Marsh, LE (north of **Canebreak Manor**)<br>Kamassa River, Scarlett Meadows, LE (from west of **Bayall Edge** to north of **Caliga Hall**)<br>Lannahechee River, Bayou Nwa, LE (from **Crawdad Willies** to south of **Shady Belle**)<br>Flat Iron Lake, Scarlett Meadows, LE (around southern islands west of **Braithwaite Manor**)<br>Gill's Landing, Heartlands, NH (southwest of **Gill's Landing**)<br>Bard's Crossing, Heartlands, NH (from **Bard's Crossing** to southeast of **Lone Mule Stead**)<br>Upper Montana River, Big Valley, WE (south of **Fort Riggs**)<br>Aurora Basin, Tall Trees, WE<br>Stillwater Creek, Hennigan's Stead, NA | BBBNB | Flaky
-Steelhead Trout | Rain | Worm | Kamassa River, Roanoke Ridge, NH (from south of **Fort Brennand** to **Houseboat**)<br>Lannahechee River, Scarlett Meadows, LE (southwest and southeast of **Catfish Jacksons**)<br>Flat Iron Lake, Scarlett Meadows, LE (from **Clemens Point** to southeast of **Gill's Landing**)<br>Dakota River, Heartlands, NH (from **Limpany** to **Bard's Crossing**)<br>Quaker's Cove, Great Plains, WE<br>Lower Montana River, Tall Trees, WE (northwest of **Stillwater Creek**)<br>San Luis River, Hennigan's Stead, NA (from **Brittlebrush Trawl** to the base of **Manteca Falls**)<br>San Luis River, Gaptooth Ridge, NA (southeast of **Scratching Post**) | NBBB | Succulent
-Sockeye Salmon | Overcast | River Lure | Kamassa River, Roanoke Ridge, NH (from west of **Huron Glen** to east of **Maclean's House**)<br>O'Creagh's Run, Grizzlies East, AM<br>Dakota River, Cumberland Forest, NH (from **Bacchus Bridge** to north of **Chadwick Farm**)<br>Whinyard Strait, Grizzlies West, AM<br>Dakota River, Big Valley, WE (from **Cumberland Falls** to northwest of **Painted Sky**)<br>Little Creek River, Big Valley, WE (all west of **Watson's Cabin**)<br>Owanjila, Big Valley, WE (both the northwest side of **Owanjila** and creek feeding into it) | BNB | Succulent
+Steelhead Trout | Rain | Worm | Kamassa River, Roanoke Ridge, NH (from northwest of **Maclean's House** to east of **Maclean's House**)<br>Lannahechee River, Scarlett Meadows, LE (southwest and southeast of **Catfish Jacksons**)<br>Flat Iron Lake, Scarlett Meadows, LE (from **Clemens Point** to southeast of **Gill's Landing**)<br>Dakota River, Heartlands, NH (from **Limpany** to **Bard's Crossing**)<br>Quaker's Cove, Great Plains, WE<br>Lower Montana River, Tall Trees, WE (northwest of **Stillwater Creek**)<br>San Luis River, Hennigan's Stead, NA (from **Brittlebrush Trawl** to the base of **Manteca Falls**)<br>San Luis River, Gaptooth Ridge, NA (southeast of **Scratching Post**) | NBBB | Succulent
+Sockeye Salmon | Overcast | River Lure | Kamassa River, Roanoke Ridge, NH (from southwest of **Huron Glen** to south of **Fort Brennand**)<br>O'Creagh's Run, Grizzlies East, AM<br>Dakota River, Cumberland Forest, NH (from **Bacchus Bridge** to north of **Chadwick Farm**)<br>Whinyard Strait, Grizzlies West, AM<br>Dakota River, Big Valley, WE (from **Cumberland Falls** to northwest of **Painted Sky**)<br>Little Creek River, Big Valley, WE (all west of **Watson's Cabin**)<br>Owanjila, Big Valley, WE (both the northwest side of **Owanjila** and creek feeding into it) | BNB | Succulent
 Lake Sturgeon | Overcast | Lake Lure | Lannahechee River, Bluewater Marsh, LE (southwest of **Copperhead Landing**)<br>Lagras, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (from **Siltwater Strand** to northeast of **Prinz & Co.**)<br>Flat Iron Lake, Heartlands, NH (all around **Gill's Landing**)<br>Flat Iron Lake, Great Plains, WE (south of 'H' in "WEST ELIZABET**H**") | NNNNBBBB | Flaky
 Muskie | Overcast | Lake Lure | Lannahechee River, Roanoke Ridge, NH (from **Van Horn Trading Post** to **Van Horn Mansion**)<br>Lannahechee River, Roanoke Ridge, NH (southeast of **Annesburg**<br>Kamassa River, Roanoke Ridge, NH (from **Willard's Rest** to **Feral Man's Cave**)<br>O'Creagh's Run, Grizzlies East, AM<br>Calumet Ravine, Grizzlies East, AM (to **Donner Falls**)<br>Lake Isabella, Grizzlies West, AM<br>Owanjila, Big Valley, WE | BNBNBBB | Flaky
 Channel Catfish | Overcast | Swamp Lure | Lannahechee River, Bayou Nwa, LE (east of **Lakay**)<br>Lagras, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (from **Maclean;s House** to **Prinz & Co.**) | NNNB | Gritty
@@ -498,7 +499,7 @@ Northern Pike | Overcast | River Lure | Lannahechee River, Roanoke Ridge, NH (no
 
 ### Aged Pirate Rum
 
-- Mount Hagen, Grizzlies West, AM (top floor of watch tower; southeast side of Mount Hagen; east of Micah's Hideout)
+- **Mount Hagen, Grizzlies West, AM (top floor of watch tower; southeast side of Mount Hagen; east of Micah's Hideout)**
 - Cotorra Springs, Grizzlies West, AM (east of Granite Pass/Whinyard Strait; southernmost freight car in train wreck below bridge; jump in from cliff overhead)
 - **Grizzlies East, AM (northwest of O'Creagh's Run; lockbox on cliffside south of train tracks; climb down ledges from above first 'I' in "Grizzlies")**
 - **Brandywine Drop, Roanoke Ridge, NH (lockbox inside waterfall)**
@@ -1085,9 +1086,22 @@ https://www.youtube.com/watch?v=_fSlasTGGag
 - Perform a flashy holster animation by double-tapping LB. Works with only primary sidearm. Does not work with Sawed Off Shotgun.
 - You can buy goods from some of the shops at the **Saint Denis Market**.
 
-### Useful Links
+### Tools
 
 - [CodeWalker](https://github.com/dexyfex/CodeWalker)
-- [Missables](https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2) - missable content. [[Steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=2002543938) [[GTAForums]](https://gtaforums.com/topic/924480-spoilers-everything-missable-in-rdr2/)
-- [Rampage Trainer](https://www.nexusmods.com/reddeadredemption2/mods/233)
-- [Complete Map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/)
+
+### Missable Content References
+
+- [RDR Fandom](https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2) - missable content. [[Steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=2002543938) [[GTAForums]](https://gtaforums.com/topic/924480-spoilers-everything-missable-in-rdr2/)
+
+### Mods
+
+- [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base. SDK for development of C++ plugins available on the same page.
+- [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer.
+
+### References
+
+- [rdr2-maps](https://github.com/subvod/rdr2-maps) - A collection of maps showing locations of places to sit, enemy encounters, and rare animals.
+- [RDR2Mods](https://www.rdr2mods.com/) - focused around RDR2 modding. Wiki with databases, tutorials, and references (including hash IDs). [[Wiki]](https://www.rdr2mods.com/wiki/)
+- [RDOMap](https://jeanropke.github.io/RDOMap/) - Red Dead Online interactive map.
+- [Complete Map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) - Story mode map with all discoverable animal icons and location names.
