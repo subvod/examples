@@ -12,6 +12,7 @@
 &emsp;[Quality Control](#quality-control)<br>
 &emsp;[Gameplay Mods](#gameplay-mods)<br>
 &emsp;[References](#references)<br>
+[GAMEPLAY](#gameplay)
 [UNIQUE VEHICLES](#unique-vehicles)<br>
 &emsp;[Epsilon Variant Color](#epsilon-variant-color)<br>
 &emsp;[Random Purchase Colors](#random-purchase-colors)<br>
@@ -58,6 +59,14 @@
 
 - [Enable/disable backfire](https://forums.gta5-mods.com/topic/24300/exhaust-backfire-disable/2) via mods using OpenIV.
 - [Weapon, med kit, and armor locations](https://gtaforums.com/topic/696088-weapons-locations/), all compiled nice and neat.
+
+# GAMEPLAY
+
+Some notes about gameplay in general.
+
+- Equip any weapon, shoot (only one shot necessary) or melee with it, then immediately hop in your vehicle. When you exit, the engine will remain running.
+- You can use the **Sawed Off Shotgun** and **Auto Shotgun** while on a motorcycle.
+- You can carjack at gunpoint with any pistol or assault rifle that comes with the enhanced version by default. Those are: Pisol, Combat Pistol, AP Pistol, Pistol .50, SNS Pistol, Heavy Pistol, Vintage Pistol, Assault Rifle, Carbine Rifle, Advanced Rifle, Special Carbine, and Bullpup Rifle. Equipping any special tint (gilded, wood grip, etc) disables carjacking at gunpoint with that weapon. Using standard tints does not.
 
 # UNIQUE VEHICLES
 
@@ -131,30 +140,39 @@ Below are vehicles which are rare, but not missable. The type of vehicle being d
 
 When approaching any known spawn of significant rarity, drive slowly. I've found maintaining 20 mph and just barely touching the throttle works best.
 
+[Read more about scenarios and scripted events here.](https://gta.fandom.com/wiki/Vehicles_in_GTA_V/Scenarios)
+
 ### Regular Vehicles
 
 These are regular vehicles, just highly localized and/or generally hard to find.
 
 Make | Model | Location(s)
 :--- | --- | ---
-Bravado | Rat-Loader | Parked at the house directly east of *Cletus'* on **Marina Drive** in **Sandy Shores**.<br>NPC-modified variant driving out of the **LTD** Fuel Station in **Grapeseed**, headed northeast on **Grapeseed Main Street**.
-Declasse | Tornado<br>(Mariachi) | Parked in lot west of **Ammu-Nation** on **Route 68** in northern edge of **Great Chaparral**. 17:00-18:00<br>During `The Civil Border Patrol`<br>Random event easter egg atop **Raton Canyon** from 15:00-20:00.
-BF | Dune Buggy | Parked next to a radio tower and shack west of **Yellow Jack Inn** in **Grand Senora Desert**. Sometimes surrounded by a **Brute Camper**, **BF Injection**, or an NPC driving a **MTL Packer** northbound (away from the radio tower).<br>Parked next to an Auto Repair Shop on **Marina Drive** in **Grapeseed**.<br>Parked under the canopy of a shut gas station on **Marina Drive** in **Grapeseed**.<br>Parked beside road (second up from **Cassidy Creek**) in **Raton Canyon**.<br>Parked next to a water tower in northeastern **Stab City**.<br>Parked on beach east of **Up 'n' Atom Burger** in **Mount Gordo, BC, SA**. Almost directly north (beyond **Braddock Pass**) of **Weed Farm** (Trevor random encounter).<br>Parked along small cliff south of beach in **Paleto Bay**. Northwest of **The Hen House**. Southwest of `Parachute Jump 4`.<br>Driving north on dirt road east of **Los Santos Customs** in **Grand Senora Desert**.<br>Driving east on dirt road parallel train tracks north of **Sandy Shores Airfield**.<br>Parked on south side of path leading down from cable car drop off point atop **Mount Chiliad**.<br>Driving west on **North Calafia Way** along the **Alamo Sea**. Spawns a bit northeast of the bridge over the **Alamo Sea** (where it feeds into **Cassidy Creek**).
-HVY | Docktug | Parked next to crane on **Elysian Island**.<br>Driving north out of first gate for LSIA (south of **Los Santos Customs**).<br>Driving out of oil pumps in **Banning** onto **Dutch London Street** eastbound.
-Karin | Dilettante<br>(Patrol) | Driving west on **Eclipse Boulevard** in **Vinewood**.<br>Driving around **Marlowe Vineyards**.<br>Driving around **Davis Quartz**.<br>Pulling out of the drydocks on southern **Elysian Island**.
-Brute | Boxville<br>(LSDWP) | Leaving north exit of LSDWP facility on west side of **Popular Street**, then driving south.<br>Pulling out of LSDWP facility onto **Elgin Avenue**, heading south.
 Albany | Roosevelt | Parked next to a metal trailer opposite *Solomon Richards*' office in **Richards Majestic** (**Backlot City**). The car and trailers around it can be seen immediately when entering the east gate then turning left (as if you were going to *Solomon's* office). 00:00-04:00<br>Parked in garage at **2848 Milton Road** in **Vinewood Hills**. 00:00-04:00
-Declasse | Park Ranger | Parked at **Paleto Bay Sheriff Office**.<br>Parked at Ranger Station (north of Vinewood sign) at dead end of **Mount Haan Drive** in **Vinewood Hills**.<br>Parked at **Beaver Bush Ranger Station** on southeast corner of **Baytree Canyon Road** and **Marlowe Drive**.<br>Driving east on dirt path (north side of **Cassidy Creek**) toward bridge which crosses the creek.<br>Driving into parking lot of **Bolingbroke Penitentiary**. Driver will park up, walk to a fuel tanker, and light a stogie.<br>Parked on outskirts of Mount Gordo (near Mount Chiliad) with a ranger nearby.<br>Random Trevor switch scene. He's in the **Grand Senora Desert** being chased by two **Sheriff Cruisers** and one **Park Ranger**.
-Declasse | Lifeguard | Parked at lifeguard lookout posts and stations along **Vespucci Beach**.
+BF | Dune Buggy | Parked next to a radio tower and shack west of **Yellow Jack Inn** in **Grand Senora Desert**. Sometimes surrounded by a **Brute Camper**, **BF Injection**, or an NPC driving a **MTL Packer** northbound (away from the radio tower).<br>Parked next to an Auto Repair Shop on **Marina Drive** in **Grapeseed**.<br>Parked under the canopy of a shut gas station on **Marina Drive** in **Grapeseed**.<br>Parked beside road (second up from **Cassidy Creek**) in **Raton Canyon**.<br>Parked next to a water tower in northeastern **Stab City**.<br>Parked on beach east of **Up 'n' Atom Burger** in **Mount Gordo, BC, SA**. Almost directly north (beyond **Braddock Pass**) of **Weed Farm** (Trevor random encounter).<br>Parked along small cliff south of beach in **Paleto Bay**. Northwest of **The Hen House**. Southwest of `Parachute Jump 4`.<br>Driving north on dirt road east of **Los Santos Customs** in **Grand Senora Desert**.<br>Driving east on dirt road parallel train tracks north of **Sandy Shores Airfield**.<br>Parked on south side of path leading down from cable car drop off point atop **Mount Chiliad**.<br>Driving west on **North Calafia Way** along the **Alamo Sea**. Spawns a bit northeast of the bridge over the **Alamo Sea** (where it feeds into **Cassidy Creek**).
+Bravado | Rat-Loader | Parked at the house directly east of *Cletus'* on **Marina Drive** in **Sandy Shores**.<br>NPC-modified variant driving out of the **LTD** Fuel Station in **Grapeseed**, headed northeast on **Grapeseed Main Street**.
+Brute | Boxville<br>(LSDWP) | Leaving north exit of LSDWP facility on west side of **Popular Street**, then driving south.<br>Pulling out of LSDWP facility onto **Elgin Avenue**, heading south.
+Buckingham | Swift | Both the regular and Flying Bravo variants will land at the easternmost helipad at the terminal of LSIA. 06:00-18:00
 Declasse | Gang Burrito | During `Mr. Philips`<br>During `Nervous Ron`<br>During `Property Management: Gang Attack` for **Car Scrapyard**.<br>Random events involving *The Lost MC*.<br>Trevor switch scene. He throws a man, usually a Lost MC Member, from a bridge. Behind him there will be a Gang Burrito without a license plate in lieu of Trevor's own vehicle.
+Declasse | Granger (Lifeguard) | Parked at lifeguard lookout posts and stations along **Vespucci Beach**.
+Declasse | Granger (Park Ranger) | Parked at **Paleto Bay Sheriff Office**.<br>Parked at Ranger Station (north of Vinewood sign) at dead end of **Mount Haan Drive** in **Vinewood Hills**.<br>Parked at **Beaver Bush Ranger Station** on southeast corner of **Baytree Canyon Road** and **Marlowe Drive**.<br>Driving east on dirt path (north side of **Cassidy Creek**) toward bridge which crosses the creek.<br>Driving into parking lot of **Bolingbroke Penitentiary**. Driver will park up, walk to a fuel tanker, and light a stogie.<br>Parked on outskirts of Mount Gordo (near Mount Chiliad) with a ranger nearby.<br>Random Trevor switch scene. He's in the **Grand Senora Desert** being chased by two **Sheriff Cruisers** and one **Park Ranger**.
+Declasse | Tornado<br>(Mariachi) | Parked in lot west of **Ammu-Nation** on **Route 68** in northern edge of **Great Chaparral**. 15:00-18:00<br>During `The Civil Border Patrol`<br>Random event easter egg atop **Raton Canyon** from 15:00-20:00.
+Enus | Super Diamond | Spawns with several unique paintjobs. Parked in second to last spot from entrance in lot of **Los Santos Country Club** (golf course).
+HVY | Docktug | Parked next to crane on **Elysian Island**.<br>Driving north out of first gate for LSIA (south of **Los Santos Customs**).<br>Driving out of oil pumps in **Banning** onto **Dutch London Street** eastbound.<br>Parked on road shoulder opposite **D-Rail** building near the drydocks on **Elysian Island**. 06:00-12:00
+JoBuilt | P-996 LAZER | Parked, taxiing, taking off, and/or flying at various spots around **Fort Zancudo**.<br>Flying over **Raton Canyon** every in-game half hour. Rarely in groups of three.
+JoBuilt | Mammatus | Flying around Los Santos.<br>Occasionally lands at **Sandy Shores Airfield**.<br>Parked outside the western wall of **Michael's Hangar** in **LSIA**, usually next to a **Cuban 800**.
+JoBuilt | Velum | Parked afront **Hangar A17** on the southern side of **LSIA**.
+? | Titan | Up to four parked in **Fort Zancudo**.<br>Taking off from runway at **Fort Zancudo**.
+Karin | Dilettante<br>(Patrol) | Driving west on **Eclipse Boulevard** in **Vinewood**.<br>Driving around **Marlowe Vineyards**.<br>Driving around **Davis Quartz**.<br>Driving around the drydocks at **Pacific Allied Shipyard** (across from **Pier 400**) on southern **Elysian Island**.<br>Driving west on **Wild Oats Drive**. 00:00-06:00
 Nagasaki | Dinghy | East of the Olifantus (Tug).<br>By the barge under the **Miriam Turner Overpass**.<br>Southwest of the **Post Op Depository**.<br>South side of the island by the dry docks.<br>**Puerto Del Sol Marina**<br>Sonar Collections Dock after `Death at Sea` | -
 Nagasaki | Dinghy<br>(On Trailer) | Towed by pickup trucks around **Elysian Island** and **Cypress Flats** [[Cite.]](https://gtaforums.com/topic/786063-so-i-found-this-the-other-day/)
+Truffade | Adder | In front of **Sessanta Nove** on **Portola Drive** in **Rockford Hills**. May spawn in either black/orange or white/blue variants. 10:00-16:00<br>]Franklin switch scene. Quite rare. Stuck in traffic in **Downtown Vinewood**, often surrounded by several uncommon cars. Up to three black Adders spawn around his Buffalo S. One is almost always guaranteed to spawn, but two or three is exceedingly rare.
 Vapid | Unmarked Cruiser | During `Grass Roots - The Pickup` (graphite, silver, red, blue)<br>Randomly under Train Station on **Olympic Freeway** in **Strawberry**; graphite variant only; 18:00-04:00<br>During `Property Management: Van Retrieval` for **Smoke on the Water**.
 Bravado | Police Cruiser<br>(Buffalo) | Under Train Station on **Olympic Freeway** in **Strawberry**; 18:00-04:00<br>Randomly patrolling around the Police Station in **Mission Row**.
-Buckingham | Swift | Both the regular and Flying Bravo variants will land at the easternmost helipad at the terminal of LSIA. 06:00-18:00
-Truffade | Adder | In front of **Sessanta Nove** on **Portola Drive** in **Rockford Hills**. 08:00-12:00
 Vapid | Liberator | **Rebel Radio Tower** in **Grand Senora Desert**. 
-Vapid | Stretch<br>(Pink) | This unique variant spawns only here and at night. In front of **Cockatoos** night club on the southwest side of the intersection at **Hawick Avenue** and **Eastbourne Way** on the eastern edge of **Rockford Hills**.
+Vapid | Stretch (Pink) | This unique colored stretch spawns only in front of **Cockatoos** night club on the southwest side of the intersection at **Hawick Avenue** and **Eastbourne Way**. It is just northwest of the **Los Santos Customs** in **Burton**.
+Western | Cuban 800 | Lands at **Sandy Shores Airfield**. Standard white/blue color scheme.<br>Parked outside western wall of **Michael's Hangar** in **LSIA**, usually next to a **Mammatus**.<br>Trevor switch scene. He'll be flying a black Cuban 800 over the **Grand Senora Desert**.
+Western | Duster | Flying around Grapeseed.<br>Parked on the cul-de-sac on the western edge of **Marina Drive** in the **Grand Senora Desert**, near the shore of the Alamo Sea. Usually spawns in red. Begins spawning after completing all of the `Flight School` lessons.<br>Lands at **McKenzie Field Hangar**<br>Lands at **Sandy Shores Airfield**.
 
 ### NPC-Modified Vehicles
 
@@ -192,48 +210,63 @@ Vapid | Dominator
 Vapid | Sandking XL
 Vulcar | Warrener
 
+Below are locations for the vehicles listed above. Vehicles are noted with just their model names.
+
+Certain approach directions work more often than others, and are noted at the end of the `Details` column as "Approach from..."
+
+**[N]** Neons Only
+
 Location | Time | Vehicle(s) | Details
 :--- | --- | ----- | ---
 Los Santos<br>International<br>Airport | 12:00 | Sentinel XS<br> | Parked outside **Los Santos Customs**.
 Los Santos<br>International<br>Airport | 10:00-18:00 | Coquette Classic | Parked outside northwest wall of **Devin Weston** hangar.
 La Puerta | - | Rhapsody<br>Blade<br> Massacro| Parked in southeast side of lot in car park directly beside **Maze Bank Arena**. Second row (first all non-handicapped row) from the arena itself.
-Vespucci Canals | 24 Hours | Sentinel<br>Surano<br>Dominator<br>Huntley S<br>Feltzer<br>Alpha<br>Jester | Driving out of **The Viceroy Hotels & Resort** onto **Palomino Avenue** northbound.
+Vespucci Canals | 24 Hours | Sentinel<br>Surano<br>Dominator<br>Huntley S<br>Feltzer<br>Alpha<br>Jester | Driving out of **The Viceroy Hotels & Resort** onto **Palomino Avenue** northbound. Approach from south.
 Del Perro | - | - | Parked outside the main entrance of **Banner Hotel & Spa** on **Boulevard Del Perro**; 07:00-15:00
-Del Perro | 06:00-18:00 | Dubsta | Driving northwest on **Bay City Avenue** (at **Boulevard Del Perro** intersection; southwest of **Lombank** building), then continuing northwest onto **Playa Vista**
 Del Perro | 06:00-12:00 | Comet | Parked aside southeasternmost house along **Great Ocean Highway**.
-Del Perro | - | Blade<br>Ruiner<br>Dubsta | Driving southwest on **Red Desert Avenue** headed towards **Bay City Avenue**.
-Pillbox Hill | - | - | Driving out of parking garage under **Arcadius Business Center**, then turning north on **Las Lagunas Boulevard**.
+Del Perro | 06:00-18:00 | Dubsta<br>Dominator<br>Comet<br>Infernus<br>Ruiner<br>Surano | Driving northwest on **Playa Vista**. Approach from east on **Dorset Drive** westbound.
+Del Perro | 06:00-18:00 | Ruiner<br>Dominator<br>Infernus<br>Panto<br>Massacro<br>Pigalle<br>Gauntlet<br>Warrener | Driving northwest on **Bay City Avenue** (at **Boulevard Del Perro** intersection; southwest of **Lombank** building). Approach from either north or south.
+Del Perro | - | Blade<br>Ruiner<br>Dubsta<br>Huntley S<br>Infernus | Driving southwest on **Red Desert Avenue** headed towards **Bay City Avenue**. Approach from northwest on **Bay City Avenue**. Approach from east.
+Pillbox Hill | 22:00 | Massacro | Driving out of parking garage under **Arcadius Business Center**, then turning north on **Las Lagunas Boulevard**.
+Pillbox Hill | 08:00 | Comet **[N]** | Driving into parking garage under **Arcadius Business Center** from **Las Lagunas Boulevard**. Parks in fifth spot from entrance.
 Pillbox Hill | 06:00-18:00 | Pigalle<br>Panto<br>Jester<br>Blade<br>Warrener | Parked in **Caesars Auto Parking 24HR** at intersection of **Adam's Apple Boulevard** and **Elgin Avenue**.
-Mission Row | - | - | Driving out of the **Mission Row Police Station** (Impound Garage) north onto **Sinner Street** 10:00-16:00
-La Mesa | 22:00-04:00 | Dominator<br>Sabre Turbo<br>Ruiner | Two vehicles racing on the concrete of the **LS River**. They start next to the metal bridge over the water just south of the bridge on **Capital Boulevard** (southwest of **Los Santos Customs**).
+Mission Row | 10:00-16:00 | Panto<br>Warrener | Driving out of the **Mission Row Police Station** (Impound Garage) north onto **Sinner Street**. Approach from north on **Sinner Street**.
+La Mesa | 22:00-04:00 | Dominator<br>Sabre Turbo<br>Ruiner | Two vehicles drag racing on the concrete of the **LS River**. They start next to the metal bridge over the water just south of the bridge on **Capital Boulevard** (southwest of **Los Santos Customs**).
 La Mesa | - | - | Driving out of **Los Santos Customs** onto **Popular Street** and heading south.
 La Mesa | 06:00-18:00 | Warrener<br>Infernus | Parked on south side of **Capital Boulevard**, next to an Auto Repair shop with red scaffolding afront it.
-Mirror Park | 06:00-18:00 | Glendale<br>Pigalle<br>Panto<br>Warrener<br>Blade | Parked on west side of **Mirror Park Boulevard**. Next to a lone large tree just south of the intersection with **West Mirror Drive**.
-Mirror Park | 09:00 | Rhapsody<br>Panto | Driving out of **LTD** fuel station onto **Mirror Park Boulevard** southbound.
+Mirror Park | 06:00-18:00 | Glendale<br>Pigalle<br>Panto<br>Warrener<br>Blade<br>Rhapsody | Parked on west side of **Mirror Park Boulevard**. Next to a lone large tree just south of the intersection with **West Mirror Drive**.
+Mirror Park | 09:00 | Rhapsody<br>Panto<br>Blade | Driving out of **LTD** fuel station onto **Mirror Park Boulevard** southbound. Approach from south.
 Downtown | 24 Hours | Turismo R<br>Zentorno<br>Jester<br>Massacro | Parked on first level of **SAP Council** red parking garage. Northwest side of intersection at **Peaceful Street** and **Vespucci Boulevard**.
 Downtown | 06:00-18:00 | Thrust | Parked in lot south side of junction at **Vespucci Boulevard** and **Peaceful Street**. Second row from **Vespucci Boulevard**. (Across from the red parking garage.)
 Burton | 24 Hours | *ALL* | Parked outside **Los Santos Customs**.
-Vinewood | 22:00-04:00 | Sentinel XS<br>Pigalle<br>Panto | Driving out of **Up-n-Atom Burger** on **Vinewood Boulevard**, turning west onto **Vinewood Boulevard**; 06:00-18:00
-Vinewood | - | 24 Hours | Driving east on **West Eclipse Boulevard**. Passes in front of **Tequi-La-La**.
+Vinewood | 20:00 | Peyote (Neons Only) | Parked at **Liquor Hole** (across from **Tequi-La-La**) on **Eclipse Boulevard**.
+Vinewood | 10:00-12:00 | Voltic | Driving west in front of **Cinema Doppler** on **Vinewood Boulevard**.
+Vinewood | 22:00-04:00 | Sentinel XS<br>Pigalle<br>Panto<br>Surano<br>Huntley S | Driving out of **Up-n-Atom Burger** on **Vinewood Boulevard**, turning west onto **Vinewood Boulevard**. Approach from northwest via **Clinton Avenue**.
+Vinewood | Sentinel XS | 18:00-00:00 | Driving east on **West Eclipse Boulevard**. Passes in front of **Tequi-La-La**.
 West Vinewood | 24 Hours | Turismo R<br>Zentorno<br>Jester<br>Massacro | Parked in the garage under **Gentry Manor Hotel** on **Gentry Lane** (merge right off of **Eclipse Boulevard** and **Las Lagunas Boulevard**).
-West Vinewood | 17:00 | Sentinel XS<br>Ruiner | Up to two vehicles driving east along **Eclipse Boulevard** towards **Vinewood Boulevard**.
+West Vinewood | 17:00-04:00  | Sentinel XS<br>Ruiner | Up to two vehicles driving east along **Eclipse Boulevard** towards **Vinewood Boulevard**.  Approach from east.
 West Vinewood | - | Rapid GT<br>Voltic | Parked in lot east of **Last Train in Los Santos Diner**. Below Kung Fu Rainbow Lazer Force billboard. 18:00-04:00
-Rockford Hills | 17:00 | Alpha | Parked inside north entrance of **Epsilon Building** on **Spanish Avenue** and **Rockford Drive**. (The gate is locked. You have to drive it out of the east exit.)
-Rockford Hills | 12:00-18:00 | Surano<br>Pigalle<br>Dubsta<br>Panto<br>Jester<br>Sabre Turbo<br>Feltzer<br>Massacro<br>Rapid GT<br>Glendale | Parked in front of **Gussét** on **Portola Drive**.
-Rockford Hills | 10:00-18:00 | Coquette Classic<br>Sabre Turbo | Parked in back entrance of **The Archipelago**. (Across from **LifeInvader Office** on south side of **South Boulevard Del Perro**.)
-Rockford Hils | 14:00 | Coquette Classic | Driving west on **Eastbourne Way**. Turns north onto **Mad Wayne Thunder Drive**.
-Rockford Hills | 10:00-18:00 | Jester<br>Turismo R<br>Massacro | Driving out west exit of **Rockford Dorset Hotel**, turning north on **Palomino Avenue**.
-Rockford Hills | - | Dubsta<br>Rhapsody | Driving out of **Didiersachs** underground parking and turning westbound onto **Heritage Way** headed towards **Movie Star Way**.
+Rockford Hills | 17:00-05:00 | Alpha<br>(Light Blue) | Only the light blue (Espilon-esque) variant spawns here. Parked inside north gate of the **Epsilon Building** on **Spanish Avenue** and **Rockford Drive**. The gate is locked. You have to drive it out of the east pedestrian exit.
+Rockford Hills | 12:00-18:00 | Surano<br>Pigalle<br>Dubsta<br>Panto<br>Jester<br>Sabre Turbo<br>Feltzer<br>Massacro<br>Rapid GT<br>Glendale<br>Dominator<br>Gauntlet | Parked in front of **Gussét** on **Portola Drive**.
+Rockford Hills | 10:00-18:00 | Coquette Classic<br>Sabre Turbo<br>Panto<br>Glendale<br>Rapid GT | Parked in back entrance of **The Archipelago**. (Across from **LifeInvader Office** on south side of **South Boulevard Del Perro**.)
+Rockford Hills | 14:00 | Coquette Classic | Driving west on **Eastbourne Way**. Turns north onto **Mad Wayne Thunder Drive**.
+Rockford Hills | 10:00-18:00 | Jester<br>Turismo R<br>Massacro | Driving out west exit of **Rockford Dorset Hotel**, turning north on **Palomino Avenue**. Approach from either north or south on **Portola Drive**.
+Rockford Hills | 12:00-20:00 | Dubsta<br>Rhapsody<br>Huntley S<br>Surano<br>Thrust<br>Coquette Classic | Driving out of **Didiersachs** underground parking and turning westbound onto **Heritage Way** headed towards **Movie Star Way**. (East of **Richards Majestic**.)
 Rockford Hills | 10:00-18:00 | Pigalle | Driving west along **Boulevard Del Perro** past the **Rockford Hills Sign**.
-Vinewood Hills | 06:00-12:00 | Massacro | Parked in front of (open) garage door at **6085 Milton Road**. Just east of intersection with **Mount Vinewood Drive**.
+Vinewood Hills | 22:00-00:00 | Comet | Parked at **3667 Wild Oats Drive**.
+Vinewood Hills | 24 Hours | Sentinel XS<br>Comet<br>Jester<br>Massacro<br>Coquette Classic<br>Zentorno | Driving south on **Baytree Canyon Road**. Spawns mobile in front of ****. Turns west onto **Marlowe Drive**.
+Vinewood Hills | 08:00-10:00 | Surano | Driving east on **Kimble Hill Drive**. Approach from east.
+Vinewood Hills | 06:00-18:00 | Massacro | Parked in front of (open) garage door at **6085 Milton Road**. Just east of intersection with **Mount Vinewood Drive**.
+Richman | 18:00-02:00 | Feltzer | Pulls from driveway (fifth house north from **Kortz Drive**) on west side of **North Rockford Drive**. Turns southbound. Approach from south.
+Richman | 17:00-18:00 | Sabre Turbo **[N]** | Driving south on **North Rockford Drive**. Pulls into driveway of fifth house north from **Kortz Drive**.
 Great Chaparral | 22:00-00:00 | Dominator<br>Ruiner<br>Sabre Turbo | One vehicle parked on west side of **Ammu-Nation** on **Route 68**. Another NPC-modified vehicle is driving west, pulls in, and parks next to the stationary vehicle. Two NPC drivers exit the vehicles and smoke/chat. The vehicles at random, but sometimes it will be two variants of the same base vehicle.
-Tongva Hills | - | Sandking XL | Driving west on **Route 68**. Spawns somwhere near the **RON** fuel station south of **Lago Zancudo** (marsh flats). Turns left onto **Great Ocean Highway** southbound.
+Tongva Hills | - | Sandking XL | Driving west on **Route 68**. Spawns somwhere near the **RON** fuel station south of **Lago Zancudo** (marsh flats). Turns left onto **Great Ocean Highway** southbound. Approach from east.
 Grand Senora Desert | - | Sandking XL | Grand Senora Desert | Parked in the lot of **Larry's RV Sales** on **Route 68** (across from **Los Santos Customs**).
-Grapeseed | 12:00-18:00 | Rat-Loader | Driving out of the **Ltd** Fuel Station in **Grapeseed**, headed northeast on **Grapeseed Main Street**.
+Grapeseed | 12:00-18:00 | Rat-Loader | Driving out of the **Ltd** Fuel Station in **Grapeseed**, headed northeast on **Grapeseed Main Street**. Approach from east.
 Raton Canyon | - | - | Driving south across the **Cassidy Creek Bridge**.
 Mount Gordo | - | Ruiner<br>Sabre Turbo | Driving west on feeder road (north side of **Great Ocean Highway**), past **Up 'n' Atom Diner** restaurant, then merging onto **Great Ocean Highway** westbound.
-Paleto Bay | - | Sandking XL | I swear I've run across more than one somewhere around Paleto. Unconfirmed until I do.
-Paleto Bay | - | Rat-Truck | Parked outside **Beeker's Garage**.
+Paleto Bay<br>**(REMOVED)** | N/A | Sandking XL | This spawn was removed in some patch. Version unknown. The spawn works .
+Paleto Bay | - | Rat-Loader | Parked outside **Beeker's Garage**.
 
 ### Gang Vehicles
 
@@ -245,15 +278,6 @@ All gangs have their own colors painted onto their cars. Families' color is gree
 - Albany Buccaneer
 
 Regular variants of each can be obtained at the bus junkyard on the intersection of **South Shambles Street** and **Hanger Way** in **El Burro Heights**. This location works most often at night, and the vehicles will not have any upgrades. Non-gang variants (with upgrades) can be found at **Olson's Autos** on **El Rancho Boulevard** in **Cypress Flats**. The vehicles found here have the same upgrades, but no specific paintjob.
-
-### Neons Only
-
-These vehicles spawn with just neons installed.
-
-Location | Time | Vehicle(s) | Details
-:--- | --- | ----- | ---
-Richman | 17:00-18:00 | Sabre Turbo | Driving south on **North Rockford Drive**. Pulls into driveway of fourth house north from **Kortz Drive**.
-Vinewood | 20:00 | Peyote | Parked at **Liquor Hole** (across from **Tequi-La-La**) on **Eclipse Boulevard**.
 
 ### BEACH BUM UPDATE VEHICLES
 
