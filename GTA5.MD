@@ -19,12 +19,10 @@
 [RARE VEHICLES](#rare-vehicles)<br>
 &emsp;[Regular Vehicles](#regular-vehicles)<br>
 &emsp;[NPC-Modified Vehicles](#npc-modified-vehicles)<br>
-&emsp;[Sandking XL](#sandking-xl)<br>
 &emsp;[Beach Bum Update Vehicles](#beach-bum-update-vehicles)<br>
 &emsp;[Gang Vehicles](#gang-vehicles)<br>
-&emsp;[Neons Only](#neons-only)<br>
+&emsp;[Convertibles](#convertibles)<br>
 [SECURITY VANS](#security-vans)<br>
-[CONVERTIBLES](#convertibles)
 
 # MODS
 
@@ -268,17 +266,6 @@ Mount Gordo | - | Ruiner<br>Sabre Turbo | Driving west on feeder road (north sid
 Paleto Bay<br>**(REMOVED)** | N/A | Sandking XL | This spawn was removed in some patch. Version unknown. The spawn works .
 Paleto Bay | - | Rat-Loader | Parked outside **Beeker's Garage**.
 
-### Gang Vehicles
-
-All gangs have their own colors painted onto their cars. Families' color is green, Ballas purple, Vagos yellow. Families are at the northern end of **Grove Street** in **Chamberlain Hills**. Ballas are at the southern end of **Grove Street**, also in **Chamberlain Hills**. Vagos are at the southwest end of **Jamestown Street** in **Rancho**. All gang vehicles spawn with the same upgrades, only the paint is different:
-
-- Vapid Peyote
-- Declasse Tornado
-- Albany Manana
-- Albany Buccaneer
-
-Regular variants of each can be obtained at the bus junkyard on the intersection of **South Shambles Street** and **Hanger Way** in **El Burro Heights**. This location works most often at night, and the vehicles will not have any upgrades. Non-gang variants (with upgrades) can be found at **Olson's Autos** on **El Rancho Boulevard** in **Cypress Flats**. The vehicles found here have the same upgrades, but no specific paintjob.
-
 ### BEACH BUM UPDATE VEHICLES
 
 I've found the **BF Surfer** (the clean variant) only as far south as the lot north of the **Del Perro** houses. It is quite common all the way north to **Paleto Bay** and I've found it sporadically throughout **Blaine County**. The **BF Surfer** does not appear to share any spawns with neither the **BF Bifta** nor **Canis Kalahari**. Because of that, and the fact it's *so* much more common, I'll be logging spawns of only the **BF Bifta** and **Canis Kalahari**. Both of which are quite localized, but share all the same spawns.
@@ -296,25 +283,18 @@ Banham Canyon | Parked on beach at the northernmost end of **Banham Canyon**.
 Banham Canyon | Parked on shoulder of **Great Ocean Highway**. Driven southbound onto **Inseno Road**.
 Chumash | Parked afront orange house on southern end of **Barbareno Road**. 10:00
 
-# SECURITY VANS
+### Gang Vehicles
 
-[[Cite.]](https://gta.fandom.com/wiki/Random_Events_in_GTA_V#Security_Vans)
-[[Cite.]](https://gamefaqs.gamespot.com/boards/634491-grand-theft-auto-v/67500570)
+All gangs have their own colors painted onto their cars. Families' color is green, Ballas purple, Vagos yellow. Families are at the northern end of **Grove Street** in **Chamberlain Hills**. Ballas are at the southern end of **Grove Street**, also in **Chamberlain Hills**. Vagos are at the southwest end of **Jamestown Street** in **Rancho**. All gang vehicles spawn with the same upgrades, only the paint is different:
 
-Area | Type | Time | Location
-:--- | ---- | --- | ---
-Cypress Flats | Mobile | - | Driving west along **El Rancho Boulevard**. Near **Orchardville Avenue** (north of the **Ammu-Nation**).
-La Puerta | Static | - | Parked at **Globe Oil** on southwest side of intersection at **Innocence Boulevard** and **Alta Street**.
-Little Seoul | Static | - | Parked in front of **KOREAN PLAZA**. West of intersection at **Adam's Apple Boulevard** and **Calais Avenue**.
-Little Seoul | Static | - | Parked outside the **Lucky Plucker** restaurant on the southeast side of intersection at **Palomino Avenue** and **Vespucci Boulevard**.
-Little Seoul | Mobile | - | Driving east along **San Andreas Avenue** near the **Hit 'n' Run Coffee**.
-Vespucci Canals | Mobile | 18:00-04:00 | Driving northwest along **Prosperity Street**.
-La Mesa | Mobile | - | Driving south along **Supply Street** near the north intersection with **Popular Street**.
-Tongva Hills | Mobile | - | Driving south along **Great Ocean Highway**, near **Route 68**.
-San Chianski Mountain Range | Mobile | - | Driving north along **Chianski Passage**, near the guard post in the middle of the road.
-Paleto Bay | Static | - | Parked on northeast side of intersection at **Paleto Boulevard** and **Great Ocean Highway**. Across from Sheriff Station.
+- Vapid Peyote
+- Declasse Tornado
+- Albany Manana
+- Albany Buccaneer
 
-# CONVERTIBLES
+Regular variants of each can be obtained at the bus junkyard on the intersection of **South Shambles Street** and **Hanger Way** in **El Burro Heights**. This location works most often at night, and the vehicles will not have any upgrades. Non-gang variants (with upgrades) can be found at **Olson's Autos** on **El Rancho Boulevard** in **Cypress Flats**. The vehicles found here have the same upgrades, but no specific paintjob.
+
+### CONVERTIBLES
 
 These vehicles have retractable roofs (or variants with retractable roofs).
 
@@ -342,5 +322,27 @@ Bravado | Banshee
 Canis | Kalahari<br>Mesa
 Coil | Voltic
 Grotti | Stinger
+Imponte | Ruiner
 Invetero | Coquette<br>Coquette Classic<br>Coquette Blackfin
+Pfister | 811
 Vapid | Chino Custom<br>Peyote<br>Peyote Custom
+
+# SECURITY VANS
+
+[[Cite.]](https://gta.fandom.com/wiki/Random_Events_in_GTA_V#Security_Vans)
+[[Cite.]](https://gamefaqs.gamespot.com/boards/634491-grand-theft-auto-v/67500570)
+
+If you see a truck but don't get close enough to activate the event (when the minimap displays the blue dot), you can travel to any other truck location and have it spawn without question.
+
+Area | Type | Time | Location
+:--- | ---- | --- | ---
+Cypress Flats | Mobile | - | Driving west along **El Rancho Boulevard**. Near **Orchardville Avenue** (north of the **Ammu-Nation**).
+La Puerta | Static | - | Parked at **Globe Oil** on southwest side of intersection at **Innocence Boulevard** and **Alta Street**.
+Little Seoul | Static | - | Parked in front of **KOREAN PLAZA**. West of intersection at **Adam's Apple Boulevard** and **Calais Avenue**.
+Little Seoul | Static | - | Parked outside the **Lucky Plucker** restaurant on the southeast side of intersection at **Palomino Avenue** and **Vespucci Boulevard**.
+Little Seoul | Mobile | - | Driving east along **San Andreas Avenue** near the **Hit 'n' Run Coffee**.
+Vespucci Canals | Mobile | 18:00-04:00 | Driving northwest along **Prosperity Street**.
+La Mesa | Mobile | - | Driving south along **Supply Street** near the north intersection with **Popular Street**.
+Tongva Hills | Mobile | - | Driving south along **Great Ocean Highway**, near **Route 68**.
+San Chianski Mountain Range | Mobile | - | Driving north along **Chianski Passage**, near the guard post in the middle of the road.
+Paleto Bay | Static | - | Parked on northeast side of intersection at **Paleto Boulevard** and **Great Ocean Highway**. Across from Sheriff Station.
