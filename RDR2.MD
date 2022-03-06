@@ -5,18 +5,99 @@
 *There may or may not be spoilers in here. I didn't proofread it to check. Best just assume there are a few spoilers, but as I recall nothing I go over should be too traumatic.*
 
 [SURVIVING IN THE WILDERNESS](#surviving-in-the-wilderness)
+<br>&emsp;[Weather and Proper Attire](#weather-and-proper-attire)
+<br>&emsp;[Killing, Skinning, and Cooking](#killing-skinning-and-cooking)
+<br>&emsp;[Animal Attacks](#animal-attacks)
+<br>&emsp;[Looting plants and skins from NPCs.](#looting-plants-and-skins-from-npcs)
+<br>&emsp;[Bed, Bath, and Beyond](#bed-bath-and-beyond)
+<br>&emsp;[Honor and Benefits](#honor-and-benefits)
 <br>[GENERAL TIPS AND TRICKS](#general-tips-and-tricks)
+<br>&emsp;[How many horses can I own?](#how-many-horses-can-i-own)
+<br>&emsp;[How to tame wild horses?](#how-to-tame-wild-horses)
+<br>&emsp;[Testing tonics.](#testing-tonics)
+<br>&emsp;[How to max weapon familiarity fast?](#how-to-max-weapon-familiarity-fast)
+<br>&emsp;[How to max bond horses fast?](#how-to-max-bond-horses-fast)
+<br>&emsp;[Map icons.](#map-icons)
+<br>&emsp;[How to trigger camp item requests?](#how-to-trigger-camp-item-requests)
+<br>&emsp;[Alcohol strength and states.](#alcohol-strength-and-states)
+<br>&emsp;[What's the best saddle?](#whats-the-best-saddle)
+<br>&emsp;[Traveling long distances automatically.](#traveling-long-distances-automatically)
+<br>&emsp;[Where are the rare wild horses?](#where-are-the-rare-wild-horses)
 <br>[HUNTING TIPS](#hunting-tips)
+<br>&emsp;[Debunking the save/reload deal.](#debunking-the-savereload-deal)
+<br>&emsp;[Use a headset if possible.](#use-a-headset-if-possible)
+<br>&emsp;[Stealth is usually better](#stealth-is-usually-better)
+<br>&emsp;[Cover scent lotion.](#cover-scent-lotion)
+<br>&emsp;[Give the game time to spawn everything.](#give-the-game-time-to-spawn-everything)
+<br>&emsp;[Dealing with evasive/aggressive animals effectively.](#dealing-with-evasiveaggressive-animals-effectively)
+<br>&emsp;[Farming gritty fish meat for potent predator bait.](#farming-gritty-fish-meat-for-potent-predator-bait)
+<br>&emsp;[Farming wild animals.](#farming-wild-animals)
+<br>&emsp;[What is the best weapon?](#what-is-the-best-weapon)
+<br>&emsp;[How to get perfect skins?](#how-to-get-perfect-skins-pelts-hides-etc)
 <br>[FISHING TIPS](#fishing-tips)
+<br>&emsp;[Weather, bait, and bite sequences.](#weather-baits-and-bite-sequences)
 <br>[PLANT/HERB LOCATIONS](#plantherb-locations)
 <br>[ITEM LOCATIONS](#item-locations)
+<br>&emsp;[Notes](#notes)
+<br>&emsp;[Ginseng Elixir](#ginseng-elixir)
+<br>&emsp;[Aged Pirate Rum](#aged-pirate-rum)
+<br>&emsp;[Valerian Root](#valerian-root)
+<br>&emsp;[Moonshine](#moonshine)
+<br>&emsp;[Whiskey Case](#whiskey-case)
+<br>&emsp;[Beer Case](#beer-case)
+<br>&emsp;[Whiskey/Beer Combo Case](#whiskeybeer-combo-case)
+<br>&emsp;[Pamphlets](#pamphlets)
 <br>[BOUNTY MISSIONS AND TARGETS](#bounty-missions-and-targets)
 <br>[MISSABLE CONTENT](#missable-content)
+<br>&emsp;[Chapter I](#chapter-i)
+<br>&emsp;[Chapter II](#chapter-ii)
+<br>&emsp;[Chapter III](#chapter-iii)
+<br>&emsp;[Chapter IV](#chapter-iv)
+<br>&emsp;[Chapter V](#chapter-v)
+<br>&emsp;[Chapter VI](#chapter-vi)
+<br>&emsp;[Epilogue I](#epilogue-i)
+<br>&emsp;[Epilogue II](#epilogue-ii)
 <br>[ITEM SELL PRICES](#item-sell-prices)
+<br>&emsp;[Animal Skins](#animal-skins)
+<br>&emsp;[Orchids](#orchids)
 <br>[BUGS](#bugs)
+<br>&emsp;[Unable to send orchids by mail.](#unable-to-send-orchids-by-mail)
+<br>&emsp;[Double skins.](#double-skins)
+<br>&emsp;[Severe flickering or outright blackout in Bluewater Marsh and/or Bayou Nwa.](#severe-flickering-or-outright-blackout-in-bluewater-marsh-andor-bayou-nwa)
+<br>&emsp;[Javier not getting off his horse during Chez Porter Homestead Robbery.](#javier-not-getting-off-his-horse-during-chez-porter-homestead-robbery)
+<br>&emsp;[Locations not being noted on the map.](#locations-not-being-noted-on-the-map)
+<br>&emsp;[Discount at Saint Denis shops as reward for killing Jean Marc as ordered by Mayor Henri Lemieux.](#discount-at-saint-denis-shops-as-reward-for-killing-jean-marc-as-ordered-by-mayor-henri-lemieux)
+<br>&emsp;[Unable to save custom outfits.](#unable-to-save-custom-outfits)
+<br>&emsp;[Legend of the East outfit not unlocking after 90th challenge.](#legend-of-the-east-outfit-not-unlocking-after-90th-challenge)
+<br>&emsp;[Micro-stuttering, FPS drops, ERR_GFX_STATE popup/crash, and other graphics issues.](#micro-stuttering-fps-drops-err_gfx_state-popupcrash-and-other-graphics-issues)
 <br>[GLITCHES](#glitches)
+<br>&emsp;[Looting saddle bags and not getting the shit kicked out of you.](#looting-saddle-bags-and-not-getting-the-shit-kicked-out-of-you)
+<br>&emsp;[Break down large fish.](#break-down-large-fish)
+<br>&emsp;[Keep temporary documents.](#keep-temporary-documents)
+<br>&emsp;[Launch from horse with carcass stowed on side.](#launch-from-horse-with-carcass-stowed-on-side)
+<br>&emsp;[Getting caught when quickly dismounting your horse.](#getting-caught-when-quickly-dismounting-your-horse)
+<br>&emsp;[Steal any horse from any stable.](#steal-any-horse-from-any-stable)
+<br>&emsp;[Remove scope from Carcano and/or Rolling Block Rifles.](#remove-scope-from-carcano-andor-rolling-block-rifles)
+<br>&emsp;[Universal saddle blankets.](#universal-saddle-blankets)
+<br>&emsp;[Getting the Silver Dapple Pinto Missouri Fox Trotter at no cost for Arthur.](#getting-the-silver-dapple-pinto-missouri-fox-trotter-at-no-cost-for-arthur)
+<br>&emsp;[Saving Arthur's money for John.](#saving-arthurs-money-for-john)
+<br>&emsp;[Getting out of bounds.](#getting-out-of-bounds)
+<br>&emsp;[Speed crafting.](#speed-crafting)
+<br>&emsp;[Duplicate journal sketches.](#duplicate-journal-sketches)
 <br>[EASTER EGGS](#easter-eggs)
-<br>[MISCELLANEOUS](#miscellaneous) (Mods and such.)
+<br>&emsp;[KKK](#kkk)
+<br>&emsp;[Skinner Brothers' yelps.](#skinner-brothers-yelps)
+<br>&emsp;[Voices at Colter.](#voices-at-colter)
+<br>&emsp;[Whispers in Roanoke forests.](#whispers-in-roanoke-forests)
+<br>&emsp;[Bolger Glade whispers.](#bolger-glade-whispers)
+<br>&emsp;[Feral man - Wild Man's Journal.](#feral-man---wild-mans-journal)
+<br>&emsp;[Lemoyne Ghost Train](#lemoyne-ghost-train)
+<br>[MISCELLANEOUS](#miscellaneous)
+<br>&emsp;[Cool Things](#cool-things)
+<br>&emsp;[Tools](#tools)
+<br>&emsp;[Missable Content References](#missable-content-references)
+<br>&emsp;[Mods](#mods)
+<br>&emsp;[References](#references)
 
 # SURVIVING IN THE WILDERNESS
 
@@ -285,6 +366,19 @@ Aside from fast travel (unlocked by purchasing the map from the camp ledger), yo
 
 **NOTE:** events still occur, it's just a different camera view. You can still get attacked by a predator or enemies.
 
+### Where are the rare wild horses?
+
+Breed | Coat | Location
+:--- | --- | ---
+Arabian | White | Lake Isabella, Grizzlies West, AM
+Arabian | Red Chestnut | Owanjila, Big Valley, WE (in woods west of lake)
+Arabian | Warped Brindle | Tempest Rim, Grizzlies West, AM (north of Wapiti)
+Andalusian | Perino | East bank of **Kamassa River** on cliffside at **Brandywine Drop**
+Appaloosa | Few Spotted | Heartlands, NH (west of Oil Derrick)
+Mustang | Tiger Striped Bay | Rio del Lobo Rock, Rio Bravo, NA (south of Legendary Pronghorn spawn)
+American Standardbred | Black | Little Creek River, Big Valley, WE (along north bank; southeast of Watson's Cabin)
+Thoroughbred | Blood Bay | Larned Sod, Heartlands, NH (southwest of house)
+
 # HUNTING TIPS
 
 ### Debunking the save/reload deal.
@@ -393,6 +487,8 @@ Massive Game | Improved Arrow<br>Poison Arrow<br>Poison Throwing Knife<br>Rifle<
 - All fish have a specific pattern of nibbling/biting. Once you can recall what fish do what, you won't even need to use Eagle Eye to see what's down there.
 - When using any bait, after a number of nibbles and bites your bait will completely deteriorate and you'll have to reel in and rebait. Lures are not affected by numerous bites.
 
+### Weather, baits, and bite sequences.
+
 Name | Active Weather | Favorite Bait | Area(s) | Bite Sequence<br>`N` = Nibble<br>`B` = Bite | Meat Type
 :--- | --- | --- | --- | --- | ---
 Bluegill | Rain | Cheese | Pretty much everywhere. | NB | Gritty
@@ -411,60 +507,15 @@ Channel Catfish | Overcast | Swamp Lure | Lannahechee River, Bayou Nwa, LE (east
 Longnose Gar | Overcast | Swamp Lure | Lagras, Bayou Nwa, LE<br>Bayall Edge, Bayou Nwa, LE<br>Kamassa River, Bayou Nwa, LE (southeast of **Caliga Hall** to **Crawdad Willies**) | NNNNNNNB | Gritty
 Northern Pike | Overcast | River Lure | Lannahechee River, Roanoke Ridge, NH (north of **Van Horn Trading Post**)<br>Kamassa River, Roanoke Ridge, NH (from **Brandywine Drop** to southwest of **Beaver Hollow**)<br>Dakota River, Cumberland Forest, NH (from northwest of **Fort Wallace** to west of **Valentine**)<br>Cattail Pond, Grizzlies West, AM<br>Lake Isabella, Grizzlies West, AM | BBBBBB | Flaky
 
-## Horses
-
-**White Arabian**
-- Lake Isabella, Grizzlies West, AM
-
-**Red Chestnut Arabian**
-- Owanjila, Big Valley, WE (in woods west of lake)
-
-**Warped Brindle Arabian**
-- Tempest Rim, Grizzlies West, AM (north of Wapiti)
-
-**Perino Andalusian**
-- east bank of **Kamassa River** on cliffside at **Brandywine Drop**
-
-**Few Spotted Appaloosa**
-- Heartlands, NH (west of Oil Derrick)
-
-**Tiger Striped Bay Mustang**
-- Rio del Lobo Rock, Rio Bravo, NA (south of Legendary Pronghorn spawn)
-
-**Black American Standardbred**
-- Little Creek River, Big Valley, WE (along north bank; southeast of Watson's Cabin)
-
-**Blood Bay Thoroughbred**
-- Larned Sod, Heartlands, NH (southwest of house)
-
 # PLANT/HERB LOCATIONS
 
-### Vanilla Flower
-
-**NOTE:** Localized to **Bayou Nwa, LE**.
-
-- Bayall Edge, Bayou Nwa, LE (highest concentration is around **Bayall Edge**)
-
-### English Mace
-
-**NOTE:** Localized to **New Austin**, but can be found sporadically outside of the state.
-
-- east of **O'Creagh's Run**; northwest of **Martha's Swain**; only 5 plants
-- east of **Mysterious Hill Home**; "You don't see this every day..."
-- along the **San Luis River** from the 'H' in "WEST ELIZABETH" to a bit west of **Scratching Post, Gaptooth Ridge, NA**; **IT GROWS NEAR THE RIVER BUT NOT DIRECTLY ON THE BANKS LIKE MILKWEED AND BULRUSH DO.**
-- north and northeast of **MacFarlane's Ranch** in **Hennigan's Stead, NA**
-
-### Wild Feverfew
-
-- sporadically across **Hennigan's Stead, NA** and **Cholla Springs, NA**.
-
-### Red Sage
-
-- grows only in **Rio Bravo, NA**.
-
-### Sparrow's Egg Orchid
-
-- NE of second 'O' in "RIO RRAV**O**"
+Plant | Location(s)
+:--- | ---
+Vanilla Flower | **Bayou Nwa, LE** (highest concentration is around **Bayall Edge**)
+English Mace | East of **O'Creagh's Run**; northwest of **Martha's Swain**. Only 5 plants.<br>East of **Mysterious Hill Home**; "You don't see this every day..."<br>North and northeast of **MacFarlane's Ranch** in **Hennigan's Stead, NA**<br>Along the southern edges of **Hennigan's Stead, NA**, **Rio Bravo, NA**, and southeastern **Gaptooth Ridge, NA**. All along the **San Luis River** from the 'H' in "WEST ELIZABETH" to a bit west of **Scratching Post, Gaptooth Ridge, NA**. Does not grow near the water's edge like Milkweed/Bulrush. It grows a bit inland from the river.
+Wild Feverfew | Sporadically across **Hennigan's Stead, NA** and **Cholla Springs, NA**.
+Red Sage | Only in **Rio Bravo, NA**, primarily around **Fort Mercer**.
+Sparrow's Egg Orchid | All around northeastern **Roanoke Ridge, NA**.<br>Odd location for such a plant. NE of second 'O' in "RIO RRAV**O**".
 
 # ITEM LOCATIONS
 
@@ -472,6 +523,7 @@ Northern Pike | Overcast | River Lure | Lannahechee River, Roanoke Ridge, NH (no
 
 - Some information taken from [Chest & Lockbox Locatons](https://redd.it/9th89h/).
 - Items in containers (lockboxes, chests, cabinets, wardrobes, etc) will respawn regardless of rarity. Rare items (i.e. Aged Pirate Rum) do not respawn unless they're in a container. Respawnable items are bold.
+- New years day 2022, all non-respawning items respawned. Unsure if the game has something coded into it for refreshing every year.
 
 ### Ginseng Elixir
 
@@ -568,7 +620,9 @@ Northern Pike | Overcast | River Lure | Lannahechee River, Roanoke Ridge, NH (no
 - Van Horn, Roanoke Ridge, NH (inside the trap house by the water)
 - Beecher's Hope, Great Plains, WE (after Epilogue II)
 
-### Whiskey / Beer Case (Random Chance)
+### Whiskey/Beer Combo Case
+
+*Random chance of grabbing a beer or whiskey bottle.*
 
 - Lagras, Bayou Nwa, LE (northernmost house)
 
@@ -1098,6 +1152,8 @@ https://www.youtube.com/watch?v=_fSlasTGGag
 
 - [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base. SDK for development of C++ plugins available on the same page.
 - [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer.
+- [Proper horse sprint on controller.](https://www.nexusmods.com/reddeadredemption2/mods/1347)
+- [Lenny's Mod Loader](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) - stream modded content directly into game.
 
 ### References
 
