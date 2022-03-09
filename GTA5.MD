@@ -82,13 +82,13 @@ You can use the **Sawed Off Shotgun** and **Auto Shotgun** while on a motorcycle
 
 Four wheel drive is helpful. Here's my personal picks for trails and offroading:
 
-Maxwell Vagrant (this thing trumps trails to pavement)
-Karin Sultan (the best all around in the vanilla game from my experience, also because Subie go brr)
-Canis Kalahari (good grip, average top speed)
-BF Dune Buggy (it's named that for a reason)
-Vapid Blade (surprisingly good on trails and hillclimbs)
-BF Bifta (RWD takes getting used to but blazes trails once learned, poor hillclimb though)
-Vapid Sandking XL (decent all around, average top speed, decent cornering, good hill climber)
+- Maxwell Vagrant (this thing trumps trails to pavement)
+- Karin Sultan (the best all around in the vanilla game from my experience, also because Subie go brr)
+- Canis Kalahari (good grip, average top speed)
+- BF Dune Buggy (it's named that for a reason)
+- Vapid Blade (surprisingly good on trails and hillclimbs)
+- BF Bifta (RWD takes getting used to but blazes trails once learned, poor hillclimb though)
+- Vapid Sandking XL (decent all around, average top speed, decent cornering, good hill climber)
 
 ### Air Vehicle Tips
 
@@ -96,9 +96,9 @@ Vapid Sandking XL (decent all around, average top speed, decent cornering, good 
 
 Well, up to the individual to check stats for themselves. Here's my personal favorites:
 
-- Mammoth Hydra (VTOL, higher top and lower cruising speeds than **P-996 LAZER**, tossed around by turbulence)
-- Western Cuban 800 (well-balanced across the board)
-- Mammoth Dodo (quite resistant to turbulence, amphibious, easy to land on hard ground and water)
+- Mammoth Hydra (VTOL, higher top and lower cruising speeds than **P-996 LAZER**, tossed around by turbulence, easy to land)
+- Western Cuban 800 (well-balanced across the board, easy to land)
+- Mammoth Dodo (amphibious, quite resistant to turbulence, easy to land on hard ground and water)
 - Buckingham Alpha Z1 (immune to turbulence, fast cruise, somewhat difficult to land)
 
 And helicopters:
@@ -156,6 +156,8 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 
 **Buckingham Swift**
 - Both the regular and Flying Bravo variants will land at the easternmost helipad at the terminal of LSIA. 06:00-18:00
+- Black variant taking off at the **NOOSE Headquarters** on **Sustancia Road**, in **Palomino Highlands**.
+- Flying Bravo variant flying along the east coast of **Blaine County**, usually near the **RON Alternates Wind Farm**.
 
 **Declasse Gang Burrito**
 - During `Mr. Philips`
@@ -292,7 +294,7 @@ Vulcar | Warrener
 **Quick tips relating to cargenerators (vehicle spawns):**
 
 - Certain vehicles seem to get rare cars to spawn more often. I've had the best overall luck with the **Vapid Blade**, **Dinka Akuma**, and **Dinka Double T**.
-- Certain approach directions work more often than others, and are noted at the end of the `Details` column as "Approach from..."
+- Certain approach directions work more often than others, and are noted appropriately as `Approach from...`
 - Daytime spawns are best checked between 11:00-12:00. Nighttime spawns are best checked 22:00-02:00.
 - Weather doesn't seem to affect most spawns. Though I recall encountering more rare vehicles when it's clear. Maybe that's just because I generally don't drive in rain.
 - Freezing time and (clear/sunny) weather via trainer helped tremendously when determining these times.
@@ -380,11 +382,11 @@ Vulcar | Warrener
 - 24 hours. Albany Roosevelt parked in garage at **2848 Milton Road**.
 
 **Richman**
-- 13:00-14:00 | Turismo R | Parked outside double garage at **Richman Mansion**.
-- 18:00-02:00 | Feltzer | Pulls from driveway (fifth house north from **Kortz Drive**) on west side of **North Rockford Drive**. Turns southbound. Approach from south.
-- 17:00-18:00 | Sabre Turbo **[N]** | Driving south on **North Rockford Drive**. Pulls into driveway of fifth house north from **Kortz Drive**.
-- 12:00 | Super Diamond | Pulls from driveway of house for sale (forclosure sign) directly southeast of a parking lot (west of **Richman Mansion**). Drives east on **Americano Way**.
-- 12:00 | Super Diamond | Parked in second to last spot from entrance in lot of **Los Santos Country Club**.
+- 13:00-14:00 Parked outside double garage at **Richman Mansion**. Turismo R
+- 18:00-02:00 Pulls from driveway (fifth house north from **Kortz Drive**) on west side of **North Rockford Drive**. Turns southbound. Approach from south. Feltzer
+- 17:00-18:00 Driving south on **North Rockford Drive**. Pulls into driveway of fifth house north from **Kortz Drive**. Sabre Turbo **[N]**
+- 12:00 Pulls from driveway of house for sale (forclosure sign) directly southeast of a parking lot (west of **Richman Mansion**). Drives east on **Americano Way**. Super Diamond
+- 12:00 Parked in second to last spot from entrance in lot of **Los Santos Country Club**. Super Diamond
 
 **Great Chaparral**
 - 22:00-00:00 One vehicle parked on west side of **Ammu-Nation** on **Route 68**. Another NPC-modified vehicle is driving west, pulls in, and parks next to the stationary vehicle. Two NPC drivers exit the vehicles and smoke/chat. The vehicles at random, but sometimes it will be two variants of the same base vehicle. Dominator, Ruiner, Sabre Turbo
@@ -487,11 +489,11 @@ Area | Type | Location
 Cypress Flats | Event | Driving west along **El Rancho Boulevard**. Near **Orchardville Avenue** (north of the **Ammu-Nation**).
 La Puerta | Event | Parked at **Globe Oil** on southwest side of intersection at **Innocence Boulevard** and **Alta Street**.
 La Mesa | Event | Driving south along **Supply Street** near the north intersection with **Popular Street**.
-Pillbox Hill | Traffic | 07:55 | Pulls out of alley next to **Fleeca** on the southeast corner of **Vespucci Boulevard** and **Elgin Avenue**.
+Pillbox Hill | Traffic | Pulls out of alley next to **Fleeca** on the southeast corner of **Vespucci Boulevard** and **Elgin Avenue**.
 Little Seoul | Event | Parked in front of **KOREAN PLAZA**. West of intersection at **Adam's Apple Boulevard** and **Calais Avenue**.
 Little Seoul | Event | Parked outside the **Lucky Plucker** restaurant on the southeast side of intersection at **Palomino Avenue** and **Vespucci Boulevard**.
 Little Seoul | Event | Driving east along **San Andreas Avenue** near the **Hit 'n' Run Coffee**.
-Vespucci Canals | Event | 18:00-04:00 | Driving northwest along **Prosperity Street**.
+Vespucci Canals | Event | Driving northwest along **Prosperity Street**.
 Tongva Hills | Event | Driving south along **Great Ocean Highway**, near **Route 68**.
 San Chianski Mountain Range | Event | Driving north along **Chianski Passage**, near the guard post in the middle of the road.
 Paleto Bay | Event | Parked on northeast side of intersection at **Paleto Boulevard** and **Great Ocean Highway**. Across from Sheriff Station.
