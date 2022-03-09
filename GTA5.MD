@@ -15,9 +15,9 @@
 &emsp;[Gameplay Mods](#gameplay-mods)<br>
 &emsp;[References](#references)<br>
 [GAMEPLAY](#gameplay)<br>
-&emsp;[Ground Vehicle Tips](#)<br>
-&emsp;[Air Vehicle Tips](#)<br>
-&emsp;[Aquatic Vehicle Tips](#)<br>
+&emsp;[Ground Vehicle Tips](#ground-vehicle-tips)<br>
+&emsp;[Air Vehicle Tips](#air-vehicle-tips)<br>
+&emsp;[Aquatic Vehicle Tips](#aquatic-vehicle-tips)<br>
 [RARE VEHICLES](#rare-vehicles)<br>
 &emsp;[Regular Vehicles](#regular-vehicles)<br>
 &emsp;[NPC-Modified Vehicles](#npc-modified-vehicles)<br>
