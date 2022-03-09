@@ -68,7 +68,7 @@
 
 **Carjacking at gunpoint.**
 
-You can carjack at gunpoint with any pistol or assault rifle that comes with the enhanced version by default. Those are: Pisol, Combat Pistol, AP Pistol, Pistol .50, SNS Pistol, Heavy Pistol, Vintage Pistol, Assault Rifle, Carbine Rifle, Advanced Rifle, Special Carbine, and Bullpup Rifle. Equipping any special tint (gilded, wood grip, etc) disables carjacking at gunpoint with that weapon. Using standard tints does not. DLC pistols and assault rifles don't appear to be tied to the same animation sets, and as such do not trigger the pointing animations.
+You can carjack at gunpoint with any pistol or assault rifle that comes with the enhanced version by default. Those are: Pistol, Combat Pistol, AP Pistol, Pistol .50, SNS Pistol, Heavy Pistol, Vintage Pistol, Assault Rifle, Carbine Rifle, Advanced Rifle, Special Carbine, and Bullpup Rifle. Equipping any special tint (gilded, wood grip, etc) disables carjacking at gunpoint with that weapon. Using standard tints does not. DLC pistols and assault rifles don't appear to be tied to the same animation sets, and as such do not trigger the pointing animations. This can likely be fixed with mods.
 
 **Keep engine running.**
 
