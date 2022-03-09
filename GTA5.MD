@@ -15,11 +15,9 @@
 &emsp;[Gameplay Mods](#gameplay-mods)<br>
 &emsp;[References](#references)<br>
 [GAMEPLAY](#gameplay)<br>
-&emsp;[Tips](#tips)<br>
-&emsp;[Weapons](#weapons)<br>
-[UNIQUE VEHICLES](#unique-vehicles)<br>
-&emsp;[Epsilon Variant Color](#epsilon-variant-color)<br>
-&emsp;[Random Purchase Colors](#random-purchase-colors)<br>
+&emsp;[Ground Vehicle Tips](#)<br>
+&emsp;[Air Vehicle Tips](#)<br>
+&emsp;[Aquatic Vehicle Tips](#)<br>
 [RARE VEHICLES](#rare-vehicles)<br>
 &emsp;[Regular Vehicles](#regular-vehicles)<br>
 &emsp;[NPC-Modified Vehicles](#npc-modified-vehicles)<br>
@@ -41,8 +39,8 @@
 ### Trainers
 
 - [MenyooSP](https://github.com/MAFINS/MenyooSP) - SP trainer.
-- [Enhanced Native Trainer](https://www.gta5-mods.com/scripts/enhanced-native-trainer-zemanez-and-others) - SP trainer.
 - [RampageTrainer](https://www.gta5-mods.com/scripts/rampage-trainer) - SP trainer.
+- [Enhanced Native Trainer](https://www.gta5-mods.com/scripts/enhanced-native-trainer-zemanez-and-others) - SP trainer.
 
 ### Quality Control
 
@@ -66,7 +64,11 @@
 
 *Some notes about gameplay in general.*
 
-### Tips
+### Ground Vehicle Tips
+
+**Carjacking at gunpoint.**
+
+You can carjack at gunpoint with any pistol or assault rifle that comes with the enhanced version by default. Those are: Pisol, Combat Pistol, AP Pistol, Pistol .50, SNS Pistol, Heavy Pistol, Vintage Pistol, Assault Rifle, Carbine Rifle, Advanced Rifle, Special Carbine, and Bullpup Rifle. Equipping any special tint (gilded, wood grip, etc) disables carjacking at gunpoint with that weapon. Using standard tints does not. DLC pistols and assault rifles don't appear to be tied to the same animation sets, and as such do not trigger the pointing animations.
 
 **Keep engine running.**
 
@@ -76,80 +78,43 @@ Equip any weapon, shoot (only one shot necessary) or melee with it, then immedia
 
 You can use the **Sawed Off Shotgun** and **Auto Shotgun** while on a motorcycle.
 
+**Off roading.**
+
+Four wheel drive is helpful. Here's my personal picks for trails and offroading:
+
+Maxwell Vagrant (this thing trumps trails to pavement)
+Karin Sultan (the best all around in the vanilla game from my experience, also because Subie go brr)
+Canis Kalahari (good grip, average top speed)
+BF Dune Buggy (it's named that for a reason)
+Vapid Blade (surprisingly good on trails and hillclimbs)
+BF Bifta (RWD takes getting used to but blazes trails once learned, poor hillclimb though)
+Vapid Sandking XL (decent all around, average top speed, decent cornering, good hill climber)
+
+### Air Vehicle Tips
+
+**What's the best plane?**
+
+Well, up to the individual to check stats for themselves. Here's my personal favorites:
+
+- Mammoth Hydra (VTOL, higher top and lower cruising speeds than **P-996 LAZER**, tossed around by turbulence)
+- Western Cuban 800 (well-balanced across the board)
+- Mammoth Dodo (quite resistant to turbulence, amphibious, easy to land on hard ground and water)
+- Buckingham Alpha Z1 (immune to turbulence, fast cruise, somewhat difficult to land)
+
+And helicopters:
+
+- Maibatsu Frogger (well-balanced civilian heli)
+- Buckingham Savage (well-balanced attack heli)
+
 **Stealing the Atomic Blimp.**
 
-Land on top. Walk to very front edge. Enter vehicle.
+Land on top either by helicopter or parachute. Walk to the very front edge. Enter vehicle. You'll clip through as if the doors were blocked.
 
-**Carjacking at gunpoint.**
+### Aquatic Vehicle Tips
 
-You can carjack at gunpoint with any pistol or assault rifle that comes with the enhanced version by default. Those are: Pisol, Combat Pistol, AP Pistol, Pistol .50, SNS Pistol, Heavy Pistol, Vintage Pistol, Assault Rifle, Carbine Rifle, Advanced Rifle, Special Carbine, and Bullpup Rifle. Equipping any special tint (gilded, wood grip, etc) disables carjacking at gunpoint with that weapon. Using standard tints does not. DLC pistols and assault rifles don't appear to be tied to the same animation sets, and as such do not trigger the pointing animations.
+**Getting the SCUBA gear.**
 
-# UNIQUE VEHICLES
-
-These are seen/used only during specific scenarios. Some cannot be obtained legitimately. Most information sourced from [GTA Wiki](https://gta.fandom.com/wiki/Special_Vehicles_in_GTA_V).
-
-Missions are in code tags. Locations are bolded. Character names are italicized.
-
-Make | Model | License<br>Plate | Variant | Location(s) | Method
-:--- | --- | --- | --- | --- | ---
-Maibatsu | Penumbra | - | Orange | Owned by *Hao* during `Shift Work` | Use Towtruck; take to player's garage before starting the race.
-Bravado | Rumpo | - | DELUDAMOL | During `Mrs. Philips` | -
-Bravado | Bison | - | Epsilon | During `Chasing the Truth`<br>During `Exercising the Truth` | Chase it after the mission ends.
-BF | Space Docker | - | - | After `Far Out` | Collect all 50 spaceship parts and talk with *Omega*.
-Brute |  Pony | - | SMOKE ON THE WATER | During `Property Management` missions for **Smoke on the Water**.
-Obey | Tailgater | 5MDS003 | Black | Owned by *Michael De Santa*. | -
-Obey | Tailgater | K1FFL0M | Epsilon | During `Unknowing the Truth` | Don't deliver the cash.
-Weeny | Issi | P3RSEUS | Yellow | Owned by *Tracey De Santa*. | -
-Ubermacht | Sentinel | KRYST4L | Red | Owned by *Amanda De Santa*. | -
-Ubermacht | Sentinel XS | - | Epsilon | During `Unknowing the Truth` | -
-Canis | Bodhi | BETTY 32 | Red | Owned by *Trevor Philips*. | -
-Bravado | Buffalo S | FC1988 | Ice White | Owned by *Franklin Clinton*. | -
-Western | Bagger | FC88 | Green | Owned by *Franklin Clinton* after `Reposession` | -
-Karin | BeeJay XL | - | Yellow | During `Complications` | -
-Canis | Mesa | - | Black<br>Desert Tan | During `The Wrap Up`<br>During `Minor Turbulence`<br>During `Meltdown` | -
-Canis | Crusader | - | Topless | `Rampage: Military`<br>Hangar (Randomly) | -
-Declasse | Tornado | MONIED | Black | During `The Third Way` | Drive it to any Los Santos Customs or Beeker's Garage and modify it before finishing the mission. After completing the mission, retrieve it at the **LSPD Auto Impound**.
-HVY | Barracks | - | Red<br>Gray<br>Black | Hangar (Randomly) | See [random purchase colors](#random-purchase-colors).
-Pfister | Comet | - | Red | Owned by *Isiah Friedlander* at his house in **Pacific Bluffs** until `Abandonment Issues` | -
-Ocelot | F620 | - | Epsilon | After `Delivering the Truth`<br>Owned by *Jimmy Boston*. | -
-Ocelot | F620 | - | Rich Red | Before `I Fought The Law` | Interrupt mission before starting it.
-Dundreary | Landstalker | - | Epsilon | During `Unknowing the Truth` | -
-Dundreary | Landstalker | - | Worn Graphite | During `Parenting 101` | Driven by kidnappers.
-Dundreary | Landstalker | - | Black | Owned by *Peter Dreyfuss* during `A Starlet In Vinewood` | -
-Grotti | Cheetah | - | Blue | During `I Fought The Law` | Kill **Henry** as **Trevor Philips**.
-Overflod | Entity XF | - | Orange | During `I Fought The Law` | Kill **Sebastian** as **Michael De Santa**.
-Pegassi | Vacca | JKW87N1D | Orange | During `Meltdown` | -
-Pegassi | Faggio | BETTY32 | Red | Trevor switch scene. He'll be riding north with his "Scooter Brother". | -
-Stanley | Tractor | K1FFLOM1 | - | During `Unknowing the Truth` | Deliver the money.
-Dewbauchee | JB 700 | 4GENT | - | During `Deep Inside` | -
-Gallivanter | Baller | MADRAZO | Black | Owned by *Martin Mazdrazo* and his *Cartel Members*. | -
-? | Fixter | - | - | During `Rampage: Hipsters` | Driven by *Hipsters*.
-Dundreary | Stretch | VIN3W00D | - | During `Meltdown` | -
-Dewbauchee | Rapid GT | POPPYMI4 | Blue | Driven by *Poppy Mitchell* during `Paparazzo - The Sex Tape` | -
-Enus | Cognoscenti Cabrio | POPPYMI5 | Pink | Driven by *Poppy Mitchell* during `Paparazzo - The Meltdown` | -
-Fathom | FQ2 | P4P4R4ZO | Red | Driven by *Beverly* during `Paparazzo - The Sex Tape` | -
-Nagasaki | Blazer | TPI1000 | Red | Driven by *Trevor Philips* during `Nervous Ron` | -
-Nagasaki | Blazer | B3LI3V3 | Blue | Driven by *Ronald Jakowski* during `Nervous Ron` | -
-Nagasaki | Blazer Hot Rod | - | - | Owned by *Trevor Philips* after completing the game. | -
-Brute | Boxville | - | Humane Labs and Research | During `BZ Gas Grenades` | -
-Declasse | Premier | - | Light Blue | During `Vinewood Souvenirs - The Last Act` | Spare **Al Di Napoli**.
-Vapid | Speedo | LAMAR G | White | During `Chop` | Unobtainable.
-Vapid | Speedo | - | Brown | During `Vinewood Souvenirs - Tyler` | -
-Buckingham | Maverick | - | Epsilon | During `Unknowing the Truth` | Don't deliver the money.
-Maibatsu | Frogger | - | TPE | After `Three's Company` | -
-HVY | Skylift | - | - | During `Sidetracked` | -
-Western | Cargobob | - | TPE | During `The Merryweather Heist` | Second method.
-Western | Cargobob | - | Jetsam | During `Monkey Business` | Land at **Sandy Shores Helipad**, exit, suicide, do not retry mission.
-JoBuilt | Velum | - | Epsilon | During `Delivering the Truth` | -
-? | Cargo Plane | - | - | During `Minor Turbulence` | Unobtainable.
-
-### Epsilon Variant Color
-
-It's worn baby blue.
-
-### Random Purchase Colors
-
-Some vehicles can be obtained with a unique color combination by purchasing them from in-game websites. This happens randomly, so save before purchasing any vehicle you want in a specific color. There is no surefire method for specific colors, it's all trial and error. Reload the save and repeat until you get your desired color.
+You get it only by exiting a **Dinghy**, **Submersible**, or **Kraken**.
 
 # RARE VEHICLES
 
@@ -164,16 +129,17 @@ When approaching any known spawn of significant rarity, drive slowly. I've found
 These are regular vehicles, just highly localized and/or generally hard to find.
 
 **BF Dune Buggy**
-- Parked next to a radio tower and shack west of **Yellow Jack Inn** in **Grand Senora Desert**. Sometimes surrounded by a **Brute Camper**, **BF Injection**, or an NPC driving a **MTL Packer** northbound (away from the radio tower).
 - Driving north on dirt road east of **Los Santos Customs** in **Grand Senora Desert**.
+- Parked next to a radio tower and shack west of **Yellow Jack Inn** in **Grand Senora Desert**. Sometimes surrounded by a **Brute Camper**, **BF Injection**, or an NPC driving a **MTL Packer** northbound (away from the radio tower).
 - Driving east on dirt road parallel train tracks north of **Sandy Shores Airfield**.
 - Driving west on dirt road at junction of dirt roads around **Sandy Shores Airfield**. 16:00
-- Driving southwest (spawns mobile at the bridge to **Mount Chiliad**) on **North Calafia Way**, continuing down along the **Alamo Sea**.
-- Driving south on beach east side of **Great Ocean Highway** (northwest of **Fort Zancudo**). Merges onto **Zancudo Trail** and continues south around **Fort Zancudo** alongside **Lago Zancudo**. May spawn driverless. 07:00-12:00
+- Driving southwest (spawns mobile at the bridge to **Mount Chiliad**) on **North Calafia Way**, continuing down along the **Alamo Sea**. 19:00
 - Parked next to an Auto Repair Shop on **Marina Drive** in southern **Grapeseed**.
 - Parked under the canopy of a shut gas station on **Marina Drive** in southern **Grapeseed**.
-- Parked beside road (second road south from **Cassidy Creek**) in **Raton Canyon**. Almost dead south (just a bit west) in line with **Altruist Camp**.
+- Parked in the cul-de-sac on the western end of **Marina Drive** in **Grand Senora Desert**. 15:00 
 - Parked next to a water tower in northeastern **Stab City**.
+- Driving south on beach east side of **Great Ocean Highway** (northwest of **Fort Zancudo**). Merges onto **Zancudo Trail** and continues south around **Fort Zancudo** alongside **Lago Zancudo**. May spawn driverless. 07:00-12:00
+- Parked beside road (second road south from **Cassidy Creek**) in **Raton Canyon**. Almost dead south (just a bit west) in line with **Altruist Camp**. 24 hours.
 - Parked on beach east of **Up 'n' Atom Burger** in **Mount Gordo, BC, SA**. Almost directly north (beyond **Braddock Pass**) of **Weed Farm** (Trevor random encounter).
 - Parked along small cliff next to beach in **Paleto Bay**. Northwest of **The Hen House**. Southwest of `Parachute Jump 4`.<br>Parked under the first big jump on the south side of the dirt path leading down from the cable car drop off point atop **Mount Chiliad**.
 
@@ -241,7 +207,7 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 - Driving west on **Eclipse Boulevard** in **Vinewood**.
 - Driving around **Marlowe Vineyards**.
 - Driving around **Davis Quartz**.
-- Driving in front of **Berth 57** (truck bays with green tin siding) in **Elysian Island**. 20:00
+- Driving in front of **Berth 57** (truck bays with green tin siding) in **Elysian Island**. 17:00-20:00
 - Driving around the drydocks at **Pacific Allied Shipyard** (across from **Pier 400**) on southern **Elysian Island**.
 - Driving west on **Wild Oats Drive** in **Vinewood Hills**. 00:00-06:00
 
@@ -308,6 +274,7 @@ Dewbauchee | Rapid GT
 Dinka | Jester
 Dinka | Thrust
 Enus | Huntley S
+Enus | Super Diamond (Unique Paint)
 Grotti | Turismo R
 Imponte | Ruiner
 Invetero | Coquette Classic
@@ -322,13 +289,15 @@ Vapid | Dominator
 Vapid | Sandking XL
 Vulcar | Warrener
 
-Below are locations for the vehicles listed above. Vehicles are noted with just their model names.
+**Quick tips relating to cargenerators (vehicle spawns):**
 
-Certain approach directions work more often than others, and are noted at the end of the `Details` column as "Approach from..."
+- Certain vehicles seem to get rare cars to spawn more often. I've had the best overall luck with the **Vapid Blade**, **Dinka Akuma**, and **Dinka Double T**.
+- Certain approach directions work more often than others, and are noted at the end of the `Details` column as "Approach from..."
+- Daytime spawns are best checked between 11:00-12:00. Nighttime spawns are best checked 22:00-02:00.
+- Weather doesn't seem to affect most spawns. Though I recall encountering more rare vehicles when it's clear. Maybe that's just because I generally don't drive in rain.
+- Freezing time and (clear/sunny) weather via trainer helped tremendously when determining these times.
 
-Daytime spawns are best checked at 12:00 noon. Nighttime spawns are best checked 20:00-00:00. Freezing time and (clear/sunny) weather via trainer helped tremendously when determining these times.
-
-**[N] NEONS ONLY**
+**[N] INDICATES NEONS ONLY**
 
 **Los Santos International Airport**
 - 12:00 Parked outside **Los Santos Customs**. Sentinel XS
@@ -361,7 +330,7 @@ Daytime spawns are best checked at 12:00 noon. Nighttime spawns are best checked
 - 09:00 Driving out of **LTD** fuel station onto **Mirror Park Boulevard** southbound. Approach from south. Rhapsody, Panto, Blade
 
 **Mission Row**
-- 10:00-16:00 Driving out of the **Mission Row Police Station** (Impound Garage) north onto **Sinner Street**. Approach from north on **Sinner Street**. Panto, Warrener, Massacro
+- 10:00-16:00 Driving out of the **Mission Row Police Station** (Impound Garage) north onto **Sinner Street**. Approach from north on **Sinner Street**. Panto, Warrener, Massacro, Sabre Turbo
 
 **Pillbox Hill**
 - 18:00-04:00 Driving out of parking garage under **Arcadius Business Center**, then turning north on **Las Lagunas Boulevard**. Massacro
@@ -433,11 +402,11 @@ Daytime spawns are best checked at 12:00 noon. Nighttime spawns are best checked
 - 24 hours. Driving south across the **Cassidy Creek Bridge**. Jester, Pigalle, Alpha
 
 **Mount Gordo**
-- 12:00 Driving west on feeder road (north side of **Great Ocean Highway**), past **Up 'n' Atom Diner** restaurant, then merging onto **Great Ocean Highway** westbound. Sabre Turbo, Ruiner
+- 12:00 Driving west on feeder road (north side of **Great Ocean Highway**), past **Up 'n' Atom Diner** restaurant, then merging onto **Great Ocean Highway** westbound. Sabre Turbo, Ruiner, Gauntlet
 
 **Paleto Bay**
 - Sandking XL parked at **Ammu-Nation**. This spawn was removed in some patch, version unknown, but works in the base version of enhanced editions.
-- Rat-Loader parked outside **Beeker's Garage**.
+- 08:00 Rat-Loader parked outside **Beeker's Garage**.
 
 ### BEACH BUM UPDATE VEHICLES
 
