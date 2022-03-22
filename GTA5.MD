@@ -2,12 +2,12 @@
 
 *A collection of notes for story mode players.*
 
-*Some information is from past experience on Xbox One. Currently running PC v1.0.2545.0*
-
-*All times are in 24-hour format (military time).*
-
 # TABLE OF CONTENTS
 
+[TABLE OF CONTENTS](#table-of-contents)<br>
+[INFORMATION](#information)<br>
+&emsp;[Overview](#overview)<br>
+&emsp;[Latest Notes](#latest-notes)<br>
 [MODS](#mods)<br>
 &emsp;[Tools](#tools)<br>
 &emsp;[Trainers](#trainers)<br>
@@ -25,6 +25,18 @@
 &emsp;[Gang Vehicles](#gang-vehicles)<br>
 &emsp;[Convertibles](#convertibles)<br>
 [SECURITY VANS](#security-vans)<br>
+
+# INFORMATION
+
+### Overview
+
+All information gathered is from PC v1.0.2545.0, Uncracked, Rockstar Launcher panty-sniffing DRM.
+
+All times are in military time as shown in game, a.k.a. military time.
+
+### Latest Notes
+
+The event of the Lazer flying over Raton Canyon doesn't appear to occur anymore. I've run as all three characters at all times of day, back and forth on trails each side of Cassidy Creek.
 
 # MODS
 
@@ -99,11 +111,11 @@ Four wheel drive is helpful. Here's my personal picks for trails and offroading:
 
 **What's the best plane?**
 
-Well, up to the individual to check stats for themselves. Here's my personal favorites:
+Well, up to the individual to check stats for themselves. Helicopters aren't affected by turbulence, but planes (generally) fly faster. Here's my personal favorites:
 
-- Mammoth Hydra (VTOL, higher top and lower cruising speeds than **P-996 LAZER**, tossed around by turbulence, easy to land)
+- Mammoth Hydra (VTOL, higher top and lower cruising speeds than **P-996 LAZER**, easy to land)
+- Mammoth Dodo (amphibious, quite resistant to turbulence, very easy to land)
 - Western Cuban 800 (well-balanced across the board, easy to land)
-- Mammoth Dodo (amphibious, quite resistant to turbulence, easy to land on hard ground and water)
 - Buckingham Alpha Z1 (immune to turbulence, fast cruise, somewhat difficult to land)
 
 And helicopters:
@@ -144,14 +156,14 @@ When approaching any known spawn of significant rarity, drive slowly. I've found
 These are regular vehicles, just highly localized and/or generally hard to find.
 
 **BF Dune Buggy**
-- Driving north on dirt road east of **Los Santos Customs** in **Grand Senora Desert**.
+- 11:00 Driving north on dirt road east of **Los Santos Customs** in **Grand Senora Desert**.
 - Parked next to a radio tower and shack west of **Yellow Jack Inn** in **Grand Senora Desert**. Sometimes surrounded by a **Brute Camper**, **BF Injection**, or an NPC driving a **MTL Packer** northbound (away from the radio tower).
-- 18:00 Driving east on dirt road parallel train tracks north of **Sandy Shores Airfield**. Drives entire dirt road, then turns onto **East Joshua Road** at **Marina Drive**.
+- 18:00-23:00 Driving east on dirt road parallel train tracks north of **Sandy Shores Airfield**. Drives entire dirt road, then turns onto **East Joshua Road** at **Marina Drive**.
 - 16:00 Driving west at dirt road junction west of **Sandy Shores Airfield**.
 - Parked next to an Auto Repair Shop on **Marina Drive** in southern **Grapeseed**.
 - Parked under the canopy of a shut gas station on **Marina Drive** in southern **Grapeseed**.
 - 15:00 Parked in the cul-de-sac on the western end of **Marina Drive** in **Grand Senora Desert**.
-- Parked next to a water tower in northeastern **Stab City**.
+- 17:00 Parked next to a water tower in northeastern **Stab City**.
 - 19:00 Driving southwest (spawns mobile at the bridge to **Mount Chiliad**) on **North Calafia Way**, continuing down along the **Alamo Sea**.
 - 07:00-12:00 Driving south on beach east side of **Great Ocean Highway** (northwest of **Fort Zancudo**). Merges onto **Zancudo Trail** and continues south around **Fort Zancudo** alongside **Lago Zancudo**. May spawn driverless.
 - Parked under the first big jump on the south side of the dirt path leading down from the cable car drop off point atop **Mount Chiliad**.
@@ -231,7 +243,8 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 **Karin Dilettante (Merryweather Patrol)**
 - Driving west on **Eclipse Boulevard** in **Vinewood**.
 - Driving around **Marlowe Vineyards**.
-- Driving around **Davis Quartz**.
+- Driving around southwest side of **Davis Quartz**.
+- Driving around northwest side of **Palmer Taylor Power Station**.
 - 17:00-20:00 Driving in front of **Berth 57** (truck bays with green tin siding) in **Elysian Island**.
 - Driving around the drydocks at **Pacific Allied Shipyard** (across from **Pier 400**) on southern **Elysian Island**.
 - 00:00-06:00 Driving west on **Wild Oats Drive** in **Vinewood Hills**.
@@ -266,7 +279,7 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 - This unique colored stretch spawns only in front of **Cockatoos** night club on the southwest side of the intersection at **Hawick Avenue** and **Eastbourne Way**. It is just northwest of the **Los Santos Customs** in **Burton**.
 
 **Western Cuban 800**
-- Occasionally at **Sandy Shores Airfield**.
+- Occasionally landing or taking off at **Sandy Shores Airfield**.
 - Parked outside western wall of **Michael's Hangar** in **LSIA**, usually next to a **Mammatus**.
 - Trevor switch scene. He'll be flying a black Cuban 800 over the **Grand Senora Desert**.
 
@@ -306,11 +319,11 @@ Vulcar | Warrener
 
 - Certain vehicles seem to get rare cars to spawn more often. I've had the best overall luck with the **Vapid Blade**, **Dinka Akuma**, and **Dinka Double T**.
 - Certain approach directions work more often than others, and are noted appropriately as `Approach from...`
-- Daytime spawns are best checked between 11:00-12:00. Nighttime spawns are best checked 22:00-02:00.
+- Daytime spawns are best checked around 12:00 noon. Nighttime spawns are best checked at 00:00 midnight.
 - Weather doesn't seem to affect most spawns. Though I recall encountering more rare vehicles when it's clear. Maybe that's just because I generally don't drive in rain.
 - Freezing time and (clear/sunny) weather via trainer helped tremendously when determining these times.
 - Beach Bum Update vehicles **BF Bifta** and **Canis Kalahari** spawn from **Vespucci** to **Del Perro**. The **BF Surfer** (clean variant) has its own unique spawns, but can be found basically across the entire map.
-- The **[N]** suffix indicates the car spawns with neons as the only modification. These are generally unique spawns not shared with other spawn groups.
+- The **[N]** suffix indicates the spawn has its own spawn group, and only spawn with neons.
 - Vehicles which are listed at the end of every bullet point are ones I've seen there myself.
 
 **Los Santos International Airport**
@@ -462,36 +475,52 @@ Regular variants of each can be obtained at the bus junkyard on the intersection
 
 ### CONVERTIBLES
 
-These vehicles have retractable roofs (or variants with retractable roofs).
+These vehicles have retractable roofs (or variants with retractable roofs):
 
-Make | Model
-:--- | ---
-Obey | 9F Cabrio
-Dinka | RT3000
-Enus | Cognoscenti Cabrio<br>Windsor Drop
-Grotti | Carbonizzare
-Declasse | Tornado<br>Tornado Custom
-Dewbauchee | Rapid GT
-Benefactor | Surano
-Lampadati | Felon GT
-Pfister | Comet S2 Cabrio
-Ubermacht | Sentinel<br>Zion Cabrio
-Weeny | Issi
+- Obey 9F Cabrio
+- Dinka RT3000
+- Enus Cognoscenti Cabrio, Windsor Drop
+- Grotti Carbonizzare
+- Declasse Tornado, Tornado Custom
+- Dewbauchee Rapid GT
+- Benefactor Surano
+- Lampadati Felon GT
+- Pfister Comet S2 Cabrio
+- Ubermacht Sentinel, Zion Cabrio
+- Weeny Issi
 
-These vehicles have topless variants.
+These vehicles have topless variants:
 
-Make | Model
-:--- | ---
-Albany | Manana<br>Manana Custom
-Albany | Buccaneer Custom
-Bravado | Banshee
-Canis | Kalahari<br>Mesa
-Coil | Voltic
-Grotti | Stinger
-Imponte | Ruiner
-Invetero | Coquette<br>Coquette Classic<br>Coquette Blackfin
-Pfister | 811
-Vapid | Chino Custom<br>Peyote<br>Peyote Custom
+- Albany Manana, Manana Custom, Buccaneer Custom
+- Bravado Banshee
+- Canis Kalahari, Mesa
+- Coil Voltic
+- Grotti Stinger
+- Imponte Ruiner
+- Invetero Coquette, Coquette Classic, Coquette Blackfin
+- Pfister 811
+- Vapid Chino Custom, Peyote, Peyote Custom
+
+### CB CHATTER
+
+The following vehicle are equipped with a CB radio:
+
+BF Dune Buggy
+BF Space Docker
+Canis Bodhi
+Karin Rebel, Rusty Rebel
+Tow Truck (both variants)
+Flatbed
+JoBuilt Phantom & Phantom Wedge
+JoBuilt Hauler
+Bravado Rat-loader
+Vapid Benson
+Pounder
+Tipper
+Rubble
+Los Santos Department of Sanitation and Los Santos Department of Water & Power variants of the Boxville
+Maibatsu Mule (excluding the ramp door variant)
+MTL Packer
 
 # SECURITY VANS
 
