@@ -156,14 +156,14 @@ When approaching any known spawn of significant rarity, drive slowly. I've found
 These are regular vehicles, just highly localized and/or generally hard to find.
 
 **BF Dune Buggy**
-- 11:00 Driving north on dirt road east of **Los Santos Customs** in **Grand Senora Desert**.
-- Parked next to a radio tower and shack west of **Yellow Jack Inn** in **Grand Senora Desert**. Sometimes surrounded by a **Brute Camper**, **BF Injection**, or an NPC driving a **MTL Packer** northbound (away from the radio tower).
+- 11:00-18:00 Driving north on dirt road east of **Los Santos Customs** in **Grand Senora Desert**.
+- 07:00-15:00 Parked next to a radio tower and shack west of **Yellow Jack Inn** in **Grand Senora Desert**. Sometimes surrounded by a **Brute Camper**, **BF Injection**, or an NPC driving a **MTL Packer** northbound (away from the radio tower).
 - 18:00-23:00 Driving east on dirt road parallel train tracks north of **Sandy Shores Airfield**. Drives entire dirt road, then turns onto **East Joshua Road** at **Marina Drive**.
-- 16:00 Driving west at dirt road junction west of **Sandy Shores Airfield**.
-- Parked next to an Auto Repair Shop on **Marina Drive** in southern **Grapeseed**.
-- Parked under the canopy of a shut gas station on **Marina Drive** in southern **Grapeseed**.
-- 15:00 Parked in the cul-de-sac on the western end of **Marina Drive** in **Grand Senora Desert**.
-- 17:00 Parked next to a water tower in northeastern **Stab City**.
+- 14:00-18:00 Driving west at dirt road junction west of **Sandy Shores Airfield**.
+- 12:00 Parked next to an Auto Repair Shop on **Marina Drive** in southern **Grapeseed**.
+- 08:00-20:00 Parked under the canopy of a shut gas station on **Marina Drive** in southern **Grapeseed**. Sometimes with two or three **Sanchez (livery)**.
+- 15:00-20:00 Parked in the cul-de-sac on the western end of **Marina Drive** in **Grand Senora Desert**.
+- 06:00-19:00 Parked next to a water tower in northeastern **Stab City**.
 - 19:00 Driving southwest (spawns mobile at the bridge to **Mount Chiliad**) on **North Calafia Way**, continuing down along the **Alamo Sea**.
 - 07:00-12:00 Driving south on beach east side of **Great Ocean Highway** (northwest of **Fort Zancudo**). Merges onto **Zancudo Trail** and continues south around **Fort Zancudo** alongside **Lago Zancudo**. May spawn driverless.
 - Parked under the first big jump on the south side of the dirt path leading down from the cable car drop off point atop **Mount Chiliad**.
@@ -185,7 +185,7 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 - Commonly patrolling around the **Car Impound** (Police Station) in **Mission Row**.
 
 **Brute Boxville (LSDWP)**
-- Leaving north exit of LSDWP facility on west side of **Popular Street**, then driving south.
+- 09:00 Leaving north exit of LSDWP facility on west side of **Popular Street**, then driving south. Sometimes parked at same facility.
 - Pulling out of LSDWP facility onto **Elgin Avenue**, heading south.
 
 **Buckingham Swift**
@@ -225,12 +225,12 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 - 12:00 Driving north on **Plaice Place**, away from the **Post Op Depository**, on **Elysian Island**.
 
 **JoBuilt P-996 LAZER**
-- Parked, taxiing, taking off, and/or flying at various spots around **Fort Zancudo**.
+- Parked, taxiing, taking off westbound, and/or flying at various spots around **Fort Zancudo**.
 - Flying over **Raton Canyon** every in-game half hour. Rarely in groups of three.
 
 **JoBuilt Mammatus**
 - Flying around Los Santos.
-- 18:00 Occasionally lands at **Sandy Shores Airfield**.
+- 15:00-18:00 Occasionally lands at **Sandy Shores Airfield**.
 - Parked outside the western wall of **Michael's Hangar** in **LSIA**, usually next to a **Cuban 800**.
 
 **JoBuilt Velum**
@@ -238,33 +238,31 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 
 **Titan**
 - Up to four parked in **Fort Zancudo**.
-- Taking off from runway at **Fort Zancudo**.
+- Taking off westbound from runway at **Fort Zancudo**.
 
 **Karin Dilettante (Merryweather Patrol)**
 - Driving west on **Eclipse Boulevard** in **Vinewood**.
-- Driving around **Marlowe Vineyards**.
 - Driving around southwest side of **Davis Quartz**.
 - Driving around northwest side of **Palmer Taylor Power Station**.
-- 17:00-20:00 Driving in front of **Berth 57** (truck bays with green tin siding) in **Elysian Island**.
+- 17:00-06:00 Driving in front of **Berth 57** (truck bays with green tin siding) in **Elysian Island**.
 - Driving around the drydocks at **Pacific Allied Shipyard** (across from **Pier 400**) on southern **Elysian Island**.
 - 00:00-06:00 Driving west on **Wild Oats Drive** in **Vinewood Hills**.
 
 **Nagasaki Dinghy**
-- East of the Olifantus (Tug).<br>Occasionally docked at the piers around **Vespucci Helipad**.
+- East of the **Olifantus** (Tug).
+- Occasionally docked at the piers around **Vespucci Helipad**.
 - By the barge under the **Miriam Turner Overpass**.
 - Southwest of the **Post Op Depository**.
 - South side of the island by the dry docks.
 - **Puerto Del Sol Marina**
 - Sonar Collections Dock after `Death at Sea`
-
-**Nagasaki Dinghy (On Trailer)**
-- Towed by pickup trucks around **Elysian Island** and **Cypress Flats**. [[Cite.]](https://gtaforums.com/topic/786063-so-i-found-this-the-other-day/)
+- On trailers towed by pickup trucks around **Elysian Island** and **Cypress Flats**. [[Cite.]](https://gtaforums.com/topic/786063-so-i-found-this-the-other-day/)
 
 **Pegassi Bati 801RR**
 - Pick Karim Denz as the getaway driver during `The Jewel Store Heist`, and continue the heist as normal. Once reaching the point where the heist crew members enter the tunnel, instead of following them, continue down the highway and take a right on the first exit. Drive off the exit through a broken section on the right side barrier and then make another right turn. Activate the cinematic camera mode (R on keyboard, B on Xbox, Circle for PlayStation) to focus the camera angle on the crew before passing the **Union Depository**. Drive back to the **Franklin's House** garage without exiting the cinematic camera or getting dismounted (as it will automatically break the camera lock). While the camera angle can be disorienting, no traffic will spawn along the way, therefore drive slowly and carefully to avoid crashing. Park the bike in the garage, fail the mission, and retry from the last checkpoint. The Bati 801RR should be saved in the garage even after the heist is passed. Unknown if this works in Mission Replay; unlikely. [[Source.]](https://gta.fandom.com/wiki/Bati_Custom#Grand_Theft_Auto_V_2)
 
 **Truffade Adder**
-- 08:00-20:00 In front of **Sessanta Nove** on **Portola Drive** in **Rockford Hills**. May spawn in either black/orange or white/blue variants.
+- 08:00-20:00 In front of **Sessanta Nove** on **Portola Drive** in **Rockford Hills**. May spawn in either black/orange or white/blue variants, the latter being considerably rare.
 - Franklin switch scene. Quite rare. Stuck in traffic in **Downtown Vinewood**, often surrounded by several uncommon cars. Up to three black Adders spawn around his Buffalo S. One is almost always guaranteed to spawn, but two or three is exceedingly rare.
 
 **Vapid Unmarked Cruiser**
@@ -279,15 +277,15 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 - This unique colored stretch spawns only in front of **Cockatoos** night club on the southwest side of the intersection at **Hawick Avenue** and **Eastbourne Way**. It is just northwest of the **Los Santos Customs** in **Burton**.
 
 **Western Cuban 800**
-- Occasionally landing or taking off at **Sandy Shores Airfield**.
+- 15:00-18:00 Occasionally landing or taking off at **Sandy Shores Airfield**.
 - Parked outside western wall of **Michael's Hangar** in **LSIA**, usually next to a **Mammatus**.
 - Trevor switch scene. He'll be flying a black Cuban 800 over the **Grand Senora Desert**.
 
 **Western Duster**
 - Flying around Grapeseed.
 - Parked on the cul-de-sac on the western edge of **Marina Drive** in the **Grand Senora Desert**, near the shore of the Alamo Sea. Usually spawns in red. Begins spawning after completing all of the `Flight School` lessons.
-- Occasionally lands at **McKenzie Field Hangar**.
-- Occasionally lands at **Sandy Shores Airfield**.
+- 17:00 Occasionally lands at **McKenzie Field Hangar**.
+- 15:00-18:00 Occasionally lands at **Sandy Shores Airfield**.
 
 ### NPC-MODIFIED VEHICLES
 
@@ -317,7 +315,7 @@ Vulcar | Warrener
 
 **Notes:**
 
-- Certain vehicles seem to get rare cars to spawn more often. I've had the best overall luck with the **Vapid Blade**, **Dinka Akuma**, and **Dinka Double T**.
+- Certain vehicles seem to get rare cars to spawn more often. I've had the best overall luck with the **Vapid Blade** and **Dinka Double T**.
 - Certain approach directions work more often than others, and are noted appropriately as `Approach from...`
 - Daytime spawns are best checked around 12:00 noon. Nighttime spawns are best checked at 00:00 midnight.
 - Weather doesn't seem to affect most spawns. Though I recall encountering more rare vehicles when it's clear. Maybe that's just because I generally don't drive in rain.
@@ -330,20 +328,24 @@ Vulcar | Warrener
 - 12:00 Parked outside **Los Santos Customs**. Sentinel XS, Jester
 - 10:00-18:00 Parked outside northwest wall of **Devin Weston** hangar. Coquette Classic
 
+**La Puerta**
+- 11:00 Parked in southeast side of lot in car park directly beside **Maze Bank Arena**. Second row (first all non-handicapped row) from the arena itself. Rhapsody, Blade, Massacro, Warrener, Jester
+
 **Cypress Flats**
 - 10:00-12:00 Driving westbound on bridge over **LS River** on **Innocence Boulevard** (headed towards **Little Bighorn Avenue**). South of the **Fridgit Cold Storage**. Approach from either east or west. Alpha, Voltic, Blade, Pigalle, Glendale, Sentinel XS
 
 **La Mesa**
 - 22:00-04:00 Two vehicles drag racing on the concrete of the **LS River**. They start next to the metal bridge over the water just south of the bridge on **Capital Boulevard** (southwest of **Los Santos Customs**). Dominator, Sabre Turbo, Ruiner
 - 24 hours. Driving out of **Los Santos Customs** onto **Popular Street** southbound. Massacro, Zentorno
-- 06:00-18:00 Parked on south side of **Capital Boulevard**, next to an Auto Repair shop with red scaffolding afront it. Warrener, Infernus, Glendale, Rhapsody, Pigalle, Blade, Sabre Turbo
+- 06:00-18:00 Parked on south side of **Capital Boulevard**, next to an Auto Repair shop with red scaffolding afront it. Warrener, Infernus, Glendale, Rhapsody, Pigalle, Blade, Sabre Turbo, Ruiner
 
-**La Puerta**
-- Parked in southeast side of lot in car park directly beside **Maze Bank Arena**. Second row (first all non-handicapped row) from the arena itself. Rhapsody, Blade, Massacro, Warrener
+**Mirror Park**
+- 06:00-18:00 Parked on west side of **Mirror Park Boulevard**. Next to a lone large tree just south of the intersection with **West Mirror Drive**. Glendale, Pigalle, Panto, Warrener, Blade, Rhapsody
+- 09:00-10:00 Driving out of **LTD** fuel station onto **Mirror Park Boulevard** southbound. Approach from south. Rhapsody, Panto, Blade
 
 **Vespucci Canals**
-- 24 hours. Driving out of **The Viceroy Hotels & Resort** onto **Palomino Avenue** northbound. Approach from south. Sabre Turbo, Sentinel, Surano, Dominator, Inferunus, Huntley S, Feltzer, Alpha, Jester, Comet
-- 12:00-19:00 Parked at **Burger Shot** on southwest corner of **San Andreas Avenue** and **Prosperity Street**. (Southeast of **Suburban**.) Warrener, Sabre Turbo, Rapid GT, Huntley S, Jester, Pigalle, Panto
+- 24 hours. Driving out of **The Viceroy Hotels & Resort** onto **Palomino Avenue** northbound. Approach from south. Sabre Turbo, Sentinel, Surano, Dominator, Infernus, Huntley S, Feltzer, Alpha, Jester, Comet, Turismo R, Thrust
+- 12:00-19:00 Parked at **Burger Shot** on southwest corner of **San Andreas Avenue** and **Prosperity Street**. (Southeast of **Suburban**.) Warrener, Sabre Turbo, Rapid GT, Huntley S, Jester, Pigalle, Panto, Dominator
 
 **Vespucci Beach**
 - 24 hours. Parked at southeastern dead end of **Bay City Avenue**. Kalahari, Bifta
@@ -374,12 +376,8 @@ Vulcar | Warrener
 - 10:00 Parked afront orange house on southern end of **Barbareno Road**. Kalahari, Bifta
 - 16:00 Merging from shoulder on west side of **Great Ocean Highway**. Continues south. Kalahari, Bifta
 
-**Mirror Park**
-- 06:00-18:00 Parked on west side of **Mirror Park Boulevard**. Next to a lone large tree just south of the intersection with **West Mirror Drive**. Glendale, Pigalle, Panto, Warrener, Blade, Rhapsody
-- 09:00 Driving out of **LTD** fuel station onto **Mirror Park Boulevard** southbound. Approach from south. Rhapsody, Panto, Blade
-
 **Mission Row**
-- 10:00-16:00 Driving out of the **Mission Row Police Station** (Impound Garage) north onto **Sinner Street**. Approach from north on **Sinner Street**. Panto, Warrener, Massacro, Sabre Turbo
+- 10:00-16:00 Driving out of the **Mission Row Police Station** (Impound Garage) north onto **Sinner Street**. Approach from north on **Sinner Street**. Panto, Warrener, Massacro, Sabre Turbo, Blade
 
 **Pillbox Hill**
 - 18:00-04:00 Driving out of parking garage under **Arcadius Business Center**, then turning north on **Las Lagunas Boulevard**. Massacro
@@ -407,13 +405,13 @@ Vulcar | Warrener
 - 18:00-04:00 Parked in lot east of **Last Train in Los Santos Diner**. Below Kung Fu Rainbow Lazer Force billboard. Rapid GT, Voltic
 
 **Rockford Hills**
-- 16:00-05:00 Alpha parked inside north gate of the **Epsilon Building** on **Spanish Avenue** and **Rockford Drive**. The gate is locked. You have to drive it out of the east pedestrian exit. This is the only place this light blue Alpha spawns.
+- 16:00-05:00 Parked inside north gate of the **Epsilon Building** on **Spanish Avenue** and **Rockford Drive**. The gate is locked. You have to drive it out of the east pedestrian exit. This is the only place this light blue Alpha spawns.
 - 10:00-18:00 Parked in front of **Gussét** on **Portola Drive**, across from **Ponsonbys**. Surano, Pigalle, Dubsta, Panto, Jester, Sabre Turbo, Feltzer, Massacro, Rapid GT, Glendale, Dominator, Gauntlet, Zentorno, Ruiner, Alpha
 - 06:00-18:00 Driving north on **Portola Drive**. (Opposite **Sessanta Nove**. South of **Ponsonbys**.) Comet, Jester, Comet, Rhapsody
 - 07:00-18:00 Parked in back entrance of **The Archipelago**. (Across from across the **LifeInvader Office** on south side of **South Boulevard Del Perro**.) Coquette Classic, Sabre Turbo, Jester, Panto, Glendale, Rapid GT, Huntley S, Massacro, Zentorno, Gauntlet
 - 14:00 Driving west on **Eastbourne Way**. Turns north onto **Mad Wayne Thunder Drive**. Coquette Classic
 - 10:00-14:00 Driving out west exit of **Rockford Dorset Hotel**, turning north on **Palomino Avenue**. Approach from either north or south on **Portola Drive**. Jester, Turismo R, Massacro
-- 08:00-20:00 Driving out of **Didiersachs** underground parking and turning westbound onto **Heritage Way** headed towards **Movie Star Way**. (East of **Richards Majestic**.) Dubsta, Rhapsody, Huntley S, Comet, Surano, Thrust, Coquette Classic, Infernus
+- 08:00-20:00 Driving out of **Didiersachs** underground parking and turning westbound onto **Heritage Way** headed towards **Movie Star Way**. (East of **Richards Majestic**.) Dubsta, Rhapsody, Huntley S, Comet, Surano, Thrust, Coquette Classic, Infernus, Zentorno, Sentinel XS
 - 10:00-18:00 Driving west along **Boulevard Del Perro** past the **Rockford Hills Sign**. Pigalle
 
 **Richards Majestic**
@@ -431,17 +429,17 @@ Vulcar | Warrener
 
 **Richman**
 - 12:00-14:00 Turismo R parked outside double garage at **Richman Mansion**.
-- 18:00-02:00 Pulls from driveway (fifth house north from **Kortz Drive**) on west side of **North Rockford Drive**. Turns southbound. Approach from south. Feltzer
+- 18:00-02:00 Pulls from driveway (fifth house north from **Kortz Drive**) on west side of **North Rockford Drive**. Turns southbound. Approach from south. Feltzer, Infernus
 - 17:00-18:00 Driving south on **North Rockford Drive**. Pulls into driveway of fifth house north from **Kortz Drive**. Sabre Turbo **[N]**
 - 12:00 Pulls from driveway of house for sale (forclosure sign) directly southeast of a parking lot (west of **Richman Mansion**). Drives east on **Americano Way**. Super Diamond
 - 12:00 Parked in second to last spot from entrance in lot of **Los Santos Country Club**. Super Diamond
-- 10:00 Parked on street north of **ULSA**. Alpha, Huntley S
+- 10:00-15:00 Parked on street north of **ULSA** (common misnomer "UCLS"). Alpha, Huntley S
 
 **Great Chaparral**
 - 22:00-04:00 One vehicle parked on west side of **Ammu-Nation** on **Route 68**. Another NPC-modified vehicle is driving west, pulls in, and parks next to the stationary vehicle. Two NPC drivers exit the vehicles and smoke/chat. The vehicles at random, but sometimes it will be two variants of the same base vehicle. Dominator, Ruiner, Sabre Turbo, Gauntlet
 
 **Tongva Valley**
-- 10:00-17:00 BF Surfer parked next to **White Water Activity Center** on west side of **Tongva Drive**. NPC enters and drives away.
+- 10:00-17:00 Parked next to **White Water Activity Center** on west side of **Tongva Drive**. NPC enters and drives away. BF Surfer
 
 **Tongva Hills**
 - 12:00 Sandking XL pulls out of **RON** fuel station and merges onto **Great Ocean Highway**. Continues north/south at random. Approach from east.
