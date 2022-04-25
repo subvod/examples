@@ -48,6 +48,7 @@
 <br>&emsp;[Whiskey/Beer Combo Case](#whiskeybeer-combo-case)
 <br>&emsp;[Pamphlets](#pamphlets)
 <br>[BOUNTY MISSIONS AND TARGETS](#bounty-missions-and-targets)
+<br>[RANDOM EVENTS](#random-events)
 <br>[MISSABLE CONTENT](#missable-content)
 <br>&emsp;[Chapter I](#chapter-i)
 <br>&emsp;[Chapter II](#chapter-ii)
@@ -114,12 +115,12 @@ Overcast | Solid layer of cloud cover. | Everywhere except New Austin.
 Rain | Visible rain. | Everywhere.
 Thunder | Just lightning/thunder, no rain. | Everywhere.
 Thunderstorm | Heavy rain with lightning and thunder. | Everywhere.
-Hurricane | Strong wind and heavy rain. | State of Lemoyne<br>Heartlands, NH
-Sleet | Freezing rain. Occasional gusts. | Big Valley, WE<bt>Heartlands, NH<br>Roanoke Ridge, NH
+Hurricane | Strong wind and heavy rain. | Entire state of Lemoyne.<br>Heartlands, NH
+Sleet | Freezing rain. Occasional gusts. | Big Valley, WE<br>Heartlands, NH<br>Roanoke Ridge, NH
 Blizzard (Whiteout) | High winds. Heavy snow. Super low visibility. | Northwestern portion of **Grizzlies West, AM** (high mountains).
 Windy | Leaves and other animated particles flying around. Audible wind. Usually indicative of a storm ahead. | Everywhere.
-Fog | Very low visibility. | Bayou Nwa, LE<br>Bluewater Marsh, LE<br>Roanoke Ridge, NH
-Mist | Low visibility. More common in early mornings.
+Fog | Very low visibility. | Heartlands, NH<br>Roanoke Ridge, NH<br>State of Lemoyne
+Mist | Low visibility. More common in early mornings. | Heartlands, NH<br>Roanoke Ridge, NH<br>State of Lemoyne
 Dust Storm | Strong wind. Super low visibility.| All regions of **New Austin** except **Hennigan's Stead, NA**.
 
 ### Killing, Skinning, and Cooking
@@ -209,6 +210,8 @@ NPC | Loot
 :--- | ---
 Butcher Creek Residents<br>Murphy Brood | Currant<br>Sage<br>Ginseng<br>Violet Snowdrop<br>Burdock Root
 Night Folk<br>Skinner Brothers | Burdock Root
+
+Some NPCs have a chance of holding a small mammal pelt of random quality. Usually hunter-esque looking guys.
 
 ### Bed, Bath, and Beyond
 
@@ -449,7 +452,7 @@ Cattleman | Revolver | `Outlaws from the West` | 22 | 24 | 25 | 28
 M1899 | Pistol | `The Battle of Shady Belle`<br>**Saint Denis Gunsmith only.** | 22 | 24 | 26 | 28
 Double Action | Revolver | `A Strange Kindness` | 21 | 22 | 24 | 27
 Algernon's<br>High Roller | Revolver | `Dutchesses and Other Animals VI` | 20 | 23 | 24 | 27
-Micah's | Revolver | `American Venom`<br>**On Micach's corpse.** | 20 | 22 | 25 | 26
+Micah's | Revolver | `American Venom`<br>**On Micah's corpse.** | 20 | 22 | 25 | 26
 Mauser | Pistol | `That's Murfree Country`<br>**Saint Denis and Valentine Gunsmiths only.** | 21 | 22 | 25 | 26
 Semi Auto | Pistol | `The Joys of Civilization`<br>**Saint Denis and Valentine Gunsmiths only.** | 19 | 21 | 23 | 25
 Varmint | Rifle | `Eastward Bound`<br>Free for Special/Ultimate edition players. | 19 | - | - | -
@@ -660,11 +663,37 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 - `†` Posted only in 1907.
 - `**` Available only if spared in his associated story mission.
 
+# RANDOM EVENTS
+
+### Horse Races
+
+- second solid path directly east of 'Y' in "BIG VALLE**Y**" (race 2)
+
+### Moonshiners
+
+- southwest of the first 'E' in "BLU**E**WATER MARSH"
+
+### Competitive Shooter
+
+- south of the second 'e' in "Heartland Ov**e**rflow"
+
+### William
+
+- northwest of **Lonnie's Shack**, across the path
+- north of deer icon in **Big Valley**, east of train tracks, directly in line west of 'k' in "Da**k**ota River"
+- dead end of path west of **Moonstone Pond**
+
+### Soothsayer
+
+- 20:00-04:00 southwest of **Canebreak Manor** in **Bluewater Marsh, LE**
+
 # MISSABLE CONTENT
 
 *Missable content grouped by chapter.*
 
 **NOTE:** Some stranger missions can be done with only Arthur.
+
+**NOTE:** If you're only concerned with missable cosmetics, Pearson's Scout Jacket and Dutch's Spurs are the only missable cosmetic items.
 
 ### Chapter I
 
@@ -698,7 +727,7 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 - **Classic Raccoon Mountain Hat**: looted from **Jon** at **Smithfields Saloon** in **Valentine**; unavailable after Ch. 6
 - **Charity Handbill**: on the table of **Thomas Downes’** charity in **Valentine**; he shows up once before `Americans At Rest`, and once again after that mission; his table is outside of the newly built house adjacent the **Valentine Stable**.
 - **Dutch’s Speech Notes**: picked up in **Horseshoe Overlook** camp; can be missed if you don’t pick it up before you move to the next camp
-- **Native American Ring**: This is random camp encounter usually in the **Heartlands**, a guy will invite you to his camp, get drunk, reveal his past and pass out; loot him and you get the ring; effects unknown
+- **Native American Ring**: This is random camp encounter at night. Appears to be active from 00:00 to 04:00, several possible locations: south of the first 'A' in "THE HE**A**RTLANDS", east of the first 'E' in ""SCARL**E**TT MEADOWS", and just off the water southwest of **Van Horn Mansion**. A guy will invite you to his camp, ask for whiskey, reveal his past, and pass out; loot him and you get the ring; effects unknown.
 - **John’s Cattleman Revolver**: You can actually get these as **Arthur** in Ch. 2 missions `Paying a Social Call`, `The Sheep and the Goats`, `Pouring Forth Oil` [Reference.](https://reddead.fandom.com/wiki/John%27s_Cattleman_Revolver#Acquisition)
 - **Rare Shotgun**: used by **Hermit Man** at **Manito Glade**
 - **Jimmy's Pen**: during `Polite Society, Valentine Style` only if you spare him; makes some (not all) journal entries more neatly written and darker; does not affect sketches)
@@ -715,7 +744,7 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 
 *Item Requests:*
 - Jack: Thimble (for **Jack's Drawing**; randomly speaks with you after `A Fisher of Men`)
-- Pearson: Rabbit Carcass (for the unique **Scout Jacket**; interact while he's behind the wagon table with the cauldron on top drinking a beer 08:00-14:00)
+- Pearson: Rabbit Carcass (for the unique **Scout Jacket**; interact while he's behind the wagon table with the cauldron on top drinking a beer 08:00-14:00; I've had the best luck just after 10:00)
 - Abigail: 5$: just after `A Fisher of Men`
 - Jack: Comic Book (automatically during `A Fisher of Men`)
 - Javier: Oleander (interact while at the games table with his knives)
