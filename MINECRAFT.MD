@@ -1,10 +1,10 @@
 # Index
 
 [pack_format](#pack_format)
-[Change Skin Via Resource Pack](#change-skin-via-resource-pack)
-[Ores](#ores)
-[Block Functions](#block-functions)
-[Bypass Launcher](#bypass-launcher)
+<br>[Change Skin Via Resource Pack](#change-skin-via-resource-pack)
+<br>[Ores](#ores)
+<br>[Block Functions](#block-functions)
+<br>[Bypass Launcher](#bypass-launcher)
 
 ### pack_format
 
