@@ -1,7 +1,5 @@
 # PHANTOM FORCES NOTES
 
-**Updated 2022/12/10**
-
 *A collection of stuff I've learned playing Phantom Forces, the [game for Roblox](https://www.roblox.com/games/292439477).*
 
 <br>&emsp;[HoW dO i GeT xP fAsT?](#how-do-i-get-xp-fast)
