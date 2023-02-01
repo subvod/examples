@@ -153,6 +153,8 @@ The original method I found was devised with Batch. [[Reference.]](https://gamin
 2. Create a blank **VBScript** in your `.minecraft` directory. I just rename a blank text document as `Minecraft.vbs`, for example.
 3. Right click the script, click `Edit`, and paste the following code into the script:
 
+[[GitHub Backup]](https://github.com/subvod/examples/blob/master/RunExternalApp.vbs)
+
 ```
 Dim objShell
 Set objShell = WScript.CreateObject( "WScript.Shell" )
