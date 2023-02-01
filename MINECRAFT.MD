@@ -1,10 +1,90 @@
 # Index
 
-[pack_format](#pack_format)
-<br>[Change Skin Via Resource Pack](#change-skin-via-resource-pack)
-<br>[Ores](#ores)
-<br>[Block Functions](#block-functions)
-<br>[Bypass Launcher](#bypass-launcher)
+[Mobs](#mobs)
+<br>&emsp;[Horses, Donkeys, and Mules](#horses-donkeys-and-mules)
+<br>&emsp;[Hostile Mobs](#hostile-mobs)
+<br>[Items](#items)
+<br>&emsp;[Ores](#ores)
+<br>&emsp;[Cooking & Smelting](#cooking--smelting)
+<br>[Gameplay](#gameplay)
+<br>&emsp;[Commands](#commands)
+<br>&emsp;[Block Functions](#block-functions)
+<br>[Extras](#extras)
+<br>&emsp;[TOML JSON Converter](#toml-json-converter)
+<br>&emsp;[pack_format](#pack_format)
+<br>&emsp;[Shortcuts](#shortcuts)
+<br>&emsp;[Change Skin Via Resource Pack](#change-skin-via-resource-pack)
+<br>&emsp;[Bypass Launcher](#bypass-launcher)
+<br>&emsp;[Mods & Configuration](#mods--configuration)
+
+# Mobs
+
+*Some info on specific mobs.*
+
+### Horses, Donkeys, and Mules
+
+Horses and donkeys spawn on the surface in the wild. Mules do not spawn naturally. They must be bred by taming any **Horse** and **Donkey**, then feeding both a **Golden Apple**.
+
+### Hostile Mobs
+
+They'll only spawn on blocks in light levels of `7` or lower.
+
+# Items
+
+*Some info on specific items.*
+
+### Cooking & Smelting
+
+Block | Purpose
+:--- | ---
+Furnace | Cooks food and smelts blocks at the standard rate.
+Blast Furnace | Smelts blocks at `2.0x` rate. Cannot cook food.
+Smoker | Cooks food at `2.0x` rate. Cannot smelt blocks.
+
+### Ores
+
+Type | Most Common<br>Depth | Depths | Batches Per Chunk
+:--- | --- | --- | ---
+Coal Ore | -<br>95 | 136/320<br>0/190 | 30<br>20
+Copper Ore | 47 | -16/112 | 6
+Redstone Ore | -50 | -63/15<br>-63/-32 | 4<br>8
+Iron Ore | 255<br>15<br>- | 128/320<br>24/54<br>-63/64 | 40<br>6<br>3
+Gold Ore | -16<br>- | -64/32<br>32/256 (Badlands) | 4<br>50 (Badlands)
+Nether Gold Ore | - | 10-117 | 10<br>20 (Basalt Delta)
+Emerald Ore | 256 | -16/320 | 50
+Diamond Ore | - | 14/-63 | 7 (1-4 Ores)<br>1 (1-12 Ores, Every 1/9 Chunk)<br>4 (1-8 Ores)
+
+# Gameplay
+
+*Some info on gameplay.*
+
+### Commands
+
+*Spawn Entity:*
+
+`summon <entity> [<pos>] [<nbt>]`
+<br>`summon spider ~ ~ ~ {Passengers:[{id:"minecraft:skeleton",HandItems:[{id:"minecraft:bow",Count:1b}]}]}`
+
+### Block Functions
+
+Block | Unique Function
+:--- | ---
+Furnace | Can smelt/cook everything.
+Smoker | Cooks food twice as fast.
+Blast Furnace | Smelts ore/rock twice as fast.
+Cartography Table | Zooms out maps. (`Map` + `Paper`)
+Compass | Points to world spawn.
+Lodestone | Changes `Compass` needle direction, given the Lodestone is in the same dimension.
+
+# Extras
+
+*References and such.*
+
+### TOML JSON Converter
+
+*Convert back and forth.*
+
+[[GitHub.]](https://esakat.github.io/toml2jsonConverter/)
 
 ### pack_format
 
@@ -41,6 +121,13 @@ pack_format | Minecraft version(s)
 10 | 1.19-1.19.3
 11 | 1.19.4
 
+### Shortcuts
+
+Key(s) | Details
+:--- | ---
+`F3` | Debug Menu
+`F3` + `F4` | Cycle through game modes.
+
 ### Change Skin Via Resource Pack
 
 1. Copy and paste your Minecraft version's `.jar` file into the `resourcepacks` folder.
@@ -53,36 +140,14 @@ pack_format | Minecraft version(s)
 8. (OPTIONAL) To change the pack icon, just add a `pack.png` image as long as its size is a power of `2`. A `64x64` icon will work, for example.
 9. Start up Minecraft and load up your resource pack.
 
-Hold `F3` and press `F4` to cycle through game modes.
-
-### Ores
-
-Type | Most Common<br>Depth | Depths | Batches Per Chunk
-:--- | --- | --- | ---
-Coal Ore | -<br>95 | 136/320<br>0/190 | 30<br>20
-Copper Ore | 47 | -16/112 | 6
-Redstone Ore | -50 | -63/15<br>-63/-32 | 4<br>8
-Iron Ore | 255<br>15<br>- | 128/320<br>24/54<br>-63/64 | 40<br>6<br>3
-Gold Ore | -16<br>- | -64/32<br>32/256 (Badlands) | 4<br>50 (Badlands)
-Nether Gold Ore | - | 10-117 | 10<br>20 (Basalt Delta)
-Emerald Ore | 256 | -16/320 | 50
-Diamond Ore | - | 14/-63 | 7 (1-4 Ores)<br>1 (1-12 Ores, Every 1/9 Chunk)<br>4 (1-8 Ores)
-
-### Block Functions
-
-Block | Unique Function
-:--- | ---
-Furnace | Can smelt/cook everything.
-Smoker | Cooks food twice as fast.
-Blast Furnace | Smelts ore/rock twice as fast.
-Cartography Table | Zooms out maps. (`Map` + `Paper`)
-Compass | Points to world spawn.
-Lodestone | Changes `Compass` needle direction, given the Lodestone is in the same dimension.
-
 ### Bypass Launcher
 
-*The original method I found was devised with Batch.* [[Reference.]](https://gaming.stackexchange.com/a/306709)
-<br>*Below is a method I've modified to work with VBScript to avoid having a CMD window present while playing.* [[Reference.]](https://stackoverflow.com/a/1340372)
+Looking to run Minecraft without an internet connection? Or just need to bypass the launcher for any other reason? Here's how:
+
+*You'll need a launcher to get this set up, but once done you'll no longer need the launcher. This process must be completed for each version of Minecraft you want to run without the launcher. Yes, including Forge/Fabric versions.*
+
+The original method I found was devised with Batch. [[Reference.]](https://gaming.stackexchange.com/a/306709)
+<br>Below is a method I've modified to work with VBScript to avoid having a CMD window present while playing. [[Reference.]](https://stackoverflow.com/a/1340372)
 
 1. Download [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer). [[Direct.]](https://download.sysinternals.com/files/ProcessExplorer.zip) [[Backup of v17.02]](https://www.mediafire.com/file/bj5leu59f8bfm0t)
 2. Create a blank **VBScript** in your `.minecraft` directory. I just rename a blank text document as `Minecraft.vbs`, for example.
@@ -91,15 +156,50 @@ Lodestone | Changes `Compass` needle direction, given the Lodestone is in the sa
 ```
 Dim objShell
 Set objShell = WScript.CreateObject( "WScript.Shell" )
-objShell.Run("javaw" & " -args")
+objShell.Run("javaw.exe" & " -args")
 Set objShell = Nothing
 ```
 
-4. Run the **Minecraft Launcher** and launch the **exact** version and configuration which you want to use. Yes, **Forge**, **Fabric**, etc make a difference.
+4. Run the **Minecraft Launcher** and launch the **exact** version and configuration which you want to use. Yes, **Forge**, **Fabric**, etc make a difference. Those add a bunch more libraries to the command line.
 5. Run **Process Explorer** and find the **Minecraft** process (it'll be a `javaw.exe` process).
 6. Double-click on the process to view details and copy the command line used to run it. If you have two or more processes running through `javaw.exe`, it's gonna be the one with the longest command line.
-7. Replace the `javaw` within the quotes with the full application path of `javaw.exe` at the beginning of the command you copied from **Process Explorer**. Newer launcher versions will automatically download the latest JVM from Mojang. For example, mine is: `C:\Users\Admin\AppData\Roaming\.minecraft\runtime\temurin-latest-windows-x64\bin\javaw.exe`
+7. Replace the `javaw` within the quotes with the full application path of `javaw.exe` at the beginning of the command you copied from **Process Explorer**. Newer launcher versions will automatically download the latest JVM from Mojang. For example, mine is: `C:\Users\Admin\AppData\Roaming\.minecraft\runtime\temurin-latest-windows-x64\bin\javaw.exe`. If the path to your `javaw.exe` contains spaces, you need to tripple quote the path (just to the executable, not the arguments), i.e.
+```
+objShell.Run("""C:\Program Files\Java\bin\javaw.exe""" & " -args")
+```
 8. Replace the `-args` in the second pair of quotes with all of the arguments. (The rest of the command you copied). Remember to keep that first space after the open quote.
-9. The command will include a `-Djava.library.path=` which points to a temporary directory that only exists while Minecraft is still open. These are your natives and necessary to run the game. While the game is still running in the same instance, navigate to and copy that directory somewhere. This ensures they'll always be present on runtime.
+9.  The command will include a `-Djava.library.path=` which points to a temporary directory that only exists while Minecraft is still open. These are your natives and necessary to run the game. While the game is still running in the same instance, navigate to and copy that directory somewhere. This ensures they'll always be present on runtime.
 10. Append the path of the natives to `-Djava.library.path=`. (You'll have to replace the path that's there after the `=`.)
 11. (OPTIONAL) If you want to have a fancy icon, just create a shortcut to the Batch script, right click the shortcut, and click `Change Icon...`.
+
+### Mods & Configuration
+
+**JEI (Just Enough Items)**
+<br>*JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.*
+
+Inventory:
+<br>(Minecraft Options -> Controls)
+<br>Show **R**ecipes: `Hover Over Item + R`
+<br>Show **U**ses: `Hover Over Item + U`
+<br>Toggle Item List **O**verlay: `Ctrl + O`
+
+*Item List:*
+<br>Show Recipes: `Left-Click` Item or `R`
+<br>Show Uses: `Right-Click` Item or `U`
+<br>Next/Previous page: `Scroll Wheel`
+<br>Open Config Menu: `Left-Click` Wrench at bottom-right
+<br>Toggle Cheat Mode: `Ctrl + Left-Click` Wrench at bottom-right
+
+*Search:*
+<br>Select Search Bar: `Left Click` or `Ctrl + F`
+<br>Clear Search: `Right Click`
+<br>Previous Search: `Up Arrow`
+<br>Search by Mod Name: Type `@` in front of a word (@thaum)
+<br>Exclude search terms: Type `-` in front of a word (@thaum -wand)
+<br>Multiple terms work together (wand @thaum)
+<br>Search terms that have spaces in them: Type quotes (`""`) around the words ("two words")
+
+*Recipe View:*
+<br>Next/Previous page: `Scroll Wheel`
+<br>Show all Recipes: `Left-Click` the recipe category's name
+<br>Move items into crafting area: `Left-Click` the `+` button. `Shift + Left-Click` to move multiple sets of items.
