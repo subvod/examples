@@ -133,6 +133,7 @@
 - [EasyHook](https://github.com/EasyHook/EasyHook) - The reinvention of Windows API hooking.
 - [wxWidgets](https://www.wxwidgets.org/) - Cross-platform GUI library. Pairs well with [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder), a GUI creator which can export wxWidgets-compatible code in both C++ and Python. [[Docs]](https://www.wxwidgets.org/docs/) [[Tutorials]](https://www.wxwidgets.org/docs/tutorials/) [[Source Code]](https://github.com/wxWidgets/wxWidgets)
 - [Boost C++ Libraries](https://www.boost.org/) - Set of libraries that provides support for tasks and structures such as linear algebra, pseudorandom number generation, multithreading, image processing, regular expressions, and unit testing. [[Docs]](https://www.boost.org/doc/)
+- [OpenSSL](https://www.openssl.org/) - Crypto library. [[GitHub Repo]](https://github.com/openssl/openssl) [[SHA-256 Example]](https://stackoverflow.com/a/2458382)
 - [SFML](https://www.sfml-dev.org/) - Multi-platform, multi-language library which provides a simple interface to the various components of your PC to ease the development of games and multimedia applications. **[Docs]** available on downloads page. [[Source Code]](https://github.com/SFML/SFML)
 - [MD5 Message Digest Algorithm](https://github.com/deepmind/lab/tree/master/third_party/md) - Message Digest algorithm derived from RSA Data Security, Inc. [[Original Source]](https://opensource.apple.com/source/ppp/ppp-37/ppp/pppd/md5.c.auto.html)
 
@@ -163,6 +164,7 @@
 *Libraries:*
 
 - [wxPython](https://www.wxpython.org/) - cross-platform GUI toolkit. [[Wiki]](https://wiki.wxpython.org/) [[Docs]](https://docs.wxpython.org/) [[Source Code]](https://github.com/wxWidgets/Phoenix/)
+- [hashlib](https://docs.python.org/3/library/hashlib.html) - Part of **Python Standard Library**. Generate secure hashes and message digests. [[SHA256 File Example]](https://stackoverflow.com/a/22058673)
 
 *References:*
 
