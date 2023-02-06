@@ -2,13 +2,17 @@
 
 *This document is just some notes I've taken of programs/techniques I've used over the years. Mostly programming and gaming related, but some system utilities are linked as well. And, in case you haven't already made the assumption, there may be some mild crude language and/or possible references to comic mischief here and there. If you've even the slightest amount of mental fortitude, you'll do just fine. Otherwise, if you can't handle either of those or are so in favor of having your freedoms taken away just so mine do as well (while those who take those freedoms retain their own): bitch boys need not read further but instead [watch this](https://youtu.be/j22bnzmjcQM).*
 
-[rdr2-maps](https://github.com/subvod/rdr2-maps) - High-res maps marked with locations for rare animals, enemy encounters, and places you can sit in **Red Dead Redemption 2**.
+[rdr2-maps](https://github.com/subvod/rdr2-maps) - **MOVED TO NEXUSMODS:** [[Animal Location Maps]](https://www.nexusmods.com/reddeadredemption2/mods/1929)
 
-[RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). - Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc.
+[RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). - Copy of the notes file from `rdr2-maps`. Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc.
 
 [GTA5.MD](https://github.com/subvod/examples/blob/master/GTA5.MD) - Notes on single player GTA V. Rare vehicles, unique vehicles, NPC-modified vehicles, etc.
 
 [TCGRW.MD](https://github.com/subvod/examples/blob/master/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**.
+
+[MINECRAFT.MD](https://github.com/subvod/examples/blob/master/MINECRAFT.MD) - Notes on solo Minecraft, specifically **Java Edition**. Also, don't be a hipster for Fabric. It's done nothing but split the modding community down the middle for essentially no reason. Forge has worked as needed for over a decade, so just use [[Forge]](https://files.minecraftforge.net/net/minecraftforge/forge/).
+
+[PHANTOMFORCES.MD](https://github.com/subvod/examples/blob/master/PHANTOMFORCES.MD) - Notes on the game for Roblox. Random, niche stuff like what weapons have muzzle attachments that use base barrel textures/materials, some color notes on existing vanilla weapon colors/textures (yeah so you can have your **Beowulf ECR** the same color as the **C7A2**), etc.
 
 [ASUS ROG Zephyrus GA401QM (2021 G14) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the **2021 ASUS G14** because I'm a fucking normie piece of shit.
 
