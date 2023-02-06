@@ -2,7 +2,7 @@
 
 *This is just a bunch of links I've compiled over the years, (mostly) useful stuff.*
 
-[INTRODUCTION]()
+[INTRODUCTION](#introduction)
 <br>[TOOLS/UTILITIES](#toolsutilities)
 <br>&emsp;[System Utilities](#system-utilities)
 <br>&emsp;[Audio/Video Utilities](#audiovideo-utilities)
