@@ -1,22 +1,47 @@
-# Introduction
+# README.MD
+
+*This is just a bunch of links I've compiled over the years, (mostly) useful stuff.*
+
+[INTRODUCTION]()
+<br>[TOOLS/UTILITIES](#toolsutilities)
+<br>&emsp;[System Utilities](#system-utilities)
+<br>&emsp;[Audio/Video Utilities](#audiovideo-utilities)
+<br>&emsp;[Imaging Utilities](#imaging-utilities)
+<br>&emsp;[3D Utilities](#3d-utilities)
+<br>&emsp;[Document Utilities](#document-utilities)
+<br>&emsp;[Web Browsers](#web-browsers)
+<br>[PROGRAMMING](#programming)
+<br>&emsp;[C/C++](#cc)
+<br>&emsp;[Python](#python)
+<br>&emsp;[Assembly (ASM)](#assembly-asm)
+<br>&emsp;[PowerShell](#powershell)
+<br>&emsp;[Batch, VBScript, JScript](#batch-vbscript-and-jscript)
+<br>&emsp;[HTML5](#html5)
+<br>&emsp;[CSS](#css)
+<br>&emsp;[JavaScript](#javascript)
+<br>&emsp;[Regex](#regex)
+<br>&emsp;[Markdown](#markdown)
+<br>[GAMING](#gaming)
+<br>&emsp;[Homeworld Remastered](#homeworld-remastered)
+<br>&emsp;[Phantom Forces]()
+<br>&emsp;[Red Dead Redemption 2]()
+<br>&emsp;[Grand Theft Auto V]()
+<br>&emsp;[Minecraft]()
+<br>&emsp;[Tom Clancy's Ghost Recon Wildlands]()
+<br>&emsp;[Super Mario World](#super-mario-world)
+<br>&emsp;[Pokemon](#pokemon)
+<br>&emsp;[Minetest](#minetest)
+<br>&emsp;[Forza](#forza)
+<br>[QUOTES](#quotes)
+<br>&emsp;[BAT2EXE](#bat2exe)
+
+# INTRODUCTION
 
 *This document is just some notes I've taken of programs/techniques I've used over the years. Mostly programming and gaming related, but some system utilities are linked as well. And, in case you haven't already made the assumption, there may be some mild crude language and/or possible references to comic mischief here and there. If you've even the slightest amount of mental fortitude, you'll do just fine. Otherwise, if you can't handle either of those or are so in favor of having your freedoms taken away just so mine do as well (while those who take those freedoms retain their own): bitch boys need not read further but instead [watch this](https://youtu.be/j22bnzmjcQM).*
 
-[rdr2-maps](https://github.com/subvod/rdr2-maps) - **MOVED TO NEXUSMODS:** [[Animal Location Maps]](https://www.nexusmods.com/reddeadredemption2/mods/1929)
-
-[RDR2.MD](https://github.com/subvod/examples/blob/master/RDR2.MD). - Copy of the notes file from `rdr2-maps`. Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc.
-
-[GTA5.MD](https://github.com/subvod/examples/blob/master/GTA5.MD) - Notes on single player GTA V. Rare vehicles, unique vehicles, NPC-modified vehicles, etc.
-
-[TCGRW.MD](https://github.com/subvod/examples/blob/master/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**.
-
-[MINECRAFT.MD](https://github.com/subvod/examples/blob/master/MINECRAFT.MD) - Notes on solo Minecraft, specifically **Java Edition**. Also, don't be a hipster for Fabric. It's done nothing but split the modding community down the middle for essentially no reason. Forge has worked as needed for over a decade, so just use [[Forge]](https://files.minecraftforge.net/net/minecraftforge/forge/).
-
-[PHANTOMFORCES.MD](https://github.com/subvod/examples/blob/master/PHANTOMFORCES.MD) - Notes on the game for Roblox. Random, niche stuff like what weapons have muzzle attachments that use base barrel textures/materials, some color notes on existing vanilla weapon colors/textures (yeah so you can have your **Beowulf ECR** the same color as the **C7A2**), etc.
-
 [ASUS ROG Zephyrus GA401QM (2021 G14) Review](https://github.com/subvod/examples/blob/master/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the **2021 ASUS G14** because I'm a fucking normie piece of shit.
 
-# MISCELLANEOUS
+# TOOLS/UTILITIES
 
 *These are tools and references I've used in the past, distant and recent. I do not link to things I've not used/tried myself for credibility reasons.*
 
@@ -38,14 +63,13 @@
 - [DO NOT DEFRAGMENT YOUR SSD](https://superuser.com/questions/1594/why-cant-you-defragment-solid-state-drives) - Defragmenting does nothing but spike write cycles, lowering SSD lifespan because of how they operate. This is not the case for HDDs with physical disks. Defragmenting is beneficial for HDDs, not SSDs.
 - [Compression Benchmark](https://peazip.github.io/peazip-compression-benchmark.html) - Performance comparison of several compression algorithms. Also specifies [file formats less fit for compression](https://peazip.github.io/why-can-not-compress-pdf-avi-mp3-files.html).
 
-## Media Related
-
-### Audio/Video
+## Audio/Video Utilities
 
 *Tools:*
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Stream/download various media in various formats from various sources.
 - [FFMpeg](https://github.com/FFmpeg/FFmpeg) - Audio/video conversion. [[Docs]](https://ffmpeg.org/documentation.html)
+- [FFMpeg Nightly Builds from BtbN](https://github.com/BtbN/FFmpeg-Builds) - latest **FFMpeg** nightly builds with tons libraries already statically linked. Be sure to read the [[Targets, Variants, and Addins]](https://github.com/BtbN/FFmpeg-Builds#targets-variants-and-addins) in the **README.MD**.
 - [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet. Lossy, but it's a witchcrafty compression algorithm. [[Docs]](https://opus-codec.org/docs/) [[Source Code]](https://gitlab.xiph.org/xiph/opus-tools)
 - [VLC](https://www.videolan.org/) - Media player. [[Docs]](https://wiki.videolan.org/documentation:documentation/) [[Source Code]](https://github.com/videolan/vlc)
 - [Audacity](https://www.audacityteam.org/) - Audio editor. [[Docs]](https://manual.audacityteam.org/) [[Source Code]](https://github.com/audacity/audacity)
@@ -58,7 +82,7 @@
 - A video comparison of [MP3, M4A, AAC-LC, AAC-HE v1, AAC-HE v2, and Opus codecs](https://youtu.be/3B6pr6-YVyM). No commentary. Includes separate tracks for the data lost with each codec, as well as the original `WAV` as a control.
 - [Trim OPUS audio losslessly](https://hydrogenaud.io/index.php?topic=113498.0) using **ffmpeg** and **LosslessCut**.
 
-### Image
+## Imaging Utilities
 
 *Tools:*
 
@@ -74,12 +98,12 @@
 - [Batch Converting via ImageMagick](https://stackoverflow.com/q/30414346) - With a `FOR` loop.
 - [Image Formats Comparison](https://eclipseo.github.io/image-comparison-web/report.html) - Slightly more recent fork of [the original project](http://wyohknott.github.io/image-formats-comparison/report.html) by [wyohknott](https://github.com/WyohKnott).
 
-### 3D
+## 3D Utilities
 
 - [Blender](https://developer.blender.org/diffusion/) - 3D Editor. [[Docs]](https://docs.blender.org/) [[Tutorials]](https://www.blender.org/support/tutorials/) [[Source Code]](https://www.blender.org/get-involved/developers/)
 - [Wings3D](http://www.wings3d.com/) - 3D Editor. Considerably less-demanding than larger editors like Blender/3DSMax. I used Wings for modeling/texturing until I got a system powerful enough to run Blender without it freezing up every five minutes. [[Source Code]](https://github.com/dgud/wings)
 
-### Document
+## Document Utilities
 
 *Word Processors:*
 
@@ -97,7 +121,7 @@
 - [Search by Regular Expressions in Notepad++](https://npp-user-manual.org/docs/searching/#regular-expressions).
 - You can add fonts for just **LibreOffice** in `<LibreOffice_InstallDirectory>\program\resource\common\fonts`.
 
-### Web Browsers
+## Web Browsers
 
 *Browsers:*
 
@@ -114,11 +138,12 @@
 
 *References:*
 
+- [DuckDuckGo](https://start.duckduckgo.com/) - Regardless of whether or not you're using a VPN, utilize this alternate search engine.
 - How to link [short URLs on Reddit](https://redd.it/28gpzg).
 
-## Desktop Programming
+# PROGRAMMING
 
-### C/C++
+## C/C++
 
 *Compilers:*
 
@@ -156,7 +181,7 @@
 - [Understanding C Program Compilation Process Using GCC](https://youtu.be/PzsXHGVTScI) - An explanation of the process with intermediate files and options needed when performing each step individually.
 - [Use regular expressions in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022).
 
-### Python
+## Python
 
 *Tools:*
 
@@ -164,6 +189,7 @@
 - [py2exe](https://www.py2exe.org/) - converts Python scripts into Windows `.exe` format able to run without Python being installed. [[Source Code]](https://github.com/py2exe/py2exe)
 - [unpy2exe](https://github.com/matiasb/unpy2exe) - extract `.pyc` files from Windows `.exe` files created with **py2exe**.
 - [python-decompile3](https://github.com/rocky/python-decompile3) - bytecode decompiler for Python v3.7-3.8 `.pyc` files. A refactor of [python-uncompyle6](https://github.com/rocky/python-uncompyle6/) to fix long-standing problems.
+- [hashID](https://github.com/psypanda/hashID) - identifies different types of hashes.
 
 *Libraries:*
 
@@ -181,7 +207,7 @@
 - Piping and executing [external commands in Python](https://stackoverflow.com/a/5486820).
 - Discussion on the [Python compilation/interpretation process](https://stackoverflow.com/q/3299648).
 
-### Assembly (ASM)
+## Assembly (ASM)
 
 *Tools:*
 
@@ -201,7 +227,7 @@
 - [Intel x86 Opcodes](http://ref.x86asm.net/coder32.html)
 - [Intel x64 Opcodes](http://ref.x86asm.net/coder64.html)
 
-### PowerShell
+## PowerShell
 
 *Tools:*
 
@@ -212,7 +238,7 @@
 
 - [SS64](https://ss64.com/ps/) - PowerShell command reference.
 
-### Batch/JScript/VBScript (Windows System Scripting)
+## Batch, VBScript, and JScript
 
 *Tools:*
 
@@ -224,33 +250,31 @@
 - [Rob van der Woude's Scripting Pages](https://www.robvanderwoude.com/) - A collection of (administrative) scripting related information.
 - [Making a Batch to Executable converter.](#BAT2EXE) - A quick run-down of the general process.
 
-## Web Programming
-
-### HTML5
+## HTML5
 
 *References:*
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - MDN reference.
 
-### CSS
+## CSS
 
 *References:*
 
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - MDN reference.
 
-### JavaScript
+## JavaScript
 
 *References:*
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - MDN reference.
 
-### Regex (Regular Expressions)
+## Regex
 
 *References:*
 
 - [Regex Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) - on MDN.
 
-### Markdown
+## Markdown
 
 *Tools:*
 
@@ -264,15 +288,9 @@
 
 - [Edit/Preview Markdown in VS Code](https://code.visualstudio.com/docs/languages/markdown) - tutorial/reference.
 
-## Security
+# GAMING
 
-*Tools:*
-
-- [hashID](https://github.com/psypanda/hashID) - identifies different types of hashes. Written in Python.
-
-## Game-Specific Stuff
-
-### Homeworld Remastered
+## Homeworld Remastered
 
 *Tools:*
 
@@ -300,7 +318,29 @@
 - [HW2 Function Reference (Online)](https://hwmod.fandom.com/wiki/HW2_Function_Reference) - online function reference.
 - [HWRM Karos Graveyard](https://github.com/HWRM/KarosGraveyard/wiki) - old-style Karos Graveyard for HWRM.
 
-### SMW, SMW2
+## Phantom Forces
+
+[[PHANTOMFORCES.MD]](https://github.com/subvod/examples/blob/master/PHANTOMFORCES.MD) - Notes on the game for Roblox. Random, niche stuff like what weapons have muzzle attachments that use base barrel textures/materials, some color notes on existing vanilla weapon colors/textures (yeah so you can have your **Beowulf ECR** the same color as the **C7A2**), etc.
+
+## Red Dead Redemption 2
+
+<s>[[rdr2-maps]](https://github.com/subvod/rdr2-maps)</s> [[Animal Location Maps]](https://www.nexusmods.com/reddeadredemption2/mods/1929) - Ported everything to **NexusMods**.
+
+[[RDR2.MD]](https://github.com/subvod/examples/blob/master/RDR2.MD) - Copy of the notes file from `rdr2-maps`. Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc.
+
+## Grand Theft Auto V
+
+[[GTA5.MD]](https://github.com/subvod/examples/blob/master/GTA5.MD) - Notes on single player GTA V. Rare vehicles, unique vehicles, NPC-modified vehicles, etc.
+
+## Minecraft
+
+[[MINECRAFT.MD]](https://github.com/subvod/examples/blob/master/MINECRAFT.MD) - Notes on solo Minecraft, specifically **Java Edition**. Also, don't be a hipster for Fabric. It's done nothing but split the modding community down the middle for essentially no reason. Forge has worked as needed for over a decade, so just use [[Forge]](https://files.minecraftforge.net/net/minecraftforge/forge/).
+
+## Tom Clancy's Ghost Recon Wildlands
+
+[[TCGRW.MD]](https://github.com/subvod/examples/blob/master/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**.
+
+## Super Mario World
 
 *Tools:*
 
@@ -318,7 +358,7 @@
 - [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Docs]](https://www.smwcentral.net/?p=section&s=documents) [[ROM Hacks]](https://www.smwcentral.net/?p=section&s=smwhacks)
 - [FuSoYa's Niche](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think [FuSoYa](https://www.smwcentral.net/?p=profile&id=9435) has moved most everything to SMWCentral.
 
-### Pokemon Gens I-IV
+## Pokemon
 
 *Tools:*
 
@@ -337,19 +377,19 @@
 - [Serebii](https://www.serebii.net/) - Reference docs.
 - [IIMarckus's Site](https://iimarckus.org/) - the brains behind the PRET disassemblies.
 
-### Minetest
+## Minetest
 
 - [Minetest](https://github.com/minetest/minetest) - an open source voxel game engine. Basically Minecraft that runs native rather than through JVM/JRE. [[Wiki]](https://wiki.minetest.net/)
 
-### Forza
+## Forza
 
 *Articles:*
 
 - [Creating Accurate Logos](https://forums.forzamotorsport.net/turn10_postst133507_-Guide--Creating-Accurate-Logos.aspx) - tutorial by **PJTierney**. I recommend using **nomacs**; link in [Image Tools](#image).
 
-# Quotes
+# QUOTES
 
-### BAT2EXE
+## BAT2EXE
 
 > tl;dr No. For your purpose, that being you just want to convert the script to an executable, you'll be moving Heaven and Earth to avoid present-day AV detection. An executable extracting a system script to some directory then (attempting to) execute it looks suspicious as shit regardless of the circumstance(s). If, by chance, that piques your interest, I've jotted down some stuff I've used/referenced over the years. Further down I've explained how to go about making your own "converter".
 > <br><br>If you're on sort of the same path I was back when I was big into Batch scripting, as in running across something I wanted to make an executable for whatever reason, you may want to look into learning C and/or C++. They're both catch-all languages. If your system allows it, either of them can do it. Though, from my perspective C++ is superior for my needs/wants. C is just the predecessor of C++, but it works much better for applications that focus on size/speed (such as both the stub and BAT 2 EXE "converter" or "compiler" in this case).
