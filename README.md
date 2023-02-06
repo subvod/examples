@@ -173,7 +173,7 @@
 
 *Articles:*
 
-- Command-line [linking with GCC](https://stackoverflow.com/q/15441877). See [SeKa](https://stackoverflow.com/users/2159358)'s answer for a short explanation of the differences between "compiling" and "linking" with **gcc** and **ld** (respectively).
+- Command-line [linking with GCC](https://stackoverflow.com/q/15441877). See [SeKa's answer](https://stackoverflow.com/a/15445431) for a short explanation of the differences between "compiling" and "linking" with **gcc** and **ld** (respectively).
 - [Learn C++ in 10 Hours](https://youtu.be/GQp1zzTwrIg) - A detailed tutorial covering everything you'll need to know for getting started. This is the most comprehensive video tutorial I've found. Somehow, it also has least rehashing of covered topics and superfluous explanations. Most everything is presented in a to-the-point manner.
 - [Why system() is evil.](http://www.cplusplus.com/forum/articles/11153/) - A brief overview of why `system()` from `cstdlib` is evil.
 - An analysis of [why Dev-C++ was deprecated](https://www.cplusplus.com/forum/articles/36896/).
