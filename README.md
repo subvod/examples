@@ -51,12 +51,10 @@
 
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Alternative to CCleaner because Avast fucked it up.
 - [7-Zip](https://www.7-zip.org/) - File compression and archiving. I was a WinRAR fanboy for over a decade. Why? No clue. [[Source Code]](https://sourceforge.net/projects/sevenzip/) ; use LZMA2 for binary/images, PPMd for plaintext.
-- [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive isn't bundled with "optional" bloatware/adware. [[Backup]](https://www.mediafire.com/file/vc97e7249287jdd) [[Source Code]](https://github.com/cheat-engine/cheat-engine)
+- [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive isn't bundled with "optional" bloatware/adware. [[Source Code]](https://github.com/cheat-engine/cheat-engine)
 - [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
 - [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - universal CLI.
-- [MediaFire](https://mediafire.com/) - file upload and cloud storage.
-- [windscribe](https://windscribe.com/) - VPN with a free plan offering 10GB per month. No, I am not sponsored by these folks.
 
 *Articles:*
 
@@ -121,7 +119,7 @@
 - [Search by Regular Expressions in Notepad++](https://npp-user-manual.org/docs/searching/#regular-expressions).
 - You can add fonts for just **LibreOffice** in `<LibreOffice_InstallDirectory>\program\resource\common\fonts`.
 
-## Web Browsers
+## Web Browsing, Security, and Utilities
 
 *Browsers:*
 
@@ -139,6 +137,11 @@
 *References:*
 
 - [DuckDuckGo](https://start.duckduckgo.com/) - Regardless of whether or not you're using a VPN, utilize this alternate search engine.
+- [MEGA](https://mega.nz/) - file upload and cloud storage.
+- [MediaFire](https://mediafire.com/) - file upload and cloud storage.
+- [DropBox](https://www.dropbox.com/) - file upload and cloud storage.
+- [OneDrive](https://onedrive.live.com/) - file upload and cloud storage.
+- [Windscribe](https://windscribe.com/) - VPN with a free plan offering 10GB per month. No, I am not sponsored by these folks.
 - How to link [short URLs on Reddit](https://redd.it/28gpzg).
 
 # PROGRAMMING
@@ -147,13 +150,14 @@
 
 *Compilers:*
 
-- [TDM-GCC](https://jmeubank.github.io/tdm-gcc/) - GNU Compiler Collection fit for Windows; available in both 32 and 64-bit configurations. Can be configured for [use with VSCode](https://code.visualstudio.com/docs/cpp/config-mingw). Documentation parallels the [[Docs]](https://gcc.gnu.org/onlinedocs/) **GCC** itself, preferably [MinGW-w64](https://www.mingw-w64.org/). I highly recommend using this over **MSVC** because Microsoft has made the process of installing Build Tools the biggest pain in the ass possible.
-- [Visual Studio Build Tools](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022) - command-line build tools without the Visual Studio IDE or integration with it. Can be configured for [use with VSCode](https://code.visualstudio.com/docs/cpp/config-msvc). [[Docs]](https://docs.microsoft.com/en-us/cpp/build/reference/c-cpp-building-reference)
+- [TDM-GCC](https://jmeubank.github.io/tdm-gcc/) - GNU Compiler Collection fit for Windows; available in both 32 and 64-bit configurations. I highly recommend using this over **MSVC** when installing offline is a concern because Microsoft has made the process of installing Visual Studio Build Tools the biggest pain in the ass possible. [[Docs]](https://gcc.gnu.org/onlinedocs/)
+- [MinGW-w64](https://www.mingw-w64.org/) - Advancement of the original `mingw.org` project, created to support the GCC compiler on Windows systems. [[Docs]](https://gcc.gnu.org/onlinedocs/) [[Builds by niXman]](https://github.com/niXman/mingw-builds-binaries)
+- [Visual Studio Build Tools](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022) - command-line build tools without the Visual Studio IDE or integration with it. [[Docs]](https://docs.microsoft.com/en-us/cpp/build/reference/c-cpp-building-reference)
 
 *IDEs:*
 
-- [VS Code](https://code.visualstudio.com/) - Code editor, but configurable with JSON scripts. Wide support spectrum via extensions. Can easily be made into an IDE. [[Docs]](https://code.visualstudio.com/docs) [[Task Info]](https://code.visualstudio.com/docs/editor/tasks) [[Editing 101]](https://code.visualstudio.com/docs/editor/codebasics) [[Source Code]](https://github.com/microsoft/vscode)
-- [Code::Blocks](https://www.codeblocks.org/) - IDE for C, C++, and Fortran. [[Docs]](https://www.codeblocks.org/user-manual/) [[Wiki]](https://wiki.codeblocks.org/index.php/Main_Page) [[Source Code]](https://www.codeblocks.org/downloads/source/)
+- [Code::Blocks](https://www.codeblocks.org/) - IDE for C, C++, and Fortran. [[Docs]](https://www.codeblocks.org/user-manual/) [[Wiki]](https://wiki.codeblocks.org/index.php/Main_Page) [[Source Code]](https://www.codeblocks.org/downloads/source/) [[Backup of v22.03 Built with TDM-GCC v10.3.0]](https://mega.nz/file/7IER3IhZ#pbD4Bpxh02uvIFW7bunn_kGuBAUKQoKHF9IErtQ83Do)
+- [VS Code](https://code.visualstudio.com/) - Jack of all trades (but master of none) code editor. Configurable with JSON scripts. Wide support spectrum via extensions. Can be made into an IDE, but with how involved in other garbage it's become that process is becoming increasingly (albeit needlessly) intricate. [[Docs]](https://code.visualstudio.com/docs) [[Task Info]](https://code.visualstudio.com/docs/editor/tasks) [[Editing 101]](https://code.visualstudio.com/docs/editor/codebasics) [[Source Code]](https://github.com/microsoft/vscode)
 
 *Libraries:*
 
@@ -173,6 +177,7 @@
 
 *Articles:*
 
+- [Setting up VSCode to use GCC/MinGW](https://code.visualstudio.com/docs/cpp/config-msvc)
 - Command-line [linking with GCC](https://stackoverflow.com/q/15441877). See [SeKa's answer](https://stackoverflow.com/a/15445431) for a short explanation of the differences between "compiling" and "linking" with **gcc** and **ld** (respectively).
 - [Learn C++ in 10 Hours](https://youtu.be/GQp1zzTwrIg) - A detailed tutorial covering everything you'll need to know for getting started. This is the most comprehensive video tutorial I've found. Somehow, it also has least rehashing of covered topics and superfluous explanations. Most everything is presented in a to-the-point manner.
 - [Why system() is evil.](http://www.cplusplus.com/forum/articles/11153/) - A brief overview of why `system()` from `cstdlib` is evil.
@@ -211,7 +216,7 @@
 
 *Tools:*
 
-- [FASM](https://flatassembler.net/) - flat assembler for 32 and 64-bit code. [[Docs]](https://flatassembler.net/docs.php) [[Examples]](https://flatassembler.net/examples.php)
+- [FASM](https://flatassembler.net/) - flat assembler for 32 and 64-bit code. [[Docs]](https://flatassembler.net/docs.php) [[Examples]](https://flatassembler.net/examples.php) [[Backup of v17.33.0]](https://mega.nz/file/2d9kmTRK#Ycf0C7Wk7y6qLBZYfT9KGKiCVSTBuL3DXyN6sK4NLZ4)
 - [Olly](https://www.ollydbg.de/) - x86 assembly-level debugger.
 
 *Articles:*
@@ -242,7 +247,7 @@
 
 *Tools:*
 
-- [JREPL](https://www.dostips.com/forum/viewtopic.php?f=3&t=6044) - Regex text processor script (Batch and JScript hybrid). [[Backup]](https://www.mediafire.com/file/l8u0w1dczi1ns69)
+- [JREPL](https://www.dostips.com/forum/viewtopic.php?f=3&t=6044) - Regex text processor script (Batch and JScript hybrid). [[Backup]](https://mega.nz/file/fUUHBYpK#d6I40sILoz3diVB_5mnyJGn5jb8a2mOmfoVXJONO19Q)
 
 *References:*
 
@@ -295,14 +300,9 @@
 *Tools:*
 
 - [bigDecrypter](https://github.com/mon/bigDecrypter) - Decrypts HWR BIG files. for use with ModPackager/HW2ICArchive.
-- [Homeworld Universe Mod Tools](https://www.moddb.com/games/homeworld-2/downloads/homeworld-universe-mod-tools) - Almost every tool used for HW1 (classic), Cataclysm, and HW2 (classic).
-- [CFHodEd](https://github.com/Fallen-Angel/CFHodEd) - Universal HOD Editor for both classic and remastered Homeworld games.
-- [Hw2 Official v1.1 Patch](https://www.moddb.com/games/homeworld-2/downloads/homeworld-2-v-11-patch-last-and-only-patch) - The only official HW2 game update from Relic.
-- [fda2aifc](https://www.mediafire.com/file/nbc2qrz93nvt2n3) - converts `.fda` to `.aifc` audio formats. Old backup from Relic.
-- [Common Controls](https://www.mediafire.com/file/y8c6o4omi9ah06r) - External libraries req'd by some old HW1, Cata, and HW2 tools.
-- [CFLuaDC](https://www.mediafire.com/file/gljt3lb0ik97l02) - 4E354B's Lua decompiler.
-- [HW2CDRP](https://www.mediafire.com/file/csulrdwbosymob7) - **HW2 C**lean **D**ata **R**esource **P**roject. (Decompiled data archive.)
-- [No-CD Patches](https://www.mediafire.com/file/sm4wb37gj4pzl9d) - Backup of **(original HW2)** English and German game engine v1.1 patches.
+- [Mod Tools](https://mega.nz/file/vIlDgSbB#SkbPsEOM9vMAuU65b4y0HJc2lOHaA2z7qouMiviH5us) - Based on the [Homeworld Universe Mod Tools](https://www.moddb.com/games/homeworld-2/downloads/homeworld-universe-mod-tools) which has pretty much every tool known to the Homeworld modding community, though I've added some others I've found along the way. Including **fda2aifc**, **No-CD Patches**, **skunk's Map Editor**, the **RDN Toolkit** (with update), **CFLuaDC**, **HWCDRP** (decompiled data), all archival versions of **CFHodEd**, and even `.chm` backups of the old **Karos Graveyard** modding resources. Since the removal of the **RelicNews** forums I imagine a lot of what could be done with these has been lost, but the tools are here and if all else fails we have the [Wayback Machine](https://archive.org/web/).
+- [CFHodEd](https://github.com/Fallen-Angel/CFHodEd) - Universal `.hod` Editor for both classic and remastered Homeworld games.
+- [Hw2 Official v1.1 Patch](https://www.moddb.com/games/homeworld-2/downloads/homeworld-2-v-11-patch-last-and-only-patch) - The only official HW2 game update from Relic. This is also included in the **Mod Tools** listed above.
 - [HomeworldSDL](https://github.com/aheadley/homeworld) - source code for HW1's game engine.
 
 *Mods:*
