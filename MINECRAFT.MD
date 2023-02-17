@@ -40,12 +40,11 @@
 <br>&emsp;[Functional Setups](#functional-setups)
 <br>&emsp;[Buried Treasure Maps](#buried-treasure-maps)
 <br>[Extras](#extras)
-<br>&emsp;[TOML JSON Converter](#toml-json-converter)
-<br>&emsp;[pack_format](#pack_format)
+<br>&emsp;[Seed Mappers](#seed-mappers)
 <br>&emsp;[Shortcuts](#shortcuts)
-<br>&emsp;[Change Skin Via Resource Pack](#change-skin-via-resource-pack)
 <br>&emsp;[Bypass Launcher](#bypass-launcher)
-<br>&emsp;[Mods I Use](#mods-i-use)
+<br>&emsp;[Resource Packs](#resource-packs)
+<br>&emsp;[Mods](#mods)
 
 # Mobs
 
@@ -282,7 +281,7 @@ Basalt Deltas | Nether | - Large amounts of **Basalt** and **Blackstone**.<br><b
 
 ### Alchemy/Brewing
 
-Brewing potions requires a **Brewing Stand**.
+Brewing potions requires a **Brewing Stand**. A full tree chart of potions can be found on the [[Minecraft Fandom Wiki]](https://minecraft.fandom.com/wiki/Brewing).
 
 Ingredient | Effect/Purpose | Location(s)
 :--- | --- | ---
@@ -303,14 +302,16 @@ Bane of Arthropods |
 
 ### Commands
 
-**/summon**
-
-`summon <entity> [<pos>] [<nbt>]`
-<br>`summon spider ~ ~ ~ {Passengers:[{id:"minecraft:skeleton",HandItems:[{id:"minecraft:bow",Count:1b}]}]}`
-
-**/clear**
-
-Clears player inventory.
+Command | Syntax | Details/Examples
+:--- | --- | ---
+/clear | - | Clears player inventory.
+/seed | - | Displays world seed. You might need to enable cheats for this to work as intended.
+/setworldspawn | `/setworldspawn [<pos>] [<angle>]` | Sets world spawn.
+/spawnpoint | `/spawnpoint [<targets>] [<pos>] [<angle>]` | Sets player spawnpoint. Works in all dimensions.
+/summon | `summon <entity> [<pos>] [<nbt>]` | `summon spider ~ ~ ~ {Passengers:[{id:"minecraft:skeleton",HandItems:[{id:"minecraft:bow",Count:1b}]}]}`
+/tp | `/tp <destination>` | Teleports to the given coordinates.
+/time | `/time add <time>`<br>`/time query (daytime|gametime|day)`<br>`/time set (day|night|noon|midnight)`<br>`/time set <time>` | Adds, queries, or sets time.
+/weather | `/weather (clear|rain|thunder) [<duration>]` | Sets weather.
 
 ### Functional Setups
 
@@ -343,46 +344,14 @@ Automatic Respawn Anchor | `2` **Observer Blocks**<br>`1` **Dispenser**<br>`1` *
 
 *References and such.*
 
-### TOML JSON Converter
+### Seed Mappers
 
-*Convert back and forth.*
+*These allow you to browse Minecraft worlds, block by block, by simply inserting the seed.*
 
-[[GitHub.]](https://esakat.github.io/toml2jsonConverter/)
-
-### pack_format
-
-*Defines the version(s) of Minecraft some packs are compatible with.*
-
-[[Reference.]](https://minecraft.fandom.com/wiki/Pack_format)
-
-**Resource Packs:**
-
-pack_format | Minecraft version(s)
+Tool | Details
 :--- | ---
-1 | 1.6.1–1.8.9
-2 | 1.9–1.10.2
-3 | 1.11–1.12.2
-4 | 1.13–1.14.4
-5 | 1.15–1.16.1
-6 | 1.16.2–1.16.5
-7 | 1.17.x
-8 | 1.18.x
-9 | 1.19-1.19.2
-11 | 22w42a-22w44a
-12 | 1.19.3-1.19.4
-
-**Data Packs:**
-
-pack_format | Minecraft version(s)
-:--- | ---
-4 | 1.13–1.14.4
-5 | 1.15–1.16.1
-6 | 1.16.2–1.16.5
-7 | 1.17-1.17.1
-8 | 1.18–1.18.1
-9 | 1.18.2
-10 | 1.19-1.19.3
-11 | 1.19.4
+[ChunkBase](https://www.chunkbase.com/) | Online seed mapper.
+[Cubiomes Viewer](https://github.com/Cubitect/cubiomes-viewer) | Offline seed mapper coded in C++ but usable with **Java Edition** seeds.
 
 ### Shortcuts
 
@@ -399,18 +368,6 @@ Key(s) | Details
 `F3` + `B` | Show hitboxes.
 `F3` + `D` | Clears chat, including past commands.
 
-### Change Skin Via Resource Pack
-
-1. Copy and paste your Minecraft version's `.jar` file into the `resourcepacks` folder.
-2. Change its extension to `.zip`.
-3. Open the Minecraft version's `.jar` file with an archiving tool like 7-Zip.
-4. Delete all files and folders except the `assets` folder.
-5. Navigate to `assets\minecraft\textures\entity\player.` You can delete any other files/folders in any of these subdirectories.
-6. The `wide` folder uses classic skins with 4px arms. The `slim` folder uses sleek skins with 3px arms.
-7. Extract any player skin you want to mod and replace it with the same file name and extension.
-8. (OPTIONAL) To change the pack icon, just add a `pack.png` image as long as its size is a power of `2`. A `64x64` icon will work, for example.
-9. Start up Minecraft and load up your resource pack.
-
 ### Bypass Launcher
 
 Looking to run Minecraft without an internet connection? Or just need to bypass the launcher for any other reason? Here's how:
@@ -420,7 +377,7 @@ Looking to run Minecraft without an internet connection? Or just need to bypass 
 The original method I found was devised with Batch. [[Reference.]](https://gaming.stackexchange.com/a/306709)
 <br>Below is a method I've modified to work with VBScript to avoid having a CMD window present while playing. [[Reference.]](https://stackoverflow.com/a/1340372)
 
-1. Download [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer). [[Direct.]](https://download.sysinternals.com/files/ProcessExplorer.zip) [[Backup of v17.02]](https://www.mediafire.com/file/bj5leu59f8bfm0t)
+1. Download [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer). [[Direct.]](https://download.sysinternals.com/files/ProcessExplorer.zip) [[Backup of v17.02]](https://mega.nz/file/eIVn1KzD#fmJSWMmnjIlPoHbZFXt_L46M-dbACxdCfnZPMDqdldU)
 2. Create a blank **VBScript** in your `.minecraft` directory. I just rename a blank text document as `Minecraft.vbs`, for example.
 3. Right click the script, click `Edit`, and paste the following code into the script:
 
@@ -436,18 +393,63 @@ Set objShell = Nothing
 4. Run the **Minecraft Launcher** and launch the **exact** version and configuration which you want to use. Yes, **Forge**, **Fabric**, etc make a difference. Those add a bunch more libraries to the command line.
 5. Run **Process Explorer** and find the **Minecraft** process (it'll be a `javaw.exe` process).
 6. Double-click on the process to view details and copy the command line used to run it. If you have two or more processes running through `javaw.exe`, it's gonna be the one with the longest command line.
-7. Replace the `javaw` within the quotes with the full application path of `javaw.exe` at the beginning of the command you copied from **Process Explorer**. Newer launcher versions will automatically download the latest JVM from Mojang. For example, mine is: `C:\Users\Admin\AppData\Roaming\.minecraft\runtime\temurin-latest-windows-x64\bin\javaw.exe`. If the path to your `javaw.exe` contains spaces, you need to tripple quote the path (just to the executable, not the arguments), i.e.
+7. Replace the `javaw.exe` within the quotes with the full application path of `javaw.exe` at the beginning of the command you copied from **Process Explorer**. Newer launcher versions will automatically download the latest JVM from Mojang. For example, mine is: `C:\Users\Admin\AppData\Roaming\.minecraft\runtime\temurin-latest-windows-x64\bin\javaw.exe`. If the path to your `javaw.exe` contains spaces, you need to triple quote the path (just to the executable, not the arguments), i.e.
 ```
 objShell.Run("""C:\Program Files\Java\bin\javaw.exe""" & " -args")
 ```
-8. Replace the `-args` in the second pair of quotes with all of the arguments. (The rest of the command you copied). Remember to keep that first space after the open quote.
-9.  The command will include a `-Djava.library.path=` which points to a temporary directory that only exists while Minecraft is still open. These are your natives and necessary to run the game. While the game is still running in the same instance, navigate to and copy that directory somewhere. This ensures they'll always be present on runtime.
-10. Append the path of the natives to `-Djava.library.path=`. (You'll have to replace the path that's there after the `=`.)
+8. Replace the `-args` in the second pair of quotes with all of the arguments. (The rest of the command you copied). Remember to keep that first space after the open quote to separate the executable path from the arguments.
+9. With Minecraft still open, navigate to `.minecraft\versions\1.19.3-forge-44.1.16` (or whatever version you want to add a launcher bypass for) and copy-paste or archive (in a `.zip`) the `1.19.3-forge-44.1.16-natives-2538478...` folder. Those are all of the natives which that version needs to run properly. I usually just send them to a `.7z` archive and unzip them back with the same folder name after I close the game.
+10. Close **Minecraft** and **Process Explorer**, then double click your new `.vbs` script file and see if everything works. If running the script does not boot up the game but the **Minecraft Launcher** does, you've either done something wrong with the command line in the script or somehow didn't give the script file access permissions for the directory you have **Minecraft** located in.
 11. (OPTIONAL) If you want to have a fancy icon, just create a shortcut to the Batch script, right click the shortcut, and click `Change Icon...`.
 
-### Mods I Use
+Your arguments line copied from **Process Explorer** will be very long (especially with **Forge** versions) so don't get flustered if your final script looks something like this:
+
+```
+Dim objShell
+Set objShell = WScript.CreateObject( "WScript.Shell" )
+objShell.Run("C:\Users\Admin\AppData\Roaming\.minecraft\runtime\temurin-latest-windows-x64\bin\javaw.exe" & " -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Djava.library.path=C:\Users\Admin\AppData\Roaming\.minecraft\versions\1.19.3-forge-44.1.16\1.19.3-forge-44.1.16-natives-27449293142100 -Dminecraft.launcher.brand=java-minecraft-launcher -Dminecraft.launcher.version=unknown -cp C:\Users\Admin\AppData\Roaming\.minecraft\libraries\cpw\mods\securejarhandler\2.1.6\securejarhandler-2.1.6.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlloader\1.19.3-44.1.16\fmlloader-1.19.3-44.1.16.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\3.16.29\authlib-3.16.29.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\5.0.28\datafixerupper-5.0.28.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\2.0.25\javabridge-2.0.25.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.13.9\text2speech-1.13.9.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;C:\Users\Admin\AppData\Roaming\.minecraft\versions\1.19.3-forge-44.1.16\1.19.3-forge-44.1.16.jar -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,1.19.3-forge-44.1.16.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=C:\Users\Admin\AppData\Roaming\.minecraft\libraries -p C:\Users\Admin\AppData\Roaming\.minecraft\libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries/cpw/mods/securejarhandler/2.1.6/securejarhandler-2.1.6.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;C:\Users\Admin\AppData\Roaming\.minecraft\libraries/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming cpw.mods.bootstraplauncher.BootstrapLauncher --username Admin --version 1.19.3-forge-44.1.16 --gameDir C:\Users\Admin\AppData\Roaming\.minecraft --assetsDir C:\Users\Admin\AppData\Roaming\.minecraft\assets --assetIndex 2 --uuid bunchOfRandomChars --accessToken bunchOfRandomNumbers --clientId ${clientid} --xuid ${auth_xuid} --userType legacy --versionType release --launchTarget forgeclient --fml.forgeVersion 44.1.16 --fml.mcVersion 1.19.3 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20221207.122022")
+Set objShell = Nothing
+```
+
+### Resource Packs
+
+Resource packs may use either TOML or JSON depending on the version of Minecraft it was made for. You can usually use a converter seamlessly between languages. [[TOML-JSON Converter on GitHub]](https://esakat.github.io/toml2jsonConverter/)
+
+The **pack_format** variable defines the version(s) of Minecraft some packs are compatible with. [[Reference.]](https://minecraft.fandom.com/wiki/Pack_format) The idenfitier digits change between **Resource Packs** and **Data Packs**.
+
+pack_format | Minecraft Version(s)<br>(Resource Packs) | Minecraft Version(s)<br>(Data Packs)
+:--- | --- | ---
+1 | 1.6.1–1.8.9 | -
+2 | 1.9–1.10.2 | -
+3 | 1.11–1.12.2 | -
+4 | 1.13–1.14.4 | 1.13-1.14.4
+5 | 1.15–1.16.1 | 1.15-1.16.1
+6 | 1.16.2–1.16.5 | 1.16.2-1.16.5
+7 | 1.17.x | 1.17-1.17.1
+8 | 1.18.x | 1.18-1.18.1
+9 | 1.19-1.19.2 | 1.18.2
+10 | - | 1.19-1.19.3
+11 | 22w42a-22w44a | 1.19.4
+12 | 1.19.3-1.19.4 | -
+
+**To change your player skin (locally) via resource pack:**
+
+1. Copy and paste your Minecraft version's `.jar` file into the `resourcepacks` folder.
+2. Change its extension to `.zip`.
+3. Open the Minecraft version's `.jar` file with an archiving tool like 7-Zip.
+4. Delete all files and folders except the `assets` folder.
+5. Navigate to `assets\minecraft\textures\entity\player.` You can delete any other files/folders in any of these subdirectories.
+6. The `wide` folder uses classic skins with 4px arms. The `slim` folder uses sleek skins with 3px arms.
+7. Extract any player skin you want to mod and replace it with the same file name and extension.
+8. (OPTIONAL) To change the pack icon, just add a `pack.png` image as long as its size is a power of `2`. A `64x64` icon will work, for example.
+9. Start up Minecraft and load up your resource pack.
+
+### Mods
 
 *Some personal recommendations. All of these are Forge-oriented. Don't be hipster for Fabric. Forge has worked just fine all these years.*
+
+[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
+<br>*Base modding toolkit since v1.4. Comes packaged as a Java installer, but it's streamlined and straighforward.*
 
 [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)
 <br>*Item and recipe viewing mod. Built from the ground up for stability and performance.*
