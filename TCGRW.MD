@@ -1,12 +1,14 @@
-[Information](#information)<br>
-[Tips, Tricks, Warnings, and Rambling](#tips-tricks-warnings-and-rambling)<br>
-[Game Modes](#game-modes)<br>
-[Enemy Alert States](#enemy-alert-states)<br>
-[Stealth Mechanics](#stealth-mechanics)<br>
-[Vehicle Stats](#vehicle-stats)<br>
-[Weapon Stats](#weapon-stats)<br>
-[FAQ, Glitches, and Bugs](#faq)<br>
-[Credits](#credits)
+[Information](#information)
+<br>[Tips, Tricks, Warnings, and Rambling](#tips-tricks-warnings-and-rambling)
+<br>[Game Modes](#game-modes)
+<br>[Enemy Alert States](#enemy-alert-states)
+<br>[Stealth Mechanics](#stealth-mechanics)
+<br>[Vehicle Stats](#vehicle-stats)
+<br>[Weapon Stats](#weapon-stats)
+<br>[FAQ, Glitches, and Bugs](#faq)
+<br>[Easter Eggs](#easter-eggs)
+<br>[EOL and Running Without UPlay/Steam](#eol-and-running-without-uplaysteam)
+<br>[Credits](#credits)
 
 # Information
 
@@ -2317,18 +2319,6 @@ Whenever a player makes a melee kill while wearing the *Caviera Gloves*, up to 4
 After completing *"The Jungle Moved"* by killing the Predator, the player is awarded the center piece of the Predator's helmet: its mask. While wearing it, the player can use the Predator's specialized thermal vision. While in this vision mode, game audio is filtered and sounds as if the Predator were hearing it. Alternatively, the Predator Helmet (with the tentacles/dreads) provides the same effect and comes in the Predator Pack (available periodically from the "Limited Time Offers" section of the store menu).
 The grayscale vision mode can be accessed via the SONAR Goggles. The Steiner Vision mode can be accessed by using a helmet with either the "Special NVG" or "Panoramic NVG". The "Monocular NVG" (both helmet flip-down and head brace type), "Advanced Ballistics Helmet", "Echelon Goggles", "Monocular Helmet", and "Conviction NVG" do not have special vision modes.
 
-### El Tio
-
-To activate this Easter egg, the player must "Investigate" three sheets of paper at three separate grave sites at the Ancient Cemetery of Miners on the border of Inca Camina and Pucara (Northeast of Inca Camina Echo). The papers are located at graves which are the only ones that glow red at night (due to candles). The exact GPS coordinates of the three are as follows:
-
-Lat: -19.6647, Long: -64.0323<br>
-Lat: -19.7359, Long: -64.1272<br>
-Lat: -19.6253, Long: -64.1516<br>
-
-Next step is to travel to three mineshafts and kill all sicarios with the "El Tio" face paint. The mineshafts are listed as: "**Old Silver Mine**", "**Old Silver Mine**" in Pucara, "**Outpost**" (Southwest of "Banado" in Malca), and "**Pilca Mine**" in Pucara.
-
-After killing all sicarios inside the mine with the "El Tio" face paint, travel to "**Pucara**" in Pucara (yes, Pucara, Pucara, that's not a typo). There should be bright red flare smoke if you activated the Easter egg correctly, and El Tio should be waiting there.
-
 ### Crooked Optics
 
 This is unintential on Ubisoft's part. Almost all optics shoot a tiny bit to the right of their center crosshair/dot. Some shoot a bit to the left and some shoot higher or lower (namely on select sniper rifles).
@@ -2352,6 +2342,87 @@ When an enemy is mounted on a vehicle turret, they will take considerably more h
 ### Mesh Glitch in ADS
 
 While wearing some icon skins (Smoke, Kapkan, etc) and using certain weapons (M4A1, 416, etc.) with certain optics (CompM4, Digital Scope, TA31H, etc), the player may be able to see some parts of the character mesh while aiming down sight. Notable optics which resolve this (still unfixed) issue are the Panoramic Sight and EXPS3.
+
+# Easter Eggs
+
+### El Tio
+
+[[Reference.]](https://youtu.be/Tw8jjQp8IHU)
+
+To activate this Easter egg, the player must "Investigate" three sheets of paper at three separate grave sites at the Ancient Cemetery of Miners on the border of Inca Camina and Pucara (Northeast of Inca Camina Echo). The papers are located at graves which are the only ones that glow red at night (due to candles). The exact GPS coordinates of the three are as follows:
+
+Lat: -19.6647, Long: -64.0323<br>
+Lat: -19.7359, Long: -64.1272<br>
+Lat: -19.6253, Long: -64.1516<br>
+
+Next step is to travel to three mineshafts and kill all sicarios with the "El Tio" face paint. The mineshafts are listed as: **Old Silver Mine** in **Pucara**, **Outpost** (Southwest of **Banado** in **Malca**), and **Pilca Mine** in **Pucara**.
+
+After killing all sicarios inside the mine with the "El Tio" face paint, travel to "**Pucara**" in Pucara (yes "Pucara, Pucara" that's not a typo). There should be bright red flare smoke along with music and chanting as you approach. If you activated the Easter egg correctly, and El Tio should be waiting there.
+
+### El Yeti
+
+[[Reference.]](https://youtu.be/QjHD9KYC5LI)
+
+If you check a bloody rock with a bloody handprint along the east side of the stream flowing down the mountains in southwest **Inca Camina**, some guy in white camo and ghillie pops in wielding an HTI. Evidently he [hides out in a cave further up the mountain](https://youtu.be/Vci5joQPkeY).
+
+### Pachamama Statues
+
+[[Reference.]](https://youtu.be/_7iiRtZUQT8)
+
+Collecting all 8 turns a certain spot into a shrine of sorts.
+
+### Exploding Owl
+
+[[Reference.]](https://youtu.be/XPl6AK_cCqA)
+
+There's a random owl on a dead tree on the edge of the map east of **Isque** in **La Cruz**. The stump has targets placed around it, and the owl explodes if you shoot it.
+
+### Child Hut
+
+[[Reference.]](https://youtu.be/f-wng9ze5ZU)
+
+Evidently attached to in-game lore.
+
+### Three Witches
+
+[[Reference.]](https://youtu.be/iGD0XD19eLs)
+
+Used to be part of occasional daily challenges.
+
+### Don't Press Me!
+
+- In a burned forest northwest of a Rebel base in central northern **La Cruz**.
+- Northeast shore of the Dam.
+- Out in the salt flats on the west side of **Koani**. Between the road that runs along the western border and southwest of a **Santa Blanca Airbase**.
+- On the ridge path leading away from the Santa Muerte Statue in Malca.
+
+### Leap of Faith
+
+Assassin's Creed reference at Nidia Flores Hacienda in **Barvechos**. One corner of the bell tower has an eagle perched on it. Below you will find the wheelbarrow of hay. It is not functional.
+
+### Matrix Construct
+
+There's a lone chair out in the middle of nowhere in the salt flats of **Koani**.
+
+### Flaming Sword
+
+Dark Souls reference. Found atop a hill near a Rebel campsite in northwest **Caimanes**.
+
+### Nuevo Mundo
+
+Based on Flight 571.
+
+### Armored Dozers
+
+Only found near the tracks north of **El Sueno's Mausoleum** and west of a Santa Blance base on the east edge of **San Mateo**.
+
+# EOL and Running Without UPlay/Steam
+
+1. Buy a legit copy of the game to support the devs who made it. We wouldn't have so much DRM nonsense if more people actually payed for a game once in a while.
+2. Grab [DODI's Repack from 1337x](https://1337x.to/torrent/5156942/Tom-Clancy-s-Ghost-Recon-Wildlands-Ultimate-Edition-v4792145-build-5948128-All-DLCs-MULTi16-From-33-2-GB-EMPRESS-DODI-Repack/). Other repacks work, but this one is the latest build and includes everything.
+3. Read the instructions and install it.
+4. (OPTIONAL) Download [Vlvpsh's Complete Save](https://www.nexusmods.com/ghostreconwildlands/mods/22), then read its instructions and install it. Someone's posted [more digestible instructions](https://forums.nexusmods.com/index.php?/topic/11100793-grw-complete-save-game/?p=121912053) on the mod's page.
+5. Play to your heart's content.
 
 # Credits
 
