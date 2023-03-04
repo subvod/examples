@@ -1,12 +1,67 @@
 [Information](#information)
 <br>[Tips, Tricks, Warnings, and Rambling](#tips-tricks-warnings-and-rambling)
+<br>&emsp;[How does explosion damage work?](#how-does-explosion-damage-work)
+<br>&emsp;[How to effectively take on enemies?](#how-to-effectively-take-on-enemies)
+<br>&emsp;[Why use diversion lures over flashbangs?](#why-use-diversion-lures-over-flashbangs)
+<br>&emsp;[Convoy takedown and farming resources?](#convoy-takedown-and-farming-resources)
+<br>&emsp;[Why the M4A1 is the best gun overall?](#why-the-m4a1-is-the-best-gun-overall)
+<br>&emsp;[Making the game extra challenging?](#making-the-game-extra-challenging)
+<br>&emsp;[What are the best optics?](#what-are-the-best-optics)
+<br>&emsp;[Gun Paints and Wear](#gun-paints-and-wear)
 <br>[Game Modes](#game-modes)
+<br>&emsp;[Tier Mode](#tier-mode)
+<br>&emsp;[Ghost Mode](#ghost-mode)
+<br>&emsp;[Guerilla Mode](#guerilla-mode)
 <br>[Enemy Alert States](#enemy-alert-states)
+<br>&emsp;[NPCs and Enemy AI](#npcs-and-enemy-ai)
+<br>&emsp;[Remote Campsites/Checkpoints](#remote-campsitescheckpoints)
+<br>&emsp;[Base Statistics](#base-statistics)
+<br>&emsp;[Road Patrols](#road-patrols)
 <br>[Stealth Mechanics](#stealth-mechanics)
 <br>[Vehicle Stats](#vehicle-stats)
 <br>[Weapon Stats](#weapon-stats)
-<br>[FAQ, Glitches, and Bugs](#faq)
+<br>&emsp;[The Best Loadout](#the-best-loadout)
+<br>&emsp;[The Best Balanced Weapons Per Class](#the-best-balanced-weapons-per-class)
+<br>&emsp;[Critical Hit Mechanics](#critical-hit-mechanics)
+<br>&emsp;[Testing Restrictions and Controlled Variables](#testing-restrictions-and-controlled-variables)
+<br>&emsp;[Soft Targets](#soft-targets)
+<br>&emsp;[Penetration](#penetration)
+<br>&emsp;[Shotguns](#shotguns)
+<br>&emsp;["Special" Weapons](#special-weapons)
+<br>&emsp;[Pistol Stats](#pistol-stats)
+<br>&emsp;[Damage Stats](#damage-stats)
+<br>&emsp;[Sniper Rifle Bullet Drop](#sniper-rifle-bullet-drop)
+<br>[FAQ](#faq)
+<br>&emsp;[Ghost Mode speedrun for Gold Exoskeleton suit?](#ghost-mode-speedrun-for-gold-exoskeleton-suit)
+<br>&emsp;[How does the Optical Camo backpack work?](#how-does-the-optical-camo-backpack-work)
+<br>&emsp;[Optical Camo backpack makes me just a floating balaclava.](#optical-camo-backpack-makes-me-just-a-floating-balaclava)
+<br>&emsp;[How to beat The Predator?](#how-to-beat-the-predator)
+<br>&emsp;[Beat General Baro easily.](#beat-general-baro-easily)
+<br>&emsp;[Unique Melee Animations](#unique-melee-animations)
+<br>&emsp;[Caviera Gloves Automatic Marking](#caviera-gloves-automatic-marking)
+<br>&emsp;[Night, Thermal, Steiner, and Splinter Cell Vision Modes](#night-thermal-steiner-and-splinter-cell-vision-modes)
+<br>&emsp;[Keep NVG Flipped Down](#keep-nvg-flipped-down)
+<br>&emsp;[Crooked Optics](#crooked-optics)
+<br>&emsp;[Z93 AMR "Extra Round"](#z93-amr-extra-round)
+<br>&emsp;[Ghost Mode Full Loadout](#ghost-mode-full-loadout)
+<br>&emsp;[M.O.B. Condor Full House](#mob-condor-full-house)
+<br>&emsp;[Bullet Sponge Enemies](#bullet-sponge-enemies)
+<br>&emsp;[Mesh Glitch in ADS](#mesh-glitch-in-ads)
 <br>[Easter Eggs](#easter-eggs)
+<br>&emsp;[El Tio](#el-tio)
+<br>&emsp;[El Yeti](#el-yeti)
+<br>&emsp;[Pachamama Statues](#pachamama-statues)
+<br>&emsp;[Day of the Skulls](#day-of-the-skulls)
+<br>&emsp;[Exploding Owl](#exploding-owl)
+<br>&emsp;[Child Hut](#child-hut)
+<br>&emsp;[Tres Brujas](#tres-brujas)
+<br>&emsp;[DON'T PRESS ME!](#dont-press-me)
+<br>&emsp;[Leap of Faith](#leap-of-faith)
+<br>&emsp;[Matrix Construct](#matrix-construct)
+<br>&emsp;[Flaming Sword](#flaming-sword)
+<br>&emsp;[Nuevo Mundo](#nuevo-mundo)
+<br>&emsp;[Hitman Suit](#hitman-suit)
+<br>&emsp;[Armored Dozers](#armored-dozers)
 <br>[EOL and Running Without UPlay/Steam](#eol-and-running-without-uplaysteam)
 <br>[Credits](#credits)
 
@@ -15,6 +70,8 @@
 This is a collection of numerical data taken during and after testing many aspects of the game. It is meant to be a comprehensive analysis and data archive. All comments which come the slightest bit close to being biased towards a personal opinion will be listed at the bottom of this document. Want some tips on how to efficiently go about killing the Predator? Or maybe read some long ass paragraphs of nothing but opinionated rambling? Head down to the bottom of the document. Otherwise, continue down for the test results.
 
 # Tips, Tricks, Warnings, and Rambling
+
+*Bunch of useful stuff.*
 
 ### How does explosion damage work?
 
@@ -26,7 +83,7 @@ Try to stay stealthy. Stealth kills get a huge damage boost, so most enemies req
 
 ### Why use diversion lures over flashbangs?
 
-When used efficiently, diversion lures can do the same job as flashbangs, especially with the double explosion radius skill. Not to mention div lures do not alert affected enemies, while flashbangs do.
+When used efficiently, diversion lures can do the same job as flashbangs, especially with the double explosion radius skill. Not to mention div lures do not alert affected enemies and you get way more of them. Use div lures to make enemies face a certain direction, ideally away from you, then run up behind them and melee. This saves on ammo and doesn't alert them directly unlike flashbangs.
 
 ### Convoy takedown and farming resources?
 
@@ -37,11 +94,21 @@ The EMP drone is hit or miss from my experience, especially if you EMP the main 
 
 The LVOA-C Bad News is not the best, nor is the Mk 17 (SCAR-H). The M4A1, in practice during direct engagement, takes down any armored enemy in four shots while using full auto. It also has the second highest rate of fire among assault rifles (next to the G2 FAMAS). This means it has the lowest potential TTK among assault rifles. The burst trigger put against a Unidad or Santa Blanca heavy is where the M4A1 with a standard barrel falls behind. However that setback is not enough to significantly tank its ranking as it remains the best all-around weapon in general. By default, the AK-12 (chambered in 7.62x39mm) and G36C (chambered in 5.56x45mm, same as the M4A1) with the standard barrel and burst trigger will take down any enemy in a single burst of three (via burst trigger). Where as the M4A1 with the standard barrel and burst trigger will take **TWO** bursts of three. In reality it amounts to a four-shot kill. But the M4A1's two-burst kill potential is only applicable during engaging a heavy machine gunner. That, and when in full auto it still kills faster with four shots than every other assault rifle, including both the AK-12 and G36C. With the long barrel, the M4A1 gains the single burst kill potential the AK-12 and G36C inherently have with the standard barrel against a Unidad heavy. Additionally, the long barrel and 50-round magazine do affect handling, but the drop in ADS time and movement speed is noticable. Nonetheless, it still kills faster than every other assault rifle. Be that as it may, the M4A1, G36C, and AK-12 are among the same line on the performance spectrum and give you everything. You can go from nice and quiet to loud and proud without changing weapons and still remain just as effective. They are easy to control with soft and manageable recoil (even with the long barrel and no compensator). Not to mention they can be effective out to and beyond 200m even when used by literal noobs. However the M4A1 is the victor.
 
+### Making the game extra challenging?
+
+I've put more than 6,000 hours into Wildlands. It gets boring from time to time. How do I make an extra challenge? Play **Ghost Mode** on *Extreme* difficulty and use statistically inferior guns.
+
 ### What are the best optics?
 
 Technically speaking, it's more personal preference rather than testable statistics. Despite logic (being more accurate simply by using your preferred optic), optics directly affect accuracy and shot groupings (accordingly to what's shown on the stats page, which is one of the few accurate depictions of performance changes). This means that any assault rifle will have the closest shot groupings with the TA31H attached. Same goes for all weapons of all classes with all optics. The G33 magnifier widens shot groupings, so be aware of that. Speficially for me, I enjoy using the Panoramic Sight and CompM4 on everything I can. The CompM4 is the only optic (aside from the TA31H ACOG to some extent) that eliminates the lens glare that all other optics exhibit in certain lighting. That, and the CompM4 always has a zero'd red dot, unlike the Micro T1. In the same way, the Digital Scope, TA31H, Russian Red Dot, and Micro T-1 (with and without G33 magnifier) have offset zeros on all weapons. (I.e. they don't hit dead center on the dot. Usually a bit to the right most of the time, if not much farther down than center dot.) The CompM4, Panoramic Sight, EXPS3, and PK-AS are always properly zeroed on the center dot on every weapon. As for glare-prone optics, I use the Panoramic Sight because it's got the lowest parallax and least sight picture interference, as well as a larger and more defined reticle than the EXPS3. The G33 magnifier works decent on all compatible optics, but the Micro T1 dot becomes a red blob when magnified (making it harder to pinpoint exactly where I'm aiming especially past 150m). The Micro-T1 by itself isn't terrible for CQB, but if you can't deal with the tiny sight and tendency for glare you're likely better off with the CompM4. But, as stated earlier, it's purely preferential.
 
 For sniper optics, same thing: personal preference. Technically, snipers and DMRs are less affected by accuracy as they're generally used in semi-auto or are bolt action. The T5Xi can be offset quite a bit on certain weapons, but provides the best accuracy and highest zoom. The POSP and TARS101 are widely reliable on all sniper rifles, though their offset zeros are worse on some. The G28 offers a 5.0x scope similar to the T5Xi with an alternate 1.0x red dot (Micro T-1) for quick change to CQB, but the reticle is zeroed on that red dot rather than the center crosshair on the high magnification scope below it, meaning it essentially zeroes the weapon out even farther. This is generally regarded as the most effective sniper scope. I personally recommend the G28 for sniping much in the same way many other people do, but also regularly use the TARS101 simply because of the look (and comparable zoom levels with minimal accuracy loss).
+
+### Gun Paints and Wear
+
+Guns will wear down over time. It's purely visual, performance is not affected by this. Gun wear is per gun, not per paint. Therefore, you can switch paints while retaining the gun's wear. You can reset a gun's wear to "clean" it, making the paint all sparkly, clear, and new. I haven't found any specific way to get a gun to wear quickly. Seems just having the gun equipped works, as I have a very worn Super Shorty even though I only use it as a placeholder when I use one primary.
+
+Obviously shooting the gun contributes, but I'm unable to measure how it affects the rate at which a gun wears.
 
 # Game Modes
 
@@ -528,7 +595,7 @@ Below are armor testing results and information on vehicles available in the gam
 
 Statistically speaking, the best loadout in vanilla Wildlands (the stock version of the game excluding DLCs and crate unlocks) for covering all ranges is: M4A1, MSR, and Lady Killer. The M4A1 has the fastest potential TTK over all other assault rifles. The MSR, when equipped with the long barrel, holds one-shot kill potential anywhere on the body. (All other sniper rifles do not have that capability except for the HTI. However the HTI is also bolt-action and holds only five (5) rounds.) The Lady Killer has the highest damage of all pistols in the stock game. Both the Five-seveN Blacklist and Whisper (a.k.a. the Maxim 9) are the only silent pistols in the game, but the Whisper has the absolute lowest damage of any weapon in the game. DLC weapons which perform better than the aforementioned are the SR25 Jungle (sniper) and Five-seveN Blacklist (pistol). The SR25 Jungle has 20-round capacity, is semi-auto, and shoots flat out to 350m and holds one-shot capability to everything, identical to the Desert Tech HTI BDC. Therefore the statistical best loadout including DLC weapons is: M4A1, SR25 Jungle, and Five-seveN Blacklist.
 
-### The Best Weapons Per Class
+### The Best Balanced Weapons Per Class
 
 <table>
 <tr>
@@ -598,192 +665,6 @@ Each weapon class has its own penetration, as in they're guaranteed to shoot thr
 ### Shotguns
 
 It's rather difficult to test shotgun damage and maintain control of consistency. Shotgun damage tests on soft targets were done the same as every other weapon, up close and personal, to ensure no excess of rogue variables. Within 10m, all shotguns' spread remains in an area small enough to keep track of how many shells are fired. Past a certain distance (varying from shotgun to shotgun) the spread progressively widens, making farther shots difficult to record.
-
-### "Special" Weapons
-
-These are the guns that cannot be edited in the Gunsmith. Take note that the name of the weapon doesn't indicate it operates the same way its stock counterpart does. Differences may include bullet drop, base damage, rate of fire, reload speed, etc. For example, the P416 Micteca operates as if it were an M4A1 while the M4A1 Temple operates as if it were an M16.
-
-### Pistol Stats
-
-Below are test results for all sidearms in the game. Range values are tested maximums and are listed as 1m below the distance at which the bullet loses substance (is no longer considered a shot by the game). Hard target values are shots taken to destroy a Pickup. Soft target values are shots taken against a Unidad soldier.
-
-<table>
-<tr>
-<th scope="col">WEAPON</th>
-<th scope="col">AMMO</th>
-<th scope="col">RANGE</th>
-<th scope="col">HARDTARGET</th>
-<th scope="col">SOFTTARGET</th>
-<th scope="col">SOFTTARGET(BURST POTENTIAL)</th>
-</tr>
-<tr>
-<td>Jackdaw Pistol<sub>[DLC]</sub></td>
-<td>Lead Ball</td>
-<td>66m</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-</tr>
-<tr>
-<td>The BFF</td>
-<td>.380 ACP</td>
-<td>136m</td>
-<td>6</td>
-<td>5</td>
-<td>5</td>
-</tr>
-<tr>
-<td>La Novena</td>
-<td></td>
-<td>136m</td>
-<td>6</td>
-</tr>
-<tr>
-<td>D-50</td>
-<td>136m</td>
-<td>7</td>
-</tr>
-<tr>
-<td>US Desert<sub>[DLC]</sub></td>
-<td>136m</td>
-<td>7</td>
-</tr>
-<tr>
-<td>Luger<sub>[DLC]</sub></td>
-<td>136m</td>
-<td>7</td>
-</tr>
-<tr>
-<td>.357 Joker<sub>[DLC]</sub></td>
-<td>136m</td>
-<td>7</td>
-</tr>
-<tr>
-<td>Peacemaker<sub>[DLC]</sub></td>
-<td>136m</td>
-<td>8</td>
-</tr>
-<tr>
-<td>El General</td>
-<td>190m</td>
-<td>14</td>
-</tr>
-<tr>
-<td>Lady Killer<sub>[1]</sub></td>
-<td>5.7x28mm</td>
-<td>180m</td>
-<td>15</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Five-seveN Blacklist<sub>[2]</sub><sub>[DLC]</sub></td>
-<td>5.7x28mm</td>
-<td>185m</td>
-<td>16</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>M9<sub>[3]</sub></td>
-<td>9x19mm</td>
-<td>185m</td>
-<td>16</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Luison<sub>[DLC]</sub></td>
-<td>185m</td>
-<td>16</td>
-</tr>
-<tr>
-<td>5.7 USG</td>
-<td>5.7x28mm</td>
-<td>180m</td>
-<td>17</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1911 MARSOC<sub>[DLC]</sub></td>
-<td>190m</td>
-<td>17</td>
-</tr>
-<tr>
-<td>P227</td>
-<td>.45ACP</td>
-<td>192m</td>
-<td>17</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>P227 Urban<sub>[DLC]</sub></td>
-<td>192m</td>
-<td>17</td>
-</tr>
-<tr>
-<td>M1911</td>
-<td>.45ACP</td>
-<td>192m</td>
-<td>18</td>
-<td>8</td>
-<td>4</td>
-</tr>
-<tr>
-<td>M1911 Golden<sub>[DLC]</sub></td>
-<td>192m</td>
-<td>18</td>
-</tr>
-<tr>
-<td>P12</td>
-<td>.45ACP</td>
-<td>186m</td>
-<td>18</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>P45T</td>
-<td>.45ACP</td>
-<td>190m</td>
-<td>19</td>
-<td>8</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Skorpion</td>
-<td>> 300m</td>
-<td>37</td>
-</tr>
-<tr>
-<td>Skorpion Skull<sub>[DLC]</sub></td>
-<td>> 300m</td>
-<td>37</td>
-</tr>
-<tr>
-<td>Whisper</td>
-<td>190m</td>
-<td>42</td>
-</tr>
-<tr>
-<td>SMG-11</td>
-<td>> 300m</td>
-<td>53</td>
-</tr>
-<tr>
-<td>SMG 11 Dragon<sub>[DLC]</sub></td>
-<td>> 300m</td>
-<td>53</td>
-</tr>
-</table>
-
-<sub>[1]</sub> *The highest damage suppressable pistol in the game.*<br>
-<sub>[2]</sub> *The best all-around pistol. Integrally suppressed, high damage, and moderate bullet drop.*<br>
-<sub>[3]</sub> *The best all-around customizable pistol. Held by AI teammates. On par with the 5.7 USG but delivers a slightly more powerful blow. Also the only 9mm pistol in the game (other than the Whisper a.k.a. Maxim 9, which presumably uses 9mm ammunition as its real life counterpart does).*<br>
-
-### Shotgun Ranges
 
 Below are test results for maximum shotgun ranges with all available barrels. Distances listed are 1m less than when all pellets lose substance. Ideally, the maximum range is 1m to 2m less than what is listed here as at these distances a mere one (1) pellet will land somewhere near where you shot. Since shot spread is randomly generated, you're always rolling the dice at landing a hit at these ranges. Moving in 1m or 2m ensures all pellets retain substance and hit the target.
 
@@ -879,6 +760,201 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>24m</td>
 </tr>
 </table>
+
+### "Special" Weapons
+
+These are the guns that cannot be edited in the Gunsmith. Take note that the name of the weapon doesn't indicate it operates the same way its stock counterpart does. Differences may include bullet drop, base damage, rate of fire, reload speed, etc. For example, the P416 Micteca operates as if it were an M4A1 while the M4A1 Temple operates as if it were an M16.
+
+### Pistol Stats
+
+Below are test results for all sidearms in the game. Range values are tested maximums and are listed as 1m below the distance at which the bullet loses substance (is no longer considered a shot by the game). Hard target values are shots taken to destroy a Pickup. Soft target values are shots taken against a Unidad soldier.
+
+<table>
+<tr>
+<th scope="col">WEAPON</th>
+<th scope="col">AMMO</th>
+<th scope="col">RANGE</th>
+<th scope="col">HARDTARGET</th>
+<th scope="col">SOFTTARGET</th>
+<th scope="col">SOFTTARGET(BURST POTENTIAL)</th>
+</tr>
+<tr>
+<td>Jackdaw Pistol<sub>[DLC]</sub></td>
+<td>Lead Ball</td>
+<td>66m</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>The BFF</td>
+<td>.380 ACP</td>
+<td>136m</td>
+<td>6</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>La Novena</td>
+<td>.50 AE</td>
+<td>136m</td>
+<td>6</td>
+</tr>
+<tr>
+<td>D-50</td>
+<td>.50 AE</td>
+<td>136m</td>
+<td>7</td>
+</tr>
+<tr>
+<td>US Desert<sub>[DLC]</sub></td>
+<td>.50 AE</td>
+<td>136m</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Luger<sub>[DLC]</sub></td>
+<td>-</td>
+<td>136m</td>
+<td>7</td>
+</tr>
+<tr>
+<td>.357 Joker<sub>[DLC]</sub></td>
+<td>.357 Magnum</td>
+<td>136m</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Peacemaker<sub>[DLC]</sub></td>
+<td>-</td>
+<td>136m</td>
+<td>8</td>
+</tr>
+<tr>
+<td>El General</td>
+<td>9x19mm</td>
+<td>190m</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Lady Killer<sub>[1]</sub></td>
+<td>5.7x28mm</td>
+<td>180m</td>
+<td>15</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Five-seveN Blacklist<sub>[2]</sub><sub>[DLC]</sub></td>
+<td>5.7x28mm</td>
+<td>185m</td>
+<td>16</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td>M9<sub>[3]</sub></td>
+<td>9x19mm</td>
+<td>185m</td>
+<td>16</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Luison<sub>[DLC]</sub></td>
+<td>185m</td>
+<td>16</td>
+</tr>
+<tr>
+<td>5.7 USG</td>
+<td>5.7x28mm</td>
+<td>180m</td>
+<td>17</td>
+<td>7</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1911 MARSOC<sub>[DLC]</sub></td>
+<td>190m</td>
+<td>17</td>
+</tr>
+<tr>
+<td>P227</td>
+<td>.45ACP</td>
+<td>192m</td>
+<td>17</td>
+<td>7</td>
+<td>4</td>
+</tr>
+<tr>
+<td>P227 Urban<sub>[DLC]</sub></td>
+<td>192m</td>
+<td>17</td>
+</tr>
+<tr>
+<td>M1911</td>
+<td>.45ACP</td>
+<td>192m</td>
+<td>18</td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>M1911 Golden<sub>[DLC]</sub></td>
+<td>192m</td>
+<td>18</td>
+</tr>
+<tr>
+<td>P12</td>
+<td>.45ACP</td>
+<td>186m</td>
+<td>18</td>
+<td>7</td>
+<td>4</td>
+</tr>
+<tr>
+<td>P45T</td>
+<td>.45ACP</td>
+<td>190m</td>
+<td>19</td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Skorpion</td>
+<td>-</td>
+<td>> 300m</td>
+<td>37</td>
+</tr>
+<tr>
+<td>Skorpion Skull<sub>[DLC]</sub></td>
+<td>-</td>
+<td>> 300m</td>
+<td>37</td>
+</tr>
+<tr>
+<td>Whisper</td>
+<td>9x19mm</td>
+<td>190m</td>
+<td>42</td>
+</tr>
+<tr>
+<td>SMG-11</td>
+<td>-</td>
+<td>> 300m</td>
+<td>53</td>
+</tr>
+<tr>
+<td>SMG 11 Dragon<sub>[DLC]</sub></td>
+<td>-</td>
+<td>> 300m</td>
+<td>53</td>
+</tr>
+</table>
+
+<sub>[1]</sub> *The highest damage suppressable pistol in the game.*<br>
+<sub>[2]</sub> *The best all-around pistol. Integrally suppressed, high damage, and moderate bullet drop.*<br>
+<sub>[3]</sub> *The best all-around customizable pistol. Held by AI teammates. On par with the 5.7 USG but delivers a slightly more powerful blow. Also the only 9mm pistol in the game (other than the Whisper a.k.a. Maxim 9, which presumably uses 9mm ammunition as its real life counterpart does).*<br>
 
 ### Damage Stats
 
@@ -2213,7 +2289,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 
 ### Sniper Rifle Bullet Drop
 
-This list is in descending order, with the highest hitting (least bullet drop) rifles at the top and lowest hitting (most bullet drop) rifles at the bottom. Each cell acts as its own drop rate, meaning all weapons within a row have either the exact same bullet drop or the difference between the weapons in the group was so minor that it could be attributed to breath movement/sway while aiming. All tests were conducted at M.O.B. Condor in Media Luna (on the airstrip section) at 300m. All rifles were set up with the TARS101 optic, longest applicable barrel, and no suppressor. Shots were fired at the bottom of each breath sway.
+This list is in descending order, with the highest hitting (least bullet drop) rifles at the top and lowest hitting (most bullet drop) rifles at the bottom. Each cell acts as its own drop rate, meaning all weapons within a row have either the exact same bullet drop or the difference between the weapons in the group was so minor that it could be attributed to breath movement/sway while aiming. All tests were conducted at M.O.B. Condor in Media Luna (on the airstrip section) at 300m. All rifles were set up with the TARS101 optic, longest applicable barrel, and no suppressor. Shots were fired at the bottom of each breath sway. Read disclaimer below about scopes not being properly zero'd in this game and why I lined my shots up with the hipfire crosshair.
 
 **DISCLAIMER:** YouTube creator *DarkDally* and many others have noted the scope zeroing differences between scopes and rifles. In an effort to ensure the most accurate data is recorded, markers were not used to zero the shots. Instead, rifle after rifle, the shot was scoped in to the exact same place the previous shot was, otherwise known as not moving the thumbsticks. This prevents misalignment due to camera movement and ensures every shot is taken at the exact same location regardless of where the rifle is zeroed with any optic. The original idea for this came from noting how every weapon is dead zero on the in-game crosshair (in third person). The crosshair placement might be skewed while aiming down sights, but the gun will not shoot skewed from the game's crosshair.
 
@@ -2282,9 +2358,9 @@ This list is in descending order, with the highest hitting (least bullet drop) r
 
 ### Ghost Mode speedrun for Gold Exoskeleton suit?
 
-The fastest and easiest way to go about getting the gold exo is to run a tier point grinding route. That, and using the right weapon. You can essentially use any weapon you choose, but as listed above some are statistically better than others. If when you start out you die often, it's best to use a weapon that is preconfigured with usable attachments, namely the M203 grenade launcher. Not only is it super overpowered in this game, you can use it despite not having the skill unlocked after restarting a new save with certain weapons. These are: M16 (from Predator DLC pack), 556xi Dragon (from Fallen Ghosts weapons DLC pack), and P416 Micteca (from Prestige Crates). Ritmo obtained from DJ Perico and the LVOA-C Bad News have the M203 but are unlocked with further progression, limiting their initial use.) I personally recommend the P416 Micteca as it is an M4A1 with a P416 skin and can equip a suppressor, but next in line is the M16 which operates in the same manner with a lower rate of fire.
+The fastest and easiest way to go about getting the gold exo is to run a tier point grinding route. That, and using the right weapon. You can essentially use any weapon you choose, but as listed above some are statistically better than others. If when you start out you die often, it's best to use a weapon that is preconfigured with usable attachments, namely the M203 grenade launcher. Not only is it super overpowered in this game, you can use it despite not having the skill unlocked after restarting a new save with certain weapons. These are: **M16** (from Predator DLC pack), **556xi Dragon** (from Fallen Ghosts weapons DLC pack), and **P416 Micteca** (from Prestige Crates). **Ritmo** obtained from DJ Perico and the **LVOA-C Bad News** have the M203 but are unlocked with further progression, limiting their initial use.) I personally recommend the **P416 Micteca** as it is an M4A1 with a P416 skin and can equip a suppressor, but next in line is the **M16** which operates in the same manner with a lower rate of fire. The **556xi Dragon** has a compensator and therefore isn't mega useful when stealthing. It's fantastic for big firefights, though.
 
-If you run the route effectively, you can get the gold exo suit rather quickly. I flew through the storyline and ground out to tier 1 in about 48 hours. Granted, this was after 15 attempts and about six months of prior play. Two saves I lost were under tier 10, one at tier 8 and another at tier 6.
+If you run the route effectively, you can get the gold exo suit rather quickly. I flew through the storyline and ground out to tier 1 in about 48 hours. Granted, this was after 15 attempts and about six months of prior play. Two saves I lost were under tier 10, one at tier 8 and another at tier 6. A lot of the others were between tier 40 and 20, dying from explosions and such.
 
 ### How does the Optical Camo backpack work?
 
@@ -2295,6 +2371,8 @@ A common misconception of the Optical Camo backpack (from completing both parts 
 The Optical Camo backpack is incompatible with a select few cosmetic items. Certain footwear and head/facewear will cause some pieces of clothing to be visible even when cloaked. Switching around a few items usually fixes this issue.
 
 ### How to beat The Predator?
+
+**NOTE:** The Predator mission, **The Jungle Moved**, was removed from the game in 2022 due to trademarks expiring. The **Predator Biomask** can still be kept as long as you obtained it in a savegame prior to the mission being removed. The **Predator Helmet** is still for sale in the in-game store as well. This is all the more reason to use a cracked version of the game with a completionist savegame having all the items.
 
 This is rather simple. Grab your M4 and max out your "Guns for Hire" and "Diversion" rebel support skills. After that, go to the Predator's mission location, talk to the lady, investigate the locations, and move to the final waypoint. **BEFORE YOU ENTER THE CIRCLE TO START THE FINAL STAGE**, call in your rebels. The reason they are so important, or rather not, is because they'll act as bait. The Predator will lock onto them rather than you and your teammates, opening up more opportunities to fire upon it.
 
@@ -2308,20 +2386,45 @@ Having trouble taking General Baro? Plant yourself just outside of the mission c
 
 ### Unique Melee Animations
 
-Whenever the player makes a melee kill while wearing the *Tank Top + Predator Wristblades*, *Caviera Gloves*, *Echelon Gloves*, or *Executioner (handwear)* a melee animation unique to the item will be used.
+The following have unique melee animations and sounds:
+
+- Tank Top + Predator Wristblades (from `Predator DLC Pack`)
+- Caviera Gloves (from `Operation Archangel` with Caviera)
+- Echelon Gloves
+- Executioner (from `Operation Oracle: Suspicion` with Walker)
 
 ### Caviera Gloves Automatic Marking
 
-Whenever a player makes a melee kill while wearing the *Caviera Gloves*, up to 4 enemies within the immediate area (inside the minimap) will be marked automatically.
+Whenever a player makes a melee kill while wearing the *Caviera Gloves*, up to 4 enemies within the immediate area (inside the minimap) will be marked automatically. The melee animation is slower than others, but this ability is well worth the tradeoff.
 
-### The Predator Mask's Infrared Thermal Vision, NVG Goggles Steiner Vision, and Splinter Cell Grayscale Vision Modes
+### Night, Thermal, Steiner, and Splinter Cell Vision Modes
 
-After completing *"The Jungle Moved"* by killing the Predator, the player is awarded the center piece of the Predator's helmet: its mask. While wearing it, the player can use the Predator's specialized thermal vision. While in this vision mode, game audio is filtered and sounds as if the Predator were hearing it. Alternatively, the Predator Helmet (with the tentacles/dreads) provides the same effect and comes in the Predator Pack (available periodically from the "Limited Time Offers" section of the store menu).
-The grayscale vision mode can be accessed via the SONAR Goggles. The Steiner Vision mode can be accessed by using a helmet with either the "Special NVG" or "Panoramic NVG". The "Monocular NVG" (both helmet flip-down and head brace type), "Advanced Ballistics Helmet", "Echelon Goggles", "Monocular Helmet", and "Conviction NVG" do not have special vision modes.
+After completing `The Jungle Moved` by killing the Predator, the player is awarded the center piece of the creature's helmet: the **Predator Biomask**. It's just the front faceplate of the helmet over a normal **Balaclava**. While wearing it, the player can use the Predator's specialized thermal vision. While in this vision mode, game audio is filtered and sounds as if the Predator were hearing it. Alternatively, the **Predator Helmet** (with the tentacles/dreads) provides the same effect and comes in the Predator Pack (available periodically from the "Limited Time Offers" section of the store menu).
+
+The grayscale vision mode can be accessed via the **SONAR Goggles**. The Steiner Vision mode can be accessed by using a helmet with either the **Special NVG** or **Panoramic NVG** ocular types.
+
+The items below do not give special vision modes:
+
+- **Monocular NVG** (both helmet flip-down and head brace type)
+- **Advanced Ballistics Helmet**
+- **Echelon Goggles**
+- **Monocular Helmet**
+- **Conviction NVG**
+
+### Keep NVG Flipped Down
+
+[[Reference.]](https://youtu.be/8LN5ns7EPgo)
+
+1. Equip any cosmetic item with goggles.
+2. Turn on **Night Vision**.
+3. Equip an outfit without NVG/NODS.
+4. Turn off **Night Vision**.
+5. Equip the outfit with NVG/NODS.
+6. Enjoy having goggles flipped down without special vision modes.
 
 ### Crooked Optics
 
-This is unintential on Ubisoft's part. Almost all optics shoot a tiny bit to the right of their center crosshair/dot. Some shoot a bit to the left and some shoot higher or lower (namely on select sniper rifles).
+This is unintential on Ubisoft's part. Almost all optics shoot a tiny bit to the right of their center crosshair/dot. Some shoot a bit to the left and some shoot higher or lower (namely on select sniper rifles). The **EoTech** and **Panoramic Sight** are properly zero'd on all guns.
 
 ### Z93 AMR "Extra Round"
 
@@ -2345,6 +2448,8 @@ While wearing some icon skins (Smoke, Kapkan, etc) and using certain weapons (M4
 
 # Easter Eggs
 
+*Easter eggs and special things.*
+
 ### El Tio
 
 [[Reference.]](https://youtu.be/Tw8jjQp8IHU)
@@ -2355,21 +2460,31 @@ Lat: -19.6647, Long: -64.0323<br>
 Lat: -19.7359, Long: -64.1272<br>
 Lat: -19.6253, Long: -64.1516<br>
 
-Next step is to travel to three mineshafts and kill all sicarios with the "El Tio" face paint. The mineshafts are listed as: **Old Silver Mine** in **Pucara**, **Outpost** (Southwest of **Banado** in **Malca**), and **Pilca Mine** in **Pucara**.
+Next step is to travel to three mineshafts and kill all sicarios with the "El Tio" face paint. They'll be standing next to a statue of El Tio. The mineshafts are listed as: **Old Silver Mine** in **Pucara**, **Outpost** (Southwest of **Banado** in **Malca**), and **Pilca Mine** in **Pucara**.
 
 After killing all sicarios inside the mine with the "El Tio" face paint, travel to "**Pucara**" in Pucara (yes "Pucara, Pucara" that's not a typo). There should be bright red flare smoke along with music and chanting as you approach. If you activated the Easter egg correctly, and El Tio should be waiting there.
+
+This can be done indefinitely afterwards. You don't need to collect the grave documents again. All you have to do is return to all three statues and kill each set of sicarios wearing the "El Tio" face paint, then El Tio will spawn up at **Pucara** again.
 
 ### El Yeti
 
 [[Reference.]](https://youtu.be/QjHD9KYC5LI)
 
-If you check a bloody rock with a bloody handprint along the east side of the stream flowing down the mountains in southwest **Inca Camina**, some guy in white camo and ghillie pops in wielding an HTI. Evidently he [hides out in a cave further up the mountain](https://youtu.be/Vci5joQPkeY).
+If you check a bloody rock with a bloody handprint along the east side of the stream flowing down the mountains in southwest **Inca Camina**, some guy in white camo and ghillie pops in wielding an HTI. Evidently he [hides out in a cave further up the mountain](https://youtu.be/Vci5joQPkeY). That cave is located on the map border southeast of **Cable Car Station**, also in **Inca Camina**.
+
+This can be activated over and over, just leave the area and return to the rock again.
 
 ### Pachamama Statues
 
 [[Reference.]](https://youtu.be/_7iiRtZUQT8)
 
 Collecting all 8 turns a certain spot into a shrine of sorts.
+
+### Day of the Skulls
+
+[[Reference.]](https://youtu.be/zGA2LXyL20A)
+
+Old event.
 
 ### Exploding Owl
 
@@ -2383,13 +2498,13 @@ There's a random owl on a dead tree on the edge of the map east of **Isque** in 
 
 Evidently attached to in-game lore.
 
-### Three Witches
+### Tres Brujas
 
 [[Reference.]](https://youtu.be/iGD0XD19eLs)
 
-Used to be part of occasional daily challenges.
+Three witches. Used to be part of occasional daily challenges.
 
-### Don't Press Me!
+### DON'T PRESS ME!
 
 - In a burned forest northwest of a Rebel base in central northern **La Cruz**.
 - Northeast shore of the Dam.
@@ -2410,11 +2525,15 @@ Dark Souls reference. Found atop a hill near a Rebel campsite in northwest **Cai
 
 ### Nuevo Mundo
 
-Based on Flight 571.
+Southwesternmost landmark in **Inca Camina**. Based on Flight 571.
+
+### Hitman Suit
+
+Agent 47's black suit with red tie (from the **Hitman** games) can be found in the closet during Caveira's mission.
 
 ### Armored Dozers
 
-Only found near the tracks north of **El Sueno's Mausoleum** and west of a Santa Blance base on the east edge of **San Mateo**.
+Only found near the tracks north of **El Sueno's Mausoleum** and west of a Santa Blance base on the east edge of **San Mateo**. These aren't known to spawn elsewhere.
 
 # EOL and Running Without UPlay/Steam
 
