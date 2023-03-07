@@ -4,7 +4,7 @@
 
 [Information](#information)
 <br>[General Gameplay](#general-gameplay)
-<br>&emsp;[Quick Tips]()
+<br>&emsp;[Quick Tips](#quick-tips)
 <br>&emsp;[Health and Damage](#health-and-damage)
 <br>&emsp;[Enemy AI](#enemy-ai)
 <br>&emsp;[Stealth Mechanics](#stealth-mechanics)
