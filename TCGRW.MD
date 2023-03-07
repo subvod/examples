@@ -1,27 +1,26 @@
+# TCGRW.MD
+
+*Notes on Tom Clancy's Ghost Recon: Wildlands.*
+
 [Information](#information)
-<br>[Tips, Tricks, Warnings, and Rambling](#tips-tricks-warnings-and-rambling)
-<br>&emsp;[How does explosion damage work?](#how-does-explosion-damage-work)
-<br>&emsp;[How to effectively take on enemies?](#how-to-effectively-take-on-enemies)
-<br>&emsp;[Why use diversion lures over flashbangs?](#why-use-diversion-lures-over-flashbangs)
-<br>&emsp;[Convoy takedown and farming resources?](#convoy-takedown-and-farming-resources)
-<br>&emsp;[Why the M4A1 is the best gun overall?](#why-the-m4a1-is-the-best-gun-overall)
-<br>&emsp;[Making the game extra challenging?](#making-the-game-extra-challenging)
-<br>&emsp;[What are the best optics?](#what-are-the-best-optics)
-<br>&emsp;[Gun Paints and Wear](#gun-paints-and-wear)
+<br>[General Gameplay](#general-gameplay)
+<br>&emsp;[Quick Tips]()
+<br>&emsp;[Health and Damage](#health-and-damage)
+<br>&emsp;[Enemy AI](#enemy-ai)
+<br>&emsp;[Stealth Mechanics](#stealth-mechanics)
+<br>&emsp;[Guns and Attachments](#guns-and-attachments)
+<br>&emsp;[Items](#items)
+<br>&emsp;[Documents](#documents)
+<br>&emsp;[Skills and Resources](#skills-and-resources)
 <br>[Game Modes](#game-modes)
 <br>&emsp;[Tier Mode](#tier-mode)
 <br>&emsp;[Ghost Mode](#ghost-mode)
 <br>&emsp;[Guerilla Mode](#guerilla-mode)
-<br>[Enemy Alert States](#enemy-alert-states)
-<br>&emsp;[NPCs and Enemy AI](#npcs-and-enemy-ai)
-<br>&emsp;[Remote Campsites/Checkpoints](#remote-campsitescheckpoints)
-<br>&emsp;[Base Statistics](#base-statistics)
-<br>&emsp;[Road Patrols](#road-patrols)
-<br>[Stealth Mechanics](#stealth-mechanics)
 <br>[Vehicle Stats](#vehicle-stats)
 <br>[Weapon Stats](#weapon-stats)
+<br>&emsp;[Paint Wear](#paint-wear)
+<br>&emsp;[Scopes/Optics](#scopesoptics)
 <br>&emsp;[The Best Loadout](#the-best-loadout)
-<br>&emsp;[The Best Balanced Weapons Per Class](#the-best-balanced-weapons-per-class)
 <br>&emsp;[Critical Hit Mechanics](#critical-hit-mechanics)
 <br>&emsp;[Testing Restrictions and Controlled Variables](#testing-restrictions-and-controlled-variables)
 <br>&emsp;[Soft Targets](#soft-targets)
@@ -42,7 +41,7 @@
 <br>&emsp;[Night, Thermal, Steiner, and Splinter Cell Vision Modes](#night-thermal-steiner-and-splinter-cell-vision-modes)
 <br>&emsp;[Keep NVG Flipped Down](#keep-nvg-flipped-down)
 <br>&emsp;[Crooked Optics](#crooked-optics)
-<br>&emsp;[Z93 AMR "Extra Round"](#z93-amr-extra-round)
+<br>&emsp;[Ghost Mode Round in Chamber](#ghost-mode-round-in-chamber)
 <br>&emsp;[Ghost Mode Full Loadout](#ghost-mode-full-loadout)
 <br>&emsp;[M.O.B. Condor Full House](#mob-condor-full-house)
 <br>&emsp;[Bullet Sponge Enemies](#bullet-sponge-enemies)
@@ -67,99 +66,23 @@
 
 # Information
 
-This is a collection of numerical data taken during and after testing many aspects of the game. It is meant to be a comprehensive analysis and data archive. All comments which come the slightest bit close to being biased towards a personal opinion will be listed at the bottom of this document. Want some tips on how to efficiently go about killing the Predator? Or maybe read some long ass paragraphs of nothing but opinionated rambling? Head down to the bottom of the document. Otherwise, continue down for the test results.
+This is a collection of mostly factual data taken during and after testing many aspects of the game. I say "mostly" because there are some parts where I've made claims with purely anecdotal evidence, but I make that clear where it's applicable.
 
-# Tips, Tricks, Warnings, and Rambling
+# GENERAL GAMEPLAY
 
-*Bunch of useful stuff.*
+### Quick Tips
 
-### How does explosion damage work?
+- Unlock and equip the **M203 Grenade Launcher** as soon as possible.
+- **Intel** is most common in large towns and enemy bases.
+- **Flashbangs** blind all occupants of a vehicle.
+
+### Health and Damage
 
 Explosions work just as they do in other games: more damage as you get closer to the center. Damage radius limits have proven to be difficult to pinpoint (outside of player's explosives). As far as damage through walls, no explosive damage penetrates a "solid" surface (what the game considers to be solid e.g. concrete, brick, etc; excludes tents, fences, etc). Now, damage doesn't penetrate solid surfaces, but explosive force does. This means within the spherical radius, anything which can be affected by explosions will be triggered. This includes gate locks blowing off, windows shattering, boxes destroyed, etc.
 
-### How to effectively take on enemies?
+### Enemy AI
 
-Try to stay stealthy. Stealth kills get a huge damage boost, so most enemies require only one shot to kill (outside of tier mode). Now, how about when you're made? Shoot and scoot. When you fire a shot or an explosion goes off while enemies are hunting you, they will rush the position that shot/explosion came from. This includes shooting an enemy but not killing them. Use cover appropriately and place mines behind you when you shift positions. Sometimes, proximity mines by themselves may not deal enough damage to take down an enemy, especially in online matchmaking. I recommend using a proxy combined with a C4 or mine. Basically just set down a C4/mine, then a proxy directly next to or on top of it. Not only do you expand your explosion radius, the explosion from the C4 essentially guarantees the kill. This isn't to knock the fact that the Prox Mine and Mine work differently. The Prox Mine is triggered exclusively by personnel walking within the trigger radius. While the Mine is triggered by both vehicles and personnel, it is triggered by a dead hit. This means it has no trigger radius and must be crossed or stepped on to be activated.
-
-### Why use diversion lures over flashbangs?
-
-When used efficiently, diversion lures can do the same job as flashbangs, especially with the double explosion radius skill. Not to mention div lures do not alert affected enemies and you get way more of them. Use div lures to make enemies face a certain direction, ideally away from you, then run up behind them and melee. This saves on ammo and doesn't alert them directly unlike flashbangs.
-
-### Convoy takedown and farming resources?
-
-Basically, the most efficient method is to run a low tier profile in single player Guerilla Mode. You get hundreds of thousands of resources from a completed 25-wave game. To make it easy, wait until the last few enemies are automatically marked. Use sync shot to take off remaining enemies, leaving at least one. Run to him, grab him, turn on your tier mode, and then knock him out. Not only do you get tons of resources every fifth wave, tier mode also yields way more "scrap" used for buying weapons, attachments, skills, etc. This gives 600,000 resources (of varying types) in one 25-wave run through.
-The EMP drone is hit or miss from my experience, especially if you EMP the main vehicle when it's traveling on even the slightest downhill strech. They'll just coast down and move on when the engine starts back up. The most effective method proven from testing is using sync shot for the driver and passenger, then a one-shot weapon for the escort vehicles (SR25 Jungle or Desert Tech HTI BDC). Second most effective is flashbang, then take out the driver and passenger yourself by shooting through the side window(s). Yes, flashbanging enemies inside vehicles works. Third most effective is the makeshift claymore method, setting a mine, then C4s in a backwards direction. This ensures the front vehicle sets off the initial explosion, which travels backwards and subsequently destroys all vehicles in the convoy (except for a heli if it has one). This method destroys the truck itself, halving the yield, therefore it's listed as the least effective.
-
-### Why the M4A1 is the best gun overall?
-
-The LVOA-C Bad News is not the best, nor is the Mk 17 (SCAR-H). The M4A1, in practice during direct engagement, takes down any armored enemy in four shots while using full auto. It also has the second highest rate of fire among assault rifles (next to the G2 FAMAS). This means it has the lowest potential TTK among assault rifles. The burst trigger put against a Unidad or Santa Blanca heavy is where the M4A1 with a standard barrel falls behind. However that setback is not enough to significantly tank its ranking as it remains the best all-around weapon in general. By default, the AK-12 (chambered in 7.62x39mm) and G36C (chambered in 5.56x45mm, same as the M4A1) with the standard barrel and burst trigger will take down any enemy in a single burst of three (via burst trigger). Where as the M4A1 with the standard barrel and burst trigger will take **TWO** bursts of three. In reality it amounts to a four-shot kill. But the M4A1's two-burst kill potential is only applicable during engaging a heavy machine gunner. That, and when in full auto it still kills faster with four shots than every other assault rifle, including both the AK-12 and G36C. With the long barrel, the M4A1 gains the single burst kill potential the AK-12 and G36C inherently have with the standard barrel against a Unidad heavy. Additionally, the long barrel and 50-round magazine do affect handling, but the drop in ADS time and movement speed is noticable. Nonetheless, it still kills faster than every other assault rifle. Be that as it may, the M4A1, G36C, and AK-12 are among the same line on the performance spectrum and give you everything. You can go from nice and quiet to loud and proud without changing weapons and still remain just as effective. They are easy to control with soft and manageable recoil (even with the long barrel and no compensator). Not to mention they can be effective out to and beyond 200m even when used by literal noobs. However the M4A1 is the victor.
-
-### Making the game extra challenging?
-
-I've put more than 6,000 hours into Wildlands. It gets boring from time to time. How do I make an extra challenge? Play **Ghost Mode** on *Extreme* difficulty and use statistically inferior guns.
-
-### What are the best optics?
-
-Technically speaking, it's more personal preference rather than testable statistics. Despite logic (being more accurate simply by using your preferred optic), optics directly affect accuracy and shot groupings (accordingly to what's shown on the stats page, which is one of the few accurate depictions of performance changes). This means that any assault rifle will have the closest shot groupings with the TA31H attached. Same goes for all weapons of all classes with all optics. The G33 magnifier widens shot groupings, so be aware of that. Speficially for me, I enjoy using the Panoramic Sight and CompM4 on everything I can. The CompM4 is the only optic (aside from the TA31H ACOG to some extent) that eliminates the lens glare that all other optics exhibit in certain lighting. That, and the CompM4 always has a zero'd red dot, unlike the Micro T1. In the same way, the Digital Scope, TA31H, Russian Red Dot, and Micro T-1 (with and without G33 magnifier) have offset zeros on all weapons. (I.e. they don't hit dead center on the dot. Usually a bit to the right most of the time, if not much farther down than center dot.) The CompM4, Panoramic Sight, EXPS3, and PK-AS are always properly zeroed on the center dot on every weapon. As for glare-prone optics, I use the Panoramic Sight because it's got the lowest parallax and least sight picture interference, as well as a larger and more defined reticle than the EXPS3. The G33 magnifier works decent on all compatible optics, but the Micro T1 dot becomes a red blob when magnified (making it harder to pinpoint exactly where I'm aiming especially past 150m). The Micro-T1 by itself isn't terrible for CQB, but if you can't deal with the tiny sight and tendency for glare you're likely better off with the CompM4. But, as stated earlier, it's purely preferential.
-
-For sniper optics, same thing: personal preference. Technically, snipers and DMRs are less affected by accuracy as they're generally used in semi-auto or are bolt action. The T5Xi can be offset quite a bit on certain weapons, but provides the best accuracy and highest zoom. The POSP and TARS101 are widely reliable on all sniper rifles, though their offset zeros are worse on some. The G28 offers a 5.0x scope similar to the T5Xi with an alternate 1.0x red dot (Micro T-1) for quick change to CQB, but the reticle is zeroed on that red dot rather than the center crosshair on the high magnification scope below it, meaning it essentially zeroes the weapon out even farther. This is generally regarded as the most effective sniper scope. I personally recommend the G28 for sniping much in the same way many other people do, but also regularly use the TARS101 simply because of the look (and comparable zoom levels with minimal accuracy loss).
-
-### Gun Paints and Wear
-
-Guns will wear down over time. It's purely visual, performance is not affected by this. Gun wear is per gun, not per paint. Therefore, you can switch paints while retaining the gun's wear. You can reset a gun's wear to "clean" it, making the paint all sparkly, clear, and new. I haven't found any specific way to get a gun to wear quickly. Seems just having the gun equipped works, as I have a very worn Super Shorty even though I only use it as a placeholder when I use one primary.
-
-Obviously shooting the gun contributes, but I'm unable to measure how it affects the rate at which a gun wears.
-
-# Game Modes
-
-### Tier Mode
-
-You unlock Tier Mode by reaching level 30. After turning it on, you start at tier 50 and work your way down to tier 1. You get rewards of prestige credits and resources after unlocking each tier all the way to tier 1, with the final reward being 10 times the normal reward given for all prior 49 tiers. Additionally, you get cosmetic and weapon rewards: Jaws mask, Wingnut helmet, Red Shemagh, Operator mask, Desert Tech HTI BDC, and LVOA-C Bad News. As you crawl down each tier enemies have more health/armor and spot you more quickly. What that really means is at tier 1 you barely have time to react to being spotted. Your weapons also do less damage unless you upgrade them. Every weapon starts at level 1 and maxes out at level 30. <u>Be aware a level 30 gun in tier mode is essentially what it is outside of tier mode.</u>
-
-### Ghost Mode
-
-Permadeath. Sounds fun, right? I'll give the quick run-down of Ghost Mode: prepare your asshole. You get one primary weapon slot and one sidearm slot, use them wisely. Ghost Mode also has Tier Mode within it. Also, you get the exoskeleton pieces in Ghost Mode. See Ghost Mode Speedrun for recommendations on busting through for the gold exoskeleton suit.
-
-### Guerilla Mode
-
-This is a survival game mode which rewards you with Prestige Credits and Resources every fifth wave up to 25 waves. Rewards double after each "raid" (group of five waves). Resource types vary by randomization. You choose an existing gamesave slot to use and begin on Wave 1. There is an intermission period between each wave. During this intermission, a shopkeep opens up and the player is able to purchase weapons, attachments, consumables (grenades, flashbangs, mines, etc), skills, and bonus medals with "scrap" obtained by getting kills and completing waves. The shop closes when the intermission period ends and the next wave begins, and remains closed for the duration of the wave while active. Most items in the shop are randomized each game and may include DLC weapons. Upon completing (the 25th and final wave of) Guerilla Mode for the first time, players receive an exclusive shirt and pants combo, labelled as the "Survivor" set. These can only be obtained by completing Guerilla Mode. Additionally, Prestige Credits rewards repeat, meaning every 25-wave game will yield 500 prestige credits.
-
-Guerilla Mode can be used in conjunction with Tier Mode. Multipliers carry over to tier points, kill/completion scrap, and resource rewards. A tier one player can make a heap of resources in a full 25-wave run. The stats below were taken from a full 25-wave run with tier mode (tier one) on for every fifth wave. If you somehow managed to roll the same resource for all raids, you can make up to 855,600 resources of any given type.
-
-<table>
-<tr>
-<th scope="col">WAVE #</th>
-<th scope="col">PRESTIGE<br>CREDITS</th>
-<th scope="col">RESOURCES</th>
-</tr>
-<tr>
-<td>5</td>
-<td>25</td>
-<td>27600</td>
-</tr>
-<tr>
-<td>10</td>
-<td>50</td>
-<td>55200</td>
-</tr>
-<tr>
-<td>15</td>
-<td>75</td>
-<td>110400</td>
-</tr>
-<tr>
-<td>20</td>
-<td>100</td>
-<td>220800</td>
-</tr>
-<tr>
-<td>25</td>
-<td>250</td>
-<td>441600</td>
-</tr>
-</table>
-
-# Enemy Alert States
+[[Reference.]](https://youtu.be/SCh0uD8FZ18)
 
 There are five (5) alert states which enemies of any faction can be in. The icon above enemies which have no alert status will not blink. At "Suspected" and "Hunted", the icon will begin to blink slowly. At "Engaged" status, the icon blinks rapidly. The "Hunted" stage is broken into two separate stages despite what's shown above the minimap, but the rate of icon blinking is the same between the two.
 
@@ -196,13 +119,15 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </tr>
 </table>
 
-### NPCs and Enemy AI
+**NPC Health:**
 
 <table>
 <tr>
 <th scope="col">DESIGNATION</th>
 <th scope="col">LOADOUT(S)</th>
-<th scope="col">SHOTS TAKENFROM WHISPERPISTOL</th>
+<th scope="col">SHOTS TAKEN FROM WHISPER PISTOL</th>
+<th scope="col">IDENTIFYING CHARACTERISTICS</th>
+<th scope="col">LOCATIONS</th>
 </tr>
 <tr>
 <td>Bolivian Civilian</td>
@@ -218,31 +143,43 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 <td>Rebel Veteran</td>
 <td>SR3M<br>M4A1 <sub>[FG]</sub></td>
 <td>N/A</td>
+<td>Always wears a beret or bucket hat over a chullo.</td>
+<td></td>
 </tr>
 <tr>
-<td>Rebel Machine Gunner</td>
+<td>Rebel Heavy Solder</td>
 <td>6P41</td>
 <td>N/A</td>
+<td>Always wears a brightly colored balaclava.</td>
+<td></td>
 </tr>
 <tr>
-<td>Rebel Sniper</td>
+<td>Rebel Sniper <sub>[1]</sub></td>
 <td>M40A5</td>
 <td>N/A</td>
+<td>Wears ghillie upper.</td>
+<td>Spots named **Rebel Campsite**.</td>
 </tr>
 <tr>
 <td>Santa Blanca Lieutenant</td>
 <td>Unarmed</td>
 <td>N/A</td>
+<td>Way nicer clothes than other SB.</td>
+<td></td>
 </tr>
 <tr>
 <td>Unidad Lieutenant</td>
 <td>Unarmed</td>
 <td>N/A</td>
+<td>Way nicer clothes than other Unidad.</td>
+<td>**Combat Outpost** northwest of **Remanzo Alpha**.</td>
 </tr>
 <tr>
 <td>Santa Blanca Sniper</td>
 <td>M40A5<br>Dragunov <sub>[NR]</sub><br>SR25 <sub>[FG]</sub></td>
 <td>4</td>
+<td>Wears ghillie upper.</td>
+<td></td>
 </tr>
 <tr>
 <td>Los Sin Almas Sniper <sub>[NR]</sub></td>
@@ -253,6 +190,8 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 <td>Unidad Sniper</td>
 <td>MSR<br>Dragunov <sub>[NR]</sub><br>SR25 <sub>[FG]</sub></td>
 <td>5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Extranjeros Sniper <sub>[FG]</sub></td>
@@ -283,6 +222,8 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 <td>Santa Blanca Heavy Soldier</td>
 <td>6P41<br>Type 95 <sub>[NR]</sub><br>Mk249 <sub>[FG]</sub></td>
 <td>16</td>
+<td>Always wears a helmet and balaclava.</td>
+<td>**Holy Malca Base** northwest of **Malca Delta**.</td>
 </tr>
 <tr>
 <td>Los Sin Almas Heavy Soldier <sub>[NR]</sub></td>
@@ -293,21 +234,29 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 <td>Unidad Heavy Soldier</td>
 <td>Mk249<br>Type 95 <sub>[NR]</sub></td>
 <td>17</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Santa Blanca Veteran</td>
 <td>AK-12<br>G36C<br>MPX<br>M4A1 <sub>[FG]</sub></td>
 <td>18</td>
+<td>May wear a white cowboy hat.</td>
+<td>Up to 5 at **Santa Muerte Idol** northwest of **Malca Bravo**.</td>
 </tr>
 <tr>
 <td>Unidad Soldier</td>
 <td>R5 RGP<br>AK-47 <sub>[NR]</sub><br>M4A1 <sub>[FG]</sub></td>
 <td>18</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Unidad Veteran</td>
 <td>Vector .45 ACP<br>PP19 <sub>[NR]</sub></td>
 <td>18</td>
+<td>Always wears a beret.</td>
+<td>**F.O.B. Serpiente** north of **Flor de Oro Bravo**.</td>
 </tr>
 <tr>
 <td>Extranjeros Jammer <sub>[FG]</sub></td>
@@ -327,13 +276,14 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </table>
 
 <sub>[NR]</sub> *Narco Road DLC*<br>
-<sub>[FG]</sub> *Fallen Ghosts DLC*
+<sub>[FG]</sub> *Fallen Ghosts DLC*<br>
+<sub>[1]</sub> These seem to be very rare NPCs. Can be found sparsely around the map at spots labeled **Rebel Campsite**.
 
-### Remote Campsites/Checkpoints
+**Remote Campsites/Checkpoints:**
 
-These are randomly populated by cartel and/or Unidad and/or rebel forces, anywhere from 2 to 4 of each type. Sometimes these campsites will have two or three factions, meaning one day you might pass it with just two cartel gunners while the next may have both Unidad and rebels. Population conditions are unknown. There is a special type of campsite spawn where it appears the cartel and Unidad are negotiating. In this scenario, there will be a Santa Blanca Veteran along with two Santa Blanca Soldiers and an Unidad Veteran with two Unidad Soldiers.
+These are randomly populated by Cartel/Unidad/Rebel forces, anywhere from 2 to 4 of each type. Sometimes these campsites will have two or three factions, meaning one day you might pass it with just two cartel gunners while the next may have both Unidad and rebels. Population conditions are unknown. There is a special type of campsite spawn where it appears the cartel and Unidad are negotiating. In this scenario, there will be a Santa Blanca Veteran along with two Santa Blanca Soldiers and an Unidad Veteran with two Unidad Soldiers.
 
-### Base Statistics
+**Base Statistics:**
 
 There are many bases in both the stock game and DLCs. Listed below are statistics of some of the largest.
 
@@ -369,7 +319,7 @@ There are many bases in both the stock game and DLCs. Listed below are statistic
 
 **<sub>[NR]</sub>** *In Narco Road DLC*
 
-### Road Patrols
+**Road Patrols:**
 
 Below is data taken from observing road patrol vehicles in the full game and both DLCs. Unidad road patrols and cartel reinforcement vehicles' occupants may vary based on location, e.g. more difficult provinces will have more heavies and veterans (and more occupants in general). A Unidad 4x4 in Itacua will have two soldiers, a driver and gunner, while the same vehicle in Koani may be loaded down with four heavies. Exceptions to this rule (those with occupants which do not vary based on location) are marked with an asterisk.
 
@@ -380,42 +330,42 @@ Below is data taken from observing road patrol vehicles in the full game and bot
 <th scope="col">OCCUPANT TYPES</th>
 </tr>
 <tr>
-<td>Unidad Helicopter</td>
+<td>Unidad Helicopter <sub>[x]</sub></td>
 <td>6</td>
 <td>Unidad Soldier</td>
 </tr>
 <tr>
 <td>Unidad Armored Buggy</td>
 <td>4</td>
-<td>Unidad SoldierUnidad Heavy</td>
+<td>Unidad Soldier<br>Unidad Heavy</td>
 </tr>
 <tr>
 <td>Unidad Armored SUV</td>
 <td>4</td>
-<td>Unidad SoldierUnidad Heavy</td>
+<td>Unidad Soldier<br>Unidad Heavy</td>
 </tr>
 <tr>
 <td>Unidad 4x4</td>
 <td>4</td>
-<td>Unidad Soldier/Unidad Heavy</td>
+<td>Unidad Soldier<br>Unidad Heavy</td>
 </tr>
 <tr>
-<td>Unidad Pickup<sub>[x]</sub></td>
+<td>Unidad Pickup <sub>[x]</sub></td>
 <td>2</td>
 <td>Unidad Soldier</td>
 </tr>
 <tr>
-<td>Unidad Buggy<sub>[x]</sub></td>
+<td>Unidad Buggy <sub>[x]</sub></td>
 <td>2</td>
 <td>Unidad Soldier</td>
 </tr>
 <tr>
-<td>Extranjeros Armored SUV<sub>[FG]</sub></td>
+<td>Extranjeros Armored SUV <sub>[FG]</sub></td>
 <td>2</td>
 <td>Extranjeros Footman</td>
 </tr>
 <tr>
-<td>Santa Blanca Trophy Buggy<sub>[FG]</sub></td>
+<td>Santa Blanca Trophy Buggy <sub>[FG]</sub></td>
 <td>2</td>
 <td>Santa Blanca Soldier (Vested)</td>
 </tr>
@@ -425,7 +375,7 @@ Below is data taken from observing road patrol vehicles in the full game and bot
 <sub>[NR]</sub> *Narco Road DLC*<br>
 <sub>[FG]</sub> *Fallen Ghosts DLC*
 
-# Stealth Mechanics
+### Stealth Mechanics
 
 All weapon classes have their own noise detection with no difference between weapons of the same class despite what the "noise reduction" bar may show. Compensators do not affect noise, again despite what the stat bar shows. Below are the maximum distances at which gunfire is heard by an enemy NPC. This is a flat number, no variables change noise detection distance. For example, an enemy will hear your unsuppressed MP5 at 60m, but if you take a mere one step backwards he won't hear a thing at 61m.
 
@@ -433,7 +383,7 @@ All weapon classes have their own noise detection with no difference between wea
 <tr>
 <th scope="col">CLASS</th>
 <th scope="col">SUPPRESSED<br>SUSPECTED</th>
-<th scope="col">UNSUPPRESSED<br>SUSPECTED</th>
+<th scope="col">UNSUPPRESSED<br>SUSPECTED <sub>[1]</sub></th>
 </tr>
 <tr>
 <td>Crossbow<br>Five-seveN Blacklist<br>Whisper</td>
@@ -471,6 +421,8 @@ All weapon classes have their own noise detection with no difference between wea
 <td>130m</td>
 </tr>
 </table>
+
+<sub>[1]</sub> The **Compensator** does not affect loudness, despite showing that it decreases the **Noise Reduction** stat.
 
 Time of day also plays a part in visual detection distance (lighting in general does). Ubisoft ported a Splinter Cell system of sorts. It allows for variable detection speed based on light level. Dark areas reveal less therefore you get spotted slower in the shadows. Opposite goes for broad daylight in an open field with no brush. Speaking of bushes, they act as concealment for all players but not NPCs. You can mark an enemy hiding behind a bush, but they cannot see you hiding behind the same bush. Enemies will also not see you behind any sort of solid cover. However you can get spotted hiding behind what may appear to be solid cover. Things like boxes and metal dolleys, basically everything that you can move by just walking into it, is not cover nor concealment despite its solid appearance. The game engine treats all moveable objects as simply that and no more. Below are the ranges at which enemies begin to spot the player. These were tested in barren, unobscured conditions (no cover/concealment blocking view) against both SBC and Unidad forces at the Koani Air Base in Koani and F.O.B. Serpiente in Flor de Oro. No spotting distance differences were found between factions nor solider types (unarmored, vested, veteran, heavy). Snipers are the only NPC type which has altered sight distances, rightfully so. All of that into account, apparently Unidad is no more elite than some cokeheads with guns.
 
@@ -528,9 +480,116 @@ Time of day also plays a part in visual detection distance (lighting in general 
 
 <sub>[*]</sub> *Enemies in vehicles have a 360&deg; visual radius. The vehicle does not act as cover/concealment visibility-wise, either.*
 
+### Guns and Attachments
+
+- You start out with the **P416**, **MP5**, and **P45T**. Ghost mode only allows one primary, so you'll only have the **P416** and **P45T** by default.
+- Guns and attachments can be found in **Weapon Cases** and **Accessory Cases** around the map.
+- Special guns can be obtained by completing certain missions.
+- Most guns have their own unique stats. See [[Weapon Stats]](#weapon-stats) for more info.
+
+### Items
+
+- You start out with just **Frag Grenades**, but can unlock others via the **Skill Tree**.
+- The **Explosion Radius** elite perk from the **Items Skill Tree** is stupid useful.
+
+Item | Details
+:--- | ---
+Frag Grenade | Base gear item. Peds will dive away from grenades.
+Flashbang | Crazy effective. Blinds and deafens NPCs within its explosion radius, rendering them immobile and defenseless for **FIVE SECONDS**.
+Div. Lure | When used efficiently, diversion lures can do the same job as flashbangs, especially with the double explosion radius skill. Not to mention div lures do not alert affected enemies and you get way more of them. Use div lures to make enemies face a certain direction, ideally away from you, then run up behind them and melee. This saves on ammo and doesn't alert them directly unlike flashbangs. You can also use div lures (or just shoot at some spot close to an enemy) to get them to face and walk towards a body you don't want them to find. This makes luring enemies out into the open stupid easy.
+Prox. Mine | Commonly known as "proxy". Detonates when a ped walks into a small detection radius around each proxy. Best used in combination with **C4** or **Mine**, especially in **Tier Mode** because proxies are famous for merely stunning enemies when they go off by themselves.
+Mine | Anti-vehicle explosive. Triggered when vehicles drive over it, but also detonates if a ped steps directly onto it.
+C4 | Remote detonated explosive.
+Flare Gun | Lures in all faction peds from 300m. Stupid effective for bringing in any Unidad patrol vehicles or choppers.
+
+### Documents
+
+Documents, recordings, photos, and Kingslayer Files can be found all around the map and usually give context to their province.
+
+### Skills and Resources
+
+- **Perks** are unlocked on **Skill Trees**. After unlocking at least one bar in each perk of a **Skill Tree**, you'll unlock the **Elite Perk** of that tree. These **Elite Perks** are very useful.
+- **Skill Points** are used to unlock/upgrade perks. They can be found at various spots around the map, but are more common in hotter areas where conflicts with enemies are more likely to occur.
+- **Resources** are used to unlock/upgrade perks in the **Skill Tree**. There are four resource types: meds, food, fuel, and comms. Each resource has its own **drop**/**Convoy** vehicles and/or color schemes.
+- **Bonus Medals** act as an additional upgrade to a perk. If a perk in the **Skill Tree** has a star at the bottom right corner, it has a bonus medal. Highlight the perk to see the province its bonus medal is located in.
+
+### Convoys
+
+Small pickups from COM containers, petrol barrels, provision boxes, etc, are only worth it for the first few ranks of a new game. It's best to hit a convoy if you need resources.
+
+Basically, the most efficient method is to run a low tier profile in single player **Guerilla Mode**. You get hundreds of thousands of resources from a completed 25-wave game. To make it easy, wait until the last few enemies are automatically marked. Use sync shot to take off remaining enemies, leaving at least one. Run to him, grab him, turn on your tier mode, and then knock him out. Not only do you get tons of resources every fifth wave, tier mode also yields way more "scrap" used for buying weapons, attachments, skills, etc. This gives 600,000 resources (of varying types) in one 25-wave run through.
+
+For convoy takedowns, the **EMP Drone** is hit or miss from my experience, especially if you EMP the main vehicle when it's traveling on even the slightest downhill strech. They'll just coast down and move on when the engine starts back up. The most effective method proven from testing is using sync shot for the driver and passenger, then a one-shot weapon for the escort vehicles (SR25 Jungle or Desert Tech HTI BDC). Second most effective is flashbang, then take out the driver and passenger yourself by shooting through the side window(s). Yes, flashbanging enemies inside vehicles works. Third most effective is the makeshift claymore method, setting a mine, then C4s in a backwards direction. This ensures the front vehicle sets off the initial explosion, which travels backwards and subsequently destroys all vehicles in the convoy (except for a heli if it has one). This method destroys the truck itself, halving the yield, therefore it's listed as the least effective.
+
+# Game Modes
+
+*Some info on different modes.*
+
+### Tier Mode
+
+You unlock Tier Mode by reaching level 30. After turning it on, you start at tier 50 and work your way down to tier 1. You get rewards of prestige credits and resources after unlocking each tier all the way to tier 1, with the final reward being 10 times the normal reward given for all prior 49 tiers. Additionally, you get cosmetic and weapon rewards: Jaws mask, Wingnut helmet, Red Shemagh, Operator mask, Desert Tech HTI BDC, and LVOA-C Bad News. As you crawl down each tier enemies have more health/armor and spot you more quickly. What that really means is at tier 1 you barely have time to react to being spotted. Your weapons also do less damage unless you upgrade them. Every weapon starts at level 1 and maxes out at level 30. <u>Be aware a level 30 gun in tier mode is essentially what it is outside of tier mode.</u>
+
+### Ghost Mode
+
+Permadeath. Sounds fun, right? I'll give the quick run-down of Ghost Mode: prepare your asshole. You get one primary weapon slot and one sidearm slot, use them wisely. Ghost Mode also has Tier Mode within it. Also, you get the exoskeleton pieces in Ghost Mode. See Ghost Mode Speedrun for recommendations on busting through for the gold exoskeleton suit.
+
+### Guerilla Mode
+
+This is a survival game mode which rewards you with Prestige Credits and Resources every fifth wave up to 25 waves. Rewards double after each "raid" (group of five waves). Resource types vary by randomization. You choose an existing gamesave slot to use and begin on Wave 1. There is an intermission period between each wave. During this intermission, a shopkeep opens up and the player is able to purchase weapons, attachments, consumables (grenades, flashbangs, mines, etc), skills, and bonus medals with "scrap" obtained by getting kills and completing waves. The shop closes when the intermission period ends and the next wave begins, and remains closed for the duration of the wave while active. Most items in the shop are randomized each game and may include DLC weapons. Upon completing (the 25th and final wave of) Guerilla Mode for the first time, players receive an exclusive shirt and pants combo, labelled as the "Survivor" set. These can only be obtained by completing Guerilla Mode. Additionally, Prestige Credits rewards repeat, meaning every 25-wave game will yield 500 prestige credits.
+
+Guerilla Mode can be used in conjunction with Tier Mode. Multipliers carry over to tier points, kill/completion scrap, and resource rewards. A tier one player can make a heap of resources in a full 25-wave run. The stats below were taken from a full 25-wave run with tier mode (tier one) on for every fifth wave. If you somehow managed to roll the same resource for all raids, you can make up to 855,600 resources of any given type.
+
+<table>
+<tr>
+<th scope="col">WAVE #</th>
+<th scope="col">PRESTIGE<br>CREDITS</th>
+<th scope="col">RESOURCES</th>
+</tr>
+<tr>
+<td>5</td>
+<td>25</td>
+<td>27600</td>
+</tr>
+<tr>
+<td>10</td>
+<td>50</td>
+<td>55200</td>
+</tr>
+<tr>
+<td>15</td>
+<td>75</td>
+<td>110400</td>
+</tr>
+<tr>
+<td>20</td>
+<td>100</td>
+<td>220800</td>
+</tr>
+<tr>
+<td>25</td>
+<td>250</td>
+<td>441600</td>
+</tr>
+</table>
+
 # Vehicle Stats
 
 Below are armor testing results and information on vehicles available in the game. All of these except for the **"Pickup Truck"**, **"Armored SUV"**, and **"Helicopter"** are unlocked via **Prestige/Spec Ops Crate**. The former three are unlocked through **Rebel Support** missions. All shot numbers listed apply to all variants of the vehicles. All names are listed as they appear when unlocked via Crate. Parenthesis include other names the vehicle could go by and/or names shown when entering them. 
+
+Vehicle | Location(s)
+:--- | ---
+Sports Car <sub>[1]</sub><br>(Lambo) | Khochi, Itacua (E of **Itacua Delta**)<br>Outpost, Barvechos (W of **Barvechos Alpha**)<br>Outpost, Koani (W of **Remanzo Alpha**)
+Extreme Sports Car (VS Lambo) | Los Humildes Peregrinos, Espiritu Santo (E of **Espiritu Santo Delta**)
+Offroader (Unidad Jeep 4x4) | Vieja Granja, Itacua (NE of **Itacua Alpha**)<br>San Martin Mountain Hut, Inca Camina (SW of **Inca Camina Charlie**)
+Trophy Truck <sub>[2]</sub> | Koani Air Base (NE of **Koani Bravo**)<br>Koani Railway Camp (S of **Koani Delta**)<br>Buchon House, La Cruz (E of **La Cruz Bravo**)
+Armored Digger | Outpost, San Mateo (E of **San Mateo Bravo**)<br>Sueno Mausoleum, Pucara (NE of **Pucara Alpha**)
+Cigar Boat | Buchon House, Agua Verde (E of **Agua Verde Alpha**)
+Unidad Buggy | Armadillo Hunting Lodge, Flor de Oro (SW of **Libertad Charlie**)
+Unidad Armored Buggy | Huma Chua Sawmill, Flor de Oro (E of **Malca Charlie**)
+Military Chopper | F.O.B. Serpiente, Flor de Oro (N of **Flor de Oro Bravo**)<br>F.O.B. Buitre, Media Luna (E of **Media Luna Alpha**)<br>M.O.B. Condor, Media Luna (NE of **San Mateo Alpha**)
+
+<sub>[1]</sub> May spawn being driven by **Santa Blanca Lieutenants**.
+<sub>[2]</sub> Small chance to spawn at random campsites held by **Santa Blanca**.
 
 <table>
 <tr>
@@ -591,56 +650,51 @@ Below are armor testing results and information on vehicles available in the gam
 
 # Weapon Stats
 
+### Paint Wear
+
+Guns will wear down over time. It's purely visual, performance is not affected by this. Gun wear is per gun, not per paint. Therefore, you can switch paints while retaining the gun's wear. You can reset a gun's wear to "clean" it, making the paint all sparkly, clear, and new. I haven't found any specific way to get a gun to wear quickly. Seems just having the gun equipped works, as I have a very worn Super Shorty even though I only use it as a placeholder when I use one primary.
+
+Obviously shooting the gun contributes, but I'm unable to measure how it affects the rate at which a gun wears. It also appears shots that don't hit anything damagable don't count towards wear. Hits on vehicles and defense systems (SAMs, jammers, etc) that haven't been blown up and hits on enemies seem to be the only hits that count towards gun wear. Swimming through water doesn't appear to affect wear, either.
+
+### Scopes/Optics
+
+Technically speaking, it's more personal preference rather than testable statistics. Despite logic (being more accurate simply by using your preferred optic), optics directly affect accuracy and shot groupings (accordingly to what's shown on the stats page, which is one of the few accurate depictions of performance changes). This means that any assault rifle will have the closest shot groupings with the TA31H attached. Same goes for all weapons of all classes with all optics. The G33 magnifier widens shot groupings, so be aware of that. Speficially for me, I enjoy using the Panoramic Sight and CompM4 on everything I can. The CompM4 is the only optic (aside from the TA31H ACOG to some extent) that eliminates the lens glare that all other optics exhibit in certain lighting. That, and the CompM4 always has a zero'd red dot, unlike the Micro T1. In the same way, the Digital Scope, TA31H, Russian Red Dot, and Micro T-1 (with and without G33 magnifier) have offset zeros on all weapons. (I.e. they don't hit dead center on the dot. Usually a bit to the right most of the time, if not much farther down than center dot.) The CompM4, Panoramic Sight, EXPS3, and PK-AS are always properly zeroed on the center dot on every weapon. As for glare-prone optics, I use the Panoramic Sight because it's got the lowest parallax and least sight picture interference, as well as a larger and more defined reticle than the EXPS3. The G33 magnifier works decent on all compatible optics, but the Micro T1 dot becomes a red blob when magnified (making it harder to pinpoint exactly where I'm aiming especially past 150m). The Micro-T1 by itself isn't terrible for CQB, but if you can't deal with the tiny sight and tendency for glare you're likely better off with the CompM4. But, as stated earlier, it's purely preferential.
+
+For sniper optics, same thing: personal preference. Technically, snipers and DMRs are less affected by accuracy as they're generally used in semi-auto or are bolt action. The T5Xi can be offset quite a bit on certain weapons, but provides the best accuracy and highest zoom. The POSP and TARS101 are widely reliable on all sniper rifles, though their offset zeros are worse on some. The G28 offers a 5.0x scope similar to the T5Xi with an alternate 1.0x red dot (Micro T-1) for quick change to CQB, but the reticle is zeroed on that red dot rather than the center crosshair on the high magnification scope below it, meaning it essentially zeroes the weapon out even farther. This is generally regarded as the most effective sniper scope. I personally recommend the G28 for sniping much in the same way many other people do, but also regularly use the TARS101 simply because of the look (and comparable zoom levels with minimal accuracy loss).
+
 ### The Best Loadout
 
-Statistically speaking, the best loadout in vanilla Wildlands (the stock version of the game excluding DLCs and crate unlocks) for covering all ranges is: M4A1, MSR, and Lady Killer. The M4A1 has the fastest potential TTK over all other assault rifles. The MSR, when equipped with the long barrel, holds one-shot kill potential anywhere on the body. (All other sniper rifles do not have that capability except for the HTI. However the HTI is also bolt-action and holds only five (5) rounds.) The Lady Killer has the highest damage of all pistols in the stock game. Both the Five-seveN Blacklist and Whisper (a.k.a. the Maxim 9) are the only silent pistols in the game, but the Whisper has the absolute lowest damage of any weapon in the game. DLC weapons which perform better than the aforementioned are the SR25 Jungle (sniper) and Five-seveN Blacklist (pistol). The SR25 Jungle has 20-round capacity, is semi-auto, and shoots flat out to 350m and holds one-shot capability to everything, identical to the Desert Tech HTI BDC. Therefore the statistical best loadout including DLC weapons is: M4A1, SR25 Jungle, and Five-seveN Blacklist.
+Statistically speaking, the best loadout in vanilla Wildlands (the stock version of the game excluding DLCs and crate unlocks) for covering all ranges is: **M4A1**, **HTI**, and **Lady Killer**.
 
-### The Best Balanced Weapons Per Class
+- **M4A1** takes down any armored enemy in four shots while using full auto. It also has the second highest rate of fire among assault rifles (next to the G2 FAMAS). This means it has the lowest potential TTK among assault rifles. The burst trigger put against a Unidad or Santa Blanca heavy is where the M4A1 with a standard barrel falls behind. However that setback is not enough to significantly tank its ranking as it remains the best all-around weapon in general. By default, the AK-12 (chambered in 7.62x39mm) and G36C (chambered in 5.56x45mm, same as the M4A1) with the standard barrel and burst trigger will take down any enemy in a single burst of three (via burst trigger). Where as the M4A1 with the standard barrel and burst trigger will take **TWO** bursts of three. In reality it amounts to a four-shot kill. But the M4A1's two-burst kill potential is only applicable during engaging a heavy machine gunner. That, and when in full auto it still kills faster with four shots than every other assault rifle, including both the AK-12 and G36C. With the long barrel, the M4A1 gains the single burst kill potential the AK-12 and G36C inherently have with the standard barrel against a Unidad heavy. Additionally, the long barrel and 50-round magazine do affect handling, but the drop in ADS time and movement speed is noticable. Nonetheless, it still kills faster than every other assault rifle. Be that as it may, the M4A1, G36C, and AK-12 are among the same line on the performance spectrum and give you everything. You can go from nice and quiet to loud and proud without changing weapons and still remain just as effective. They are easy to control with soft and manageable recoil (even with the long barrel and no compensator). Not to mention they can be effective out to and beyond 200m even when used by literal noobs. However the M4A1 is the victor.
+- **HTI** because why not carry around a .50 BMG long rifle? While the **MSR** and other .338 rifles can also one-shot (with long barrel), the **HTI** does it better since it can one-shot vehicles as well as drone jammers.
+- **Lady Killer** has the highest damage of all suppressable pistols in vanilla.
 
-<table>
-<tr>
-<th scope="col">NAME</th>
-<th scope="col">CLASS</th>
-<th scope="col">IDEAL RANGE</th>
-<th scope="col">DESCRIPTION</th>
-</tr>
-<tr>
-<td>M4A1</td>
-<td>Assault Rifle</td>
-<td>< 300m</td>
-<td class="tdleft">The best of the best. Highest potential TTK among assault rifles, high ROF (second to G2 a.k.a. FAMAS), low horizontal and vertical recoil.</td>
-</tr>
-<tr>
-<td>Mk 48</td>
-<td>Light Machine Gun</td>
-<td>< 400m</td>
-<td class="tdleft">Good groupings, 200-round magazine cap, high ROF, long reload. Provides balance between anti-personnel and anti-vehicle.</td>
-</tr>
-<tr>
-<td>SR-635</td>
-<td>Submachine Gun</td>
-<td>< 150m</td>
-<td class="tdleft">King of CQB. Essentially a super light machine gun.</td>
-</tr>
-<tr>
-<td>MSR</td>
-<td>Sniper Rifle</td>
-<td>> 200m</td>
-<td class="tdleft">The best balanced sniper rifle. 10-round magazine capacity, guaranteed one-shot kill to personnel (with long barrel), two-shots helicopters, and manageable bullet drop (not the best but definitely not the worst).</td>
-</tr>
-<tr>
-<td>SASG-12</td>
-<td>Shotgun</td>
-<td>< 70m</td>
-<td class="tdleft">Full auto 12-gauge with 30-round mag capability. Slow rate of fire but it's a shotgun. The SASG becomes the holy grail for CQB in Tier Mode.</td>
-</tr>
-<tr>
-<td>Lady Killer</td>
-<td>Handgun</td>
-<td>< 180 m</td>
-<td class="tdleft">Highest damage suppressable pistol. Obtained by killing a buchone.</td>
-</tr>
-</table>
+DLC weapons which perform better than the aforementioned are: **416**, **BFG-50A**, and **Five-seveN Blacklist**.
+
+- **416** does everything the **M4A1** does, but better.
+- **BFG-50A** *or* **Desert Tech HTI BDC** *or* **SR25 Jungle**. It's hard to argue for **HTI BDC** when the **BFG** is just a semi auto **HTI**. To be fair, the **HTI BDC** has less bullet drop, but the **Jungle** has a 20-round mag, is semi-auto, shoots flat out to 350m, and holds one-shot capability to everything. The **SR25 Jungle** is basically a combination of **HTI BDC** damage but shoots faster and flatter than any of the other one-shot rifles.
+- **Five-seveN Blacklist** has high damage and velocity, but also doesn't alert enemies. (Similar to the **Whisper**, but it has the absolute lowest damage of any weapon in the game.)
+
+Therefore the statistical best loadout including DLC weapons is: **416**, **SR25 Jungle**, and **Five-seveN Blacklist**.
+
+And here's some honorable mentions:
+
+Gun | Class | Details
+:--- | --- | ---
+Mk 16 | Assault Rifle | Aka the **SCAR-L**. Essentially a **Mk 17** with a faster reload.
+Mk 17 | Assault Rifle | Slower than **Mk 16**, but it's so much fun.
+R5 RGP | Assault Rifle | An AR15 platform which shoots similar to an AK. Low fire rate, high damage.
+AK-12<br>G36C | Assault Rifle | Performs similarly to **M4A1**.
+BFG-50A | Sniper Rifle | An **HTI** with slightly less bullet drop... and semi auto.
+MSR | Sniper Rifle | The best balanced sniper rifle. 10-round magazine capacity, guaranteed one-shot kill to personnel (with long barrel), two-shots helicopters, and manageable bullet drop (not the best but definitely not the worst).
+M40A5 | Sniper Rifle | One shots when equipped with Long Barrel. Requires some skill to use effectively.
+Vector .45 ACP<br>Scorpion EVO 3 | Submachine Gun | brrrrr
+SR-635 | Submachine Gun | Crazy damage and fast reload, but bullets drop off hard.
+Mk 48<br>Mk 249 | Light Machine Gun | Balanced LMGs with higher-than-normal rates of fire and manageable recoil.
+M60E4 | Light Machine Gun | Crazy damage, but wack recoil.
+SASG-12<br>SILENCIO | haha suppressed auto shotty go sploosh sploosh sploosh
+M9 | Pistol | Highest damage customizable pistol in the game.
 
 ### Critical Hit Mechanics
 
@@ -862,8 +916,11 @@ Below are test results for all sidearms in the game. Range values are tested max
 </tr>
 <tr>
 <td>Luison<sub>[DLC]</sub></td>
+<td>9x19mm</td>
 <td>185m</td>
 <td>16</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>5.7 USG</td>
@@ -875,8 +932,11 @@ Below are test results for all sidearms in the game. Range values are tested max
 </tr>
 <tr>
 <td>1911 MARSOC<sub>[DLC]</sub></td>
+<td>.45 ACP</td>
 <td>190m</td>
 <td>17</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>P227</td>
@@ -959,6 +1019,8 @@ Below are test results for all sidearms in the game. Range values are tested max
 ### Damage Stats
 
 Any weapon/barrel configuration listed as `INV` is rendered virtually ineffective against hard targets, i.e. an APC will take upwards of 200+ shots, realistically invulnerable to damage from that configuration.
+
+**QUICK NOTE ABOUT SNIPER DAMAGE AT RANGE:** I've been able to reproduce a strange event where my **HTI** (yes, with long barrel) doesn't one shot beyond 400m. I have no clue why this happens as it seems to come in and out at random. What I mean by "reproduce" is that I've had it happen a number of times in different spots. Twice from the cliff overlooking **M.O.B. Condor**, once at **La Carcel del Pueblo**, and twice at the **Koani Air Base**.
 
 <table>
 <tr>
@@ -2395,13 +2457,14 @@ The following have unique melee animations and sounds:
 
 ### Caviera Gloves Automatic Marking
 
-Whenever a player makes a melee kill while wearing the *Caviera Gloves*, up to 4 enemies within the immediate area (inside the minimap) will be marked automatically. The melee animation is slower than others, but this ability is well worth the tradeoff.
+Whenever a player makes a melee kill while wearing the **Caviera Gloves**, up to 4 enemies within the immediate area (inside the minimap) will be marked automatically. The melee animation is slower than others, but this ability is well worth the tradeoff.
 
 ### Night, Thermal, Steiner, and Splinter Cell Vision Modes
 
 After completing `The Jungle Moved` by killing the Predator, the player is awarded the center piece of the creature's helmet: the **Predator Biomask**. It's just the front faceplate of the helmet over a normal **Balaclava**. While wearing it, the player can use the Predator's specialized thermal vision. While in this vision mode, game audio is filtered and sounds as if the Predator were hearing it. Alternatively, the **Predator Helmet** (with the tentacles/dreads) provides the same effect and comes in the Predator Pack (available periodically from the "Limited Time Offers" section of the store menu).
 
-The grayscale vision mode can be accessed via the **SONAR Goggles**. The Steiner Vision mode can be accessed by using a helmet with either the **Special NVG** or **Panoramic NVG** ocular types.
+- The desaturated vision mode can be accessed via the **SONAR Goggles**.
+- The Steiner Vision mode can be accessed by using a helmet with either the **Special NVG** or **Panoramic NVG** ocular types.
 
 The items below do not give special vision modes:
 
@@ -2426,9 +2489,11 @@ The items below do not give special vision modes:
 
 This is unintential on Ubisoft's part. Almost all optics shoot a tiny bit to the right of their center crosshair/dot. Some shoot a bit to the left and some shoot higher or lower (namely on select sniper rifles). The **EoTech** and **Panoramic Sight** are properly zero'd on all guns.
 
-### Z93 AMR "Extra Round"
+### Ghost Mode Round in Chamber
 
-While using the Z93 AMR, the player can switch weapons (between classes), then swich back to the Z93 and it will have a 6th round in the magazine rather than the regular 5. This effect does not carry over after reload, however.
+While using certain guns, the player can switch weapons then switch back to the original to get a round in the chamber. This effect does not carry over after reload, however.
+
+I've had this happen with the **MSR** and **Z93 AMR**, but don't know if it does the same for other snipers.
 
 ### Ghost Mode Full Loadout
 
@@ -2436,7 +2501,9 @@ While in Ghost Mode, the player may find that they have a second primary weapon 
 
 ### M.O.B. Condor Full House
 
-Before interacting with Scott Mitchell in the first part of "Operation: Silent Spade", the player can travel to the Condor Airbase in eastern Media Luna to engage a ton of Unidad soldiers (way more than usual). This happens in both the regular game and Ghost Mode. The game has individual NPC information for some specialized missions, such as animations for cutscenes, travel paths, clothing, voice lines, etc. This means as long as you don't trigger Operation: Silent Spade, tons of Unidad will remain at M.O.B. Condor indefinitely. Very convenient and quite fun when looking for a nice firefight.
+Before interacting with Scott Mitchell in the first part of `Operation: Silent Spade` the player can travel to the Condor Airbase in eastern **Media Luna** to engage a ton of Unidad soldiers (way more than usual). This happens in both the regular game and Ghost Mode. The game has individual NPC information for some specialized missions, such as animations for cutscenes, travel paths, clothing, voice lines, etc. This means as long as you don't trigger the mission by speaking with Scott Mitchell, tons of Unidad will remain at M.O.B. Condor indefinitely. Very convenient and quite fun when looking for a nice firefight.
+
+This also works using mission replay.
 
 ### Bullet Sponge Enemies
 
