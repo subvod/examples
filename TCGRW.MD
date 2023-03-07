@@ -100,12 +100,12 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 <tr>
 <td>Suspected</td>
 <td class="tdleft">Distant sound (explosion or gunshot), nearby noise (projectile strike, objects moving, civilian NPCs running and screaming), lights go out overhead, or partial sighting of player/ally.</td>
-<td class="tdleft">Mad sus.Enemies have either seen or heard something off key and may think the place is haunted. Suspicious enemies take a tiny bit more damage to kill, but are essentially still one-shot kills with most weapons. They move towards the area of suspicion. Upon nothing found, they move back to normal status and resume their previous activities.</td>
+<td class="tdleft">Mad sus. Enemies have either seen or heard something off key and may think the place is haunted. Suspicious enemies take a tiny bit more damage to kill, but are essentially still one-shot kills with most weapons. They move towards the area of suspicion. Upon nothing found, they move back to normal status and resume their previous activities.</td>
 </tr>
 <tr>
 <td>Hunted (Stage 1)</td>
 <td class="tdleft">Explosion Alert, Shot Heard</td>
-<td class="tdleft">Them eyes, boss.Enemies are aware of a nearby threat, but are unaware of its exact location. They move to the location of the sound and, upon nothing found, move back to normal status. Hostiles in this stage take multiple shots to kill from most weapons. This first stage of "Hunted" is only triggered by sound.</td>
+<td class="tdleft">Them eyes, boss. Enemies are aware of a nearby threat, but are unaware of its exact location. They move to the location of the sound and, upon nothing found, move back to normal status. Hostiles in this stage take multiple shots to kill from most weapons. This first stage of "Hunted" is only triggered by sound.</td>
 </tr>
 <tr>
 <td>Hunted (Stage 2)</td>
@@ -158,7 +158,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 <td>M40A5</td>
 <td>N/A</td>
 <td>Wears ghillie upper.</td>
-<td>Spots named **Rebel Campsite**.</td>
+<td>Spots named <b>Rebel Campsite</b>.</td>
 </tr>
 <tr>
 <td>Santa Blanca Lieutenant</td>
@@ -172,7 +172,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 <td>Unarmed</td>
 <td>N/A</td>
 <td>Way nicer clothes than other Unidad.</td>
-<td>**Combat Outpost** northwest of **Remanzo Alpha**.</td>
+<td><b>Combat Outpost</b> northwest of <b>Remanzo Alpha</b>.</td>
 </tr>
 <tr>
 <td>Santa Blanca Sniper</td>
@@ -223,7 +223,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 <td>6P41<br>Type 95 <sub>[NR]</sub><br>Mk249 <sub>[FG]</sub></td>
 <td>16</td>
 <td>Always wears a helmet and balaclava.</td>
-<td>**Holy Malca Base** northwest of **Malca Delta**.</td>
+<td>**Holy Malca Base** northwest of <b>Malca Delta</b>.</td>
 </tr>
 <tr>
 <td>Los Sin Almas Heavy Soldier <sub>[NR]</sub></td>
@@ -242,7 +242,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 <td>AK-12<br>G36C<br>MPX<br>M4A1 <sub>[FG]</sub></td>
 <td>18</td>
 <td>May wear a white cowboy hat.</td>
-<td>Up to 5 at **Santa Muerte Idol** northwest of **Malca Bravo**.</td>
+<td>Up to 5 at <b>Santa Muerte Idol, Malca</b> northwest of <b>Malca Bravo</b>.</td>
 </tr>
 <tr>
 <td>Unidad Soldier</td>
@@ -256,7 +256,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 <td>Vector .45 ACP<br>PP19 <sub>[NR]</sub></td>
 <td>18</td>
 <td>Always wears a beret.</td>
-<td>**F.O.B. Serpiente** north of **Flor de Oro Bravo**.</td>
+<td><b>F.O.B. Serpiente</b> north of <b>Flor de Oro Bravo</b>.</td>
 </tr>
 <tr>
 <td>Extranjeros Jammer <sub>[FG]</sub></td>
@@ -275,9 +275,9 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 </tr>
 </table>
 
-<sub>[NR]</sub> *Narco Road DLC*<br>
-<sub>[FG]</sub> *Fallen Ghosts DLC*<br>
-<sub>[1]</sub> These seem to be very rare NPCs. Can be found sparsely around the map at spots labeled **Rebel Campsite**.
+<sub>[NR]</sub> <i>Narco Road DLC</i><br>
+<sub>[FG]</sub> <i>Fallen Ghosts DLC</i><br>
+<sub>[1]</sub> These seem to be very rare NPCs. Can be found sparsely around the map at spots labeled <b>Rebel Campsite</b>.
 
 **Remote Campsites/Checkpoints:**
 
