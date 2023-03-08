@@ -38,7 +38,7 @@
 <br>&emsp;[Beat General Baro easily.](#beat-general-baro-easily)
 <br>&emsp;[Unique Melee Animations](#unique-melee-animations)
 <br>&emsp;[Caviera Gloves Automatic Marking](#caviera-gloves-automatic-marking)
-<br>&emsp;[Night, Thermal, Steiner, and Splinter Cell Vision Modes](#night-thermal-steiner-and-splinter-cell-vision-modes)
+<br>&emsp;[Special Vision Modes](#special-vision-modes)
 <br>&emsp;[Keep NVG Flipped Down](#keep-nvg-flipped-down)
 <br>&emsp;[Crooked Optics](#crooked-optics)
 <br>&emsp;[Ghost Mode Round in Chamber](#ghost-mode-round-in-chamber)
@@ -122,162 +122,287 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 **NPC Health:**
 
 <table>
-<tr>
-<th scope="col">DESIGNATION</th>
-<th scope="col">LOADOUT(S)</th>
-<th scope="col">SHOTS TAKEN FROM WHISPER PISTOL</th>
-<th scope="col">IDENTIFYING CHARACTERISTICS</th>
-<th scope="col">LOCATIONS</th>
-</tr>
-<tr>
-<td>Bolivian Civilian</td>
-<td>Unarmed</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>Rebel Soldier</td>
-<td>AK-47<br>Skorpion, M4A1 <sub>[FG]</sub></td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>Rebel Veteran</td>
-<td>SR3M<br>M4A1 <sub>[FG]</sub></td>
-<td>N/A</td>
-<td>Always wears a beret or bucket hat over a chullo.</td>
-<td></td>
-</tr>
-<tr>
-<td>Rebel Heavy Solder</td>
-<td>6P41</td>
-<td>N/A</td>
-<td>Always wears a brightly colored balaclava.</td>
-<td></td>
-</tr>
-<tr>
-<td>Rebel Sniper <sub>[1]</sub></td>
-<td>M40A5</td>
-<td>N/A</td>
-<td>Wears ghillie upper.</td>
-<td>Spots named <b>Rebel Campsite</b>.</td>
-</tr>
-<tr>
-<td>Santa Blanca Lieutenant</td>
-<td>Unarmed</td>
-<td>N/A</td>
-<td>Way nicer clothes than other SB.</td>
-<td></td>
-</tr>
-<tr>
-<td>Unidad Lieutenant</td>
-<td>Unarmed</td>
-<td>N/A</td>
-<td>Way nicer clothes than other Unidad.</td>
-<td><b>Combat Outpost</b> northwest of <b>Remanzo Alpha</b>.</td>
-</tr>
-<tr>
-<td>Santa Blanca Sniper</td>
-<td>M40A5<br>Dragunov <sub>[NR]</sub><br>SR25 <sub>[FG]</sub></td>
-<td>4</td>
-<td>Wears ghillie upper.</td>
-<td></td>
-</tr>
-<tr>
-<td>Los Sin Almas Sniper <sub>[NR]</sub></td>
-<td>Dragunov</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Unidad Sniper</td>
-<td>MSR<br>Dragunov <sub>[NR]</sub><br>SR25 <sub>[FG]</sub></td>
-<td>5</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Extranjeros Sniper <sub>[FG]</sub></td>
-<td>BFG-50A</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Santa Blanca Soldier</td>
-<td>M4A1<br>805 Bren A2<br>PP19<br>Dual-Wield SMG-11<br>D-50 <sub>[FG]</sub><br>MP7 <sub>[FG]</sub></td>
-<td>5</td>
-</tr>
-<tr>
-<td>Santa Blanca Soldier (Vested)</td>
-<td>G36C<br>805 Bren A2<br>MPX<br>Dual-Wield Skorpion<br>Dual-Wield SMG-11<br>AK-47 <sub>[NR]</sub><br>PP19 <sub>[NR]</sub><br>D-50 <sub>[FG]</sub></td>
-<td>13</td>
-</tr>
-<tr>
-<td>Los Sin Almas Soldier (Vested) <sub>[NR]</sub></td>
-<td>AK-47<br>PP19</td>
-<td>13</td>
-</tr>
-<tr>
-<td>Los Sin Almas Veteran <sub>[NR]</sub></td>
-<td>AK-47</td>
-<td>13</td>
-</tr>
-<tr>
-<td>Santa Blanca Heavy Soldier</td>
-<td>6P41<br>Type 95 <sub>[NR]</sub><br>Mk249 <sub>[FG]</sub></td>
-<td>16</td>
-<td>Always wears a helmet and balaclava.</td>
-<td>**Holy Malca Base** northwest of <b>Malca Delta</b>.</td>
-</tr>
-<tr>
-<td>Los Sin Almas Heavy Soldier <sub>[NR]</sub></td>
-<td>Type 95</td>
-<td>17</td>
-</tr>
-<tr>
-<td>Unidad Heavy Soldier</td>
-<td>Mk249<br>Type 95 <sub>[NR]</sub></td>
-<td>17</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Santa Blanca Veteran</td>
-<td>AK-12<br>G36C<br>MPX<br>M4A1 <sub>[FG]</sub></td>
-<td>18</td>
-<td>May wear a white cowboy hat.</td>
-<td>Up to 5 at <b>Santa Muerte Idol, Malca</b> northwest of <b>Malca Bravo</b>.</td>
-</tr>
-<tr>
-<td>Unidad Soldier</td>
-<td>R5 RGP<br>AK-47 <sub>[NR]</sub><br>M4A1 <sub>[FG]</sub></td>
-<td>18</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Unidad Veteran</td>
-<td>Vector .45 ACP<br>PP19 <sub>[NR]</sub></td>
-<td>18</td>
-<td>Always wears a beret.</td>
-<td><b>F.O.B. Serpiente</b> north of <b>Flor de Oro Bravo</b>.</td>
-</tr>
-<tr>
-<td>Extranjeros Jammer <sub>[FG]</sub></td>
-<td>MDR (Suppressed)</td>
-<td>18</td>
-</tr>
-<tr>
-<td>Extranjeros Footman <sub>[FG]</sub></td>
-<td>TAR-21</td>
-<td>18</td>
-</tr>
-<tr>
-<td>Extranjeros Armored <sub>[FG]</sub></td>
-<td>R4</td>
-<td>18 (Headshots)</td>
-</tr>
+    <tr>
+        <th scope="col">DESIGNATION</th>
+        <th scope="col">LOADOUT(S)</th>
+        <th scope="col">SHOTS TAKEN FROM WHISPER PISTOL</th>
+        <th scope="col">IDENTIFYING CHARACTERISTICS</th>
+        <th scope="col">LOCATIONS</th>
+    </tr>
+    <tr>
+        <td>Bolivian Civilian</td>
+        <td>Unarmed</td>
+        <td>N/A</td>
+        <td></td>
+        <td>
+            <ul>
+                <li>Entire map.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Rebel Soldier</td>
+        <td>AK-47<br>Skorpion, M4A1 <sub><b>[FG]</b></sub></td>
+        <td>N/A</td>
+        <td></td>
+        <td>
+			<ul>
+				<li>Road patrols.</li>
+				<li>Rebel hideouts.</li>
+				<li>Random scenarios.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Rebel Veteran</td>
+        <td>SR3M<br>M4A1 <sub><b>[FG]</b></sub></td>
+        <td>N/A</td>
+        <td>Always wears a beret or bucket hat over a chullo.</td>
+        <td>
+			<ul>
+				<li>Rebel hideouts.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Rebel Heavy Solder</td>
+        <td>6P41</td>
+        <td>N/A</td>
+        <td>Always wears a brightly colored balaclava.</td>
+        <td>
+			<ul>
+				<li>Road patrols.</li>
+				<li>Rebel hideouts.</li>
+				<li>Random scenarios.</li>
+				<li>Spawns in when calling <b>Guns For Hire</b> and <b>Diversion</b>.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Rebel Sniper <sub><b>[1]</b></sub></td>
+        <td>M40A5</td>
+        <td>N/A</td>
+        <td>Wears ghillie upper.</td>
+        <td>
+			<ul>
+				<li>Spots named <b>Rebel Campsite</b>.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Santa Blanca Lieutenant</td>
+        <td>Unarmed</td>
+        <td>N/A</td>
+        <td>Way nicer clothes than other SB.</td>
+        <td>
+			<ul>
+				<li>Spots named <b>Rebel Campsite</b>.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Unidad Lieutenant</td>
+        <td>Unarmed</td>
+        <td>N/A</td>
+        <td>Way nicer clothes than other Unidad.</td>
+		<td>
+			<ul>
+				<li><b>Combat Outpost</b> NW of <b>Remanzo Alpha</b>.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Santa Blanca Sniper</td>
+        <td>M40A5<br>Dragunov <sub><b>[NR]</b></sub><br>SR25 <sub><b>[FG]</b></sub></td>
+        <td>4</td>
+        <td>Wears ghillie upper.</td>
+        <td>
+			<ul>
+				<li>All SBC bases.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Los Sin Almas Sniper <sub><b>[NR]</b></sub></td>
+        <td>Dragunov</td>
+        <td>4</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Unidad Sniper</td>
+        <td>MSR<br>Dragunov <sub><b>[NR]</b></sub><br>SR25 <sub><b>[FG]</b></sub></td>
+        <td>5</td>
+        <td></td>
+        <td>
+			<ul>
+				<li>All Unidad bases.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Extranjeros Sniper <sub><b>[FG]</b></sub></td>
+        <td>BFG-50A</td>
+        <td>5</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Santa Blanca Soldier</td>
+        <td>M4A1<br>805 Bren A2<br>PP19<br>Dual-Wield SMG-11<br>D-50 <sub><b>[FG]</b></sub><br>MP7 <sub><b>[FG]</b></sub></td>
+        <td>5</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Santa Blanca Soldier (Vested)</td>
+        <td>G36C<br>805 Bren A2<br>MPX<br>Dual-Wield Skorpion<br>Dual-Wield SMG-11<br>AK-47 <sub><b>[NR]</b></sub><br>PP19 <sub><b>[NR]</b></sub><br>D-50 <sub><b>[FG]</b></sub></td>
+        <td>13</td>
+        <td></td>
+        <td>
+			<ul>
+				<li>More common in higher difficulty provinces.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Los Sin Almas Soldier (Vested) <sub><b>[NR]</b></sub></td>
+        <td>AK-47<br>PP19</td>
+        <td>13</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Los Sin Almas Veteran <sub><b>[NR]</b></sub></td>
+        <td>AK-47</td>
+        <td>13</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Santa Blanca Heavy Soldier</td>
+        <td>6P41<br>Type 95 <sub><b>[NR]</b></sub><br>Mk249 <sub><b>[FG]</b></sub></td>
+        <td>16</td>
+        <td>Always wears a helmet and balaclava.</td>
+		<td>
+			<ul>
+				<li><b>Holy Malca Base</b> NW of <b>Malca Delta</b>.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Los Sin Almas Heavy Soldier <sub><b>[NR]</b></sub></td>
+        <td>Type 95</td>
+        <td>17</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Unidad Heavy Soldier</td>
+        <td>Mk249<br>Type 95 <sub><b>[NR]</b></sub></td>
+        <td>17</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Santa Blanca Veteran</td>
+        <td>AK-12<br>G36C<br>MPX<br>M4A1 <sub><b>[FG]</b></sub></td>
+        <td>18</td>
+        <td>May wear a white/black cowboy hat.</td>
+		<td>
+			<ul>
+				<li>Up to 5 at <b>Santa Muerte Idol, Malca</b> NW of <b>Malca Bravo</b>.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Unidad Soldier</td>
+        <td>R5 RGP<br>AK-47 <sub><b>[NR]</b></sub><br>M4A1 <sub><b>[FG]</b></sub></td>
+        <td>18</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Unidad Veteran</td>
+        <td>Vector .45 ACP<br>PP19 <sub><b>[NR]</b></sub></td>
+        <td>18</td>
+        <td>Always wears a beret.</td>
+		<td>
+			<ul>
+				<li><b>F.O.B. Serpiente</b> north of <b>Flor de Oro Bravo</b>.</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Extranjeros Jammer <sub><b>[FG]</b></sub></td>
+        <td>MDR (Suppressed)</td>
+        <td>18</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Extranjeros Footman <sub><b>[FG]</b></sub></td>
+        <td>TAR-21</td>
+        <td>18</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Extranjeros Armored <sub><b>[FG]</b></sub></td>
+        <td>R4</td>
+        <td>18 (Headshots)</td>
+        <td></td>
+        <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+    </tr>
 </table>
 
-<sub>[NR]</sub> <i>Narco Road DLC</i><br>
-<sub>[FG]</sub> <i>Fallen Ghosts DLC</i><br>
-<sub>[1]</sub> These seem to be very rare NPCs. Can be found sparsely around the map at spots labeled <b>Rebel Campsite</b>.
+<sub><b>[NR]</b></sub> <i>Narco Road DLC</i><br>
+<sub><b>[FG]</b></sub> <i>Fallen Ghosts DLC</i><br>
+<sub><b>[1]</b></sub> These seem to be very rare NPCs. Can be found sparsely around the map at spots labeled <b>Rebel Campsite</b>.
 
 **Remote Campsites/Checkpoints:**
 
@@ -298,26 +423,35 @@ There are many bases in both the stock game and DLCs. Listed below are statistic
 <th scope="col">SOLDIERS</th>
 </tr>
 <tr>
-<td>F.O.B. Serpiente <sub>[NR]</sub></td>
-<td>Flor de Oro</td>
-<td>71</td>
-<td>18</td>
-<td>16</td>
-<td>1</td>
-<td>36</td>
+  <td>F.O.B. Serpiente <sub><b>[NR]</b></sub></td>
+  <td>Flor de Oro</td>
+  <td>71</td>
+  <td>18</td>
+  <td>16</td>
+  <td>1</td>
+  <td>36</td>
 </tr>
 <tr>
-<td>M.O.B. Condor<br>[Full House Glitch](#mob-condor-full-house)</td>
-<td>Media Luna</td>
-<td>70</td>
-<td>15</td>
-<td>10</td>
-<td>4</td>
-<td>41</td>
+  <td>M.O.B. Condor<br>(Full House Glitch)</td>
+  <td>Media Luna</td>
+  <td>70</td>
+  <td>15</td>
+  <td>10</td>
+  <td>4</td>
+  <td>41</td>
+</tr>
+<tr>
+  <td>Outpost<br>(SW of <b>Villa Verde Alpha</b>)</td>
+  <td>Villa Verde</td>
+  <td>16<br>26 w/ <b>Network Station</b></td>
+  <td>2</td>
+  <td>8</td>
+  <td>0</td>
+  <td>6<br>10 in <b>Network Station</b></td>
 </tr>
 </table>
 
-**<sub>[NR]</sub>** *In Narco Road DLC*
+**<sub><b>[NR]</b></sub>** *In Narco Road DLC*
 
 **Road Patrols:**
 
@@ -330,7 +464,7 @@ Below is data taken from observing road patrol vehicles in the full game and bot
 <th scope="col">OCCUPANT TYPES</th>
 </tr>
 <tr>
-<td>Unidad Helicopter <sub>[x]</sub></td>
+<td>Unidad Helicopter <sub><b>[x]</b></sub></td>
 <td>6</td>
 <td>Unidad Soldier</td>
 </tr>
@@ -350,30 +484,30 @@ Below is data taken from observing road patrol vehicles in the full game and bot
 <td>Unidad Soldier<br>Unidad Heavy</td>
 </tr>
 <tr>
-<td>Unidad Pickup <sub>[x]</sub></td>
+<td>Unidad Pickup <sub><b>[x]</b></sub></td>
 <td>2</td>
 <td>Unidad Soldier</td>
 </tr>
 <tr>
-<td>Unidad Buggy <sub>[x]</sub></td>
+<td>Unidad Buggy <sub><b>[x]</b></sub></td>
 <td>2</td>
 <td>Unidad Soldier</td>
 </tr>
 <tr>
-<td>Extranjeros Armored SUV <sub>[FG]</sub></td>
+<td>Extranjeros Armored SUV <sub><b>[FG]</b></sub></td>
 <td>2</td>
 <td>Extranjeros Footman</td>
 </tr>
 <tr>
-<td>Santa Blanca Trophy Buggy <sub>[FG]</sub></td>
+<td>Santa Blanca Trophy Buggy <sub><b>[FG]</b></sub></td>
 <td>2</td>
 <td>Santa Blanca Soldier (Vested)</td>
 </tr>
 </table>
 
-<sub>[x]</sub> *Occupants do not vary.*<br>
-<sub>[NR]</sub> *Narco Road DLC*<br>
-<sub>[FG]</sub> *Fallen Ghosts DLC*
+<sub><b>[x]</b></sub> *Occupants do not vary.*<br>
+<sub><b>[NR]</b></sub> *Narco Road DLC*<br>
+<sub><b>[FG]</b></sub> *Fallen Ghosts DLC*
 
 ### Stealth Mechanics
 
@@ -383,7 +517,7 @@ All weapon classes have their own noise detection with no difference between wea
 <tr>
 <th scope="col">CLASS</th>
 <th scope="col">SUPPRESSED<br>SUSPECTED</th>
-<th scope="col">UNSUPPRESSED<br>SUSPECTED <sub>[1]</sub></th>
+<th scope="col">UNSUPPRESSED<br>SUSPECTED <sub><b>[1]</b></sub></th>
 </tr>
 <tr>
 <td>Crossbow<br>Five-seveN Blacklist<br>Whisper</td>
@@ -422,7 +556,7 @@ All weapon classes have their own noise detection with no difference between wea
 </tr>
 </table>
 
-<sub>[1]</sub> The **Compensator** does not affect loudness, despite showing that it decreases the **Noise Reduction** stat.
+<sub><b>[1]</b></sub> The <b>Compensator</b> does not affect loudness, despite showing that it decreases the <b>Noise Reduction</b> stat.
 
 Time of day also plays a part in visual detection distance (lighting in general does). Ubisoft ported a Splinter Cell system of sorts. It allows for variable detection speed based on light level. Dark areas reveal less therefore you get spotted slower in the shadows. Opposite goes for broad daylight in an open field with no brush. Speaking of bushes, they act as concealment for all players but not NPCs. You can mark an enemy hiding behind a bush, but they cannot see you hiding behind the same bush. Enemies will also not see you behind any sort of solid cover. However you can get spotted hiding behind what may appear to be solid cover. Things like boxes and metal dolleys, basically everything that you can move by just walking into it, is not cover nor concealment despite its solid appearance. The game engine treats all moveable objects as simply that and no more. Below are the ranges at which enemies begin to spot the player. These were tested in barren, unobscured conditions (no cover/concealment blocking view) against both SBC and Unidad forces at the Koani Air Base in Koani and F.O.B. Serpiente in Flor de Oro. No spotting distance differences were found between factions nor solider types (unarmored, vested, veteran, heavy). Snipers are the only NPC type which has altered sight distances, rightfully so. All of that into account, apparently Unidad is no more elite than some cokeheads with guns.
 
@@ -463,14 +597,14 @@ Time of day also plays a part in visual detection distance (lighting in general 
 <td>101 m</td>
 </tr>
 <tr>
-<td>In Vehicle<sub>[*]</sub></td>
+<td>In Vehicle<sub><b>[*]</b></sub></td>
 <td>12:00</td>
 <td>11 m</td>
 <td>35 m</td>
 <td>58 m</td>
 </tr>
 <tr>
-<td>In Vehicle<sub>[*]</sub></td>
+<td>In Vehicle<sub><b>[*]</b></sub></td>
 <td>00:00</td>
 <td>7 m</td>
 <td>19 m</td>
@@ -478,7 +612,7 @@ Time of day also plays a part in visual detection distance (lighting in general 
 </tr>
 </table>
 
-<sub>[*]</sub> *Enemies in vehicles have a 360&deg; visual radius. The vehicle does not act as cover/concealment visibility-wise, either.*
+<sub><b>[*]</b></sub> *Enemies in vehicles have a 360&deg; visual radius. The vehicle does not act as cover/concealment visibility-wise, either.*
 
 ### Guns and Attachments
 
@@ -574,87 +708,161 @@ Guerilla Mode can be used in conjunction with Tier Mode. Multipliers carry over 
 
 # Vehicle Stats
 
-Below are armor testing results and information on vehicles available in the game. All of these except for the **"Pickup Truck"**, **"Armored SUV"**, and **"Helicopter"** are unlocked via **Prestige/Spec Ops Crate**. The former three are unlocked through **Rebel Support** missions. All shot numbers listed apply to all variants of the vehicles. All names are listed as they appear when unlocked via Crate. Parenthesis include other names the vehicle could go by and/or names shown when entering them. 
-
-Vehicle | Location(s)
-:--- | ---
-Sports Car <sub>[1]</sub><br>(Lambo) | Khochi, Itacua (E of **Itacua Delta**)<br>Outpost, Barvechos (W of **Barvechos Alpha**)<br>Outpost, Koani (W of **Remanzo Alpha**)
-Extreme Sports Car (VS Lambo) | Los Humildes Peregrinos, Espiritu Santo (E of **Espiritu Santo Delta**)
-Offroader (Unidad Jeep 4x4) | Vieja Granja, Itacua (NE of **Itacua Alpha**)<br>San Martin Mountain Hut, Inca Camina (SW of **Inca Camina Charlie**)
-Trophy Truck <sub>[2]</sub> | Koani Air Base (NE of **Koani Bravo**)<br>Koani Railway Camp (S of **Koani Delta**)<br>Buchon House, La Cruz (E of **La Cruz Bravo**)
-Armored Digger | Outpost, San Mateo (E of **San Mateo Bravo**)<br>Sueno Mausoleum, Pucara (NE of **Pucara Alpha**)
-Cigar Boat | Buchon House, Agua Verde (E of **Agua Verde Alpha**)
-Unidad Buggy | Armadillo Hunting Lodge, Flor de Oro (SW of **Libertad Charlie**)
-Unidad Armored Buggy | Huma Chua Sawmill, Flor de Oro (E of **Malca Charlie**)
-Military Chopper | F.O.B. Serpiente, Flor de Oro (N of **Flor de Oro Bravo**)<br>F.O.B. Buitre, Media Luna (E of **Media Luna Alpha**)<br>M.O.B. Condor, Media Luna (NE of **San Mateo Alpha**)
-
-<sub>[1]</sub> May spawn being driven by **Santa Blanca Lieutenants**.
-<sub>[2]</sub> Small chance to spawn at random campsites held by **Santa Blanca**.
+Below are armor testing results and information on vehicles available in the game. All of these except for the **"Pickup Truck"**, **"Armored SUV"**, and **"Helicopter"** are unlocked via **Prestige/Spec Ops Crate**. The former three are unlocked through **Network Station** missions. All shot numbers listed apply to all variants of the vehicles. All names are listed as they appear when unlocked via Crate. Parenthesis include other names the vehicle could go by and/or names shown when entering them.
 
 <table>
-<tr>
-<th scope="col">VEHICLE(S)</th>
-<th scope="col">SHOTS TAKEN<br>(VS M60E4)</th>
-</tr>
-<tr>
-<td>APC <sub>[S] [U]</sub></td>
-<td>33</td>
-</tr>
-<tr>
-<td>Military 4x4 (Humvee) <sub>[S]</sub><br>Armored SUV <sub>[U]</sub>
-<td>19</td>
-</tr>
-<tr>
-<td>Military Truck (Barracks) <sub>[U]</sub><br>Old School Truck (Comms Convoy) <sub>[S]</sub></td>
-<td>17</td>
-</tr>
-<tr>
-<td>SB Trophy Buggy <sub>[S]</sub><br>Trophy Truck <sub>[S]</sub><br>Armored Digger <sub>[S] [U]</sub><br>DIY Armored Truck<br>Truck <sub>[R] [C]</sub><br>Tanker <sub>[C]</sub><br>Tractor</td>
-<td>16</td>
-</tr>
-<tr>
-<td>Unidad Armored Buggy (AMV) <sub>[U]</sub><br>Zeus Pickup <sub>[S]</sub></td>
-<td>15</td>
-</tr>
-<tr>
-<td>Rescue Helicopter<br>Unidad Buggy (Small) <sub>[U]</sub></td>
-<td>13</td>
-</tr>
-<tr>
-<td>Rescue Truck (Meds Convoy) <sub>[S]</sub><br>Unidad 4x4 (Camo Jeep)<sub>[U]</sub><br>Unidad Truck (F-350)<sub>[U]</sub></td>
-<td>12</td>
-</tr>
-<tr>
-<td>Offroader (Black Jeep)<br>Plane (Large) <sub>[S] [U] [C]</sub><br>Plane (Small) <sub>[S] [U] [C]</sub><br>Pickup <sub>[R] [C]</sub><br>SUV <sub>[C]</sub>,4x4 <sub>[S]</sub><br>Van <sub>[C]</sub></td>
-<td>11</td>
-</tr>
-<tr>
-<td>Helicopter (Large) <sub>[S] [U]</sub><br>Sports Car <sub>[S]</sub><br>Muscle Car <sub>[S]</sub><br>Sedan <sub>[S]</sub></td>
-<td>10</td>
-</tr>
-<tr>
-<td>Military Chopper (Apache) <sub>[U]</sub><br>Helicopter (Small) <sub>[S] [U] [R]</sub><br>Vintage Car <sub>[S]</sub></td>
-<td>9</td>
-</tr>
-<tr>
-<td>Bike</td>
-<td>6</td>
-</tr>
+    <tr>
+        <th scope="col">VEHICLE(S)</th>
+        <th scope="col">SHOTS TAKEN<br>(VS M60E4)</th>
+		<th scope="col">LOCATIONS</th>
+    </tr>
+    <tr>
+        <td>APC <sub><b>[S] [U]</b></sub></td>
+        <td>33</td>
+		<td>
+			<ul>
+				<li></li>
+			<ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Military 4x4 (Humvee) <sub><b>[S]</b></sub><br>Armored SUV <sub><b>[U]</b></sub>
+        <td>19</td>
+		<td>
+			<ul>
+				<li></li>
+			<ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Military Truck (Barracks) <sub><b>[U]</b></sub><br>Old School Truck (Comms Convoy) <sub><b>[S]</b></sub></td>
+        <td>17</td>
+		<td>
+			<ul>
+				<li></li>
+			<ul>
+		</td>
+    </tr>
+    <tr>
+        <td>SB Trophy Buggy <sub><b>[S]</b></sub><br>Trophy Truck <sub><b>[S]</b></sub><br>Armored Digger <sub><b>[S] [U]</b></sub><br>DIY Armored Truck<br>Truck <sub><b>[R] [C]</b></sub><br>Tanker <sub><b>[C]</b></sub><br>Tractor</td>
+        <td>16</td>
+		<td>
+      <b>Trophy Buggy</b> can be found parked at:
+			<ul>
+				<li><b>Koani Air Base</b> (NE of <b>Koani Bravo</b>)</li>
+      </ul>
+      <b>Trophy Truck</b> can be found parked at:
+			<ul>
+				<li><b>Koani Air Base</b> (NE of <b>Koani Bravo</b>)</li>
+        <li><b>Koani Railway Camp</b> (S of <b>Koani Delta</b>)</li>
+        <li><b>Buchon House, La Cruz</b> (E of <b>La Cruz Bravo</b>)</li>
+        <li>Small chance to spawn parked at random scenarios involving SBC.</li>
+			</ul>
+      <b>Armored Digger</b> can be found parked at:
+      <ul>
+        <li><b>Outpost, San Mateo</b> (E of <b>San Mateo Bravo</b>)</li>
+        <li><b>Sueno Mausoleum, Pucara</b> (E of <b>Pucara Alpha</b>)</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Unidad Armored Buggy (AMV) <sub><b>[U]</b></sub><br>Zeus Pickup <sub><b>[S]</b></sub></td>
+        <td>15</td>
+		<td>
+				<b>Unidad AMV</b> can be found parked at:
+        <ul>
+          <li><b>Huma Chua Sawmill, Flor de Oro</b> (E of <b>Malca Charlie</b>)</li>
+        </ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Rescue Helicopter<br>Unidad Buggy (Small) <sub><b>[U]</b></sub></td>
+        <td>13</td>
+		<td>
+			<b>Unidad Buggy</b> can be found parked at:
+      <ul>
+        <li><b>Armadillo Hunting Lodge, Flor de Oro</b> (SW of <b>Libertad Charlie</b>)</li>
+      </ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Rescue Truck (Meds Convoy) <sub><b>[S]</b></sub><br>Unidad 4x4 (Camo Jeep)<sub><b>[U]</b></sub><br>Unidad Truck (F-350)<sub><b>[U]</b></sub></td>
+        <td>12</td>
+		<td>
+			<ul>
+				<li></li>
+			<ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Offroader (Black Jeep)<br>Plane (Large) <sub><b>[S] [U] [C]</b></sub><br>Plane (Small) <sub><b>[S] [U] [C]</b></sub><br>Pickup <sub><b>[R] [C]</b></sub><br>SUV <sub><b>[C]</b></sub>,4x4 <sub><b>[S]</b></sub><br>Van <sub><b>[C]</b></sub></td>
+        <td>11</td>
+		<td>
+			<b>Offroader</b> can be found parked at:
+      <ul>
+        <li><b>Vieja Granja, Itacua</b> (NE of <b>Itacua Alpha</b>)</li>
+        <li><b>-20.4200, 66.3405</b> (E of <b>San Martin Mountain Hut</b>, SW of <b>Inca Camina Charlie</b>)</li>
+        <li><b>-20.6980, -61.5744</b> (NE of <b>Icoya, Malca</b>)</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Helicopter (Large) <sub><b>[S] [U]</b></sub><br>Sports Car (Murcie)<sub><b>[S]</b></sub><br>Extreme Sports Car ("VS" Murcie)<br>Muscle Car <sub><b>[S]</b></sub><br>Sedan <sub><b>[S]</b></sub></td>
+        <td>10</td>
+		<td>
+			<b>Sports Car</b> can be found driven by <b>Santa Blanca Lieutenants</b>.
+			<b>Sports Car</b> can be found parked at:
+      <ul>
+        <li><b>Khochi, Itacua</b> (E of <b>Itacua Delta</b>)</li>
+        <li><b>Outpost, Barvechos</b> (W of <b>Barvechos Alpha</b>)</li>
+        <li><b>Outpost, Koani</b> (W of <b>Remanzo Alpha</b>)</li>
+			</ul>
+      <b>Extreme Sports Car</b> can be found parked at:
+      <ul>
+        <li><b>Los Humildes Peregrinos, Espiritu Santo</b> (E of <b>Espiritu Santo Delta</b>)</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Military Chopper (Apache) <sub><b>[U]</b></sub><br>Helicopter (Small) <sub><b>[S] [U] [R]</b></sub><br>Vintage Car <sub><b>[S]</b></sub></td>
+        <td>9</td>
+		<td>
+			<b>Military Chopper</b> can be found parked at:
+      <ul>
+        <li><b>F.O.B. Serpiente, Flor de Oro</b> (N of <b>Flor de Oro Bravo</b>)</li>
+        <li><b>F.O.B. Buitre, Media Luna</b> (E of <b>Media Luna Alpha</b>)</li>
+        <li><b>M.O.B. Condor, Media Luna</b> (NE of <b>San Mateo Alpha</b>)</li>
+			</ul>
+		</td>
+    </tr>
+    <tr>
+        <td>Bike</td>
+        <td>6</td>
+		<td>
+			<ul>
+				<li></li>
+			<ul>
+		</td>
+    </tr>
 </table>
 
-<sub>[x]</sub> *Passenger can enter and fire from the trunk.*<br>
-<sub>[R]</sub> *Used by the Rebels and/or located at their campsites.*<br>
-<sub>[U]</sub> *Used by Unidad and/or located at their campsites.*<br>
-<sub>[S]</sub> *Used by SBC and/or located at their campsites..*<br>
-<sub>[C]</sub> *Used by civilian NPCs and may spawn randomly.*
+<sub><b>[x]</b></sub> *Passenger can enter and fire from the trunk.*<br>
+<sub><b>[R]</b></sub> *Used by the Rebels and/or located at their campsites.*<br>
+<sub><b>[U]</b></sub> *Used by Unidad and/or located at their campsites.*<br>
+<sub><b>[S]</b></sub> *Used by SBC and/or located at their campsites..*<br>
+<sub><b>[C]</b></sub> *Used by civilian NPCs and may spawn randomly.*
 
 # Weapon Stats
 
 ### Paint Wear
 
-Guns will wear down over time. It's purely visual, performance is not affected by this. Gun wear is per gun, not per paint. Therefore, you can switch paints while retaining the gun's wear. You can reset a gun's wear to "clean" it, making the paint all sparkly, clear, and new. I haven't found any specific way to get a gun to wear quickly. Seems just having the gun equipped works, as I have a very worn Super Shorty even though I only use it as a placeholder when I use one primary.
+Guns will wear down over time. It's purely visual, performance is not affected by this. Gun wear is per gun, not per paint. Therefore, you can switch paints while retaining the gun's wear. You can reset a gun's wear to "clean" it, making the paint all sparkly, clear, and new. I haven't found any specific way to get a gun to wear quickly.
 
-Obviously shooting the gun contributes, but I'm unable to measure how it affects the rate at which a gun wears. It also appears shots that don't hit anything damagable don't count towards wear. Hits on vehicles and defense systems (SAMs, jammers, etc) that haven't been blown up and hits on enemies seem to be the only hits that count towards gun wear. Swimming through water doesn't appear to affect wear, either.
+*Stuff I've observed so far:*
+
+- Hits on peds, vehicles, and defense systems (SAMs, jammers, etc) that haven't been blown up seem to be the only hits that count towards gun wear. Shots that don't hit anything which can take damage are disregarded.
+- Just having the gun equipped contributes to wear, albeit at a slower rate than actually using it.
+- Seems like there are four stages of visual gun wear. The next stage is pushed every 20 kills.
 
 ### Scopes/Optics
 
@@ -673,7 +881,7 @@ Statistically speaking, the best loadout in vanilla Wildlands (the stock version
 DLC weapons which perform better than the aforementioned are: **416**, **BFG-50A**, and **Five-seveN Blacklist**.
 
 - **416** does everything the **M4A1** does, but better.
-- **BFG-50A** *or* **Desert Tech HTI BDC** *or* **SR25 Jungle**. It's hard to argue for **HTI BDC** when the **BFG** is just a semi auto **HTI**. To be fair, the **HTI BDC** has less bullet drop, but the **Jungle** has a 20-round mag, is semi-auto, shoots flat out to 350m, and holds one-shot capability to everything. The **SR25 Jungle** is basically a combination of **HTI BDC** damage but shoots faster and flatter than any of the other one-shot rifles.
+- **BFG-50A** *or* **Desert Tech HTI BDC** *or* **SR25 Jungle**. It's hard to argue for **HTI BDC** when the **BFG** is just a semi auto **HTI**. To be fair, the **HTI BDC** has less bullet drop, but the **Jungle** has a 20-round mag, is semi-auto, shoots flat out to 350m, and holds one-shot capability to everything. The **SR25 Jungle** is basically a combination of **HTI BDC** damage but shoots faster and flatter than the **BFG-50A**.
 - **Five-seveN Blacklist** has high damage and velocity, but also doesn't alert enemies. (Similar to the **Whisper**, but it has the absolute lowest damage of any weapon in the game.)
 
 Therefore the statistical best loadout including DLC weapons is: **416**, **SR25 Jungle**, and **Five-seveN Blacklist**.
@@ -682,11 +890,9 @@ And here's some honorable mentions:
 
 Gun | Class | Details
 :--- | --- | ---
-Mk 16 | Assault Rifle | Aka the **SCAR-L**. Essentially a **Mk 17** with a faster reload.
-Mk 17 | Assault Rifle | Slower than **Mk 16**, but it's so much fun.
-R5 RGP | Assault Rifle | An AR15 platform which shoots similar to an AK. Low fire rate, high damage.
+Mk 16<br>Mk 17<br>R5 RGP | Assault Rifle | Low fire rate, high damage, high recoil.<ul><li><b>Mk 16</b> is the <b>Mk 17</b>, but with a bit less recoil and faster reload.</li><li><b>Mk 17</b> is high damage, but slow reload.</li><li><b>R5 RGP</b> is the <b>Mk 16</b> in an AR15 package.</ul>
 AK-12<br>G36C | Assault Rifle | Performs similarly to **M4A1**.
-BFG-50A | Sniper Rifle | An **HTI** with slightly less bullet drop... and semi auto.
+BFG-50A | Sniper Rifle | A semi auto **HTI** with slightly less bullet drop.
 MSR | Sniper Rifle | The best balanced sniper rifle. 10-round magazine capacity, guaranteed one-shot kill to personnel (with long barrel), two-shots helicopters, and manageable bullet drop (not the best but definitely not the worst).
 M40A5 | Sniper Rifle | One shots when equipped with Long Barrel. Requires some skill to use effectively.
 Vector .45 ACP<br>Scorpion EVO 3 | Submachine Gun | brrrrr
@@ -734,12 +940,12 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>136m</td>
 </tr>
 <tr>
-<td>Wilderness<sub>[DLC]</sub></td>
+<td>Wilderness<sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>80m</td>
 </tr>
 <tr>
-<td>RevSG-12<sub>[DLC]</sub></td>
+<td>RevSG-12<sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>78m</td>
 </tr>
@@ -754,12 +960,12 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>70m</td>
 </tr>
 <tr>
-<td>Model 1887<sub>[DLC]</sub></td>
+<td>Model 1887<sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>66m</td>
 </tr>
 <tr>
-<td>Ice Shard<sub>[DLC]</sub></td>
+<td>Ice Shard<sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>64m</td>
 </tr>
@@ -774,17 +980,17 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>60m</td>
 </tr>
 <tr>
-<td>M4 Super 90<sub>[DLC]</sub></td>
+<td>M4 Super 90<sub><b>[DLC]</b></sub></td>
 <td>Short, Standard</td>
 <td>62m</td>
 </tr>
 <tr>
-<td>ACS-12<sub>[DLC]</sub></td>
+<td>ACS-12<sub><b>[DLC]</b></sub></td>
 <td>Standard</td>
 <td>62m</td>
 </tr>
 <tr>
-<td>SPAS-12 Skulls and Blood<sub>[DLC]</sub></td>
+<td>SPAS-12 Skulls and Blood<sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>60m</td>
 </tr>
@@ -794,12 +1000,12 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>58m</td>
 </tr>
 <tr>
-<td>SASG-12 Frontier<sub>[DLC]</sub></td>
+<td>SASG-12 Frontier<sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>54m</td>
 </tr>
 <tr>
-<td>SPAS-12 Secutor<sub>[DLC]</sub></td>
+<td>SPAS-12 Secutor<sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>50m</td>
 </tr>
@@ -809,7 +1015,7 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>24m</td>
 </tr>
 <tr>
-<td>Super Shorty Legacy<sub>[DLC]</sub></td>
+<td>Super Shorty Legacy<sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>24m</td>
 </tr>
@@ -833,7 +1039,7 @@ Below are test results for all sidearms in the game. Range values are tested max
 <th scope="col">SOFTTARGET(BURST POTENTIAL)</th>
 </tr>
 <tr>
-<td>Jackdaw Pistol<sub>[DLC]</sub></td>
+<td>Jackdaw Pistol <sub><b>[DLC]</b></sub></td>
 <td>Lead Ball</td>
 <td>66m</td>
 <td>5</td>
@@ -861,25 +1067,25 @@ Below are test results for all sidearms in the game. Range values are tested max
 <td>7</td>
 </tr>
 <tr>
-<td>US Desert<sub>[DLC]</sub></td>
+<td>US Desert <sub><b>[DLC]</b></sub></td>
 <td>.50 AE</td>
 <td>136m</td>
 <td>7</td>
 </tr>
 <tr>
-<td>Luger<sub>[DLC]</sub></td>
+<td>Luger <sub><b>[DLC]</b></sub></td>
 <td>-</td>
 <td>136m</td>
 <td>7</td>
 </tr>
 <tr>
-<td>.357 Joker<sub>[DLC]</sub></td>
+<td>.357 Joker <sub><b>[DLC]</b></sub></td>
 <td>.357 Magnum</td>
 <td>136m</td>
 <td>7</td>
 </tr>
 <tr>
-<td>Peacemaker<sub>[DLC]</sub></td>
+<td>Peacemaker <sub><b>[DLC]</b></sub></td>
 <td>-</td>
 <td>136m</td>
 <td>8</td>
@@ -891,7 +1097,7 @@ Below are test results for all sidearms in the game. Range values are tested max
 <td>14</td>
 </tr>
 <tr>
-<td>Lady Killer<sub>[1]</sub></td>
+<td>Lady Killer <sub><b>[1]</b></sub></td>
 <td>5.7x28mm</td>
 <td>180m</td>
 <td>15</td>
@@ -899,7 +1105,7 @@ Below are test results for all sidearms in the game. Range values are tested max
 <td>3</td>
 </tr>
 <tr>
-<td>Five-seveN Blacklist<sub>[2]</sub><sub>[DLC]</sub></td>
+<td>Five-seveN Blacklist <sub><b>[2] [DLC]</b></sub></td>
 <td>5.7x28mm</td>
 <td>185m</td>
 <td>16</td>
@@ -907,7 +1113,7 @@ Below are test results for all sidearms in the game. Range values are tested max
 <td>3</td>
 </tr>
 <tr>
-<td>M9<sub>[3]</sub></td>
+<td>M9 <sub><b>[3]</b></sub></td>
 <td>9x19mm</td>
 <td>185m</td>
 <td>16</td>
@@ -915,7 +1121,7 @@ Below are test results for all sidearms in the game. Range values are tested max
 <td>3</td>
 </tr>
 <tr>
-<td>Luison<sub>[DLC]</sub></td>
+<td>Luison <sub><b>[DLC]</b></sub></td>
 <td>9x19mm</td>
 <td>185m</td>
 <td>16</td>
@@ -931,7 +1137,7 @@ Below are test results for all sidearms in the game. Range values are tested max
 <td>4</td>
 </tr>
 <tr>
-<td>1911 MARSOC<sub>[DLC]</sub></td>
+<td>1911 MARSOC <sub><b>[DLC]</b></sub></td>
 <td>.45 ACP</td>
 <td>190m</td>
 <td>17</td>
@@ -947,7 +1153,7 @@ Below are test results for all sidearms in the game. Range values are tested max
 <td>4</td>
 </tr>
 <tr>
-<td>P227 Urban<sub>[DLC]</sub></td>
+<td>P227 Urban <sub><b>[DLC]</b></sub></td>
 <td>192m</td>
 <td>17</td>
 </tr>
@@ -960,7 +1166,7 @@ Below are test results for all sidearms in the game. Range values are tested max
 <td>4</td>
 </tr>
 <tr>
-<td>M1911 Golden<sub>[DLC]</sub></td>
+<td>M1911 Golden <sub><b>[DLC]</b></sub></td>
 <td>192m</td>
 <td>18</td>
 </tr>
@@ -987,7 +1193,7 @@ Below are test results for all sidearms in the game. Range values are tested max
 <td>37</td>
 </tr>
 <tr>
-<td>Skorpion Skull<sub>[DLC]</sub></td>
+<td>Skorpion Skull <sub><b>[DLC]</b></sub></td>
 <td>-</td>
 <td>> 300m</td>
 <td>37</td>
@@ -1005,16 +1211,17 @@ Below are test results for all sidearms in the game. Range values are tested max
 <td>53</td>
 </tr>
 <tr>
-<td>SMG 11 Dragon<sub>[DLC]</sub></td>
+<td>SMG 11 Dragon <sub><b>[DLC]</b></sub></td>
 <td>-</td>
 <td>> 300m</td>
 <td>53</td>
 </tr>
 </table>
 
-<sub>[1]</sub> *The highest damage suppressable pistol in the game.*<br>
-<sub>[2]</sub> *The best all-around pistol. Integrally suppressed, high damage, and moderate bullet drop.*<br>
-<sub>[3]</sub> *The best all-around customizable pistol. Held by AI teammates. On par with the 5.7 USG but delivers a slightly more powerful blow. Also the only 9mm pistol in the game (other than the Whisper a.k.a. Maxim 9, which presumably uses 9mm ammunition as its real life counterpart does).*<br>
+<sub><b>[1]</b></sub> <i>The highest damage suppressable pistol in the game.</i><br>
+<sub><b>[2]</b></sub> <i>The best all-around pistol. Integrally suppressed, high damage, and moderate bullet drop.*</i><br>
+<sub><b>[3]</b></sub> <i>The best all-around customizable pistol. Held by AI teammates. On par with the 5.7 USG but delivers a slightly more powerful blow. Also the only 9mm pistol in the game (other than the Whisper a.k.a. Maxim 9, which presumably uses 9mm ammunition as its real life counterpart does).*</i><br>
+<sub><b>[DLC]</b></sub> <i>Obtained from crates.</i>
 
 ### Damage Stats
 
@@ -1032,7 +1239,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <th scope="col">SOFTTARGET(BURSTPOTENTIAL)</th>
 </tr>
 <tr>
-<td>SR25 Jungle<sub>[DLC]</sub></td>
+<td>SR25 Jungle <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
 <td>2</td>
@@ -1048,7 +1255,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>Musket<sub>[DLC]</sub></td>
+<td>Musket <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>Lead Ball</td>
 <td>2</td>
@@ -1056,7 +1263,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>Z93 AMR<sub>[DLC]</sub></td>
+<td>Z93 AMR <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.50 BMG</td>
 <td>2 (Long)<br>2 (Standard)</td>
@@ -1072,7 +1279,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
-<td>BFG-50A<sub>[DLC]</sub></td>
+<td>BFG-50A <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.50 BMG</td>
 <td>2 (Long)<br>3 (Standard)</td>
@@ -1080,7 +1287,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1 (Long)<br>1 (Standard)</td>
 </tr>
 <tr>
-<td>TAC-50<sub>[DLC]</sub></td>
+<td>TAC-50 <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.50 BMG</td>
 <td>3</td>
@@ -1088,7 +1295,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>KSVK<sub>[DLC]</sub></td>
+<td>KSVK <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>12.7x108mm</td>
 <td>3</td>
@@ -1096,7 +1303,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>Extranjeros BFG<sub>[DLC]</sub></td>
+<td>Extranjeros BFG <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.50 BMG</td>
 <td>4</td>
@@ -1104,7 +1311,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>HTI Muddy Bones<sub>[DLC]</sub></td>
+<td>HTI Muddy Bones <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.50 BMG</td>
 <td>4</td>
@@ -1112,7 +1319,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>FRF-2<sub>[DLC]</sub></td>
+<td>FRF-2 <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.338 LM</td>
 <td>5 (Long)<br>6 (Standard)</td>
@@ -1136,7 +1343,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
 </tr>
 <tr>
-<td>R93 LRS2<sub>[DLC]</sub></td>
+<td>R93 LRS2 <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.338 LM</td>
 <td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
@@ -1144,7 +1351,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
 </tr>
 <tr>
-<td>MSR Thermite<sub>[DLC]</sub></td>
+<td>MSR Thermite <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.338 LM</td>
 <td>5</td>
@@ -1152,7 +1359,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>MSR Eagle Shot<sub>[DLC]</sub></td>
+<td>MSR Eagle Shot <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.338 LM</td>
 <td>5</td>
@@ -1160,7 +1367,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>SR-1 Chameleon<sub>[DLC]</sub></td>
+<td>SR-1 Chameleon <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.338 LM</td>
 <td>6</td>
@@ -1184,7 +1391,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>Super Shorty Legacy<sub>[DLC]</sub></td>
+<td>Super Shorty Legacy <sub><b>[DLC]</b></sub></td>
 <td>Shotgun</td>
 <td>12ga</td>
 <td>6</td>
@@ -1192,7 +1399,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>SRSA1 Black Widow<sub>[DLC]</sub></td>
+<td>SRSA1 Black Widow <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.338 LM</td>
 <td>6</td>
@@ -1200,7 +1407,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>L115A3 London Call<sub>[DLC]</sub></td>
+<td>L115A3 London Call <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>.338 LM</td>
 <td>6</td>
@@ -1248,7 +1455,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1 (Long)<br>2 (Standard)<br>2 (Short)</td>
 </tr>
 <tr>
-<td>M40A5 Golden Sun<sub>[DLC]</sub></td>
+<td>M40A5 Golden Sun <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
 <td>8</td>
@@ -1264,7 +1471,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>Stampede<sub>[DLC]</sub></td>
+<td>Stampede <sub><b>[DLC]</b></sub></td>
 <td>SNR</td>
 <td>30-30 Win</td>
 <td>8</td>
@@ -1272,7 +1479,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>Mud and Blood<sub>[NR]</sub></td>
+<td>Mud and Blood <sub><b>[NR]</b></sub></td>
 <td>SNR</td>
 <td>.50 BMG</td>
 <td>10</td>
@@ -1280,7 +1487,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>SPAS-12 Secutor<sub>[DLC]</sub></td>
+<td>SPAS-12 Secutor <sub><b>[DLC]</b></sub></td>
 <td>STG</td>
 <td>12ga</td>
 <td>11</td>
@@ -1296,7 +1503,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>Fishy Shorty<sub>[NR]</sub></td>
+<td>Fishy Shorty <sub><b>[NR]</b></sub></td>
 <td>Shotgun</td>
 <td>12ga</td>
 <td>12</td>
@@ -1304,7 +1511,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>Wilderness<sub>[DLC]</sub></td>
+<td>Wilderness <sub><b>[DLC]</b></sub></td>
 <td>Shotgun</td>
 <td>10ga</td>
 <td>13</td>
@@ -1312,7 +1519,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1</td>
 </tr>
 <tr>
-<td>Ice Shard<sub>[DLC]</sub></td>
+<td>Ice Shard <sub><b>[DLC]</b></sub></td>
 <td>Shotgun</td>
 <td>12ga</td>
 <td>13</td>
@@ -1328,7 +1535,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
 </tr>
 <tr>
-<td>SPAS-12 Skulls and Blood<sub>[DLC]</sub></td>
+<td>SPAS-12 Skulls and Blood <sub><b>[DLC]</b></sub></td>
 <td>Shotgun</td>
 <td>12ga</td>
 <td>13</td>
@@ -1344,7 +1551,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>2 (Standard)<br>2 (Short)</td>
 </tr>
 <tr>
-<td>SR25 Liberator<sub>[DLC]</sub></td>
+<td>SR25 Liberator <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
 <td>14</td>
@@ -1352,7 +1559,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>2</td>
 </tr>
 <tr>
-<td>SR25 Machinery<sub>[DLC]</sub></td>
+<td>SR25 Machinery <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
 <td>14</td>
@@ -1368,7 +1575,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>2</td>
 </tr>
 <tr>
-<td>M110<sub>[DLC]</sub></td>
+<td>M110 <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
 <td>15</td>
@@ -1376,7 +1583,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>2</td>
 </tr>
 <tr>
-<td>Dragunov SVD Guerilla<sub>[DLC]</sub></td>
+<td>Dragunov SVD Guerilla <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x54mmR</td>
 <td>18</td>
@@ -1384,7 +1591,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>Model 1887<sub>[DLC]</sub></td>
+<td>Model 1887 <sub><b>[DLC]</b></sub></td>
 <td>Shotgun</td>
 <td>10ga</td>
 <td>18</td>
@@ -1392,7 +1599,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>2</td>
 </tr>
 <tr>
-<td>RevSG-12<sub>[DLC]</sub></td>
+<td>RevSG-12 <sub><b>[DLC]</b></sub></td>
 <td>Shotgun</td>
 <td>12ga</td>
 <td>18</td>
@@ -1400,7 +1607,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>2</td>
 </tr>
 <tr>
-<td>M4 Super 90<sub>[DLC]</sub></td>
+<td>M4 Super 90 <sub><b>[DLC]</b></sub></td>
 <td>Shotgun</td>
 <td>12ga</td>
 <td>18 (Standard)<br>18 (Short)</td>
@@ -1432,7 +1639,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>2 (Long)<br>2 (Standard)</td>
 </tr>
 <tr>
-<td>ACS-12<sub>[DLC]</sub></td>
+<td>ACS-12 <sub><b>[DLC]</b></sub></td>
 <td>Shotgun</td>
 <td>12ga</td>
 <td>19</td>
@@ -1440,7 +1647,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>2</td>
 </tr>
 <tr>
-<td>SASG-12 Frontier<sub>[DLC]</sub></td>
+<td>SASG-12 Frontier <sub><b>[DLC]</b></sub></td>
 <td>Shotgun</td>
 <td>12ga</td>
 <td>21</td>
@@ -1480,7 +1687,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
-<td>Dragonbreath<sub>[NR]</sub></td>
+<td>Dragonbreath <sub><b>[NR]</b></sub></td>
 <td>LMG</td>
 <td>5.56x45mm</td>
 <td>32</td>
@@ -1488,7 +1695,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>Mk 17 Tiger Fang<sub>[DLC]</sub></td>
+<td>Mk 17 Tiger Fang <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>7.62x51mm</td>
 <td>33</td>
@@ -1496,7 +1703,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>M60E4<sub>[DLC]</sub></td>
+<td>M60E4 <sub><b>[DLC]</b></sub></td>
 <td>LMG</td>
 <td>7.62x51mm</td>
 <td>33</td>
@@ -1504,7 +1711,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>2</td>
 </tr>
 <tr>
-<td>AK-47 'Undercover'<sub>[NR]</sub></td>
+<td>AK-47 'Undercover' <sub><b>[NR]</b></sub></td>
 <td>AR</td>
 <td>7.62x39mm</td>
 <td>33</td>
@@ -1512,7 +1719,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>Carnage<sub>[NR]</sub></td>
+<td>Carnage <sub><b>[NR]</b></sub></td>
 <td>AR</td>
 <td>7.62x39mm</td>
 <td>34</td>
@@ -1520,7 +1727,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>9mm C1 Blaze<sub>[DLC]</sub></td>
+<td>9mm C1 Blaze <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>9x19mm</td>
 <td>35</td>
@@ -1552,7 +1759,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Standard)<br>3 (Short)</td>
 </tr>
 <tr>
-<td>Mk14 Captain<sub>[DLC]</sub></td>
+<td>Mk14 Captain <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
 <td>37</td>
@@ -1560,7 +1767,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>Extranjeros PDR<sub>[DLC]</sub></td>
+<td>Extranjeros PDR <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>37</td>
@@ -1568,7 +1775,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>Golden Safari<sub>[NR]</sub></td>
+<td>Golden Safari <sub><b>[NR]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>37</td>
@@ -1584,7 +1791,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>Mk 16<sub>[DLC]</sub></td>
+<td>Mk 16 <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>37 (Long)<br>40 (Standard)<br>44 (Short)</td>
@@ -1608,7 +1815,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>PSG-1<sub>[DLC]</sub></td>
+<td>PSG-1 <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
 <td>38 (Long)<br>41 (Standard)</td>
@@ -1616,7 +1823,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>5 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
-<td>PSG-1 Mercenary<sub>[DLC]</sub></td>
+<td>PSG-1 Mercenary <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
 <td>38</td>
@@ -1624,7 +1831,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>G28 Rookie<sub>[DLC]</sub></td>
+<td>G28 Rookie <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
 <td>38</td>
@@ -1640,7 +1847,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>5 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
-<td>Eagle Stare<sub>[NR]</sub></td>
+<td>Eagle Stare <sub><b>[NR]</b></sub></td>
 <td>SMG</td>
 <td>4.6x30mm</td>
 <td>38</td>
@@ -1648,7 +1855,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>2</td>
 </tr>
 <tr>
-<td>Mk 17 Nerd<sub>[DLC]</sub></td>
+<td>Mk 17 Nerd <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>7.62x51mm</td>
 <td>39</td>
@@ -1656,7 +1863,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>SR-635 Jaw<sub>[DLC]</sub></td>
+<td>SR-635 Jaw <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>6x35mm</td>
 <td>39</td>
@@ -1664,7 +1871,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>Mk14 Occult<sub>[DLC]</sub></td>
+<td>Mk14 Occult <sub><b>[DLC]</b></sub></td>
 <td>Sniper</td>
 <td>7.62x51mm</td>
 <td>40</td>
@@ -1672,7 +1879,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>Extranjeros R4<sub>[DLC]</sub></td>
+<td>Extranjeros R4 <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>7.62x39mm</td>
 <td>41</td>
@@ -1680,7 +1887,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>Unidad RPK-74<sub>[DLC]</sub></td>
+<td>Unidad RPK-74 <sub><b>[DLC]</b></sub></td>
 <td>LMG</td>
 <td>7.62x39mm</td>
 <td>41</td>
@@ -1688,7 +1895,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>6P41 Reaper<sub>[DLC]</sub></td>
+<td>6P41 Reaper <sub><b>[DLC]</b></sub></td>
 <td>LMG</td>
 <td>7.62x54mm</td>
 <td>41</td>
@@ -1696,7 +1903,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>556xi Dragon<sub>[DLC]</sub></td>
+<td>556xi Dragon <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>7.62x39mm</td>
 <td>42</td>
@@ -1736,7 +1943,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Long)<br>3 (Standard)<br>4 (Short)</td>
 </tr>
 <tr>
-<td>AUG A3<sub>[DLC]</sub></td>
+<td>AUG A3 <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>43 (Long)<br>46 (Standard)</td>
@@ -1744,7 +1951,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
-<td>416<sub>[DLC]</sub></td>
+<td>416 <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>44 (Long)<br>47 (Standard)<br>55 (Short)</td>
@@ -1752,7 +1959,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Long)<br>4 (Standard)<br> (Short)</td>
 </tr>
 <tr>
-<td>AK-74<sub>[DLC]</sub></td>
+<td>AK-74 <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>7.62x39mm</td>
 <td>44 (Long)<br>51 (Standard)</td>
@@ -1760,7 +1967,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
-<td>R4<sub>[DLC]</sub></td>
+<td>R4 <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>7.62x39mm</td>
 <td>44 (Long)<br>50 (Standard)</td>
@@ -1784,7 +1991,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
-<td>SC4000<sub>[DLC]</sub></td>
+<td>SC4000 <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>46</td>
@@ -1816,7 +2023,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4 (Standard)<br>4 (Short)</td>
 </tr>
 <tr>
-<td>9x19VSN Replicant<sub>[DLC]</sub></td>
+<td>9x19VSN Replicant <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>9x19mm</td>
 <td>46</td>
@@ -1824,7 +2031,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>G36C<sub>[DLC]</sub></td>
+<td>G36C <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>46 (Long)<br>53 (Standard)</td>
@@ -1832,7 +2039,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
-<td>El Commandante<sub>[1]</sub><sub>[DLC]</sub></td>
+<td>El Commandante <sub><b>[1]</b></sub> <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>47</td>
@@ -1840,7 +2047,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>M4A1 Temple<sub>[DLC]</sub></td>
+<td>M4A1 Temple <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>47</td>
@@ -1872,7 +2079,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
-<td>Extranjeros MDR<sub>[DLC]</sub></td>
+<td>Extranjeros MDR <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>49</td>
@@ -1880,7 +2087,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>AK-12 Victory<sub>[DLC]</sub></td>
+<td>AK-12 Victory <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>7.62x39mm</td>
 <td>49</td>
@@ -1896,7 +2103,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Long)<br>3 (Standard)</td>
 </tr>
 <tr>
-<td>MDR<sub>[DLC]</sub></td>
+<td>MDR <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>49 (Long)<br>54 (Standard)</td>
@@ -1904,7 +2111,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
-<td>AK-47 Uprising<sub>[DLC]</sub></td>
+<td>AK-47 Uprising <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>7.62x39mm</td>
 <td>50</td>
@@ -1920,7 +2127,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4 (Long)<br>4 (Standard)<br>4 (Short)</td>
 </tr>
 <tr>
-<td>Veteran Bren<sub>[DLC]</sub></td>
+<td>Veteran Bren <sub><b>[DLC]</b></sub></td>
 <td>LMG</td>
 <td>.30-06 Springfield(7.62x63mm)</td>
 <td>50</td>
@@ -1936,7 +2143,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
-<td>Dollar Sign<sub>[NR]</sub></td>
+<td>Dollar Sign <sub><b>[NR]</b></sub></td>
 <td>LMG</td>
 <td>5.56x45mm</td>
 <td>50</td>
@@ -1960,7 +2167,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
-<td>Stoner Veteran<sub>[DLC]</sub></td>
+<td>Stoner Veteran <sub><b>[DLC]</b></sub></td>
 <td>LMG</td>
 <td>5.56x45mm</td>
 <td>52</td>
@@ -1968,7 +2175,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>M4A1 Explorer<sub>[DLC]</sub></td>
+<td>M4A1 Explorer <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>52</td>
@@ -1984,7 +2191,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3 (Long)<br>4 (Standard)</td>
 </tr>
 <tr>
-<td>Honey Badger<sub>[DLC]</sub></td>
+<td>Honey Badger <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>.300 BLK</td>
 <td>52</td>
@@ -1992,7 +2199,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>UMP 45<sub>[DLC]</sub></td>
+<td>UMP 45 <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>.45 ACP</td>
 <td>52</td>
@@ -2000,7 +2207,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>Mk 18<sub>[DLC]</sub></td>
+<td>Mk 18 <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>52</td>
@@ -2008,7 +2215,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>M16<sub>[DLC]</sub></td>
+<td>M16 <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>52</td>
@@ -2016,7 +2223,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>P416 Micteca<sub>[DLC]</sub></td>
+<td>P416 Micteca <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>52</td>
@@ -2024,7 +2231,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>Skull and Drones<sub>[NR]</sub></td>
+<td>Skull and Drones <sub><b>[NR]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>53</td>
@@ -2032,7 +2239,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>M4A1 Commando<sub>[DLC]</sub></td>
+<td>M4A1 Commando <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>53</td>
@@ -2040,7 +2247,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>F2000<sub>[DLC]</sub></td>
+<td>F2000 <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>53</td>
@@ -2048,7 +2255,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>Mk48 Wasteland<sub>[DLC]</sub></td>
+<td>Mk48 Wasteland <sub><b>[DLC]</b></sub></td>
 <td>LMG</td>
 <td>7.62x51mm</td>
 <td>53</td>
@@ -2056,7 +2263,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>TAR-21 Predator<sub>[DLC]</sub></td>
+<td>TAR-21 Predator <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>53</td>
@@ -2064,7 +2271,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>L85A2 Crocodile<sub>[DLC]</sub></td>
+<td>L85A2 Crocodile <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>53</td>
@@ -2072,7 +2279,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>PDR<sub>[DLC]</sub></td>
+<td>PDR <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>5.56x45mm</td>
 <td>54 (Long)<br>61 (Standard)</td>
@@ -2096,7 +2303,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>ACR Baby Vintage<sub>[DLC]</sub></td>
+<td>ACR Baby Vintage <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>55</td>
@@ -2104,7 +2311,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>AC-AR<sub>[DLC]</sub></td>
+<td>AC-AR <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>56 (Standard)<br>60 (Short)</td>
@@ -2112,7 +2319,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4 (Standard)<br>4 (Short)</td>
 </tr>
 <tr>
-<td>Type 95 Initiate<sub>[DLC]</sub></td>
+<td>Type 95 Initiate <sub><b>[DLC]</b></sub></td>
 <td>LMG</td>
 <td>5.56x45mm</td>
 <td>56</td>
@@ -2136,7 +2343,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>U100<sub>[DLC]</sub></td>
+<td>U100 <sub><b>[DLC]</b></sub></td>
 <td>LMG</td>
 <td>5.56x45mm</td>
 <td>57 (Long)<br>63 (Standard)</td>
@@ -2152,7 +2359,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4 (Standard)<br>5 (Short)</td>
 </tr>
 <tr>
-<td>FAL<sub>[DLC]</sub></td>
+<td>FAL <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>7.62x51mm</td>
 <td>58</td>
@@ -2160,7 +2367,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>G2 70s<sub>[DLC]</sub></td>
+<td>G2 70s <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>59</td>
@@ -2168,7 +2375,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>P416 Savior<sub>[DLC]</sub></td>
+<td>P416 Savior <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>59</td>
@@ -2192,7 +2399,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4 (Long)<br>5 (Standard)</td>
 </tr>
 <tr>
-<td>Vector Spectra<sub>[DLC]</sub></td>
+<td>Vector Spectra <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>.45 ACP</td>
 <td>61</td>
@@ -2200,7 +2407,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>Mk249 America<sub>[DLC]</sub></td>
+<td>Mk249 America <sub><b>[DLC]</b></sub></td>
 <td>LMG</td>
 <td>5.56x45mm</td>
 <td>63</td>
@@ -2224,7 +2431,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>5 (Long)<br>5 (Standard)</td>
 </tr>
 <tr>
-<td>MP5 Dragon's Breath<sub>[DLC]</sub></td>
+<td>MP5 Dragon's Breath <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>9x19mm</td>
 <td>66</td>
@@ -2248,7 +2455,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>5 (Standard)<br>5 (Short)</td>
 </tr>
 <tr>
-<td>T95 Spectre<sub>[DLC]</sub></td>
+<td>T95 Spectre <sub><b>[DLC]</b></sub></td>
 <td>LMG</td>
 <td>5.56x45mm</td>
 <td>70</td>
@@ -2256,7 +2463,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>LVOA<sub>[DLC]</sub></td>
+<td>LVOA <sub><b>[DLC]</b></sub></td>
 <td>AR</td>
 <td>5.56x45mm</td>
 <td>71</td>
@@ -2264,7 +2471,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>5</td>
 </tr>
 <tr>
-<td>Vector .45 ACP Venom<sub>[DLC]</sub></td>
+<td>Vector .45 ACP Venom <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>.45 ACP</td>
 <td>73</td>
@@ -2280,7 +2487,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>5 (Long)<br>5 (Standard)</td>
 </tr>
 <tr>
-<td>SR-635 Apparition<sub>[DLC]</sub></td>
+<td>SR-635 Apparition <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>6x35mm</td>
 <td>INV</td>
@@ -2288,7 +2495,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>3</td>
 </tr>
 <tr>
-<td>PP19 Executioner<sub>[DLC]</sub></td>
+<td>PP19 Executioner <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>9x18mmMakarov</td>
 <td>INV</td>
@@ -2296,7 +2503,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>Golden Vector<sub>[DLC]</sub></td>
+<td>Golden Vector <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>9x19mm</td>
 <td>INV</td>
@@ -2304,7 +2511,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>6</td>
 </tr>
 <tr>
-<td>P90 Doorkicker<sub>[DLC]</sub></td>
+<td>P90 Doorkicker <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>5.7x28mm</td>
 <td>INV</td>
@@ -2312,7 +2519,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>5</td>
 </tr>
 <tr>
-<td>P90 Glory<sub>[DLC]</sub></td>
+<td>P90 Glory <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>5.7x28mm</td>
 <td>INV</td>
@@ -2320,7 +2527,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>P90 Mirmillo<sub>[DLC]</sub></td>
+<td>P90 Mirmillo <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>5.7x28mm</td>
 <td>INV</td>
@@ -2336,7 +2543,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 <td>4</td>
 </tr>
 <tr>
-<td>MPX Traveler<sub>[DLC]</sub></td>
+<td>MPX Traveler <sub><b>[DLC]</b></sub></td>
 <td>SMG</td>
 <td>9x19mm</td>
 <td>INV</td>
@@ -2345,9 +2552,9 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 </tr>
 </table>
 
-<sub>[DLC]</sub> DLC weapon from crate, store, or Ubisoft Club<br>
-<sub>[NR]</sub> Exclusive DLC weapon in Narco Road<br>
-<sub>[1]</sub> *"El Commandante" is from a boss mission within "The Unidad Conspiracy" DLC obtained from Ubisoft Club.*
+<sub><b>[DLC]</b></sub> DLC weapon from crate, store, or Ubisoft Club<br>
+<sub><b>[NR]</b></sub> Exclusive DLC weapon in Narco Road<br>
+<sub><b>[1]</b></sub> *"El Commandante" is from a boss mission within "The Unidad Conspiracy" DLC obtained from Ubisoft Club.*
 
 ### Sniper Rifle Bullet Drop
 
@@ -2459,12 +2666,13 @@ The following have unique melee animations and sounds:
 
 Whenever a player makes a melee kill while wearing the **Caviera Gloves**, up to 4 enemies within the immediate area (inside the minimap) will be marked automatically. The melee animation is slower than others, but this ability is well worth the tradeoff.
 
-### Night, Thermal, Steiner, and Splinter Cell Vision Modes
+### Special Vision Modes
 
-After completing `The Jungle Moved` by killing the Predator, the player is awarded the center piece of the creature's helmet: the **Predator Biomask**. It's just the front faceplate of the helmet over a normal **Balaclava**. While wearing it, the player can use the Predator's specialized thermal vision. While in this vision mode, game audio is filtered and sounds as if the Predator were hearing it. Alternatively, the **Predator Helmet** (with the tentacles/dreads) provides the same effect and comes in the Predator Pack (available periodically from the "Limited Time Offers" section of the store menu).
+There are several special vision modes available in Wildlands:
 
-- The desaturated vision mode can be accessed via the **SONAR Goggles**.
-- The Steiner Vision mode can be accessed by using a helmet with either the **Special NVG** or **Panoramic NVG** ocular types.
+- Predator thermal vision mode can be accessed via the <b>Predator Biomask</b> (from `The Jungle Moved`) or <b>Predator Helmet</b> (from <b>Predator DLC Pack</b>).
+- The desaturated (grayscale) night vision mode can be accessed via the <b>SONAR Goggles</b> (from `Challenge Items DLC Pack`).
+- The Steiner night vision mode can be accessed by using a helmet with either the **Special NVG** or **Panoramic NVG** ocular types.
 
 The items below do not give special vision modes:
 
