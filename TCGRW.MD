@@ -2,22 +2,26 @@
 
 *Notes on Tom Clancy's Ghost Recon: Wildlands.*
 
-[Information](#information)
-<br>[General Gameplay](#general-gameplay)
+[INFORMATION](#information)
+<br>[GENERAL GAMEPLAY](#general-gameplay)
 <br>&emsp;[Quick Tips](#quick-tips)
 <br>&emsp;[Health and Damage](#health-and-damage)
-<br>&emsp;[Enemy AI](#enemy-ai)
 <br>&emsp;[Stealth Mechanics](#stealth-mechanics)
 <br>&emsp;[Guns and Attachments](#guns-and-attachments)
-<br>&emsp;[Items](#items)
+<br>&emsp;[Tactical Items](#items)
 <br>&emsp;[Documents](#documents)
 <br>&emsp;[Skills and Resources](#skills-and-resources)
-<br>[Game Modes](#game-modes)
+<br>&emsp;[Rebel Support](#rebel-support)
+<br>[ENEMY AI](#enemy-ai)
+<br>&emsp;[NPC Stats](#npc-stats)
+<br>&emsp;[NPC Population](#npc-population)
+<br>&emsp;[Road Patrols](#road-patrols)
+<br>[GAME MODES](#game-modes)
 <br>&emsp;[Tier Mode](#tier-mode)
 <br>&emsp;[Ghost Mode](#ghost-mode)
 <br>&emsp;[Guerilla Mode](#guerilla-mode)
-<br>[Vehicle Stats](#vehicle-stats)
-<br>[Weapon Stats](#weapon-stats)
+<br>[VEHICLE STATS](#vehicle-stats)
+<br>[WEAPON STATS](#weapon-stats)
 <br>&emsp;[Paint Wear](#paint-wear)
 <br>&emsp;[Scopes/Optics](#scopesoptics)
 <br>&emsp;[The Best Loadout](#the-best-loadout)
@@ -46,7 +50,7 @@
 <br>&emsp;[M.O.B. Condor Full House](#mob-condor-full-house)
 <br>&emsp;[Bullet Sponge Enemies](#bullet-sponge-enemies)
 <br>&emsp;[Mesh Glitch in ADS](#mesh-glitch-in-ads)
-<br>[Easter Eggs](#easter-eggs)
+<br>[EASTER EGGS](#easter-eggs)
 <br>&emsp;[El Tio](#el-tio)
 <br>&emsp;[El Yeti](#el-yeti)
 <br>&emsp;[Pachamama Statues](#pachamama-statues)
@@ -61,10 +65,11 @@
 <br>&emsp;[Nuevo Mundo](#nuevo-mundo)
 <br>&emsp;[Hitman Suit](#hitman-suit)
 <br>&emsp;[Armored Dozers](#armored-dozers)
+<br>[REFERENCES]()
 <br>[EOL and Running Without UPlay/Steam](#eol-and-running-without-uplaysteam)
-<br>[Credits](#credits)
+<br>[CREDITS](#credits)
 
-# Information
+# INFORMATION
 
 This is a collection of mostly factual data taken during and after testing many aspects of the game. I say "mostly" because there are some parts where I've made claims with purely anecdotal evidence, but I make that clear where it's applicable.
 
@@ -72,488 +77,59 @@ This is a collection of mostly factual data taken during and after testing many 
 
 ### Quick Tips
 
-- Unlock and equip the **M203 Grenade Launcher** as soon as possible.
-- **Intel** is most common in large towns and enemy bases.
-- **Flashbangs** blind all occupants of a vehicle.
+- Unlock and equip the <b>M203 Grenade Launcher</b> as soon as possible.
+- <b>Intel</b> is most common in large towns and enemy bases.
+- <b>Flashbangs</b> blind all occupants of a vehicle.
 
 ### Health and Damage
 
 Explosions work just as they do in other games: more damage as you get closer to the center. Damage radius limits have proven to be difficult to pinpoint (outside of player's explosives). As far as damage through walls, no explosive damage penetrates a "solid" surface (what the game considers to be solid e.g. concrete, brick, etc; excludes tents, fences, etc). Now, damage doesn't penetrate solid surfaces, but explosive force does. This means within the spherical radius, anything which can be affected by explosions will be triggered. This includes gate locks blowing off, windows shattering, boxes destroyed, etc.
-
-### Enemy AI
-
-[[Reference.]](https://youtu.be/SCh0uD8FZ18)
-
-There are five (5) alert states which enemies of any faction can be in. The icon above enemies which have no alert status will not blink. At "Suspected" and "Hunted", the icon will begin to blink slowly. At "Engaged" status, the icon blinks rapidly. The "Hunted" stage is broken into two separate stages despite what's shown above the minimap, but the rate of icon blinking is the same between the two.
-
-<table>
-<tr>
-<th scope="col">STATUS</th>
-<th scope="col">TRIGGER</th>
-<th scope="col">DESCRIPTION</th>
-</tr>
-<tr>
-<td>Normal (None)</td>
-<td>N/A</td>
-<td class="tdleft">Business as usual. Hostiles are unaware of any nearby threat and can be killed in one shot with essentially every weapon. Enemies walk their normal patrol routes and engage in recreational activities. (Such as soccer, smoking cigarettes or presumably some other illicit substance, using various tools, watching television, shooting into the air or at targets, and snorting cocaine. Lots and lots of cocaine.)</td>
-</tr>
-<tr>
-<td>Suspected</td>
-<td class="tdleft">Distant sound (explosion or gunshot), nearby noise (projectile strike, objects moving, civilian NPCs running and screaming), lights go out overhead, or partial sighting of player/ally.</td>
-<td class="tdleft">Mad sus. Enemies have either seen or heard something off key and may think the place is haunted. Suspicious enemies take a tiny bit more damage to kill, but are essentially still one-shot kills with most weapons. They move towards the area of suspicion. Upon nothing found, they move back to normal status and resume their previous activities.</td>
-</tr>
-<tr>
-<td>Hunted (Stage 1)</td>
-<td class="tdleft">Explosion Alert, Shot Heard</td>
-<td class="tdleft">Them eyes, boss. Enemies are aware of a nearby threat, but are unaware of its exact location. They move to the location of the sound and, upon nothing found, move back to normal status. Hostiles in this stage take multiple shots to kill from most weapons. This first stage of "Hunted" is only triggered by sound.</td>
-</tr>
-<tr>
-<td>Hunted (Stage 2)</td>
-<td class="tdleft">Body Found, Kill Witnessed, Direct Threat (nearby strike from missed shot or thrown explosive)</td>
-<td class="tdleft">Enemies are aware of a threat's presence and general area. They move into combat positions and rush the player. Hostiles take considerably more damage in this stage. If enemies (the players and AI teammates) are known to be out of range, reinforcement vehicles will be sent in. Only Santa Blanca sends in reinforcement vehicles. If the player is near a road, ground vehicles will be sent out. Otherwise, a helicopter will be sent. The only time Unidad will send in vehicles is if the player has alerted Unidad patrols anywhere from one to four purple chevrons. (Alerts are triggered when any nearby Unidad NPC is pushed into Hunted Stage 2.)</td>
-</tr>
-<tr>
-<td>Engaged</td>
-<td class="tdleft">Visual Detection</td>
-<td class="tdleft">Enemies know the exact location of a threat and are directly engaging. Weapons free, open fire. This alert status is only pushed by visual detection, and can only be lost by either breaking visual contact or killing all alerted enemies in the area. Hostiles take slightly more damage than in "Hunted Stage 2". From "Engaged" status, after breaking visual contact with the enemy, you will move down into Hunted II. The enemies will move to your last known location, search the area, and upon nothing being found return to "Normal".</td>
-</tr>
-</table>
-
-**NPC Health:**
-
-<table>
-    <tr>
-        <th scope="col">DESIGNATION</th>
-        <th scope="col">LOADOUT(S)</th>
-        <th scope="col">SHOTS TAKEN FROM WHISPER PISTOL</th>
-        <th scope="col">IDENTIFYING CHARACTERISTICS</th>
-        <th scope="col">LOCATIONS</th>
-    </tr>
-    <tr>
-        <td>Bolivian Civilian</td>
-        <td>Unarmed</td>
-        <td>N/A</td>
-        <td></td>
-        <td>
-            <ul>
-                <li>Entire map.</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>Rebel Soldier</td>
-        <td>AK-47<br>Skorpion, M4A1 <sub><b>[FG]</b></sub></td>
-        <td>N/A</td>
-        <td></td>
-        <td>
-			<ul>
-				<li>Road patrols.</li>
-				<li>Rebel hideouts.</li>
-				<li>Random scenarios.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Rebel Veteran</td>
-        <td>SR3M<br>M4A1 <sub><b>[FG]</b></sub></td>
-        <td>N/A</td>
-        <td>Always wears a beret or bucket hat over a chullo.</td>
-        <td>
-			<ul>
-				<li>Rebel hideouts.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Rebel Heavy Solder</td>
-        <td>6P41</td>
-        <td>N/A</td>
-        <td>Always wears a brightly colored balaclava.</td>
-        <td>
-			<ul>
-				<li>Road patrols.</li>
-				<li>Rebel hideouts.</li>
-				<li>Random scenarios.</li>
-				<li>Spawns in when calling <b>Guns For Hire</b> and <b>Diversion</b>.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Rebel Sniper <sub><b>[1]</b></sub></td>
-        <td>M40A5</td>
-        <td>N/A</td>
-        <td>Wears ghillie upper.</td>
-        <td>
-			<ul>
-				<li>Spots named <b>Rebel Campsite</b>.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Santa Blanca Lieutenant</td>
-        <td>Unarmed</td>
-        <td>N/A</td>
-        <td>Way nicer clothes than other SB.</td>
-        <td>
-			<ul>
-				<li>Spots named <b>Rebel Campsite</b>.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Unidad Lieutenant</td>
-        <td>Unarmed</td>
-        <td>N/A</td>
-        <td>Way nicer clothes than other Unidad.</td>
-		<td>
-			<ul>
-				<li><b>Combat Outpost</b> NW of <b>Remanzo Alpha</b>.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Santa Blanca Sniper</td>
-        <td>M40A5<br>Dragunov <sub><b>[NR]</b></sub><br>SR25 <sub><b>[FG]</b></sub></td>
-        <td>4</td>
-        <td>Wears ghillie upper.</td>
-        <td>
-			<ul>
-				<li>All SBC bases.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Los Sin Almas Sniper <sub><b>[NR]</b></sub></td>
-        <td>Dragunov</td>
-        <td>4</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Unidad Sniper</td>
-        <td>MSR<br>Dragunov <sub><b>[NR]</b></sub><br>SR25 <sub><b>[FG]</b></sub></td>
-        <td>5</td>
-        <td></td>
-        <td>
-			<ul>
-				<li>All Unidad bases.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Extranjeros Sniper <sub><b>[FG]</b></sub></td>
-        <td>BFG-50A</td>
-        <td>5</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Santa Blanca Soldier</td>
-        <td>M4A1<br>805 Bren A2<br>PP19<br>Dual-Wield SMG-11<br>D-50 <sub><b>[FG]</b></sub><br>MP7 <sub><b>[FG]</b></sub></td>
-        <td>5</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Santa Blanca Soldier (Vested)</td>
-        <td>G36C<br>805 Bren A2<br>MPX<br>Dual-Wield Skorpion<br>Dual-Wield SMG-11<br>AK-47 <sub><b>[NR]</b></sub><br>PP19 <sub><b>[NR]</b></sub><br>D-50 <sub><b>[FG]</b></sub></td>
-        <td>13</td>
-        <td></td>
-        <td>
-			<ul>
-				<li>More common in higher difficulty provinces.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Los Sin Almas Soldier (Vested) <sub><b>[NR]</b></sub></td>
-        <td>AK-47<br>PP19</td>
-        <td>13</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Los Sin Almas Veteran <sub><b>[NR]</b></sub></td>
-        <td>AK-47</td>
-        <td>13</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Santa Blanca Heavy Soldier</td>
-        <td>6P41<br>Type 95 <sub><b>[NR]</b></sub><br>Mk249 <sub><b>[FG]</b></sub></td>
-        <td>16</td>
-        <td>Always wears a helmet and balaclava.</td>
-		<td>
-			<ul>
-				<li><b>Holy Malca Base</b> NW of <b>Malca Delta</b>.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Los Sin Almas Heavy Soldier <sub><b>[NR]</b></sub></td>
-        <td>Type 95</td>
-        <td>17</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Unidad Heavy Soldier</td>
-        <td>Mk249<br>Type 95 <sub><b>[NR]</b></sub></td>
-        <td>17</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Santa Blanca Veteran</td>
-        <td>AK-12<br>G36C<br>MPX<br>M4A1 <sub><b>[FG]</b></sub></td>
-        <td>18</td>
-        <td>May wear a white/black cowboy hat.</td>
-		<td>
-			<ul>
-				<li>Up to 5 at <b>Santa Muerte Idol, Malca</b> NW of <b>Malca Bravo</b>.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Unidad Soldier</td>
-        <td>R5 RGP<br>AK-47 <sub><b>[NR]</b></sub><br>M4A1 <sub><b>[FG]</b></sub></td>
-        <td>18</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Unidad Veteran</td>
-        <td>Vector .45 ACP<br>PP19 <sub><b>[NR]</b></sub></td>
-        <td>18</td>
-        <td>Always wears a beret.</td>
-		<td>
-			<ul>
-				<li><b>F.O.B. Serpiente</b> north of <b>Flor de Oro Bravo</b>.</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Extranjeros Jammer <sub><b>[FG]</b></sub></td>
-        <td>MDR (Suppressed)</td>
-        <td>18</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Extranjeros Footman <sub><b>[FG]</b></sub></td>
-        <td>TAR-21</td>
-        <td>18</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Extranjeros Armored <sub><b>[FG]</b></sub></td>
-        <td>R4</td>
-        <td>18 (Headshots)</td>
-        <td></td>
-        <td>
-			<ul>
-				<li></li>
-			</ul>
-		</td>
-    </tr>
-</table>
-
-<sub><b>[NR]</b></sub> <i>Narco Road DLC</i><br>
-<sub><b>[FG]</b></sub> <i>Fallen Ghosts DLC</i><br>
-<sub><b>[1]</b></sub> These seem to be very rare NPCs. Can be found sparsely around the map at spots labeled <b>Rebel Campsite</b>.
-
-**Remote Campsites/Checkpoints:**
-
-These are randomly populated by Cartel/Unidad/Rebel forces, anywhere from 2 to 4 of each type. Sometimes these campsites will have two or three factions, meaning one day you might pass it with just two cartel gunners while the next may have both Unidad and rebels. Population conditions are unknown. There is a special type of campsite spawn where it appears the cartel and Unidad are negotiating. In this scenario, there will be a Santa Blanca Veteran along with two Santa Blanca Soldiers and an Unidad Veteran with two Unidad Soldiers.
-
-**Base Statistics:**
-
-There are many bases in both the stock game and DLCs. Listed below are statistics of some of the largest.
-
-<table>
-<tr>
-<th scope="col">NAME</th>
-<th scope="col">PROVINCE</th>
-<th scope="col">TOTAL NPCs</th>
-<th scope="col">SNIPERS</th>
-<th scope="col">HEAVIES</th>
-<th scope="col">VETERANS</th>
-<th scope="col">SOLDIERS</th>
-</tr>
-<tr>
-  <td>F.O.B. Serpiente <sub><b>[NR]</b></sub></td>
-  <td>Flor de Oro</td>
-  <td>71</td>
-  <td>18</td>
-  <td>16</td>
-  <td>1</td>
-  <td>36</td>
-</tr>
-<tr>
-  <td>M.O.B. Condor<br>(Full House Glitch)</td>
-  <td>Media Luna</td>
-  <td>70</td>
-  <td>15</td>
-  <td>10</td>
-  <td>4</td>
-  <td>41</td>
-</tr>
-<tr>
-  <td>Outpost<br>(SW of <b>Villa Verde Alpha</b>)</td>
-  <td>Villa Verde</td>
-  <td>16<br>26 w/ <b>Network Station</b></td>
-  <td>2</td>
-  <td>8</td>
-  <td>0</td>
-  <td>6<br>10 in <b>Network Station</b></td>
-</tr>
-</table>
-
-**<sub><b>[NR]</b></sub>** *In Narco Road DLC*
-
-**Road Patrols:**
-
-Below is data taken from observing road patrol vehicles in the full game and both DLCs. Unidad road patrols and cartel reinforcement vehicles' occupants may vary based on location, e.g. more difficult provinces will have more heavies and veterans (and more occupants in general). A Unidad 4x4 in Itacua will have two soldiers, a driver and gunner, while the same vehicle in Koani may be loaded down with four heavies. Exceptions to this rule (those with occupants which do not vary based on location) are marked with an asterisk.
-
-<table>
-<tr>
-<th scope="col">VEHICLE</th>
-<th scope="col">MAXIMUM<br>NUMBEROF<br>OCCUPANTS</th>
-<th scope="col">OCCUPANT TYPES</th>
-</tr>
-<tr>
-<td>Unidad Helicopter <sub><b>[x]</b></sub></td>
-<td>6</td>
-<td>Unidad Soldier</td>
-</tr>
-<tr>
-<td>Unidad Armored Buggy</td>
-<td>4</td>
-<td>Unidad Soldier<br>Unidad Heavy</td>
-</tr>
-<tr>
-<td>Unidad Armored SUV</td>
-<td>4</td>
-<td>Unidad Soldier<br>Unidad Heavy</td>
-</tr>
-<tr>
-<td>Unidad 4x4</td>
-<td>4</td>
-<td>Unidad Soldier<br>Unidad Heavy</td>
-</tr>
-<tr>
-<td>Unidad Pickup <sub><b>[x]</b></sub></td>
-<td>2</td>
-<td>Unidad Soldier</td>
-</tr>
-<tr>
-<td>Unidad Buggy <sub><b>[x]</b></sub></td>
-<td>2</td>
-<td>Unidad Soldier</td>
-</tr>
-<tr>
-<td>Extranjeros Armored SUV <sub><b>[FG]</b></sub></td>
-<td>2</td>
-<td>Extranjeros Footman</td>
-</tr>
-<tr>
-<td>Santa Blanca Trophy Buggy <sub><b>[FG]</b></sub></td>
-<td>2</td>
-<td>Santa Blanca Soldier (Vested)</td>
-</tr>
-</table>
-
-<sub><b>[x]</b></sub> *Occupants do not vary.*<br>
-<sub><b>[NR]</b></sub> *Narco Road DLC*<br>
-<sub><b>[FG]</b></sub> *Fallen Ghosts DLC*
 
 ### Stealth Mechanics
 
 All weapon classes have their own noise detection with no difference between weapons of the same class despite what the "noise reduction" bar may show. Compensators do not affect noise, again despite what the stat bar shows. Below are the maximum distances at which gunfire is heard by an enemy NPC. This is a flat number, no variables change noise detection distance. For example, an enemy will hear your unsuppressed MP5 at 60m, but if you take a mere one step backwards he won't hear a thing at 61m.
 
 <table>
-<tr>
-<th scope="col">CLASS</th>
-<th scope="col">SUPPRESSED<br>SUSPECTED</th>
-<th scope="col">UNSUPPRESSED<br>SUSPECTED <sub><b>[1]</b></sub></th>
-</tr>
-<tr>
-<td>Crossbow<br>Five-seveN Blacklist<br>Whisper</td>
-<td>0m</td>
-<td>0m</td>
-</tr>
-<tr>
-<td>Pistol</td>
-<td>18m</td>
-<td>48m</td>
-</tr>
-<tr>
-<td>Submachine Gun</td>
-<td>22m</td>
-<td>60m</td>
-</tr>
-<tr>
-<td>Assault Rifle</td>
-<td>34m</td>
-<td>92m</td>
-</tr>
-<tr>
-<td>Light Machine Gun</td>
-<td>40m</td>
-<td>108m</td>
-</tr>
-<tr>
-<td>Shotgun</td>
-<td>40m</td>
-<td>108m</td>
-</tr>
-<tr>
-<td>Sniper Rifle</td>
-<td>48m</td>
-<td>130m</td>
-</tr>
+  <tr>
+    <th scope="col">CLASS</th>
+    <th scope="col">SUPPRESSED<br>SUSPECTED</th>
+    <th scope="col">UNSUPPRESSED<br>SUSPECTED <sub><b>[1]</b></sub></th>
+  </tr>
+  <tr>
+    <td>Crossbow<br>Five-seveN Blacklist<br>Whisper</td>
+    <td>0m</td>
+    <td>0m</td>
+  </tr>
+  <tr>
+    <td>Pistol</td>
+    <td>18m</td>
+    <td>48m</td>
+  </tr>
+  <tr>
+    <td>Submachine Gun</td>
+    <td>22m</td>
+    <td>60m</td>
+  </tr>
+  <tr>
+    <td>Assault Rifle</td>
+    <td>34m</td>
+    <td>92m</td>
+  </tr>
+  <tr>
+    <td>Light Machine Gun</td>
+    <td>40m</td>
+    <td>108m</td>
+  </tr>
+  <tr>
+    <td>Shotgun</td>
+    <td>40m</td>
+    <td>108m</td>
+  </tr>
+  <tr>
+    <td>Sniper Rifle</td>
+    <td>48m</td>
+    <td>130m</td>
+  </tr>
 </table>
 
 <sub><b>[1]</b></sub> The <b>Compensator</b> does not affect loudness, despite showing that it decreases the <b>Noise Reduction</b> stat.
@@ -561,55 +137,55 @@ All weapon classes have their own noise detection with no difference between wea
 Time of day also plays a part in visual detection distance (lighting in general does). Ubisoft ported a Splinter Cell system of sorts. It allows for variable detection speed based on light level. Dark areas reveal less therefore you get spotted slower in the shadows. Opposite goes for broad daylight in an open field with no brush. Speaking of bushes, they act as concealment for all players but not NPCs. You can mark an enemy hiding behind a bush, but they cannot see you hiding behind the same bush. Enemies will also not see you behind any sort of solid cover. However you can get spotted hiding behind what may appear to be solid cover. Things like boxes and metal dolleys, basically everything that you can move by just walking into it, is not cover nor concealment despite its solid appearance. The game engine treats all moveable objects as simply that and no more. Below are the ranges at which enemies begin to spot the player. These were tested in barren, unobscured conditions (no cover/concealment blocking view) against both SBC and Unidad forces at the Koani Air Base in Koani and F.O.B. Serpiente in Flor de Oro. No spotting distance differences were found between factions nor solider types (unarmored, vested, veteran, heavy). Snipers are the only NPC type which has altered sight distances, rightfully so. All of that into account, apparently Unidad is no more elite than some cokeheads with guns.
 
 <table>
-<tr>
-<th scope="col">NPC TYPE</th>
-<th scope="col">TIME OF DAY</th>
-<th scope="col">PRONE</th>
-<th scope="col">CROUCH</th>
-<th scope="col">UPRIGHT</th>
-</tr>
-<tr>
-<td>Soldier</td>
-<td>12:00</td>
-<td>14 m</td>
-<td>38 m</td>
-<td>89 m</td>
-</tr>
-<tr>
-<td>Soldier</td>
-<td>00:00</td>
-<td>10 m</td>
-<td>29 m</td>
-<td>68 m</td>
-</tr>
-<tr>
-<td>Sniper</td>
-<td>12:00</td>
-<td>27 m</td>
-<td>81 m</td>
-<td>136 m</td>
-</tr>
-<tr>
-<td>Sniper</td>
-<td>00:00</td>
-<td>18 m</td>
-<td>61 m</td>
-<td>101 m</td>
-</tr>
-<tr>
-<td>In Vehicle<sub><b>[*]</b></sub></td>
-<td>12:00</td>
-<td>11 m</td>
-<td>35 m</td>
-<td>58 m</td>
-</tr>
-<tr>
-<td>In Vehicle<sub><b>[*]</b></sub></td>
-<td>00:00</td>
-<td>7 m</td>
-<td>19 m</td>
-<td>45 m</td>
-</tr>
+  <tr>
+    <th scope="col">NPC TYPE</th>
+    <th scope="col">TIME OF DAY</th>
+    <th scope="col">PRONE</th>
+    <th scope="col">CROUCH</th>
+    <th scope="col">UPRIGHT</th>
+  </tr>
+  <tr>
+    <td>Soldier</td>
+    <td>12:00</td>
+    <td>14 m</td>
+    <td>38 m</td>
+    <td>89 m</td>
+  </tr>
+  <tr>
+    <td>Soldier</td>
+    <td>00:00</td>
+    <td>10 m</td>
+    <td>29 m</td>
+    <td>68 m</td>
+  </tr>
+  <tr>
+    <td>Sniper</td>
+    <td>12:00</td>
+    <td>27 m</td>
+    <td>81 m</td>
+    <td>136 m</td>
+  </tr>
+  <tr>
+    <td>Sniper</td>
+    <td>00:00</td>
+    <td>18 m</td>
+    <td>61 m</td>
+    <td>101 m</td>
+  </tr>
+  <tr>
+    <td>In Vehicle<sub><b>[*]</b></sub></td>
+    <td>12:00</td>
+    <td>11 m</td>
+    <td>35 m</td>
+    <td>58 m</td>
+  </tr>
+  <tr>
+    <td>In Vehicle<sub><b>[*]</b></sub></td>
+    <td>00:00</td>
+    <td>7 m</td>
+    <td>19 m</td>
+    <td>45 m</td>
+  </tr>
 </table>
 
 <sub><b>[*]</b></sub> *Enemies in vehicles have a 360&deg; visual radius. The vehicle does not act as cover/concealment visibility-wise, either.*
@@ -621,24 +197,79 @@ Time of day also plays a part in visual detection distance (lighting in general 
 - Special guns can be obtained by completing certain missions.
 - Most guns have their own unique stats. See [[Weapon Stats]](#weapon-stats) for more info.
 
-### Items
+### Tactical Items
 
 - You start out with just **Frag Grenades**, but can unlock others via the **Skill Tree**.
 - The **Explosion Radius** elite perk from the **Items Skill Tree** is stupid useful.
+- <b>Generators</b> can be found pretty much everywhere, show up hot on thermal, and explode when hit by an <b>EMP Drone</b> or multiple bullets.
+- <b>Red Barrels</b> can be found in fortified bases, <i>don't</i> show up on thermal, and explode from a single shot.
 
-Item | Details
-:--- | ---
-Frag Grenade | Base gear item. Peds will dive away from grenades.
-Flashbang | Crazy effective. Blinds and deafens NPCs within its explosion radius, rendering them immobile and defenseless for **FIVE SECONDS**.
-Div. Lure | When used efficiently, diversion lures can do the same job as flashbangs, especially with the double explosion radius skill. Not to mention div lures do not alert affected enemies and you get way more of them. Use div lures to make enemies face a certain direction, ideally away from you, then run up behind them and melee. This saves on ammo and doesn't alert them directly unlike flashbangs. You can also use div lures (or just shoot at some spot close to an enemy) to get them to face and walk towards a body you don't want them to find. This makes luring enemies out into the open stupid easy.
-Prox. Mine | Commonly known as "proxy". Detonates when a ped walks into a small detection radius around each proxy. Best used in combination with **C4** or **Mine**, especially in **Tier Mode** because proxies are famous for merely stunning enemies when they go off by themselves.
-Mine | Anti-vehicle explosive. Triggered when vehicles drive over it, but also detonates if a ped steps directly onto it.
-C4 | Remote detonated explosive.
-Flare Gun | Lures in all faction peds from 300m. Stupid effective for bringing in any Unidad patrol vehicles or choppers.
+<table>
+  <tr>
+    <th scope="col">ITEM NAME</th>
+    <th scope="col">MAXIMUM<br>RADIUS</th>
+    <th scope="col">NOTES</th>
+  </tr>
+  <tr>
+    <td>Frag. Grenade</td> <!-- name -->
+    <td>10m</td> <!-- radius -->
+    <td>Base gear item. Peds will dive away from grenades.
+      <ul>
+        <li>A decent last ditch effort for tight situations is to just toss a frag. Enemies will dive out of the way and be unable to shoot back for a brief period.</li>
+      </ul>
+    </td> <!-- notes -->
+  </tr>
+  <tr>
+    <td>Mine</td> <!-- name -->
+    <td>12m</td> <!-- radius -->
+    <td>Anti-vehicle explosive. Triggered when vehicles drive over it, but also detonates if a ped steps directly onto it.
+      <ul>
+        <li>Can be used as a makeshift <b>Prox Mine.</b> when placed in tight spaces and choke points.</li>
+      </ul>
+    </td> <!-- notes -->
+  </tr>
+  <tr>
+    <td>Div. Lure</td> <!-- name -->
+    <td>25m</td> <!-- radius -->
+    <td>Creates a small blast to draw out enemies without alerting them.
+      <ul>
+        <li>When used efficiently, diversion lures can do the same job as flashbangs, especially with the double explosion radius skill. Not to mention div lures do not alert affected enemies and you get way more of them. Use div lures to make enemies face a certain direction, ideally away from you, then run up behind them and melee. This saves on ammo and doesn't alert them directly unlike flashbangs. You can also use div lures (or just shoot at some spot close to an enemy) to get them to face and walk towards a body you don't want them to find. This makes luring enemies out into the open stupid easy.</li>
+      </ul>
+    </td> <!-- notes -->
+  </tr>
+  <tr>
+    <td>C4</td> <!-- name -->
+    <td>25m</td> <!-- radius -->
+    <td>Remote detonation explosive.</td> <!-- notes -->
+  </tr>
+  <tr>
+    <td>Flashbang</td> <!-- name -->
+    <td>25m</td> <!-- radius -->
+    <td>Crazy effective. Blinds and deafens NPCs within its explosion radius, rendering them immobile and defenseless for <b>FIVE SECONDS</b>.
+      <ul>
+        <li>These will alert enemies, so take out any you've blinded before they recover.</li>
+      </ul>
+    </td> <!-- notes -->
+  </tr>
+  <tr>
+    <td>Prox. Mine</td> <!-- name -->
+    <td>10m</td> <!-- radius -->
+    <td>Commonly known as a "proxy". Detonates when a ped walks into a small trigger radius around each proxy.
+      <ul>
+        <li>When running <b>Extreme Difficulty</b> or while in <b>Tier Mode</b>, it's best to use a <b>Prox. Mine</b> in combination with either a <b>C4</b> or <b>Mine</b>. Enemies in these difficulties will almost never be killed by just a proxy alone.
+      </ul>
+    </td> <!-- notes -->
+  </tr>
+  <tr>
+    <td>Flare Gun</td> <!-- name -->
+    <td>300m</td> <!-- radius -->
+    <td>Lures in all faction peds, including <b>Rebels</b>. Stupid effective for bringing in any Unidad patrol vehicles or choppers.</td> <!-- notes -->
+  </tr>
+</table>
 
 ### Documents
 
-Documents, recordings, photos, and Kingslayer Files can be found all around the map and usually give context to their province.
+Documents, recordings, photos, collectibles, and Kingslayer Files can be found all around the map and usually give context of or lore about the area they're found in.
 
 ### Skills and Resources
 
@@ -647,15 +278,536 @@ Documents, recordings, photos, and Kingslayer Files can be found all around the 
 - **Resources** are used to unlock/upgrade perks in the **Skill Tree**. There are four resource types: meds, food, fuel, and comms. Each resource has its own **drop**/**Convoy** vehicles and/or color schemes.
 - **Bonus Medals** act as an additional upgrade to a perk. If a perk in the **Skill Tree** has a star at the bottom right corner, it has a bonus medal. Highlight the perk to see the province its bonus medal is located in.
 
-### Convoys
-
 Small pickups from COM containers, petrol barrels, provision boxes, etc, are only worth it for the first few ranks of a new game. It's best to hit a convoy if you need resources.
 
 Basically, the most efficient method is to run a low tier profile in single player **Guerilla Mode**. You get hundreds of thousands of resources from a completed 25-wave game. To make it easy, wait until the last few enemies are automatically marked. Use sync shot to take off remaining enemies, leaving at least one. Run to him, grab him, turn on your tier mode, and then knock him out. Not only do you get tons of resources every fifth wave, tier mode also yields way more "scrap" used for buying weapons, attachments, skills, etc. This gives 600,000 resources (of varying types) in one 25-wave run through.
 
 For convoy takedowns, the **EMP Drone** is hit or miss from my experience, especially if you EMP the main vehicle when it's traveling on even the slightest downhill strech. They'll just coast down and move on when the engine starts back up. The most effective method proven from testing is using sync shot for the driver and passenger, then a one-shot weapon for the escort vehicles (SR25 Jungle or Desert Tech HTI BDC). Second most effective is flashbang, then take out the driver and passenger yourself by shooting through the side window(s). Yes, flashbanging enemies inside vehicles works. Third most effective is the makeshift claymore method, setting a mine, then C4s in a backwards direction. This ensures the front vehicle sets off the initial explosion, which travels backwards and subsequently destroys all vehicles in the convoy (except for a heli if it has one). This method destroys the truck itself, halving the yield, therefore it's listed as the least effective.
 
-# Game Modes
+### Rebel Support
+
+- These can be very helpful when in a pinch. Each skill is upgraded by completing an associated <b>Rebel Support</b> mission.
+- Completing <b>Rebel Support</b> and <b>Supply Drop</b> missions increases Rebel presence. Completing all of each mission type will result in roads filled with Rebels ready to back you in the next firefight.
+
+# ENEMY AI
+
+[[Reference.]](https://youtu.be/SCh0uD8FZ18)
+
+There are five (5) alert states which enemies of any faction can be in. The icon above enemies which have no alert status will not blink. At "Suspected" and "Hunted", the icon will begin to blink slowly. At "Engaged" status, the icon blinks rapidly. The "Hunted" stage is broken into two separate stages despite what's shown above the minimap, but the rate of icon blinking is the same between the two.
+
+<table>
+  <tr>
+    <th scope="col">STATUS</th>
+    <th scope="col">TRIGGER</th>
+    <th scope="col">DESCRIPTION</th>
+  </tr>
+  <tr>
+    <td>Normal (None)</td>
+    <td>N/A</td>
+    <td class="tdleft">Business as usual. Hostiles are unaware of any nearby threat and can be killed in one shot with essentially every weapon. Enemies walk their normal patrol routes and engage in recreational activities. (Such as soccer, smoking cigarettes or presumably some other illicit substance, using various tools, watching television, shooting into the air or at targets, and snorting cocaine. Lots and lots of cocaine.)</td>
+  </tr>
+  <tr>
+    <td>Suspected</td>
+    <td class="tdleft">Distant sound (explosion or gunshot), nearby noise (projectile strike, objects moving, civilian NPCs running and screaming), lights go out overhead, or partial sighting of player/ally.</td>
+    <td class="tdleft">Mad sus. Enemies have either seen or heard something off key and may think the place is haunted. Suspicious enemies take a tiny bit more damage to kill, but are essentially still one-shot kills with most weapons. They move towards the area of suspicion. Upon nothing found, they move back to normal status and resume their previous activities.</td>
+  </tr>
+  <tr>
+    <td>Hunted (Stage 1)</td>
+    <td class="tdleft">Explosion Alert, Shot Heard</td>
+    <td class="tdleft">Them eyes, boss. Enemies are aware of a nearby threat, but are unaware of its exact location. They move to the location of the sound and, upon nothing found, move back to normal status. Hostiles in this stage take multiple shots to kill from most weapons. This first stage of "Hunted" is only triggered by sound.</td>
+  </tr>
+  <tr>
+    <td>Hunted (Stage 2)</td>
+    <td class="tdleft">Body Found, Kill Witnessed, Direct Threat (nearby strike from missed shot or thrown explosive)</td>
+    <td class="tdleft">Enemies are aware of a threat's presence and general area. They move into combat positions and rush the player. Hostiles take considerably more damage in this stage. If enemies (the players and AI teammates) are known to be out of range, reinforcement vehicles will be sent in. Only Santa Blanca sends in reinforcement vehicles. If the player is near a road, ground vehicles will be sent out. Otherwise, a helicopter will be sent. The only time Unidad will send in vehicles is if the player has alerted Unidad patrols anywhere from one to four purple chevrons. (Alerts are triggered when any nearby Unidad NPC is pushed into Hunted Stage 2.)</td>
+  </tr>
+  <tr>
+    <td>Engaged</td>
+    <td class="tdleft">Visual Detection</td>
+    <td class="tdleft">Enemies know the exact location of a threat and are directly engaging. Weapons free, open fire. This alert status is only pushed by visual detection, and can only be lost by either breaking visual contact or killing all alerted enemies in the area. Hostiles take slightly more damage than in "Hunted Stage 2". From "Engaged" status, after breaking visual contact with the enemy, you will move down into Hunted II. The enemies will move to your last known location, search the area, and upon nothing being found return to "Normal".</td>
+  </tr>
+</table>
+
+### NPC Stats
+
+<table>
+  <tr>
+    <th scope="col">DESIGNATION</th>
+    <th scope="col">LOADOUT(S)</th>
+    <th scope="col">SHOTS TAKEN FROM<br>WHISPER PISTOL</th>
+    <th scope="col">IDENTIFYING CHARACTERISTICS</th>
+    <th scope="col">LOCATIONS</th>
+  </tr>
+  <tr>
+    <td>Bolivian Civilian</td>
+    <td>Unarmed</td>
+    <td>N/A</td>
+    <td></td>
+    <td>
+      <ul>
+        <li>Entire map.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Rebel Soldier</td>
+    <td>AK-47<br>Skorpion, M4A1 <sub><b>[FG]</b></sub></td>
+    <td>N/A</td>
+    <td></td>
+    <td>
+			<ul>
+			  <li>Road patrols.</li>
+			  <li>Rebel hideouts.</li>
+			  <li>Random scenarios.</li>
+        <li>Spawns in after calling <b>Guns For Hire</b> and <b>Diversion</b>.</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Rebel Veteran</td>
+    <td>SR3M<br>M4A1 <sub><b>[FG]</b></sub></td>
+    <td>N/A</td>
+    <td><i>Always</i> wears a beret or bucket hat over a chullo.</td>
+    <td>
+			<ul>
+				<li>Rebel hideouts.</li>
+        <li>Spawns in after calling <b>Guns For Hire</b> and <b>Diversion</b>.</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Rebel Heavy Solder</td>
+    <td>6P41</td>
+    <td>N/A</td>
+    <td><i>Always</i> wears a brightly colored balaclava.</td>
+    <td>
+			<ul>
+				<li>Road patrols.</li>
+				<li>Rebel hideouts.</li>
+				<li>Random scenarios.</li>
+				<li>Spawns in after calling <b>Guns For Hire</b> and <b>Diversion</b>.</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Rebel Sniper <sub><b>[1]</b></sub></td>
+    <td>M40A5</td>
+    <td>N/A</td>
+    <td><i>Always</i> wears a ghillie upper.</td>
+    <td>
+			<ul>
+				<li>Most spots named <b>Rebel Campsite</b>.</li>
+        <li>Unmarked dirt airstrip NE of <b>Ocoro Alpha</b>.</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Santa Blanca Lieutenant</td>
+    <td>Unarmed</td>
+    <td>N/A</td>
+    <td><i>Always</i> wears nicer clothes than other SBC.</td>
+    <td>
+			<ul>
+			  <li>Up to 3 at <b>Pilgrim House</b> (SE of <b>Espiritu Santo Alpha</b>).</li>
+		  </ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Unidad Lieutenant</td>
+    <td>Unarmed</td>
+    <td>N/A</td>
+    <td><i>Always</i> wears a suit.</td>
+		<td>
+			<ul>
+				<li><b>Combat Outpost</b> (NW of <b>Remanzo Alpha</b>)</li>
+        <li><b>F.O.B. Tucan</b> (SE of <b>Villa Verde Bravo</b>)</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Santa Blanca Sniper</td>
+    <td>M40A5<br>Dragunov <sub><b>[NR]</b></sub><br>SR25 <sub><b>[FG]</b></sub></td>
+    <td>4</td>
+    <td><i>Always</i> wears ghillie upper.</td>
+    <td>
+			<ul>
+				<li>Most SBC bases.</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Los Sin Almas Sniper <sub><b>[NR]</b></sub></td>
+    <td>Dragunov</td>
+    <td>4</td>
+    <td></td>
+    <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Unidad Sniper</td>
+    <td>MSR<br>Dragunov <sub><b>[NR]</b></sub><br>SR25 <sub><b>[FG]</b></sub></td>
+    <td>5</td>
+    <td><i>Always</i> wears a ghillie upper.</td>
+    <td>
+			<ul>
+				<li>Most Unidad bases.</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Extranjeros Sniper <sub><b>[FG]</b></sub></td>
+    <td>BFG-50A</td>
+    <td>5</td>
+    <td>Red laser is a dead giveaway.</td>
+    <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Santa Blanca Soldier</td>
+    <td>M4A1<br>805 Bren A2<br>PP19<br>Dual-Wield SMG-11<br>D-50 <sub><b>[FG]</b></sub><br>MP7 <sub><b>[FG]</b></sub></td>
+    <td>5</td>
+    <td></td>
+    <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Santa Blanca Soldier (Vested)</td>
+    <td>G36C<br>805 Bren A2<br>MPX<br>Dual-Wield Skorpion<br>Dual-Wield SMG-11<br>AK-47 <sub><b>[NR]</b></sub><br>PP19 <sub><b>[NR]</b></sub><br>D-50 <sub><b>[FG]</b></sub></td>
+    <td>13</td>
+    <td></td>
+    <td>
+		  <ul>
+				<li>More common in higher difficulty provinces and fortified bases/hideouts.</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Los Sin Almas Soldier (Vested) <sub><b>[NR]</b></sub></td>
+    <td>AK-47<br>PP19</td>
+    <td>13</td>
+    <td></td>
+    <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Los Sin Almas Veteran <sub><b>[NR]</b></sub></td>
+    <td>AK-47</td>
+    <td>13</td>
+    <td></td>
+    <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Santa Blanca Heavy Soldier</td>
+    <td>6P41<br>Type 95 <sub><b>[NR]</b></sub><br>Mk249 <sub><b>[FG]</b></sub></td>
+    <td>16</td>
+    <td><i>Usually</i> wears a helmet and balaclava.</td>
+		<td>
+			<ul>
+				<li><b>Holy Malca Base</b> NW of <b>Malca Delta</b>.</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Los Sin Almas Heavy Soldier <sub><b>[NR]</b></sub></td>
+    <td>Type 95</td>
+    <td>17</td>
+    <td></td>
+    <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Unidad Heavy Soldier</td>
+    <td>Mk249<br>Type 95 <sub><b>[NR]</b></sub></td>
+    <td>17</td>
+    <td></td>
+    <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Santa Blanca Veteran</td>
+    <td>AK-12<br>G36C<br>MPX<br>M4A1 <sub><b>[FG]</b></sub></td>
+    <td>18</td>
+    <td><i>Usually</i> wears a white/black cowboy hat.</td>
+		<td>
+			<ul>
+				<li>Up to 5 at <b>Santa Muerte Idol, Malca</b> NW of <b>Malca Bravo</b>.</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Unidad Soldier</td>
+    <td>R5 RGP<br>AK-47 <sub><b>[NR]</b></sub><br>M4A1 <sub><b>[FG]</b></sub></td>
+    <td>18</td>
+    <td></td>
+    <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Unidad Veteran</td>
+    <td>Vector .45 ACP<br>PP19 <sub><b>[NR]</b></sub></td>
+    <td>18</td>
+    <td><i>Always</i> wears a beret.</td>
+	  <td>
+			<ul>
+		    <li><b>F.O.B. Serpiente</b> north of <b>Flor de Oro Bravo</b>.</li>
+        <li><b>M.O.B. Condor</b>.</li>
+        <li>May spawn at random <b>Checkpoints</b> and <b>Campsites</b>.</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Extranjeros Jammer <sub><b>[FG]</b></sub></td>
+    <td>MDR (Suppressed)</td>
+    <td>18</td>
+    <td></td>
+    <td>
+			<ul>
+				<li></li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td>Extranjeros Footman <sub><b>[FG]</b></sub></td>
+    <td>TAR-21</td>
+    <td>18</td>
+    <td></td>
+    <td>
+			<ul>
+				<li></li>
+			</ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Extranjeros Armored <sub><b>[FG]</b></sub></td>
+    <td>R4</td>
+    <td>18 (Headshots)</td>
+    <td>Only gets damaged from headshots.</td>
+    <td>
+		  <ul>
+				<li></li>
+			</ul>
+		</td>
+  </tr>
+</table>
+
+<sub><b>[NR]</b></sub> <i>Narco Road DLC</i><br>
+<sub><b>[FG]</b></sub> <i>Fallen Ghosts DLC</i><br>
+<sub><b>[1]</b></sub> These seem to be very rare NPCs. Can be found sparsely around the map at spots labeled <b>Rebel Campsite</b>.
+
+- Campsites/checkpoints are randomly populated by Cartel/Unidad/Rebel forces, anywhere from 2 to 4 of each type. Sometimes these campsites will have two or three factions, meaning one day you might pass it with just two cartel gunners while the next may have both Unidad and rebels. Population conditions are unknown. There is a special type of campsite spawn where it appears the cartel and Unidad are negotiating. In this scenario, there will be a Santa Blanca Veteran along with two Santa Blanca Soldiers and an Unidad Veteran with two Unidad Soldiers.
+
+### NPC Population
+
+There are many bases in both the stock game and DLCs. Listed below are statistics of some of the largest.
+
+<table>
+  <tr>
+    <th scope="col">NAME</th>
+    <th scope="col">LIEUTENANTS</th>
+    <th scope="col">SNIPERS</th>
+    <th scope="col">HEAVIES</th>
+    <th scope="col">VETERANS</th>
+    <th scope="col">SOLDIERS</th>
+  </tr>
+  <tr>
+    <td>M.O.B. Condor<br>(Full House Glitch)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>15</td> <!-- snipers -->
+    <td>10</td> <!-- heavies -->
+    <td>4</td> <!-- veterans -->
+    <td>41</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>F.O.B. Serpiente <sub><b>[NR]</b></sub></td>
+    <td>-</td> <!-- lieutenants -->
+    <td>18</td> <!-- snipers -->
+    <td>16</td> <!-- heavies -->
+    <td>1</td> <!-- veterans -->
+    <td>36</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>F.O.B. Vibora<br>(N of <b>La Cruz Bravo</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>4</td> <!-- snipers -->
+    <td>4</td> <!-- heavies -->
+    <td></td> <!-- veterans -->
+    <td>31</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>Holy Malca Base<br>(NW of <b>Malca Delta</b>)</td>
+    <td>1</td> <!-- lieutenants -->
+    <td>6</td> <!-- snipers -->
+    <td>6</td> <!-- heavies -->
+    <td>2</td> <!-- veterans -->
+    <td>24</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>F.O.B. Serpiente<br>(N of <b>Flor de Oro Bravo</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>9</td> <!-- snipers -->
+    <td>8</td> <!-- heavies -->
+    <td>1</td> <!-- veterans -->
+    <td>20</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>Libertad Base<br>(SE of <b>Libertad Bravo</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>6</td> <!-- snipers -->
+    <td>7</td> <!-- heavies -->
+    <td>1</td> <!-- veterans -->
+    <td>20</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>Koani Railway Camp<br>(S of <b>Koani Delta</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>5</td> <!-- snipers -->
+    <td>3</td> <!-- heavies -->
+    <td>1</td> <!-- veterans -->
+    <td>19</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>F.O.B. Tucan<br>(SE of <b>Villa Verde Bravo</b>)</td>
+    <td>1 <sub><b>[UL]</b></sub></td> <!-- lieutenants -->
+    <td>-</td> <!-- snipers -->
+    <td>2</td> <!-- heavies -->
+    <td>-</td> <!-- veterans -->
+    <td>17</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>San Rodrigo Monestary<br>(SW of <b>La Cruz Bravo</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>5</td> <!-- snipers -->
+    <td>2</td> <!-- heavies -->
+    <td>-</td> <!-- veterans -->
+    <td>14</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>Santa Muerte Idol<br>(NW of <b>Malca Bravo</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>-</td> <!-- snipers -->
+    <td>1</td> <!-- heavies -->
+    <td>5</td> <!-- veterans -->
+    <td>12</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>F.O.B. Oso Hormiguero<br>(S of <b>Libertad Charlie</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>3</td> <!-- snipers -->
+    <td>6</td> <!-- heavies -->
+    <td>-</td> <!-- veterans -->
+    <td>12</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>Combat Outpost<br>(SE of <b>Koani Bravo</b>)</td>
+    <td>1 <sub><b>[UL]</b></sub></td> <!-- lieutenants -->
+    <td>2</td> <!-- snipers -->
+    <td>-</td> <!-- heavies -->
+    <td>-</td> <!-- veterans -->
+    <td>12</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>Combat Outpost<br>(SW of <b>Koani Charlie</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>3</td> <!-- snipers -->
+    <td>-</td> <!-- heavies -->
+    <td>-</td> <!-- veterans -->
+    <td>12</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>Outpost<br>(SW of <b>Villa Verde Alpha</b>)</td>
+    <td>1</td> <!-- lieutenants -->
+    <td>2</td> <!-- snipers -->
+    <td>8</td> <!-- heavies -->
+    <td>0</td> <!-- veterans -->
+    <td>6</td> <!-- soldiers -->
+  </tr>
+</table>
+
+<sub><b>[NR]</b></sub> <i>In Narco Road DLC</i><br>
+<sub><b>[UL]</b></sub> <i>One of the few places <b>Unidad Lieutenants</b> can be found.</i>
+
+### Road Patrols
+
+Below is data taken from observing road patrol vehicles in the full game and both DLCs. Unidad road patrols and cartel reinforcement vehicles' occupants may vary based on location, e.g. more difficult provinces will have more heavies and veterans (and more occupants in general). A Unidad 4x4 in Itacua will have two soldiers, a driver and gunner, while the same vehicle in Koani may be loaded down with four heavies. Exceptions to this rule (those with occupants which do not vary based on location) are marked with an asterisk.
+
+<table>
+  <tr>
+    <th scope="col">VEHICLE</th>
+    <th scope="col">MAXIMUM<br>NUMBEROF<br>OCCUPANTS</th>
+    <th scope="col">OCCUPANT TYPES</th>
+  </tr>
+  <tr>
+    <td>Unidad Helicopter <sub><b>[x]</b></sub></td>
+    <td>6</td>
+    <td>Unidad Soldier</td>
+  </tr>
+  <tr>
+    <td>Unidad Armored Buggy</td>
+    <td>4</td>
+    <td>Unidad Soldier<br>Unidad Heavy</td>
+  </tr>
+  <tr>
+    <td>Unidad Armored SUV</td>
+    <td>4</td>
+    <td>Unidad Soldier<br>Unidad Heavy</td>
+  </tr>
+  <tr>
+    <td>Unidad 4x4</td>
+    <td>4</td>
+    <td>Unidad Soldier<br>Unidad Heavy</td>
+  </tr>
+  <tr>
+    <td>Unidad Pickup <sub><b>[x]</b></sub></td>
+    <td>2</td>
+    <td>Unidad Soldier</td>
+  </tr>
+  <tr>
+    <td>Unidad Buggy <sub><b>[x]</b></sub></td>
+    <td>2</td>
+    <td>Unidad Soldier</td>
+  </tr>
+  <tr>
+    <td>Extranjeros Armored SUV <sub><b>[FG]</b></sub></td>
+    <td>2</td>
+    <td>Extranjeros Footman</td>
+  </tr>
+  <tr>
+    <td>Santa Blanca Trophy Buggy <sub><b>[FG]</b></sub></td>
+    <td>2</td>
+    <td>Santa Blanca Soldier (Vested)</td>
+  </tr>
+</table>
+
+<sub><b>[x]</b></sub> *Occupants do not vary.*<br>
+<sub><b>[NR]</b></sub> *Narco Road DLC*<br>
+<sub><b>[FG]</b></sub> *Fallen Ghosts DLC*
+
+# GAME MODES
 
 *Some info on different modes.*
 
@@ -674,51 +826,51 @@ This is a survival game mode which rewards you with Prestige Credits and Resourc
 Guerilla Mode can be used in conjunction with Tier Mode. Multipliers carry over to tier points, kill/completion scrap, and resource rewards. A tier one player can make a heap of resources in a full 25-wave run. The stats below were taken from a full 25-wave run with tier mode (tier one) on for every fifth wave. If you somehow managed to roll the same resource for all raids, you can make up to 855,600 resources of any given type.
 
 <table>
-<tr>
-<th scope="col">WAVE #</th>
-<th scope="col">PRESTIGE<br>CREDITS</th>
-<th scope="col">RESOURCES</th>
-</tr>
-<tr>
-<td>5</td>
-<td>25</td>
-<td>27600</td>
-</tr>
-<tr>
-<td>10</td>
-<td>50</td>
-<td>55200</td>
-</tr>
-<tr>
-<td>15</td>
-<td>75</td>
-<td>110400</td>
-</tr>
-<tr>
-<td>20</td>
-<td>100</td>
-<td>220800</td>
-</tr>
-<tr>
-<td>25</td>
-<td>250</td>
-<td>441600</td>
-</tr>
+  <tr>
+    <th scope="col">WAVE #</th>
+    <th scope="col">PRESTIGE<br>CREDITS</th>
+    <th scope="col">RESOURCES</th>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>25</td>
+    <td>27600</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>50</td>
+    <td>55200</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>75</td>
+    <td>110400</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>100</td>
+    <td>220800</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>250</td>
+    <td>441600</td>
+  </tr>
 </table>
 
-# Vehicle Stats
+# VEHICLE STATS
 
 Below are armor testing results and information on vehicles available in the game. All of these except for the **"Pickup Truck"**, **"Armored SUV"**, and **"Helicopter"** are unlocked via **Prestige/Spec Ops Crate**. The former three are unlocked through **Network Station** missions. All shot numbers listed apply to all variants of the vehicles. All names are listed as they appear when unlocked via Crate. Parenthesis include other names the vehicle could go by and/or names shown when entering them.
 
 <table>
     <tr>
-        <th scope="col">VEHICLE(S)</th>
-        <th scope="col">SHOTS TAKEN<br>(VS M60E4)</th>
+      <th scope="col">VEHICLE(S)</th>
+      <th scope="col">SHOTS TAKEN<br>(VS M60E4)</th>
 		<th scope="col">LOCATIONS</th>
     </tr>
     <tr>
-        <td>APC <sub><b>[S] [U]</b></sub></td>
-        <td>33</td>
+      <td>APC <sub><b>[S] [U]</b></sub></td>
+      <td>33</td>
 		<td>
 			<ul>
 				<li></li>
@@ -804,6 +956,7 @@ Below are armor testing results and information on vehicles available in the gam
         <li><b>-20.4200, 66.3405</b> (E of <b>San Martin Mountain Hut</b>, SW of <b>Inca Camina Charlie</b>)</li>
         <li><b>-20.6980, -61.5744</b> (NE of <b>Icoya, Malca</b>)</li>
 			</ul>
+      <b>SUV</b> with <i>Esperanza Santa Blanca</i> livery can be found parked on the east side of <b>Acevedo, Media Luna</b> (NW of <b>San Mateo Alpha</b>).
 		</td>
     </tr>
     <tr>
@@ -832,27 +985,29 @@ Below are armor testing results and information on vehicles available in the gam
         <li><b>F.O.B. Serpiente, Flor de Oro</b> (N of <b>Flor de Oro Bravo</b>)</li>
         <li><b>F.O.B. Buitre, Media Luna</b> (E of <b>Media Luna Alpha</b>)</li>
         <li><b>M.O.B. Condor, Media Luna</b> (NE of <b>San Mateo Alpha</b>)</li>
+        <li><b>F.O.B. Oso Hormiguero</b> (S of <b>Libertad Charlie</b>)</li>
 			</ul>
 		</td>
     </tr>
     <tr>
-        <td>Bike</td>
+        <td>Bike<br>Gunboat</td>
         <td>6</td>
 		<td>
+      <b>Gunboat</b> can be found docked at:
 			<ul>
-				<li></li>
+				<li><b>Outpost</b> (W of <b>Caimanes Delta</b>)</li>
 			<ul>
 		</td>
     </tr>
 </table>
 
-<sub><b>[x]</b></sub> *Passenger can enter and fire from the trunk.*<br>
-<sub><b>[R]</b></sub> *Used by the Rebels and/or located at their campsites.*<br>
-<sub><b>[U]</b></sub> *Used by Unidad and/or located at their campsites.*<br>
-<sub><b>[S]</b></sub> *Used by SBC and/or located at their campsites..*<br>
-<sub><b>[C]</b></sub> *Used by civilian NPCs and may spawn randomly.*
+<sub><b>[x]</b></sub> <i>Passenger can enter and fire from the trunk.</i><br>
+<sub><b>[R]</b></sub> <i>Used by the Rebels and/or located at their campsites.</i><br>
+<sub><b>[U]</b></sub> <i>Used by Unidad and/or located at their campsites.</i><br>
+<sub><b>[S]</b></sub> <i>Used by SBC and/or located at their campsites.</i><br>
+<sub><b>[C]</b></sub> <i>Used by civilian NPCs and may spawn randomly.</i>
 
-# Weapon Stats
+# WEAPON STATS
 
 ### Paint Wear
 
@@ -890,16 +1045,17 @@ And here's some honorable mentions:
 
 Gun | Class | Details
 :--- | --- | ---
-Mk 16<br>Mk 17<br>R5 RGP | Assault Rifle | Low fire rate, high damage, high recoil.<ul><li><b>Mk 16</b> is the <b>Mk 17</b>, but with a bit less recoil and faster reload.</li><li><b>Mk 17</b> is high damage, but slow reload.</li><li><b>R5 RGP</b> is the <b>Mk 16</b> in an AR15 package.</ul>
+Mk 16<br>Mk 17<br>R5 RGP | Assault Rifle | Low fire rate, high damage, high recoil. Very useful for early game when <b>VHC Destruction</b> skill hasn't been purchased.<ul><li><b>Mk 16</b> is the <b>Mk 17</b>, but with a bit less recoil and faster reload.</li><li><b>Mk 17</b> is high damage, but slow reload.</li><li><b>R5 RGP</b> is the <b>Mk 16</b> in an AR15 package.</ul>
 AK-12<br>G36C | Assault Rifle | Performs similarly to **M4A1**.
 BFG-50A | Sniper Rifle | A semi auto **HTI** with slightly less bullet drop.
 MSR | Sniper Rifle | The best balanced sniper rifle. 10-round magazine capacity, guaranteed one-shot kill to personnel (with long barrel), two-shots helicopters, and manageable bullet drop (not the best but definitely not the worst).
 M40A5 | Sniper Rifle | One shots when equipped with Long Barrel. Requires some skill to use effectively.
-Vector .45 ACP<br>Scorpion EVO 3 | Submachine Gun | brrrrr
+Vector .45 ACP<br>Scorpion EVO 3 | Submachine Gun | <i>beware the beez</i>
 SR-635 | Submachine Gun | Crazy damage and fast reload, but bullets drop off hard.
 Mk 48<br>Mk 249 | Light Machine Gun | Balanced LMGs with higher-than-normal rates of fire and manageable recoil.
 M60E4 | Light Machine Gun | Crazy damage, but wack recoil.
-SASG-12<br>SILENCIO | haha suppressed auto shotty go sploosh sploosh sploosh
+SASG-12<br>SILENCIO | Shotgun | <i>haha suppressed auto shotty go sploosh sploosh sploosh</i>
+RevSG-12 | Shotgun | Breakover action revolver shotgun with a stupid fast reload.
 M9 | Pistol | Highest damage customizable pistol in the game.
 
 ### Critical Hit Mechanics
@@ -940,12 +1096,12 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>136m</td>
 </tr>
 <tr>
-<td>Wilderness<sub><b>[DLC]</b></sub></td>
+<td>Wilderness <sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>80m</td>
 </tr>
 <tr>
-<td>RevSG-12<sub><b>[DLC]</b></sub></td>
+<td>RevSG-12 <sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>78m</td>
 </tr>
@@ -960,12 +1116,12 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>70m</td>
 </tr>
 <tr>
-<td>Model 1887<sub><b>[DLC]</b></sub></td>
+<td>Model 1887 <sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>66m</td>
 </tr>
 <tr>
-<td>Ice Shard<sub><b>[DLC]</b></sub></td>
+<td>Ice Shard <sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>64m</td>
 </tr>
@@ -980,17 +1136,17 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>60m</td>
 </tr>
 <tr>
-<td>M4 Super 90<sub><b>[DLC]</b></sub></td>
+<td>M4 Super 90 <sub><b>[DLC]</b></sub></td>
 <td>Short, Standard</td>
 <td>62m</td>
 </tr>
 <tr>
-<td>ACS-12<sub><b>[DLC]</b></sub></td>
+<td>ACS-12 <sub><b>[DLC]</b></sub></td>
 <td>Standard</td>
 <td>62m</td>
 </tr>
 <tr>
-<td>SPAS-12 Skulls and Blood<sub><b>[DLC]</b></sub></td>
+<td>SPAS-12 Skulls and Blood <sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>60m</td>
 </tr>
@@ -1000,12 +1156,12 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>58m</td>
 </tr>
 <tr>
-<td>SASG-12 Frontier<sub><b>[DLC]</b></sub></td>
+<td>SASG-12 Frontier <sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>54m</td>
 </tr>
 <tr>
-<td>SPAS-12 Secutor<sub><b>[DLC]</b></sub></td>
+<td>SPAS-12 Secutor <sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>50m</td>
 </tr>
@@ -1015,7 +1171,7 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 <td>24m</td>
 </tr>
 <tr>
-<td>Super Shorty Legacy<sub><b>[DLC]</b></sub></td>
+<td>Super Shorty Legacy <sub><b>[DLC]</b></sub></td>
 <td>N/A</td>
 <td>24m</td>
 </tr>
@@ -1220,7 +1376,7 @@ Below are test results for all sidearms in the game. Range values are tested max
 
 <sub><b>[1]</b></sub> <i>The highest damage suppressable pistol in the game.</i><br>
 <sub><b>[2]</b></sub> <i>The best all-around pistol. Integrally suppressed, high damage, and moderate bullet drop.*</i><br>
-<sub><b>[3]</b></sub> <i>The best all-around customizable pistol. Held by AI teammates. On par with the 5.7 USG but delivers a slightly more powerful blow. Also the only 9mm pistol in the game (other than the Whisper a.k.a. Maxim 9, which presumably uses 9mm ammunition as its real life counterpart does).*</i><br>
+<sub><b>[3]</b></sub> <i>The best all-around customizable pistol. Held by AI teammates. On par with the 5.7 USG but delivers a slightly more powerful blow. Also the only 9mm pistol in the game (other than the Whisper a.k.a. Maxim 9, which presumably uses 9mm ammunition as its real life counterpart does).</i><br>
 <sub><b>[DLC]</b></sub> <i>Obtained from crates.</i>
 
 ### Damage Stats
@@ -1230,1396 +1386,1396 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
 **QUICK NOTE ABOUT SNIPER DAMAGE AT RANGE:** I've been able to reproduce a strange event where my **HTI** (yes, with long barrel) doesn't one shot beyond 400m. I have no clue why this happens as it seems to come in and out at random. What I mean by "reproduce" is that I've had it happen a number of times in different spots. Twice from the cliff overlooking **M.O.B. Condor**, once at **La Carcel del Pueblo**, and twice at the **Koani Air Base**.
 
 <table>
-<tr>
-<th scope="col">WEAPON</th>
-<th scope="col">CLASS</th>
-<th scope="col">AMMO</th>
-<th scope="col">HARDTARGET</th>
-<th scope="col">SOFTTARGET</th>
-<th scope="col">SOFTTARGET(BURSTPOTENTIAL)</th>
-</tr>
-<tr>
-<td>SR25 Jungle <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Desert Tech HTI BDC</td>
-<td>Sniper</td>
-<td>.50 BMG</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Musket <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>Lead Ball</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Z93 AMR <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.50 BMG</td>
-<td>2 (Long)<br>2 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-</tr>
-<tr>
-<td>HTI</td>
-<td>Sniper</td>
-<td>.50 BMG</td>
-<td>2 (Long)<br>3 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-</tr>
-<tr>
-<td>BFG-50A <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.50 BMG</td>
-<td>2 (Long)<br>3 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-</tr>
-<tr>
-<td>TAC-50 <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.50 BMG</td>
-<td>3</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>KSVK <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>12.7x108mm</td>
-<td>3</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Extranjeros BFG <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.50 BMG</td>
-<td>4</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>HTI Muddy Bones <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.50 BMG</td>
-<td>4</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>FRF-2 <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>5 (Long)<br>6 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-</tr>
-<tr>
-<td>SR-1</td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>5 (Long)<br>6 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-</tr>
-<tr>
-<td>MSR</td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
-<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
-<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
-</tr>
-<tr>
-<td>R93 LRS2 <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
-<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
-<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
-</tr>
-<tr>
-<td>MSR Thermite <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>5</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>MSR Eagle Shot <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>5</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>SR-1 Chameleon <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>6</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Super Shorty</td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-</tr>
-<tr>
-<td>El Cuentista</td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>6</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Super Shorty Legacy <sub><b>[DLC]</b></sub></td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>6</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>SRSA1 Black Widow <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>6</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>L115A3 London Call <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>6</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>SRSA1</td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-</tr>
-<tr>
-<td>The Warhawk</td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>7</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>M1891</td>
-<td>Sniper</td>
-<td>7.62x54mmR</td>
-<td>7 (Long)<br>8 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-</tr>
-<tr>
-<td>L115A3</td>
-<td>Sniper</td>
-<td>.338 LM</td>
-<td>7 (Long)<br>7 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-<td>1 (Long)<br>1 (Standard)</td>
-</tr>
-<tr>
-<td>M40A5</td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>8 (Long)<br>9 (Standard)<br>10 (Short)</td>
-<td>1 (Long)<br>2 (Standard)<br>2 (Short)</td>
-<td>1 (Long)<br>2 (Standard)<br>2 (Short)</td>
-</tr>
-<tr>
-<td>M40A5 Golden Sun <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>8</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Chica Mala</td>
-<td>Sniper</td>
-<td>7.62x54mmR</td>
-<td>8</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Stampede <sub><b>[DLC]</b></sub></td>
-<td>SNR</td>
-<td>30-30 Win</td>
-<td>8</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Mud and Blood <sub><b>[NR]</b></sub></td>
-<td>SNR</td>
-<td>.50 BMG</td>
-<td>10</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>SPAS-12 Secutor <sub><b>[DLC]</b></sub></td>
-<td>STG</td>
-<td>12ga</td>
-<td>11</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>El Obsequio</td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>11</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Fishy Shorty <sub><b>[NR]</b></sub></td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>12</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Wilderness <sub><b>[DLC]</b></sub></td>
-<td>Shotgun</td>
-<td>10ga</td>
-<td>13</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Ice Shard <sub><b>[DLC]</b></sub></td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>13</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr>
-<td>SPAS-12</td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>13 (Long)<br>13 (Standard)<br>13 (Short)</td>
-<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
-<td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
-</tr>
-<tr>
-<td>SPAS-12 Skulls and Blood <sub><b>[DLC]</b></sub></td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>13</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr>
-<td>SR25</td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>14 (Standard)<br>16 (Short)</td>
-<td>2 (Standard)<br>2 (Short)</td>
-<td>2 (Standard)<br>2 (Short)</td>
-</tr>
-<tr>
-<td>SR25 Liberator <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>14</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr>
-<td>SR25 Machinery <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>14</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Lanza Sagrada</td>
-<td>Sniper</td>
-<td>7.62x54mmR</td>
-<td>15</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr>
-<td>M110 <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>15</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Dragunov SVD Guerilla <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x54mmR</td>
-<td>18</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Model 1887 <sub><b>[DLC]</b></sub></td>
-<td>Shotgun</td>
-<td>10ga</td>
-<td>18</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr>
-<td>RevSG-12 <sub><b>[DLC]</b></sub></td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>18</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr>
-<td>M4 Super 90 <sub><b>[DLC]</b></sub></td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>18 (Standard)<br>18 (Short)</td>
-<td>2 (Standard)<br>2 (Short)</td>
-<td>2 (Standard)<br>2 (Short)</td>
-</tr>
-<tr>
-<td>Dragunov (SVD)</td>
-<td>Sniper</td>
-<td>7.62x54mmR</td>
-<td>18 (Standard)<br>19 (Short)</td>
-<td>3 (Standard)<br>3 (Short)</td>
-<td>3 (Standard)<br>2 (Short)</td>
-</tr>
-<tr>
-<td>&iexcl;SILENCIO!</td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>19</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>SASG-12</td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>19 (Long)<br>21 (Standard)</td>
-<td>2 (Long)<br>2 (Standard)</td>
-<td>2 (Long)<br>2 (Standard)</td>
-</tr>
-<tr>
-<td>ACS-12 <sub><b>[DLC]</b></sub></td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>19</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>SASG-12 Frontier <sub><b>[DLC]</b></sub></td>
-<td>Shotgun</td>
-<td>12ga</td>
-<td>21</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr>
-<td>His AK-47</td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>29</td>
-<td>4</td>
-<td>3</td>
-</tr>
-<tr>
-<td>MK14</td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>31 (Long)<br>34 (Standard)</td>
-<td>4 (Long)<br>4 (Standard)</td>
-<td>4 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>Experimento #42</td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>32</td>
-<td>4</td>
-<td>3</td>
-</tr>
-<tr>
-<td>9mm C1</td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>32 (Long)<br>35 (Standard)</td>
-<td>4 (Long)<br>5 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>Dragonbreath <sub><b>[NR]</b></sub></td>
-<td>LMG</td>
-<td>5.56x45mm</td>
-<td>32</td>
-<td>4</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Mk 17 Tiger Fang <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>7.62x51mm</td>
-<td>33</td>
-<td>4</td>
-<td>3</td>
-</tr>
-<tr>
-<td>M60E4 <sub><b>[DLC]</b></sub></td>
-<td>LMG</td>
-<td>7.62x51mm</td>
-<td>33</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr>
-<td>AK-47 'Undercover' <sub><b>[NR]</b></sub></td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>33</td>
-<td>4</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Carnage <sub><b>[NR]</b></sub></td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>34</td>
-<td>4</td>
-<td>3</td>
-</tr>
-<tr>
-<td>9mm C1 Blaze <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>35</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>M4A1 Tactical</td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>35</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Mk 17</td>
-<td>AR</td>
-<td>7.62x51mm</td>
-<td>36 (Long)<br>39 (Standard)<br>42 (Short)</td>
-<td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
-<td>3 (Long)<br>3 (Standard)<br>3 (Short)</td>
-</tr>
-<tr>
-<td>SR-635</td>
-<td>SMG</td>
-<td>6x35mm</td>
-<td>37 (Standard)<br>INV (Short)</td>
-<td>4 (Standard)<br>5 (Short)</td>
-<td>3 (Standard)<br>3 (Short)</td>
-</tr>
-<tr>
-<td>Mk14 Captain <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>37</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Extranjeros PDR <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>37</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Golden Safari <sub><b>[NR]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>37</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Her AK-47</td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>37</td>
-<td>4</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Mk 16 <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>37 (Long)<br>40 (Standard)<br>44 (Short)</td>
-<td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
-<td>3 (Long)<br>3 (Standard)<br>3 (Short)</td>
-</tr>
-<tr>
-<td>6P41</td>
-<td>LMG</td>
-<td>7.62x54mm</td>
-<td>38 (Long)<br>41 (Standard)</td>
-<td>4 (Long)<br>4 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>El Bast&oacute;n</td>
-<td>LMG</td>
-<td>7.62x54mm</td>
-<td>38</td>
-<td>5</td>
-<td>4</td>
-</tr>
-<tr>
-<td>PSG-1 <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>38 (Long)<br>41 (Standard)</td>
-<td>5 (Long)<br>6 (Standard)</td>
-<td>5 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>PSG-1 Mercenary <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>38</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>G28 Rookie <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>38</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>G28</td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>38 (Long)<br>41 (Standard)</td>
-<td>5 (Long)<br>6 (Standard)</td>
-<td>5 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>Eagle Stare <sub><b>[NR]</b></sub></td>
-<td>SMG</td>
-<td>4.6x30mm</td>
-<td>38</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Mk 17 Nerd <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>7.62x51mm</td>
-<td>39</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>SR-635 Jaw <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>6x35mm</td>
-<td>39</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Mk14 Occult <sub><b>[DLC]</b></sub></td>
-<td>Sniper</td>
-<td>7.62x51mm</td>
-<td>40</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Extranjeros R4 <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>41</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Unidad RPK-74 <sub><b>[DLC]</b></sub></td>
-<td>LMG</td>
-<td>7.62x39mm</td>
-<td>41</td>
-<td>4</td>
-<td>3</td>
-</tr>
-<tr>
-<td>6P41 Reaper <sub><b>[DLC]</b></sub></td>
-<td>LMG</td>
-<td>7.62x54mm</td>
-<td>41</td>
-<td>4</td>
-<td>3</td>
-</tr>
-<tr>
-<td>556xi Dragon <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>42</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>&iexcl;UY!</td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>42</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>R5 RGP</td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>42 (Long)<br>46 (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>LVOA-C Bad News</td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>42</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>AK-47</td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>43 (Long)<br>47 (Standard)<br>53 (Short)</td>
-<td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
-<td>3 (Long)<br>3 (Standard)<br>4 (Short)</td>
-</tr>
-<tr>
-<td>AUG A3 <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>43 (Long)<br>46 (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>416 <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>44 (Long)<br>47 (Standard)<br>55 (Short)</td>
-<td>5 (Long)<br>6 (Standard)<br> (Short)</td>
-<td>3 (Long)<br>4 (Standard)<br> (Short)</td>
-</tr>
-<tr>
-<td>AK-74 <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>44 (Long)<br>51 (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>3 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>R4 <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>44 (Long)<br>50 (Standard)</td>
-<td>5 (Long)<br>6 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>Ritmo</td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>45</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>AK-12</td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>45 (Long)<br>51 (Standard)</td>
-<td>5 (Long)<br>6 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>SC4000 <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>46</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>9x19VSN</td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>46 (Long)<br>46 (Standard)</td>
-<td>5 (Long)<br>6 (Standard)</td>
-<td>3 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>805 Bren A2</td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>46 (Long)<br>49 (Standard)<br>54 (Short)</td>
-<td>5 (Long)<br>6 (Standard)<br>6 (Short)</td>
-<td>3 (Long)<br>4 (Standard)<br>4 (Short)</td>
-</tr>
-<tr>
-<td>L85A2</td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>46 (Standard)<br>52 (Short)</td>
-<td>6 (Standard)<br>6 (Short)</td>
-<td>4 (Standard)<br>4 (Short)</td>
-</tr>
-<tr>
-<td>9x19VSN Replicant <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>46</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>G36C <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>46 (Long)<br>53 (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>El Commandante <sub><b>[1]</b></sub> <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>47</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>M4A1 Temple <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>47</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>M4A1</td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>47 (Long)<br>52 (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>TAR-21</td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>48 (Long)<br>53 (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>4 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>Stoner LMG A1</td>
-<td>LMG</td>
-<td>5.56x45mm</td>
-<td>48 (Long)<br>52 (Standard)</td>
-<td>5 (Long)<br>5 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>Extranjeros MDR <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>49</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>AK-12 Victory <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>49</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Mk 48</td>
-<td>LMG</td>
-<td>7.62x51mm</td>
-<td>49 (Long)<br>53 (Standard)</td>
-<td>5 (Long)<br>5 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>MDR <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>49 (Long)<br>54 (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>4 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>AK-47 Uprising <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>50</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>ACR</td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>50 (Long)<br>54 (Standard)<br>INV (Short)</td>
-<td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
-<td>4 (Long)<br>4 (Standard)<br>4 (Short)</td>
-</tr>
-<tr>
-<td>Veteran Bren <sub><b>[DLC]</b></sub></td>
-<td>LMG</td>
-<td>.30-06 Springfield(7.62x63mm)</td>
-<td>50</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>PSG</td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>50 (Long)<br>INV (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>4 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>Dollar Sign <sub><b>[NR]</b></sub></td>
-<td>LMG</td>
-<td>5.56x45mm</td>
-<td>50</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>556xi</td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>51 (Long)<br>57 (Standard)<br>63 (Short)</td>
-<td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
-<td>4 (Long)<br>4 (Standard)<br>5 (Short)</td>
-</tr>
-<tr>
-<td>PP19</td>
-<td>SMG</td>
-<td>9x18mmMakarov</td>
-<td>51 (Long)<br>INV (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>4 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>Stoner Veteran <sub><b>[DLC]</b></sub></td>
-<td>LMG</td>
-<td>5.56x45mm</td>
-<td>52</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>M4A1 Explorer <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>52</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>P90</td>
-<td>SMG</td>
-<td>5.7x28mm</td>
-<td>52 (Long)<br>INV (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>3 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>Honey Badger <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>.300 BLK</td>
-<td>52</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>UMP 45 <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>.45 ACP</td>
-<td>52</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Mk 18 <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>52</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>M16 <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>52</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>P416 Micteca <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>52</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Skull and Drones <sub><b>[NR]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>53</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>M4A1 Commando <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>53</td>
-<td>8</td>
-<td>4</td>
-</tr>
-<tr>
-<td>F2000 <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>53</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Mk48 Wasteland <sub><b>[DLC]</b></sub></td>
-<td>LMG</td>
-<td>7.62x51mm</td>
-<td>53</td>
-<td>5</td>
-<td>4</td>
-</tr>
-<tr>
-<td>TAR-21 Predator <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>53</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>L85A2 Crocodile <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>53</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>PDR <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>5.56x45mm</td>
-<td>54 (Long)<br>61 (Standard)</td>
-<td>6 (Long)<br>7 (Standard)</td>
-<td>4 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>SR3M</td>
-<td>AR</td>
-<td>7.62x39mm</td>
-<td>54 (Long)<br>63 (Standard)</td>
-<td>6 (Long)<br>7 (Standard)</td>
-<td>4 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>Llamativo</td>
-<td>LMG</td>
-<td>5.56x45mm</td>
-<td>55</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>ACR Baby Vintage <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>55</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>AC-AR <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>56 (Standard)<br>60 (Short)</td>
-<td>6 (Standard)<br>7 (Short)</td>
-<td>4 (Standard)<br>4 (Short)</td>
-</tr>
-<tr>
-<td>Type 95 Initiate <sub><b>[DLC]</b></sub></td>
-<td>LMG</td>
-<td>5.56x45mm</td>
-<td>56</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>MPX</td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>56 (Long)<br>INV (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>4 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>Mendeleyev</td>
-<td>SMG</td>
-<td>.45 ACP</td>
-<td>57</td>
-<td>8</td>
-<td>4</td>
-</tr>
-<tr>
-<td>U100 <sub><b>[DLC]</b></sub></td>
-<td>LMG</td>
-<td>5.56x45mm</td>
-<td>57 (Long)<br>63 (Standard)</td>
-<td>6 (Long)<br>6 (Standard)</td>
-<td>3 (Long)<br>3 (Standard)</td>
-</tr>
-<tr>
-<td>G2 (FAMAS)</td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>58 (Standard)<br>INV (Short)</td>
-<td>7 (Standard)<br>8 (Short)</td>
-<td>4 (Standard)<br>5 (Short)</td>
-</tr>
-<tr>
-<td>FAL <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>7.62x51mm</td>
-<td>58</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>G2 70s <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>59</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>P416 Savior <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>59</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>P416</td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>59 (Standard)<br>65 (Short)</td>
-<td>7 (Standard)<br>8 (Short)</td>
-<td>4 (Standard)<br>5 (Short)</td>
-</tr>
-<tr>
-<td>MP5</td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>59 (Long)<br>66 (Standard)</td>
-<td>7 (Long)<br>8 (Standard)</td>
-<td>4 (Long)<br>5 (Standard)</td>
-</tr>
-<tr>
-<td>Vector Spectra <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>.45 ACP</td>
-<td>61</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Mk249 America <sub><b>[DLC]</b></sub></td>
-<td>LMG</td>
-<td>5.56x45mm</td>
-<td>63</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Mk249</td>
-<td>LMG</td>
-<td>5.56x45mm</td>
-<td>65 (Long)<br>70 (Standard)</td>
-<td>7 (Long)<br>7 (Standard)</td>
-<td>4 (Long)<br>4 (Standard)</td>
-</tr>
-<tr>
-<td>MP7</td>
-<td>SMG</td>
-<td>4.6x30mm</td>
-<td>66 (Long)<br>70 (Standard)</td>
-<td>8 (Long)<br>8 (Standard)</td>
-<td>5 (Long)<br>5 (Standard)</td>
-</tr>
-<tr>
-<td>MP5 Dragon's Breath <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>66</td>
-<td>8</td>
-<td>5</td>
-</tr>
-<tr>
-<td>MG121</td>
-<td>LMG</td>
-<td>7.62x51mm</td>
-<td>66 (Standard)<br>74 (Short)</td>
-<td>7 (Standard)<br>8 (Short)</td>
-<td>3 (Standard)<br>4 (Short)</td>
-</tr>
-<tr>
-<td>Vector .45 ACP</td>
-<td>SMG</td>
-<td>.45 ACP</td>
-<td>68 (Standard)<br>INV (Short)</td>
-<td>8 (Standard)<br>9 (Short)</td>
-<td>5 (Standard)<br>5 (Short)</td>
-</tr>
-<tr>
-<td>T95 Spectre <sub><b>[DLC]</b></sub></td>
-<td>LMG</td>
-<td>5.56x45mm</td>
-<td>70</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>LVOA <sub><b>[DLC]</b></sub></td>
-<td>AR</td>
-<td>5.56x45mm</td>
-<td>71</td>
-<td>8</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Vector .45 ACP Venom <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>.45 ACP</td>
-<td>73</td>
-<td>8</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Scorpion EVO 3</td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>73 (Long)<br>78 (Standard)</td>
-<td>8 (Long)<br>9 (Standard)</td>
-<td>5 (Long)<br>5 (Standard)</td>
-</tr>
-<tr>
-<td>SR-635 Apparition <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>6x35mm</td>
-<td>INV</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>PP19 Executioner <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>9x18mmMakarov</td>
-<td>INV</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Golden Vector <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>INV</td>
-<td>10</td>
-<td>6</td>
-</tr>
-<tr>
-<td>P90 Doorkicker <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>5.7x28mm</td>
-<td>INV</td>
-<td>7</td>
-<td>5</td>
-</tr>
-<tr>
-<td>P90 Glory <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>5.7x28mm</td>
-<td>INV</td>
-<td>8</td>
-<td>4</td>
-</tr>
-<tr>
-<td>P90 Mirmillo <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>5.7x28mm</td>
-<td>INV</td>
-<td>8</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Residuos</td>
-<td>SMG</td>
-<td>9x18mmMakarov</td>
-<td>INV</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td>MPX Traveler <sub><b>[DLC]</b></sub></td>
-<td>SMG</td>
-<td>9x19mm</td>
-<td>INV</td>
-<td>6</td>
-<td>4</td>
-</tr>
+  <tr>
+    <th scope="col">WEAPON</th>
+    <th scope="col">CLASS</th>
+    <th scope="col">AMMO</th>
+    <th scope="col">HARDTARGET</th>
+    <th scope="col">SOFTTARGET</th>
+    <th scope="col">SOFTTARGET(BURSTPOTENTIAL)</th>
+  </tr>
+  <tr>
+    <td>SR25 Jungle <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Desert Tech HTI BDC</td>
+    <td>Sniper</td>
+    <td>.50 BMG</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Musket <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>Lead Ball</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Z93 AMR <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.50 BMG</td>
+    <td>2 (Long)<br>2 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+  </tr>
+  <tr>
+    <td>HTI</td>
+    <td>Sniper</td>
+    <td>.50 BMG</td>
+    <td>2 (Long)<br>3 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+  </tr>
+  <tr>
+    <td>BFG-50A <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.50 BMG</td>
+    <td>2 (Long)<br>3 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+  </tr>
+  <tr>
+    <td>TAC-50 <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.50 BMG</td>
+    <td>3</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>KSVK <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>12.7x108mm</td>
+    <td>3</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Extranjeros BFG <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.50 BMG</td>
+    <td>4</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>HTI Muddy Bones <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.50 BMG</td>
+    <td>4</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>FRF-2 <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>5 (Long)<br>6 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+  </tr>
+  <tr>
+    <td>SR-1</td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>5 (Long)<br>6 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+  </tr>
+  <tr>
+    <td>MSR</td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
+    <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
+    <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
+  </tr>
+  <tr>
+    <td>R93 LRS2 <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
+    <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
+    <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
+  </tr>
+  <tr>
+    <td>MSR Thermite <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>5</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>MSR Eagle Shot <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>5</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>SR-1 Chameleon <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>6</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Super Shorty</td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+  </tr>
+  <tr>
+    <td>El Cuentista</td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>6</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Super Shorty Legacy <sub><b>[DLC]</b></sub></td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>6</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>SRSA1 Black Widow <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>6</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>L115A3 London Call <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>6</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>SRSA1</td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+  </tr>
+  <tr>
+    <td>The Warhawk</td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>7</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>M1891</td>
+    <td>Sniper</td>
+    <td>7.62x54mmR</td>
+    <td>7 (Long)<br>8 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+  </tr>
+  <tr>
+    <td>L115A3</td>
+    <td>Sniper</td>
+    <td>.338 LM</td>
+    <td>7 (Long)<br>7 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+    <td>1 (Long)<br>1 (Standard)</td>
+  </tr>
+  <tr>
+    <td>M40A5</td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>8 (Long)<br>9 (Standard)<br>10 (Short)</td>
+    <td>1 (Long)<br>2 (Standard)<br>2 (Short)</td>
+    <td>1 (Long)<br>2 (Standard)<br>2 (Short)</td>
+  </tr>
+  <tr>
+    <td>M40A5 Golden Sun <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>8</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Chica Mala</td>
+    <td>Sniper</td>
+    <td>7.62x54mmR</td>
+    <td>8</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Stampede <sub><b>[DLC]</b></sub></td>
+    <td>SNR</td>
+    <td>30-30 Win</td>
+    <td>8</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Mud and Blood <sub><b>[NR]</b></sub></td>
+    <td>SNR</td>
+    <td>.50 BMG</td>
+    <td>10</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>SPAS-12 Secutor <sub><b>[DLC]</b></sub></td>
+    <td>STG</td>
+    <td>12ga</td>
+    <td>11</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>El Obsequio</td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>11</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Fishy Shorty <sub><b>[NR]</b></sub></td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>12</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Wilderness <sub><b>[DLC]</b></sub></td>
+    <td>Shotgun</td>
+    <td>10ga</td>
+    <td>13</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Ice Shard <sub><b>[DLC]</b></sub></td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>13</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>SPAS-12</td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>13 (Long)<br>13 (Standard)<br>13 (Short)</td>
+    <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
+    <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
+  </tr>
+  <tr>
+    <td>SPAS-12 Skulls and Blood <sub><b>[DLC]</b></sub></td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>13</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>SR25</td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>14 (Standard)<br>16 (Short)</td>
+    <td>2 (Standard)<br>2 (Short)</td>
+    <td>2 (Standard)<br>2 (Short)</td>
+  </tr>
+  <tr>
+    <td>SR25 Liberator <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>14</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>SR25 Machinery <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>14</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Lanza Sagrada</td>
+    <td>Sniper</td>
+    <td>7.62x54mmR</td>
+    <td>15</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>M110 <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>15</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Dragunov SVD Guerilla <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x54mmR</td>
+    <td>18</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Model 1887 <sub><b>[DLC]</b></sub></td>
+    <td>Shotgun</td>
+    <td>10ga</td>
+    <td>18</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>RevSG-12 <sub><b>[DLC]</b></sub></td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>18</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>M4 Super 90 <sub><b>[DLC]</b></sub></td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>18 (Standard)<br>18 (Short)</td>
+    <td>2 (Standard)<br>2 (Short)</td>
+    <td>2 (Standard)<br>2 (Short)</td>
+  </tr>
+  <tr>
+    <td>Dragunov (SVD)</td>
+    <td>Sniper</td>
+    <td>7.62x54mmR</td>
+    <td>18 (Standard)<br>19 (Short)</td>
+    <td>3 (Standard)<br>3 (Short)</td>
+    <td>3 (Standard)<br>2 (Short)</td>
+  </tr>
+  <tr>
+    <td>&iexcl;SILENCIO!</td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>19</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>SASG-12</td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>19 (Long)<br>21 (Standard)</td>
+    <td>2 (Long)<br>2 (Standard)</td>
+    <td>2 (Long)<br>2 (Standard)</td>
+  </tr>
+  <tr>
+    <td>ACS-12 <sub><b>[DLC]</b></sub></td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>19</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>SASG-12 Frontier <sub><b>[DLC]</b></sub></td>
+    <td>Shotgun</td>
+    <td>12ga</td>
+    <td>21</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>His AK-47</td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>29</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>MK14</td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>31 (Long)<br>34 (Standard)</td>
+    <td>4 (Long)<br>4 (Standard)</td>
+    <td>4 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Experimento #42</td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>32</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>9mm C1</td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>32 (Long)<br>35 (Standard)</td>
+    <td>4 (Long)<br>5 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Dragonbreath <sub><b>[NR]</b></sub></td>
+    <td>LMG</td>
+    <td>5.56x45mm</td>
+    <td>32</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Mk 17 Tiger Fang <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x51mm</td>
+    <td>33</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>M60E4 <sub><b>[DLC]</b></sub></td>
+    <td>LMG</td>
+    <td>7.62x51mm</td>
+    <td>33</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>AK-47 'Undercover' <sub><b>[NR]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>33</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Carnage <sub><b>[NR]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>34</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>9mm C1 Blaze <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>35</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>M4A1 Tactical</td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>35</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Mk 17</td>
+    <td>AR</td>
+    <td>7.62x51mm</td>
+    <td>36 (Long)<br>39 (Standard)<br>42 (Short)</td>
+    <td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
+    <td>3 (Long)<br>3 (Standard)<br>3 (Short)</td>
+  </tr>
+  <tr>
+    <td>SR-635</td>
+    <td>SMG</td>
+    <td>6x35mm</td>
+    <td>37 (Standard)<br>INV (Short)</td>
+    <td>4 (Standard)<br>5 (Short)</td>
+    <td>3 (Standard)<br>3 (Short)</td>
+  </tr>
+  <tr>
+    <td>Mk14 Captain <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>37</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Extranjeros PDR <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>37</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Golden Safari <sub><b>[NR]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>37</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Her AK-47</td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>37</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Mk 16 <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>37 (Long)<br>40 (Standard)<br>44 (Short)</td>
+    <td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
+    <td>3 (Long)<br>3 (Standard)<br>3 (Short)</td>
+  </tr>
+  <tr>
+    <td>6P41</td>
+    <td>LMG</td>
+    <td>7.62x54mm</td>
+    <td>38 (Long)<br>41 (Standard)</td>
+    <td>4 (Long)<br>4 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>El Bast&oacute;n</td>
+    <td>LMG</td>
+    <td>7.62x54mm</td>
+    <td>38</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>PSG-1 <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>38 (Long)<br>41 (Standard)</td>
+    <td>5 (Long)<br>6 (Standard)</td>
+    <td>5 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>PSG-1 Mercenary <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>38</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>G28 Rookie <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>38</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>G28</td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>38 (Long)<br>41 (Standard)</td>
+    <td>5 (Long)<br>6 (Standard)</td>
+    <td>5 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Eagle Stare <sub><b>[NR]</b></sub></td>
+    <td>SMG</td>
+    <td>4.6x30mm</td>
+    <td>38</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Mk 17 Nerd <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x51mm</td>
+    <td>39</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>SR-635 Jaw <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>6x35mm</td>
+    <td>39</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Mk14 Occult <sub><b>[DLC]</b></sub></td>
+    <td>Sniper</td>
+    <td>7.62x51mm</td>
+    <td>40</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Extranjeros R4 <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>41</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Unidad RPK-74 <sub><b>[DLC]</b></sub></td>
+    <td>LMG</td>
+    <td>7.62x39mm</td>
+    <td>41</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>6P41 Reaper <sub><b>[DLC]</b></sub></td>
+    <td>LMG</td>
+    <td>7.62x54mm</td>
+    <td>41</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>556xi Dragon <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>42</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>&iexcl;UY!</td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>42</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>R5 RGP</td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>42 (Long)<br>46 (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>LVOA-C Bad News</td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>42</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>AK-47</td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>43 (Long)<br>47 (Standard)<br>53 (Short)</td>
+    <td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
+    <td>3 (Long)<br>3 (Standard)<br>4 (Short)</td>
+  </tr>
+  <tr>
+    <td>AUG A3 <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>43 (Long)<br>46 (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>416 <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>44 (Long)<br>47 (Standard)<br>55 (Short)</td>
+    <td>5 (Long)<br>6 (Standard)<br> (Short)</td>
+    <td>3 (Long)<br>4 (Standard)<br> (Short)</td>
+  </tr>
+  <tr>
+    <td>AK-74 <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>44 (Long)<br>51 (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>3 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>R4 <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>44 (Long)<br>50 (Standard)</td>
+    <td>5 (Long)<br>6 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Ritmo</td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>45</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>AK-12</td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>45 (Long)<br>51 (Standard)</td>
+    <td>5 (Long)<br>6 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>SC4000 <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>46</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>9x19VSN</td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>46 (Long)<br>46 (Standard)</td>
+    <td>5 (Long)<br>6 (Standard)</td>
+    <td>3 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>805 Bren A2</td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>46 (Long)<br>49 (Standard)<br>54 (Short)</td>
+    <td>5 (Long)<br>6 (Standard)<br>6 (Short)</td>
+    <td>3 (Long)<br>4 (Standard)<br>4 (Short)</td>
+  </tr>
+  <tr>
+    <td>L85A2</td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>46 (Standard)<br>52 (Short)</td>
+    <td>6 (Standard)<br>6 (Short)</td>
+    <td>4 (Standard)<br>4 (Short)</td>
+  </tr>
+  <tr>
+    <td>9x19VSN Replicant <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>46</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>G36C <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>46 (Long)<br>53 (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>El Commandante <sub><b>[1]</b></sub> <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>47</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>M4A1 Temple <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>47</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>M4A1</td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>47 (Long)<br>52 (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>TAR-21</td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>48 (Long)<br>53 (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>4 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Stoner LMG A1</td>
+    <td>LMG</td>
+    <td>5.56x45mm</td>
+    <td>48 (Long)<br>52 (Standard)</td>
+    <td>5 (Long)<br>5 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Extranjeros MDR <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>49</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>AK-12 Victory <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>49</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Mk 48</td>
+    <td>LMG</td>
+    <td>7.62x51mm</td>
+    <td>49 (Long)<br>53 (Standard)</td>
+    <td>5 (Long)<br>5 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>MDR <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>49 (Long)<br>54 (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>4 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>AK-47 Uprising <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>50</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>ACR</td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>50 (Long)<br>54 (Standard)<br>INV (Short)</td>
+    <td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
+    <td>4 (Long)<br>4 (Standard)<br>4 (Short)</td>
+  </tr>
+  <tr>
+    <td>Veteran Bren <sub><b>[DLC]</b></sub></td>
+    <td>LMG</td>
+    <td>.30-06 Springfield(7.62x63mm)</td>
+    <td>50</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>PSG</td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>50 (Long)<br>INV (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>4 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Dollar Sign <sub><b>[NR]</b></sub></td>
+    <td>LMG</td>
+    <td>5.56x45mm</td>
+    <td>50</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>556xi</td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>51 (Long)<br>57 (Standard)<br>63 (Short)</td>
+    <td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
+    <td>4 (Long)<br>4 (Standard)<br>5 (Short)</td>
+  </tr>
+  <tr>
+    <td>PP19</td>
+    <td>SMG</td>
+    <td>9x18mmMakarov</td>
+    <td>51 (Long)<br>INV (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>4 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Stoner Veteran <sub><b>[DLC]</b></sub></td>
+    <td>LMG</td>
+    <td>5.56x45mm</td>
+    <td>52</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>M4A1 Explorer <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>52</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>P90</td>
+    <td>SMG</td>
+    <td>5.7x28mm</td>
+    <td>52 (Long)<br>INV (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>3 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Honey Badger <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>.300 BLK</td>
+    <td>52</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>UMP 45 <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>.45 ACP</td>
+    <td>52</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Mk 18 <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>52</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>M16 <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>52</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>P416 Micteca <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>52</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Skull and Drones <sub><b>[NR]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>53</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>M4A1 Commando <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>53</td>
+    <td>8</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>F2000 <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>53</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Mk48 Wasteland <sub><b>[DLC]</b></sub></td>
+    <td>LMG</td>
+    <td>7.62x51mm</td>
+    <td>53</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>TAR-21 Predator <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>53</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>L85A2 Crocodile <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>53</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>PDR <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>5.56x45mm</td>
+    <td>54 (Long)<br>61 (Standard)</td>
+    <td>6 (Long)<br>7 (Standard)</td>
+    <td>4 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>SR3M</td>
+    <td>AR</td>
+    <td>7.62x39mm</td>
+    <td>54 (Long)<br>63 (Standard)</td>
+    <td>6 (Long)<br>7 (Standard)</td>
+    <td>4 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Llamativo</td>
+    <td>LMG</td>
+    <td>5.56x45mm</td>
+    <td>55</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>ACR Baby Vintage <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>55</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>AC-AR <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>56 (Standard)<br>60 (Short)</td>
+    <td>6 (Standard)<br>7 (Short)</td>
+    <td>4 (Standard)<br>4 (Short)</td>
+  </tr>
+  <tr>
+    <td>Type 95 Initiate <sub><b>[DLC]</b></sub></td>
+    <td>LMG</td>
+    <td>5.56x45mm</td>
+    <td>56</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>MPX</td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>56 (Long)<br>INV (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>4 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Mendeleyev</td>
+    <td>SMG</td>
+    <td>.45 ACP</td>
+    <td>57</td>
+    <td>8</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>U100 <sub><b>[DLC]</b></sub></td>
+    <td>LMG</td>
+    <td>5.56x45mm</td>
+    <td>57 (Long)<br>63 (Standard)</td>
+    <td>6 (Long)<br>6 (Standard)</td>
+    <td>3 (Long)<br>3 (Standard)</td>
+  </tr>
+  <tr>
+    <td>G2 (FAMAS)</td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>58 (Standard)<br>INV (Short)</td>
+    <td>7 (Standard)<br>8 (Short)</td>
+    <td>4 (Standard)<br>5 (Short)</td>
+  </tr>
+  <tr>
+    <td>FAL <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>7.62x51mm</td>
+    <td>58</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>G2 70s <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>59</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>P416 Savior <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>59</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>P416</td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>59 (Standard)<br>65 (Short)</td>
+    <td>7 (Standard)<br>8 (Short)</td>
+    <td>4 (Standard)<br>5 (Short)</td>
+  </tr>
+  <tr>
+    <td>MP5</td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>59 (Long)<br>66 (Standard)</td>
+    <td>7 (Long)<br>8 (Standard)</td>
+    <td>4 (Long)<br>5 (Standard)</td>
+  </tr>
+  <tr>
+    <td>Vector Spectra <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>.45 ACP</td>
+    <td>61</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Mk249 America <sub><b>[DLC]</b></sub></td>
+    <td>LMG</td>
+    <td>5.56x45mm</td>
+    <td>63</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Mk249</td>
+    <td>LMG</td>
+    <td>5.56x45mm</td>
+    <td>65 (Long)<br>70 (Standard)</td>
+    <td>7 (Long)<br>7 (Standard)</td>
+    <td>4 (Long)<br>4 (Standard)</td>
+  </tr>
+  <tr>
+    <td>MP7</td>
+    <td>SMG</td>
+    <td>4.6x30mm</td>
+    <td>66 (Long)<br>70 (Standard)</td>
+    <td>8 (Long)<br>8 (Standard)</td>
+    <td>5 (Long)<br>5 (Standard)</td>
+  </tr>
+  <tr>
+    <td>MP5 Dragon's Breath <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>66</td>
+    <td>8</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>MG121</td>
+    <td>LMG</td>
+    <td>7.62x51mm</td>
+    <td>66 (Standard)<br>74 (Short)</td>
+    <td>7 (Standard)<br>8 (Short)</td>
+    <td>3 (Standard)<br>4 (Short)</td>
+  </tr>
+  <tr>
+    <td>Vector .45 ACP</td>
+    <td>SMG</td>
+    <td>.45 ACP</td>
+    <td>68 (Standard)<br>INV (Short)</td>
+    <td>8 (Standard)<br>9 (Short)</td>
+    <td>5 (Standard)<br>5 (Short)</td>
+  </tr>
+  <tr>
+    <td>T95 Spectre <sub><b>[DLC]</b></sub></td>
+    <td>LMG</td>
+    <td>5.56x45mm</td>
+    <td>70</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>LVOA <sub><b>[DLC]</b></sub></td>
+    <td>AR</td>
+    <td>5.56x45mm</td>
+    <td>71</td>
+    <td>8</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Vector .45 ACP Venom <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>.45 ACP</td>
+    <td>73</td>
+    <td>8</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Scorpion EVO 3</td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>73 (Long)<br>78 (Standard)</td>
+    <td>8 (Long)<br>9 (Standard)</td>
+    <td>5 (Long)<br>5 (Standard)</td>
+  </tr>
+  <tr>
+    <td>SR-635 Apparition <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>6x35mm</td>
+    <td>INV</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>PP19 Executioner <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>9x18mmMakarov</td>
+    <td>INV</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Golden Vector <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>INV</td>
+    <td>10</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>P90 Doorkicker <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>5.7x28mm</td>
+    <td>INV</td>
+    <td>7</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>P90 Glory <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>5.7x28mm</td>
+    <td>INV</td>
+    <td>8</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>P90 Mirmillo <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>5.7x28mm</td>
+    <td>INV</td>
+    <td>8</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Residuos</td>
+    <td>SMG</td>
+    <td>9x18mmMakarov</td>
+    <td>INV</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>MPX Traveler <sub><b>[DLC]</b></sub></td>
+    <td>SMG</td>
+    <td>9x19mm</td>
+    <td>INV</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
 </table>
 
-<sub><b>[DLC]</b></sub> DLC weapon from crate, store, or Ubisoft Club<br>
-<sub><b>[NR]</b></sub> Exclusive DLC weapon in Narco Road<br>
-<sub><b>[1]</b></sub> *"El Commandante" is from a boss mission within "The Unidad Conspiracy" DLC obtained from Ubisoft Club.*
+<sub><b>[DLC]</b></sub> <i>DLC weapon from crate, store, or Ubisoft Club.</i><br>
+<sub><b>[NR]</b></sub> <i>Exclusive DLC weapon in Narco Road.</i><br>
+<sub><b>[1]</b></sub> `El Commandante` <i>is from a boss mission within</i> `The Unidad Conspiracy` <i>DLC obtained from Ubisoft Club.</i>
 
 ### Sniper Rifle Bullet Drop
 
-This list is in descending order, with the highest hitting (least bullet drop) rifles at the top and lowest hitting (most bullet drop) rifles at the bottom. Each cell acts as its own drop rate, meaning all weapons within a row have either the exact same bullet drop or the difference between the weapons in the group was so minor that it could be attributed to breath movement/sway while aiming. All tests were conducted at M.O.B. Condor in Media Luna (on the airstrip section) at 300m. All rifles were set up with the TARS101 optic, longest applicable barrel, and no suppressor. Shots were fired at the bottom of each breath sway. Read disclaimer below about scopes not being properly zero'd in this game and why I lined my shots up with the hipfire crosshair.
+This list is in descending order, with the highest hitting (least bullet drop) rifles at the top and lowest hitting (most bullet drop) rifles at the bottom. Each cell acts as its own drop rate, meaning all weapons within a row have either the exact same bullet drop or the difference between the weapons in the group was so minor that it could be attributed to breath movement/sway while aiming. All tests were conducted at <b>M.O.B. Condor, Media Luna</b> on the airstrip section at 300m. All rifles were set up with the <b>TARS101</b> scope, longest applicable barrel, and no suppressor. Shots were fired at the bottom of each breath sway.
 
 **DISCLAIMER:** YouTube creator *DarkDally* and many others have noted the scope zeroing differences between scopes and rifles. In an effort to ensure the most accurate data is recorded, markers were not used to zero the shots. Instead, rifle after rifle, the shot was scoped in to the exact same place the previous shot was, otherwise known as not moving the thumbsticks. This prevents misalignment due to camera movement and ensures every shot is taken at the exact same location regardless of where the rifle is zeroed with any optic. The original idea for this came from noting how every weapon is dead zero on the in-game crosshair (in third person). The crosshair placement might be skewed while aiming down sights, but the gun will not shoot skewed from the game's crosshair.
 
 <table>
-<tr>
-<th scope="col">WEAPON</th>
-<th scope="col">AMMO TYPE</th>
-</tr>
-<tr>
-<td>Extranjeros BFG<br>HTI Muddy Bones</td>
-<td>.50 BMG</td>
-</tr>
-<tr>
-<td>SR25 Jungle<br>Mk14 Occult</td>
-<td>7.62x51mm</td>
-</tr>
-<tr>
-<td>SR-1</td>
-<td>.338</td>
-</tr>
-<tr>
-<td>MSR</td>
-<td>.338</td>
-</tr>
-<tr>
-<td>Z93 AMR<br>BFG-50A</td>
-<td>.50 BMG</td>
-</tr>
-<tr>
-<td>HTI</td>
-<td>.50 BMG</td>
-</tr>
-<tr>
-<td>M40A5</td>
-<td>7.62x51mm</td>
-</tr>
-<tr>
-<td>SRSA1<br>L115A3<br>R93 LRS2</td>
-<td>.338</td>
-</tr>
-<tr>
-<td>Mk14</td>
-<td>7.62x51mm</td>
-</tr>
-<tr>
-<td>SR25</td>
-<td>7.62x51mm</td>
-</tr>
-<tr>
-<td>TAC-50</td>
-<td>.50 BMG</td>
-</tr>
-<tr>
-<td>FRF-2</td>
-<td>.338</td>
-</tr>
-<tr>
-<td>G28</td>
-<td>7.62x51mm</td>
-</tr>
-</table><br>
+  <tr>
+    <th scope="col">WEAPON</th>
+    <th scope="col">AMMO TYPE</th>
+  </tr>
+  <tr>
+    <td>Extranjeros BFG<br>HTI Muddy Bones</td>
+    <td>.50 BMG</td>
+  </tr>
+  <tr>
+    <td>SR25 Jungle<br>Mk14 Occult</td>
+    <td>7.62x51mm</td>
+  </tr>
+  <tr>
+    <td>SR-1</td>
+    <td>.338</td>
+  </tr>
+  <tr>
+    <td>MSR</td>
+    <td>.338</td>
+  </tr>
+  <tr>
+    <td>Z93 AMR<br>BFG-50A</td>
+    <td>.50 BMG</td>
+  </tr>
+  <tr>
+    <td>HTI</td>
+    <td>.50 BMG</td>
+  </tr>
+  <tr>
+    <td>M40A5</td>
+    <td>7.62x51mm</td>
+  </tr>
+  <tr>
+    <td>SRSA1<br>L115A3<br>R93 LRS2</td>
+    <td>.338</td>
+  </tr>
+  <tr>
+    <td>Mk14</td>
+    <td>7.62x51mm</td>
+  </tr>
+  <tr>
+    <td>SR25</td>
+    <td>7.62x51mm</td>
+  </tr>
+  <tr>
+    <td>TAC-50</td>
+    <td>.50 BMG</td>
+  </tr>
+  <tr>
+    <td>FRF-2</td>
+    <td>.338</td>
+  </tr>
+  <tr>
+    <td>G28</td>
+    <td>7.62x51mm</td>
+  </tr>
+</table>
 
 # FAQ
 
@@ -2721,7 +2877,7 @@ When an enemy is mounted on a vehicle turret, they will take considerably more h
 
 While wearing some icon skins (Smoke, Kapkan, etc) and using certain weapons (M4A1, 416, etc.) with certain optics (CompM4, Digital Scope, TA31H, etc), the player may be able to see some parts of the character mesh while aiming down sight. Notable optics which resolve this (still unfixed) issue are the Panoramic Sight and EXPS3.
 
-# Easter Eggs
+# EASTER EGGS
 
 *Easter eggs and special things.*
 
@@ -2779,6 +2935,20 @@ Evidently attached to in-game lore.
 
 Three witches. Used to be part of occasional daily challenges.
 
+<ol>
+  <li>Travel to <b>La Guardia de Tres Brujas</b> (E of <b>Pa Kollu, Libertad</b>).</li>
+  <li>Enter the shack and watch the ravens fly away.</li>
+  <li>Travel to <b>-19.0896, -59.1558</b> (E of <b>Isque, La Cruz</b>) and activate the shrine just within the map border.</li>
+  <li>Travel to <b>-19.2310, -59.6067</b> (SW of <b>Isque, La Cruz</b>) and activate the shrine on the east cliffs of the lake.</li>
+  <li>Travel to <b>-18.5442, -59.6115</b> (SW of <b>Caimanes Echo</b>) and activate the shrine on the northwest shore of the pond.</li>
+  <li>Travel back to <b>Pa Kollu, Libertad</b>.</li>
+  <li>Redeploy at 23:00. The <b>Lieutenant</b> only spawns at <b>22:00</b>.</li>
+  <li><b>Flashbang</b> the five <b>Heavies</b> and take them out, then grab the <b>Lieutenant</b>.</li>
+  <li>More enemies will spawn coming from the NW. Take them out as well.</li>
+  <li>Walk the <b>Lieutenant</b> to <b>La Guardia de Tres Brujas</b>.</li>
+  <li>Knock him out.</li>
+</ol>
+
 ### DON'T PRESS ME!
 
 - In a burned forest northwest of a Rebel base in central northern **La Cruz**.
@@ -2810,7 +2980,9 @@ Agent 47's black suit with red tie (from the **Hitman** games) can be found in t
 
 Only found near the tracks north of **El Sueno's Mausoleum** and west of a Santa Blance base on the east edge of **San Mateo**. These aren't known to spawn elsewhere.
 
-# EOL and Running Without UPlay/Steam
+# REFERENCES
+
+### EOL and Running Without UPlay/Steam
 
 1. Buy a legit copy of the game to support the devs who made it. We wouldn't have so much DRM nonsense if more people actually payed for a game once in a while.
 2. Grab [DODI's Repack from 1337x](https://1337x.to/torrent/5156942/Tom-Clancy-s-Ghost-Recon-Wildlands-Ultimate-Edition-v4792145-build-5948128-All-DLCs-MULTi16-From-33-2-GB-EMPRESS-DODI-Repack/). Other repacks work, but this one is the latest build and includes everything.
@@ -2818,7 +2990,7 @@ Only found near the tracks north of **El Sueno's Mausoleum** and west of a Santa
 4. (OPTIONAL) Download [Vlvpsh's Complete Save](https://www.nexusmods.com/ghostreconwildlands/mods/22), then read its instructions and install it. Someone's posted [more digestible instructions](https://forums.nexusmods.com/index.php?/topic/11100793-grw-complete-save-game/?p=121912053) on the mod's page.
 5. Play to your heart's content.
 
-# Credits
+# CREDITS
 
 *References:*
 
