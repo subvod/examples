@@ -26,12 +26,7 @@
 <br>&emsp;[Scopes/Optics](#scopesoptics)
 <br>&emsp;[The Best Loadout](#the-best-loadout)
 <br>&emsp;[Critical Hit Mechanics](#critical-hit-mechanics)
-<br>&emsp;[Testing Restrictions and Controlled Variables](#testing-restrictions-and-controlled-variables)
-<br>&emsp;[Soft Targets](#soft-targets)
-<br>&emsp;[Penetration](#penetration)
 <br>&emsp;[Shotguns](#shotguns)
-<br>&emsp;["Special" Weapons](#special-weapons)
-<br>&emsp;[Pistol Stats](#pistol-stats)
 <br>&emsp;[Damage Stats](#damage-stats)
 <br>&emsp;[Sniper Rifle Bullet Drop](#sniper-rifle-bullet-drop)
 <br>[FAQ](#faq)
@@ -635,7 +630,7 @@ There are many bases in both the stock game and DLCs. Listed below are statistic
     <th scope="col">SOLDIERS</th>
   </tr>
   <tr>
-    <td>M.O.B. Condor<br>(Full House Glitch)</td>
+    <td>M.O.B. Condor <sub><b>[1]</b></sub></td>
     <td>-</td> <!-- lieutenants -->
     <td>15</td> <!-- snipers -->
     <td>10</td> <!-- heavies -->
@@ -667,6 +662,14 @@ There are many bases in both the stock game and DLCs. Listed below are statistic
     <td>24</td> <!-- soldiers -->
   </tr>
   <tr>
+    <td>San Mateo Base<br>(NE of <b>Barvechos Alpha</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>7</td> <!-- snipers -->
+    <td>1</td> <!-- heavies -->
+    <td>1</td> <!-- veterans -->
+    <td>24</td> <!-- soldiers -->
+  </tr>
+  <tr>
     <td>F.O.B. Serpiente<br>(N of <b>Flor de Oro Bravo</b>)</td>
     <td>-</td> <!-- lieutenants -->
     <td>9</td> <!-- snipers -->
@@ -691,11 +694,27 @@ There are many bases in both the stock game and DLCs. Listed below are statistic
     <td>19</td> <!-- soldiers -->
   </tr>
   <tr>
+    <td>Barvechos Base<br>(N of <b>Barvechos Bravo</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>-</td> <!-- snipers -->
+    <td>4</td> <!-- heavies -->
+    <td>1</td> <!-- veterans -->
+    <td>21</td> <!-- soldiers -->
+  </tr>
+  <tr>
     <td>F.O.B. Tucan<br>(SE of <b>Villa Verde Bravo</b>)</td>
     <td>1 <sub><b>[UL]</b></sub></td> <!-- lieutenants -->
     <td>-</td> <!-- snipers -->
     <td>2</td> <!-- heavies -->
     <td>-</td> <!-- veterans -->
+    <td>17</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>Outpost<br>(W of <b>Barvechos Bravo</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>-</td> <!-- snipers -->
+    <td>1</td> <!-- heavies -->
+    <td>1</td> <!-- veterans -->
     <td>17</td> <!-- soldiers -->
   </tr>
   <tr>
@@ -705,6 +724,14 @@ There are many bases in both the stock game and DLCs. Listed below are statistic
     <td>2</td> <!-- heavies -->
     <td>-</td> <!-- veterans -->
     <td>14</td> <!-- soldiers -->
+  </tr>
+  <tr>
+    <td>Supply Depot<br>(NW of <b>Montoyuc Bravo</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>1</td> <!-- snipers -->
+    <td>6</td> <!-- heavies -->
+    <td>-</td> <!-- veterans -->
+    <td>17</td> <!-- soldiers -->
   </tr>
   <tr>
     <td>Santa Muerte Idol<br>(NW of <b>Malca Bravo</b>)</td>
@@ -748,8 +775,9 @@ There are many bases in both the stock game and DLCs. Listed below are statistic
   </tr>
 </table>
 
-<sub><b>[NR]</b></sub> <i>In Narco Road DLC</i><br>
-<sub><b>[UL]</b></sub> <i>One of the few places <b>Unidad Lieutenants</b> can be found.</i>
+<sub><b>[NR]</b></sub> <i>In Narco Road DLC.</i><br>
+<sub><b>[UL]</b></sub> <i>One of the few places <b>Unidad Lieutenants</b> can be found.</i><br>
+<sub><b>[1]</b></sub> <i>Using <b>Full House Glitch</b>.</i><br>
 
 ### Road Patrols
 
@@ -963,14 +991,14 @@ Below are armor testing results and information on vehicles available in the gam
         <td>Helicopter (Large) <sub><b>[S] [U]</b></sub><br>Sports Car (Murcie)<sub><b>[S]</b></sub><br>Extreme Sports Car ("VS" Murcie)<br>Muscle Car <sub><b>[S]</b></sub><br>Sedan <sub><b>[S]</b></sub></td>
         <td>10</td>
 		<td>
-			<b>Sports Car</b> can be found driven by <b>Santa Blanca Lieutenants</b>.
+			<b>Sports Car</b> can be found driven by <b>Santa Blanca Lieutenants</b>.<br>
 			<b>Sports Car</b> can be found parked at:
       <ul>
         <li><b>Khochi, Itacua</b> (E of <b>Itacua Delta</b>)</li>
         <li><b>Outpost, Barvechos</b> (W of <b>Barvechos Alpha</b>)</li>
         <li><b>Outpost, Koani</b> (W of <b>Remanzo Alpha</b>)</li>
 			</ul>
-      <b>Extreme Sports Car</b> can be found parked at:
+      <b>Extreme Sports Car</b> ("VS" livery) can be found parked at:
       <ul>
         <li><b>Los Humildes Peregrinos, Espiritu Santo</b> (E of <b>Espiritu Santo Delta</b>)</li>
 			</ul>
@@ -1066,18 +1094,6 @@ The game does appear to have a "damage drop over distance" mechanic, or somethin
 
 **Balancing For Critical Hits:** High rate of fire means a higher chance of landing a critical hit. Most weapons with a low rate of fire have higher base damage compared to other weapons in their class to compensate for the lower rate of fire (thus lower chance of critting). However, as far as balancing goes, the M4A1 is about as good as it gets when it comes to "the best of both worlds". Closely ranked competitors are the AK-12 and G36C.
 
-### Testing Restrictions and Controlled Variables
-
-Hard target (vehicle) tests were conducted at Koani Bravo on extreme difficulty, tier mode off, against a player-spawned Unidad APC. Weapons had no attachments other than barrel modifications listed. Soft target (regular Unidad solider, not heavy or veteran) were tested at M.O.B. Jaguar in Flor de Oro, M.O.B. Condor in Media Luna, and F.O.B. Serpiente in Flor de Oro (used in Narco Road DLC because of high target count). All soft targets were taken out within "Engaged" status at point blank range (within 10m). Base damage values were recorded using semi-auto trigger with any weapon where it was available, otherwise full auto was used in a one-round burst fashion if a weapon did not offer a semi-auto trigger. All shots taken were center-mass and kept above the waistline. Kills involving any sort of critical hit were disregarded to avoid inflating the numbers.
-
-### Soft Targets
-
-Soft target "burst potential" testing is meant to give some idea as to how effective the weapon is in full auto and burst firing modes. This is meant to reveal a rough TTK based on number of rounds per burst. All burst tests start at the highest ROF trigger (three round burst). If a 3RB trigger wasn't available, full auto was used. If the only firing mode available is semi-auto, the weapon was fired as quickly as possible. For sniper rifles, base soft target damage was tested in two ways to ensure accuracy: shooting the feet and shooting the chest. If a sniper rifle has '1' in the "soft target" column, it will one-shot even in the foot. Otherwise, the maximum number of shots taken to the foot was listed. Some sniper rifles (such as the M40A5 and all sniper rifles chambered in .338LM) may one-shot center mass, but require two shots on extremeties. These individual differences were not recorded, as the MSR (with a long barrel) is the only .338LM rifle which kills in one shot regardless of shot placement. For sniper rifle "burst potential" within bolt actions, the least number of chest shots taken was used. (This is to show possible discrepancies between different hitboxes). For all weapons, aim down sight target lock-on assistance was used and firing began right after full ADS (scope in). Only targets that ate the entire burst were counted, all others were disregarded. Same as flat damage values, kills involving critical hits were disregarded as well.
-
-### Penetration
-
-Each weapon class has its own penetration, as in they're guaranteed to shoot through certain surfaces. Some weapons penetrate more surfaces than others, as in one may go through a sandbag while another of the same class may not. For the most part, almost all weapons of a class will penetrate the same surface types and layers. Weapon penetration (both statistical and as shown in-game) appears to have no effect on armored personnel targets.
-
 ### Shotguns
 
 It's rather difficult to test shotgun damage and maintain control of consistency. Shotgun damage tests on soft targets were done the same as every other weapon, up close and personal, to ensure no excess of rogue variables. Within 10m, all shotguns' spread remains in an area small enough to keep track of how many shells are fired. Past a certain distance (varying from shotgun to shotgun) the spread progressively widens, making farther shots difficult to record.
@@ -1085,303 +1101,79 @@ It's rather difficult to test shotgun damage and maintain control of consistency
 Below are test results for maximum shotgun ranges with all available barrels. Distances listed are 1m less than when all pellets lose substance. Ideally, the maximum range is 1m to 2m less than what is listed here as at these distances a mere one (1) pellet will land somewhere near where you shot. Since shot spread is randomly generated, you're always rolling the dice at landing a hit at these ranges. Moving in 1m or 2m ensures all pellets retain substance and hit the target.
 
 <table>
-<tr>
-<th scope="col">WEAPON</th>
-<th scope="col">BARREL</th>
-<th scope="col">RANGE</th>
-</tr>
-<tr>
-<td>El Cuentista</td>
-<td>N/A</td>
-<td>136m</td>
-</tr>
-<tr>
-<td>Wilderness <sub><b>[DLC]</b></sub></td>
-<td>N/A</td>
-<td>80m</td>
-</tr>
-<tr>
-<td>RevSG-12 <sub><b>[DLC]</b></sub></td>
-<td>N/A</td>
-<td>78m</td>
-</tr>
-<tr>
-<td>El Obsequio</td>
-<td>N/A</td>
-<td>72m</td>
-</tr>
-<tr>
-<td>SASG-12</td>
-<td>Long</td>
-<td>70m</td>
-</tr>
-<tr>
-<td>Model 1887 <sub><b>[DLC]</b></sub></td>
-<td>N/A</td>
-<td>66m</td>
-</tr>
-<tr>
-<td>Ice Shard <sub><b>[DLC]</b></sub></td>
-<td>N/A</td>
-<td>64m</td>
-</tr>
-<tr>
-<td>SASG-12</td>
-<td>Standard</td>
-<td>62m</td>
-</tr>
-<tr>
-<td>SPAS-12</td>
-<td>Short, Standard, Long</td>
-<td>60m</td>
-</tr>
-<tr>
-<td>M4 Super 90 <sub><b>[DLC]</b></sub></td>
-<td>Short, Standard</td>
-<td>62m</td>
-</tr>
-<tr>
-<td>ACS-12 <sub><b>[DLC]</b></sub></td>
-<td>Standard</td>
-<td>62m</td>
-</tr>
-<tr>
-<td>SPAS-12 Skulls and Blood <sub><b>[DLC]</b></sub></td>
-<td>N/A</td>
-<td>60m</td>
-</tr>
-<tr>
-<td>&iexcl;SILENCIO!</td>
-<td>N/A</td>
-<td>58m</td>
-</tr>
-<tr>
-<td>SASG-12 Frontier <sub><b>[DLC]</b></sub></td>
-<td>N/A</td>
-<td>54m</td>
-</tr>
-<tr>
-<td>SPAS-12 Secutor <sub><b>[DLC]</b></sub></td>
-<td>N/A</td>
-<td>50m</td>
-</tr>
-<tr>
-<td>Super Shorty</td>
-<td>Standard, Long</td>
-<td>24m</td>
-</tr>
-<tr>
-<td>Super Shorty Legacy <sub><b>[DLC]</b></sub></td>
-<td>N/A</td>
-<td>24m</td>
-</tr>
+  <tr>
+    <th scope="col">WEAPON</th>
+    <th scope="col">RANGE</th>
+  </tr>
+  <tr>
+    <td>El Cuentista</td>
+    <td>136m</td>
+  </tr>
+  <tr>
+    <td>Wilderness <sub><b>[DLC]</b></sub></td>
+    <td>80m</td>
+  </tr>
+  <tr>
+    <td>RevSG-12 <sub><b>[DLC]</b></sub></td>
+    <td>78m</td>
+  </tr>
+  <tr>
+    <td>El Obsequio</td>
+    <td>72m</td>
+  </tr>
+  <tr>
+    <td>SASG-12</td>
+    <td>70m (Long)<br>62m (Standard)</td>
+  </tr>
+  <tr>
+    <td>Model 1887 <sub><b>[DLC]</b></sub></td>
+    <td>66m</td>
+  </tr>
+  <tr>
+    <td>Ice Shard <sub><b>[DLC]</b></sub></td>
+    <td>64m</td>
+  </tr>
+  <tr>
+    <td>M4 Super 90 <sub><b>[DLC]</b></sub><br>ACS-12 <sub><b>[DLC]</b></sub></td>
+    <td>62m <sub><b>[R]</b></sub></td>
+  </tr>
+  <tr>
+    <td>SPAS-12<br>SPAS-12 Skulls and Blood <sub><b>[DLC]</b></sub></td>
+    <td>60m <sub><b>[R]</b></sub></td>
+  </tr>
+  <tr>
+    <td>&iexcl;SILENCIO!</td>
+    <td>58m</td>
+  </tr>
+  <tr>
+    <td>SASG-12 Frontier <sub><b>[DLC]</b></sub></td>
+    <td>54m</td>
+  </tr>
+  <tr>
+    <td>SPAS-12 Secutor <sub><b>[DLC]</b></sub></td>
+    <td>50m</td>
+  </tr>
+  <tr>
+    <td>Super Shorty<br>Super Shorty Legacy <sub><b>[DLC]</b></sub></td>
+    <td>24m <sub><b>[R]</b></sub></td>
+  </tr>
 </table>
 
-### "Special" Weapons
-
-These are the guns that cannot be edited in the Gunsmith. Take note that the name of the weapon doesn't indicate it operates the same way its stock counterpart does. Differences may include bullet drop, base damage, rate of fire, reload speed, etc. For example, the P416 Micteca operates as if it were an M4A1 while the M4A1 Temple operates as if it were an M16.
-
-### Pistol Stats
-
-Below are test results for all sidearms in the game. Range values are tested maximums and are listed as 1m below the distance at which the bullet loses substance (is no longer considered a shot by the game). Hard target values are shots taken to destroy a Pickup. Soft target values are shots taken against a Unidad soldier.
-
-<table>
-<tr>
-<th scope="col">WEAPON</th>
-<th scope="col">AMMO</th>
-<th scope="col">RANGE</th>
-<th scope="col">HARDTARGET</th>
-<th scope="col">SOFTTARGET</th>
-<th scope="col">SOFTTARGET(BURST POTENTIAL)</th>
-</tr>
-<tr>
-<td>Jackdaw Pistol <sub><b>[DLC]</b></sub></td>
-<td>Lead Ball</td>
-<td>66m</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-</tr>
-<tr>
-<td>The BFF</td>
-<td>.380 ACP</td>
-<td>136m</td>
-<td>6</td>
-<td>5</td>
-<td>5</td>
-</tr>
-<tr>
-<td>La Novena</td>
-<td>.50 AE</td>
-<td>136m</td>
-<td>6</td>
-</tr>
-<tr>
-<td>D-50</td>
-<td>.50 AE</td>
-<td>136m</td>
-<td>7</td>
-</tr>
-<tr>
-<td>US Desert <sub><b>[DLC]</b></sub></td>
-<td>.50 AE</td>
-<td>136m</td>
-<td>7</td>
-</tr>
-<tr>
-<td>Luger <sub><b>[DLC]</b></sub></td>
-<td>-</td>
-<td>136m</td>
-<td>7</td>
-</tr>
-<tr>
-<td>.357 Joker <sub><b>[DLC]</b></sub></td>
-<td>.357 Magnum</td>
-<td>136m</td>
-<td>7</td>
-</tr>
-<tr>
-<td>Peacemaker <sub><b>[DLC]</b></sub></td>
-<td>-</td>
-<td>136m</td>
-<td>8</td>
-</tr>
-<tr>
-<td>El General</td>
-<td>9x19mm</td>
-<td>190m</td>
-<td>14</td>
-</tr>
-<tr>
-<td>Lady Killer <sub><b>[1]</b></sub></td>
-<td>5.7x28mm</td>
-<td>180m</td>
-<td>15</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Five-seveN Blacklist <sub><b>[2] [DLC]</b></sub></td>
-<td>5.7x28mm</td>
-<td>185m</td>
-<td>16</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>M9 <sub><b>[3]</b></sub></td>
-<td>9x19mm</td>
-<td>185m</td>
-<td>16</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Luison <sub><b>[DLC]</b></sub></td>
-<td>9x19mm</td>
-<td>185m</td>
-<td>16</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5.7 USG</td>
-<td>5.7x28mm</td>
-<td>180m</td>
-<td>17</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1911 MARSOC <sub><b>[DLC]</b></sub></td>
-<td>.45 ACP</td>
-<td>190m</td>
-<td>17</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>P227</td>
-<td>.45ACP</td>
-<td>192m</td>
-<td>17</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>P227 Urban <sub><b>[DLC]</b></sub></td>
-<td>192m</td>
-<td>17</td>
-</tr>
-<tr>
-<td>M1911</td>
-<td>.45ACP</td>
-<td>192m</td>
-<td>18</td>
-<td>8</td>
-<td>4</td>
-</tr>
-<tr>
-<td>M1911 Golden <sub><b>[DLC]</b></sub></td>
-<td>192m</td>
-<td>18</td>
-</tr>
-<tr>
-<td>P12</td>
-<td>.45ACP</td>
-<td>186m</td>
-<td>18</td>
-<td>7</td>
-<td>4</td>
-</tr>
-<tr>
-<td>P45T</td>
-<td>.45ACP</td>
-<td>190m</td>
-<td>19</td>
-<td>8</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Skorpion</td>
-<td>-</td>
-<td>> 300m</td>
-<td>37</td>
-</tr>
-<tr>
-<td>Skorpion Skull <sub><b>[DLC]</b></sub></td>
-<td>-</td>
-<td>> 300m</td>
-<td>37</td>
-</tr>
-<tr>
-<td>Whisper</td>
-<td>9x19mm</td>
-<td>190m</td>
-<td>42</td>
-</tr>
-<tr>
-<td>SMG-11</td>
-<td>-</td>
-<td>> 300m</td>
-<td>53</td>
-</tr>
-<tr>
-<td>SMG 11 Dragon <sub><b>[DLC]</b></sub></td>
-<td>-</td>
-<td>> 300m</td>
-<td>53</td>
-</tr>
-</table>
-
-<sub><b>[1]</b></sub> <i>The highest damage suppressable pistol in the game.</i><br>
-<sub><b>[2]</b></sub> <i>The best all-around pistol. Integrally suppressed, high damage, and moderate bullet drop.*</i><br>
-<sub><b>[3]</b></sub> <i>The best all-around customizable pistol. Held by AI teammates. On par with the 5.7 USG but delivers a slightly more powerful blow. Also the only 9mm pistol in the game (other than the Whisper a.k.a. Maxim 9, which presumably uses 9mm ammunition as its real life counterpart does).</i><br>
-<sub><b>[DLC]</b></sub> <i>Obtained from crates.</i>
+ <sub><b>[R]</b></sub> <i>Barrels do not affect range on this gun.</i>
 
 ### Damage Stats
 
-Any weapon/barrel configuration listed as `INV` is rendered virtually ineffective against hard targets, i.e. an APC will take upwards of 200+ shots, realistically invulnerable to damage from that configuration.
+<ul>
+  <li>"Special weapons" are the guns that cannot be edited in the <b>Gunsmith</b> menu. Take note that the name of the weapon doesn't indicate it operates the same way its stock counterpart does. Differences may include bullet drop, base damage, rate of fire, reload speed, etc. For example, the <b>P416 Micteca</b> operates as if it were an <b>M4A1</b>, while the <b>M4A1 Temple</b> operates as if it were an <b>M16</b>.</li>
+  <li>Weapons had no attachments other than barrel modifications listed.</li>
+  <li>Any weapon/barrel configuration listed as `INV` is rendered virtually ineffective against hard targets, i.e. an APC will take upwards of 200+ shots, realistically invulnerable to damage from that configuration.</li>
+  <li>Range values below sidearms' names are tested maximums and listed as 1m below the distance at which the bullet loses substance (is no longer considered a shot by the game).</li>
+  <li>Hard target (vehicle) tests were conducted at <b>Koani Bravo</b> on extreme difficulty, tier mode off, against a player-spawned <b>Unidad APC</b>. For sidearms, hard target values are shots taken to destroy a <b>Pickup</b>.</li>
+  <li>All soft target testing was done at <b>M.O.B. Jaguar, Flor de Oro</b> against a regular <b>Unidad Solider</b> (not heavy or veteran). All soft targets were taken out within "Engaged" status at point blank range (within 10m). Base damage values were recorded using semi-auto trigger with any weapon where it was available, otherwise full auto was used in a one-round burst fashion if a weapon did not offer a semi-auto trigger configuration. Shots taken were center-mass and kept above the waistline but below the neck. Kills involving any sort of critical hit were disregarded to avoid inflating the numbers.</li>
+  <li>Soft target "burst potential" is the number of shots taken in a full auto burst. All burst tests start at the highest ROF trigger (three round burst). If a 3RB trigger wasn't available, full auto was used. If the only firing mode available is semi-auto, the weapon was fired as quickly as possible. For all weapons, aim down sight target lock-on assistance was used and firing began right after full ADS (scope in). Only targets that ate the entire burst were counted, all others were disregarded. Same as flat damage values, kills involving critical hits were disregarded as well.</li>
+  <li>Sniper rifle "burst potential" was tested in two ways to ensure accuracy: shooting the feet and shooting the chest. If a sniper rifle has '1' in the "soft target" column, it will one-shot even in the foot. Otherwise, the maximum number of shots taken to the foot was listed. Some sniper rifles (such as the <b>M40A5</b> and all sniper rifles chambered in <b>.338LM</b>) may one-shot center mass, but require two shots on extremeties. These individual differences were not recorded, as the <b>MSR</b> (with a long barrel) is the only <b>.338LM</b> rifle which kills in one shot regardless of shot placement. For bolt actions, the least number of chest shots taken. (This is to show possible discrepancies between different hitboxes.)</li>
+  <li>Each weapon class has its own penetration, as in they're guaranteed to shoot through certain surfaces. Some weapons penetrate more surfaces than others, as in one may go through a sandbag while another of the same class may not. For the most part, almost all weapons of a class will penetrate the same surface types and layers. Weapon penetration (both statistical and as shown in-game) appears to have no effect on armored personnel targets.</li>
+</ul>
 
 **QUICK NOTE ABOUT SNIPER DAMAGE AT RANGE:** I've been able to reproduce a strange event where my **HTI** (yes, with long barrel) doesn't one shot beyond 400m. I have no clue why this happens as it seems to come in and out at random. What I mean by "reproduce" is that I've had it happen a number of times in different spots. Twice from the cliff overlooking **M.O.B. Condor**, once at **La Carcel del Pueblo**, and twice at the **Koani Air Base**.
 
@@ -1396,7 +1188,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SR25 Jungle <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>2</td>
     <td>1</td>
@@ -1404,7 +1196,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Desert Tech HTI BDC</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.50 BMG</td>
     <td>2</td>
     <td>1</td>
@@ -1412,7 +1204,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Musket <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>Lead Ball</td>
     <td>2</td>
     <td>1</td>
@@ -1420,7 +1212,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Z93 AMR <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.50 BMG</td>
     <td>2 (Long)<br>2 (Standard)</td>
     <td>1 (Long)<br>1 (Standard)</td>
@@ -1428,7 +1220,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>HTI</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.50 BMG</td>
     <td>2 (Long)<br>3 (Standard)</td>
     <td>1 (Long)<br>1 (Standard)</td>
@@ -1436,7 +1228,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>BFG-50A <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.50 BMG</td>
     <td>2 (Long)<br>3 (Standard)</td>
     <td>1 (Long)<br>1 (Standard)</td>
@@ -1444,7 +1236,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>TAC-50 <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.50 BMG</td>
     <td>3</td>
     <td>1</td>
@@ -1452,7 +1244,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>KSVK <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>12.7x108mm</td>
     <td>3</td>
     <td>1</td>
@@ -1460,7 +1252,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Extranjeros BFG <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.50 BMG</td>
     <td>4</td>
     <td>2</td>
@@ -1468,7 +1260,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>HTI Muddy Bones <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.50 BMG</td>
     <td>4</td>
     <td>2</td>
@@ -1476,7 +1268,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>FRF-2 <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>5 (Long)<br>6 (Standard)</td>
     <td>1 (Long)<br>1 (Standard)</td>
@@ -1484,7 +1276,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SR-1</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>5 (Long)<br>6 (Standard)</td>
     <td>1 (Long)<br>1 (Standard)</td>
@@ -1492,7 +1284,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MSR</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
     <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
@@ -1500,7 +1292,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>R93 LRS2 <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
     <td>1 (Long)<br>1 (Standard)<br>1 (Short)</td>
@@ -1508,7 +1300,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MSR Thermite <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>5</td>
     <td>1</td>
@@ -1516,15 +1308,39 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MSR Eagle Shot <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>5</td>
     <td>1</td>
     <td>1</td>
   </tr>
   <tr>
+    <td>Jackdaw Pistol <sub><b>[DLC]</b></sub><br>(66m)</td>
+    <td>Pistol</td>
+    <td>Lead Ball</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>The BFF<br>(136m)</td>
+    <td>Pistol</td>
+    <td>.380 ACP</td>
+    <td>6</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>La Novena<br>(136m)</td>
+    <td>Pistol</td>
+    <td>.50 AE</td>
+    <td>6</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>SR-1 Chameleon <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>6</td>
     <td>2</td>
@@ -1556,7 +1372,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SRSA1 Black Widow <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>6</td>
     <td>2</td>
@@ -1564,7 +1380,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>L115A3 London Call <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>6</td>
     <td>2</td>
@@ -1572,7 +1388,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SRSA1</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>6 (Long)<br>6 (Standard)</td>
     <td>1 (Long)<br>1 (Standard)</td>
@@ -1580,7 +1396,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>The Warhawk</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>7</td>
     <td>2</td>
@@ -1588,7 +1404,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>M1891</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x54mmR</td>
     <td>7 (Long)<br>8 (Standard)</td>
     <td>1 (Long)<br>1 (Standard)</td>
@@ -1596,15 +1412,56 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>L115A3</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>.338 LM</td>
     <td>7 (Long)<br>7 (Standard)</td>
     <td>1 (Long)<br>1 (Standard)</td>
     <td>1 (Long)<br>1 (Standard)</td>
   </tr>
   <tr>
+    <td>D-50</td>
+    <td>Pistol</td>
+    <td>.50 AE</td>
+    <td>136m</td>
+    <td>7</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US Desert <sub><b>[DLC]</b></sub><br>(136m)</td>
+    <td>Pistol</td>
+    <td>.50 AE</td>
+    <td>7</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Luger <sub><b>[DLC]</b></sub><br>(136m)</td>
+    <td>Pistol</td>
+    <td>9x19mm Para</td>
+    <td>7</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>.357 Joker <sub><b>[DLC]</b></sub><br>(136m)</td>
+    <td>Pistol</td>
+    <td>.357 Magnum</td>
+    <td>7</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Peacemaker <sub><b>[DLC]</b></sub><br>(136m)</td>
+    <td>Pistol</td>
+    <td>.38 Centerfire</td>
+    <td>8</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>M40A5</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>8 (Long)<br>9 (Standard)<br>10 (Short)</td>
     <td>1 (Long)<br>2 (Standard)<br>2 (Short)</td>
@@ -1612,7 +1469,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>M40A5 Golden Sun <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>8</td>
     <td>2</td>
@@ -1620,7 +1477,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Chica Mala</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x54mmR</td>
     <td>8</td>
     <td>2</td>
@@ -1628,7 +1485,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Stampede <sub><b>[DLC]</b></sub></td>
-    <td>SNR</td>
+    <td>Sniper<br>Rifle</td>
     <td>30-30 Win</td>
     <td>8</td>
     <td>2</td>
@@ -1636,22 +1493,14 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mud and Blood <sub><b>[NR]</b></sub></td>
-    <td>SNR</td>
+    <td>Sniper<br>Rifle</td>
     <td>.50 BMG</td>
     <td>10</td>
     <td>1</td>
     <td>1</td>
   </tr>
   <tr>
-    <td>SPAS-12 Secutor <sub><b>[DLC]</b></sub></td>
-    <td>STG</td>
-    <td>12ga</td>
-    <td>11</td>
-    <td>2</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>El Obsequio</td>
+    <td>SPAS-12 Secutor <sub><b>[DLC]</b></sub><br>El Obsequio</td>
     <td>Shotgun</td>
     <td>12ga</td>
     <td>11</td>
@@ -1700,7 +1549,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SR25</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>14 (Standard)<br>16 (Short)</td>
     <td>2 (Standard)<br>2 (Short)</td>
@@ -1708,7 +1557,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SR25 Liberator <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>14</td>
     <td>3</td>
@@ -1716,15 +1565,31 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SR25 Machinery <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>14</td>
     <td>3</td>
     <td>2</td>
   </tr>
   <tr>
+    <td>El General<br>(190m)</td>
+    <td>Pistol</td>
+    <td>9x19mm</td>
+    <td>14</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Lady Killer<br>(180m)</td>
+    <td>Pistol</td>
+    <td>5.7x28mm</td>
+    <td>15</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
     <td>Lanza Sagrada</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x54mmR</td>
     <td>15</td>
     <td>3</td>
@@ -1732,15 +1597,95 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>M110 <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>15</td>
     <td>2</td>
     <td>2</td>
   </tr>
   <tr>
+    <td>Five-seveN Blacklist <sub><b>[DLC]</b></sub><br>(185m)</td>
+    <td>Pistol</td>
+    <td>5.7x28mm</td>
+    <td>16</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>M9<br>(185m)</td>
+    <td>Pistol</td>
+    <td>9x19mm</td>
+    <td>16</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Luison <sub><b>[DLC]</b></sub><br>(185m)</td>
+    <td>Pistol</td>
+    <td>9x19mm</td>
+    <td>16</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5.7 USG<br>(180m)</td>
+    <td>Pistol</td>
+    <td>5.7x28mm</td>
+    <td>17</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>1911 MARSOC <sub><b>[DLC]</b></sub><br>(190m)</td>
+    <td>Pistol</td>
+    <td>.45 ACP</td>
+    <td>17</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>P227<br>(192m)</td>
+    <td>Pistol</td>
+    <td>.45 ACP</td>
+    <td>17</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>P227 Urban <sub><b>[DLC]</b></sub><br>(192m)</td>
+    <td>Pistol</td>
+    <td>.45 ACP</td>
+    <td>17</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>M1911<br>(192m)</td>
+    <td>Pistol</td>
+    <td>.45 ACP</td>
+    <td>18</td>
+    <td>8</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>M1911 Golden <sub><b>[DLC]</b></sub><br>(192m)</td>
+    <td>Pistol</td>
+    <td>.45 ACP</td>
+    <td>18</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>P12<br>(186m)</td>
+    <td>Pistol</td>
+    <td>.45 ACP</td>
+    <td>18</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
     <td>Dragunov SVD Guerilla <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x54mmR</td>
     <td>18</td>
     <td>3</td>
@@ -1772,11 +1717,19 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Dragunov (SVD)</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x54mmR</td>
     <td>18 (Standard)<br>19 (Short)</td>
     <td>3 (Standard)<br>3 (Short)</td>
     <td>3 (Standard)<br>2 (Short)</td>
+  </tr>
+  <tr>
+    <td>P45T<br>(190m)</td>
+    <td>Pistol</td>
+    <td>.45 ACP</td>
+    <td>19</td>
+    <td>8</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>&iexcl;SILENCIO!</td>
@@ -1812,7 +1765,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>His AK-47</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>29</td>
     <td>4</td>
@@ -1820,7 +1773,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MK14</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>31 (Long)<br>34 (Standard)</td>
     <td>4 (Long)<br>4 (Standard)</td>
@@ -1828,7 +1781,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Experimento #42</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>32</td>
     <td>4</td>
@@ -1836,7 +1789,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>9mm C1</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>32 (Long)<br>35 (Standard)</td>
     <td>4 (Long)<br>5 (Standard)</td>
@@ -1844,7 +1797,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Dragonbreath <sub><b>[NR]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>5.56x45mm</td>
     <td>32</td>
     <td>4</td>
@@ -1852,7 +1805,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk 17 Tiger Fang <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>33</td>
     <td>4</td>
@@ -1860,7 +1813,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>M60E4 <sub><b>[DLC]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>7.62x51mm</td>
     <td>33</td>
     <td>3</td>
@@ -1868,7 +1821,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>AK-47 'Undercover' <sub><b>[NR]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>33</td>
     <td>4</td>
@@ -1876,7 +1829,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Carnage <sub><b>[NR]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>34</td>
     <td>4</td>
@@ -1884,7 +1837,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>9mm C1 Blaze <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>35</td>
     <td>5</td>
@@ -1892,7 +1845,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>M4A1 Tactical</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>35</td>
     <td>5</td>
@@ -1900,7 +1853,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk 17</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>36 (Long)<br>39 (Standard)<br>42 (Short)</td>
     <td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
@@ -1908,7 +1861,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SR-635</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>6x35mm</td>
     <td>37 (Standard)<br>INV (Short)</td>
     <td>4 (Standard)<br>5 (Short)</td>
@@ -1916,23 +1869,15 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk14 Captain <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>37</td>
     <td>5</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>Extranjeros PDR <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
-    <td>5.56x45mm</td>
-    <td>37</td>
-    <td>5</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>Golden Safari <sub><b>[NR]</b></sub></td>
-    <td>AR</td>
+    <td>Extranjeros PDR <sub><b>[DLC]</b></sub><br>Golden Safari <sub><b>[NR]</b></sub></td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>37</td>
     <td>5</td>
@@ -1940,7 +1885,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Her AK-47</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>37</td>
     <td>4</td>
@@ -1948,15 +1893,23 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk 16 <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>37 (Long)<br>40 (Standard)<br>44 (Short)</td>
     <td>5 (Long)<br>5 (Standard)<br>6 (Short)</td>
     <td>3 (Long)<br>3 (Standard)<br>3 (Short)</td>
   </tr>
   <tr>
+    <td>Skorpion<br>Skorpion Skull <sub><b>[DLC]</b></sub><br>(> 300m)</td>
+    <td>Machine<br>Pistol</td>
+    <td>9x19mm<br><i>(Uses .32 ACP Magazine)</i></td>
+    <td>37</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>6P41</td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>7.62x54mm</td>
     <td>38 (Long)<br>41 (Standard)</td>
     <td>4 (Long)<br>4 (Standard)</td>
@@ -1964,7 +1917,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>El Bast&oacute;n</td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>7.62x54mm</td>
     <td>38</td>
     <td>5</td>
@@ -1972,23 +1925,15 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>PSG-1 <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>38 (Long)<br>41 (Standard)</td>
     <td>5 (Long)<br>6 (Standard)</td>
     <td>5 (Long)<br>3 (Standard)</td>
   </tr>
   <tr>
-    <td>PSG-1 Mercenary <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
-    <td>7.62x51mm</td>
-    <td>38</td>
-    <td>5</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>G28 Rookie <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>PSG-1 Mercenary <sub><b>[DLC]</b></sub><br>G28 Rookie <sub><b>[DLC]</b></sub></td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>38</td>
     <td>5</td>
@@ -1996,7 +1941,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>G28</td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>38 (Long)<br>41 (Standard)</td>
     <td>5 (Long)<br>6 (Standard)</td>
@@ -2004,7 +1949,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Eagle Stare <sub><b>[NR]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>4.6x30mm</td>
     <td>38</td>
     <td>3</td>
@@ -2012,7 +1957,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk 17 Nerd <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>39</td>
     <td>5</td>
@@ -2020,7 +1965,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SR-635 Jaw <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>6x35mm</td>
     <td>39</td>
     <td>5</td>
@@ -2028,7 +1973,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk14 Occult <sub><b>[DLC]</b></sub></td>
-    <td>Sniper</td>
+    <td>Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>40</td>
     <td>5</td>
@@ -2036,7 +1981,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Extranjeros R4 <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>41</td>
     <td>5</td>
@@ -2044,7 +1989,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Unidad RPK-74 <sub><b>[DLC]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>7.62x39mm</td>
     <td>41</td>
     <td>4</td>
@@ -2052,7 +1997,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>6P41 Reaper <sub><b>[DLC]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>7.62x54mm</td>
     <td>41</td>
     <td>4</td>
@@ -2060,7 +2005,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>556xi Dragon <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>42</td>
     <td>5</td>
@@ -2068,7 +2013,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>&iexcl;UY!</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>42</td>
     <td>5</td>
@@ -2076,7 +2021,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>R5 RGP</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>42 (Long)<br>46 (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2084,15 +2029,23 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>LVOA-C Bad News</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>42</td>
     <td>3</td>
     <td>3</td>
   </tr>
   <tr>
+    <td>Whisper<br>(190m)</td>
+    <td>Pistol</td>
+    <td>9x19mm</td>
+    <td>42</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>AK-47</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>43 (Long)<br>47 (Standard)<br>53 (Short)</td>
     <td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
@@ -2100,7 +2053,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>AUG A3 <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>43 (Long)<br>46 (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2108,7 +2061,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>416 <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>44 (Long)<br>47 (Standard)<br>55 (Short)</td>
     <td>5 (Long)<br>6 (Standard)<br> (Short)</td>
@@ -2116,7 +2069,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>AK-74 <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>44 (Long)<br>51 (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2124,7 +2077,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>R4 <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>44 (Long)<br>50 (Standard)</td>
     <td>5 (Long)<br>6 (Standard)</td>
@@ -2132,7 +2085,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Ritmo</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>45</td>
     <td>6</td>
@@ -2140,7 +2093,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>AK-12</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>45 (Long)<br>51 (Standard)</td>
     <td>5 (Long)<br>6 (Standard)</td>
@@ -2148,7 +2101,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SC4000 <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>46</td>
     <td>6</td>
@@ -2156,7 +2109,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>9x19VSN</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>46 (Long)<br>46 (Standard)</td>
     <td>5 (Long)<br>6 (Standard)</td>
@@ -2164,7 +2117,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>805 Bren A2</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>46 (Long)<br>49 (Standard)<br>54 (Short)</td>
     <td>5 (Long)<br>6 (Standard)<br>6 (Short)</td>
@@ -2172,7 +2125,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>L85A2</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>46 (Standard)<br>52 (Short)</td>
     <td>6 (Standard)<br>6 (Short)</td>
@@ -2180,7 +2133,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>9x19VSN Replicant <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>46</td>
     <td>7</td>
@@ -2188,7 +2141,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>G36C <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>46 (Long)<br>53 (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2196,7 +2149,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>El Commandante <sub><b>[1]</b></sub> <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>47</td>
     <td>5</td>
@@ -2204,7 +2157,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>M4A1 Temple <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>47</td>
     <td>6</td>
@@ -2212,7 +2165,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>M4A1</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>47 (Long)<br>52 (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2220,7 +2173,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>TAR-21</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>48 (Long)<br>53 (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2228,7 +2181,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Stoner LMG A1</td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>5.56x45mm</td>
     <td>48 (Long)<br>52 (Standard)</td>
     <td>5 (Long)<br>5 (Standard)</td>
@@ -2236,7 +2189,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Extranjeros MDR <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>49</td>
     <td>6</td>
@@ -2244,7 +2197,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>AK-12 Victory <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>49</td>
     <td>6</td>
@@ -2252,7 +2205,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk 48</td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>7.62x51mm</td>
     <td>49 (Long)<br>53 (Standard)</td>
     <td>5 (Long)<br>5 (Standard)</td>
@@ -2260,7 +2213,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MDR <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>49 (Long)<br>54 (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2268,7 +2221,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>AK-47 Uprising <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>50</td>
     <td>7</td>
@@ -2276,7 +2229,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>ACR</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>50 (Long)<br>54 (Standard)<br>INV (Short)</td>
     <td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
@@ -2284,7 +2237,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Veteran Bren <sub><b>[DLC]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>.30-06 Springfield(7.62x63mm)</td>
     <td>50</td>
     <td>7</td>
@@ -2292,7 +2245,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>PSG</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>50 (Long)<br>INV (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2300,7 +2253,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Dollar Sign <sub><b>[NR]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>5.56x45mm</td>
     <td>50</td>
     <td>6</td>
@@ -2308,7 +2261,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>556xi</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>51 (Long)<br>57 (Standard)<br>63 (Short)</td>
     <td>6 (Long)<br>6 (Standard)<br>7 (Short)</td>
@@ -2316,7 +2269,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>PP19</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x18mmMakarov</td>
     <td>51 (Long)<br>INV (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2324,7 +2277,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Stoner Veteran <sub><b>[DLC]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>5.56x45mm</td>
     <td>52</td>
     <td>5</td>
@@ -2332,7 +2285,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>M4A1 Explorer <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>52</td>
     <td>6</td>
@@ -2340,7 +2293,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>P90</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>5.7x28mm</td>
     <td>52 (Long)<br>INV (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2348,7 +2301,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Honey Badger <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>.300 BLK</td>
     <td>52</td>
     <td>6</td>
@@ -2356,7 +2309,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>UMP 45 <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>.45 ACP</td>
     <td>52</td>
     <td>6</td>
@@ -2364,7 +2317,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk 18 <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>52</td>
     <td>6</td>
@@ -2372,7 +2325,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>M16 <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>52</td>
     <td>6</td>
@@ -2380,7 +2333,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>P416 Micteca <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>52</td>
     <td>6</td>
@@ -2388,7 +2341,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Skull and Drones <sub><b>[NR]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>53</td>
     <td>7</td>
@@ -2396,7 +2349,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>M4A1 Commando <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>53</td>
     <td>8</td>
@@ -2404,7 +2357,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>F2000 <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>53</td>
     <td>6</td>
@@ -2412,7 +2365,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk48 Wasteland <sub><b>[DLC]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>7.62x51mm</td>
     <td>53</td>
     <td>5</td>
@@ -2420,7 +2373,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>TAR-21 Predator <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>53</td>
     <td>6</td>
@@ -2428,15 +2381,31 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>L85A2 Crocodile <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>53</td>
     <td>6</td>
     <td>4</td>
   </tr>
   <tr>
+    <td>SMG-11<br>(> 300m)</td>
+    <td>Machine<br>Pistol</td>
+    <td>9x19mm<br><i>or</i>.45 ACP</td>
+    <td>53</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SMG 11 Dragon <sub><b>[DLC]</b></sub><br>(> 300m)</td>
+    <td>Machine<br>Pistol</td>
+    <td>9x19mm<br><i>or</i>.45 ACP</td>
+    <td>53</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>PDR <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>5.56x45mm</td>
     <td>54 (Long)<br>61 (Standard)</td>
     <td>6 (Long)<br>7 (Standard)</td>
@@ -2444,7 +2413,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SR3M</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x39mm</td>
     <td>54 (Long)<br>63 (Standard)</td>
     <td>6 (Long)<br>7 (Standard)</td>
@@ -2452,7 +2421,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Llamativo</td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>5.56x45mm</td>
     <td>55</td>
     <td>6</td>
@@ -2460,7 +2429,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>ACR Baby Vintage <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>55</td>
     <td>6</td>
@@ -2468,7 +2437,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>AC-AR <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>56 (Standard)<br>60 (Short)</td>
     <td>6 (Standard)<br>7 (Short)</td>
@@ -2476,7 +2445,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Type 95 Initiate <sub><b>[DLC]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>5.56x45mm</td>
     <td>56</td>
     <td>6</td>
@@ -2484,7 +2453,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MPX</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>56 (Long)<br>INV (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2492,7 +2461,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mendeleyev</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>.45 ACP</td>
     <td>57</td>
     <td>8</td>
@@ -2500,7 +2469,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>U100 <sub><b>[DLC]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>5.56x45mm</td>
     <td>57 (Long)<br>63 (Standard)</td>
     <td>6 (Long)<br>6 (Standard)</td>
@@ -2508,7 +2477,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>G2 (FAMAS)</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>58 (Standard)<br>INV (Short)</td>
     <td>7 (Standard)<br>8 (Short)</td>
@@ -2516,7 +2485,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>FAL <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>58</td>
     <td>5</td>
@@ -2524,7 +2493,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>G2 70s <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>59</td>
     <td>7</td>
@@ -2532,7 +2501,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>P416 Savior <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>59</td>
     <td>7</td>
@@ -2540,7 +2509,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>P416</td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>59 (Standard)<br>65 (Short)</td>
     <td>7 (Standard)<br>8 (Short)</td>
@@ -2548,7 +2517,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MP5</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>59 (Long)<br>66 (Standard)</td>
     <td>7 (Long)<br>8 (Standard)</td>
@@ -2556,7 +2525,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Vector Spectra <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>.45 ACP</td>
     <td>61</td>
     <td>7</td>
@@ -2564,7 +2533,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk249 America <sub><b>[DLC]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>5.56x45mm</td>
     <td>63</td>
     <td>6</td>
@@ -2572,7 +2541,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Mk249</td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>5.56x45mm</td>
     <td>65 (Long)<br>70 (Standard)</td>
     <td>7 (Long)<br>7 (Standard)</td>
@@ -2580,7 +2549,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MP7</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>4.6x30mm</td>
     <td>66 (Long)<br>70 (Standard)</td>
     <td>8 (Long)<br>8 (Standard)</td>
@@ -2588,7 +2557,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MP5 Dragon's Breath <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>66</td>
     <td>8</td>
@@ -2596,7 +2565,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MG121</td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>7.62x51mm</td>
     <td>66 (Standard)<br>74 (Short)</td>
     <td>7 (Standard)<br>8 (Short)</td>
@@ -2604,7 +2573,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Vector .45 ACP</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>.45 ACP</td>
     <td>68 (Standard)<br>INV (Short)</td>
     <td>8 (Standard)<br>9 (Short)</td>
@@ -2612,7 +2581,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>T95 Spectre <sub><b>[DLC]</b></sub></td>
-    <td>LMG</td>
+    <td>Light<br>Machine Gun</td>
     <td>5.56x45mm</td>
     <td>70</td>
     <td>7</td>
@@ -2620,7 +2589,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>LVOA <sub><b>[DLC]</b></sub></td>
-    <td>AR</td>
+    <td>Assault<br>Rifle</td>
     <td>5.56x45mm</td>
     <td>71</td>
     <td>8</td>
@@ -2628,7 +2597,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Vector .45 ACP Venom <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>.45 ACP</td>
     <td>73</td>
     <td>8</td>
@@ -2636,7 +2605,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Scorpion EVO 3</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>73 (Long)<br>78 (Standard)</td>
     <td>8 (Long)<br>9 (Standard)</td>
@@ -2644,7 +2613,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>SR-635 Apparition <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>6x35mm</td>
     <td>INV</td>
     <td>5</td>
@@ -2652,7 +2621,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>PP19 Executioner <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x18mmMakarov</td>
     <td>INV</td>
     <td>6</td>
@@ -2660,7 +2629,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Golden Vector <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>INV</td>
     <td>10</td>
@@ -2668,7 +2637,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>P90 Doorkicker <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>5.7x28mm</td>
     <td>INV</td>
     <td>7</td>
@@ -2676,7 +2645,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>P90 Glory <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>5.7x28mm</td>
     <td>INV</td>
     <td>8</td>
@@ -2684,7 +2653,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>P90 Mirmillo <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>5.7x28mm</td>
     <td>INV</td>
     <td>8</td>
@@ -2692,7 +2661,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>Residuos</td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x18mmMakarov</td>
     <td>INV</td>
     <td>6</td>
@@ -2700,7 +2669,7 @@ Any weapon/barrel configuration listed as `INV` is rendered virtually ineffectiv
   </tr>
   <tr>
     <td>MPX Traveler <sub><b>[DLC]</b></sub></td>
-    <td>SMG</td>
+    <td>Submachine<br>Gun</td>
     <td>9x19mm</td>
     <td>INV</td>
     <td>6</td>
