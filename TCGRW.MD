@@ -21,6 +21,8 @@
 <br>&emsp;[Ghost Mode](#ghost-mode)
 <br>&emsp;[Guerilla Mode](#guerilla-mode)
 <br>[VEHICLE STATS](#vehicle-stats)
+<br>&emsp;[Vehicle Armor](#vehicle-armor)
+<br>&emsp;[RP Vehicles](#rp-vehicles)
 <br>[WEAPON STATS](#weapon-stats)
 <br>&emsp;[Paint Wear](#paint-wear)
 <br>&emsp;[Scopes/Optics](#scopesoptics)
@@ -60,7 +62,8 @@
 <br>&emsp;[Nuevo Mundo](#nuevo-mundo)
 <br>&emsp;[Hitman Suit](#hitman-suit)
 <br>&emsp;[Armored Dozers](#armored-dozers)
-<br>[REFERENCES]()
+<br>&emsp;[Unique Dialogue]()
+<br>[REFERENCES](#references)
 <br>[EOL and Running Without UPlay/Steam](#eol-and-running-without-uplaysteam)
 <br>[CREDITS](#credits)
 
@@ -888,145 +891,166 @@ Guerilla Mode can be used in conjunction with Tier Mode. Multipliers carry over 
 
 # VEHICLE STATS
 
+### Vehicle Armor
+
 Below are armor testing results and information on vehicles available in the game. All of these except for the **"Pickup Truck"**, **"Armored SUV"**, and **"Helicopter"** are unlocked via **Prestige/Spec Ops Crate**. The former three are unlocked through **Network Station** missions. All shot numbers listed apply to all variants of the vehicles. All names are listed as they appear when unlocked via Crate. Parenthesis include other names the vehicle could go by and/or names shown when entering them.
 
 <table>
-    <tr>
-      <th scope="col">VEHICLE(S)</th>
-      <th scope="col">SHOTS TAKEN<br>(VS M60E4)</th>
-		<th scope="col">LOCATIONS</th>
-    </tr>
-    <tr>
-      <td>APC <sub><b>[S] [U]</b></sub></td>
-      <td>33</td>
-		<td>
-			<ul>
-				<li></li>
-			<ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Military 4x4 (Humvee) <sub><b>[S]</b></sub><br>Armored SUV <sub><b>[U]</b></sub>
-        <td>19</td>
-		<td>
-			<ul>
-				<li></li>
-			<ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Military Truck (Barracks) <sub><b>[U]</b></sub><br>Old School Truck (Comms Convoy) <sub><b>[S]</b></sub></td>
-        <td>17</td>
-		<td>
-			<ul>
-				<li></li>
-			<ul>
-		</td>
-    </tr>
-    <tr>
-        <td>SB Trophy Buggy <sub><b>[S]</b></sub><br>Trophy Truck <sub><b>[S]</b></sub><br>Armored Digger <sub><b>[S] [U]</b></sub><br>DIY Armored Truck<br>Truck <sub><b>[R] [C]</b></sub><br>Tanker <sub><b>[C]</b></sub><br>Tractor</td>
-        <td>16</td>
-		<td>
-      <b>Trophy Buggy</b> can be found parked at:
-			<ul>
-				<li><b>Koani Air Base</b> (NE of <b>Koani Bravo</b>)</li>
+  <tr>
+    <th scope="col">VEHICLE(S)</th>
+    <th scope="col">SHOTS TAKEN<br>(VS M60E4)</th>
+	<th scope="col">LOCATIONS</th>
+  </tr>
+  <tr>
+    <td>APC <sub><b>[S] [U]</b></sub></td>
+    <td>33</td>
+	<td>
+	  <ul>
+	    <li></li>
+	  <ul>
+	</td>
+  </tr>
+  <tr>
+    <td>Military 4x4 (Humvee) <sub><b>[S]</b></sub><br>Armored SUV <sub><b>[U]</b></sub>
+    <td>19</td>
+	<td>
+	  <ul>
+	    <li></li>
+	  <ul>
+	</td>
+  </tr>
+  <tr>
+    <td>Military Truck (Barracks) <sub><b>[U]</b></sub><br>Old School Truck (Comms Convoy) <sub><b>[S]</b></sub></td>
+    <td>17</td>
+	<td>
+	  <ul>
+	    <li></li>
+	  <ul>
+	</td>
+  </tr>
+  <tr>
+    <td>SB Trophy Buggy <sub><b>[S]</b></sub><br>Trophy Truck <sub><b>[S]</b></sub><br>Armored Digger <sub><b>[S] [U]</b></sub><br>DIY Armored Truck<br>Truck <sub><b>[R] [C]</b></sub><br>Tanker <sub><b>[C]</b></sub><br>Tractor</td>
+    <td>16</td>
+	<td>
+	  <b>Trophy Buggy</b> can be found parked at:
+	  <ul>
+	    <li><b>Koani Air Base</b> (NE of <b>Koani Bravo</b>)</li>
       </ul>
       <b>Trophy Truck</b> can be found parked at:
-			<ul>
-				<li><b>Koani Air Base</b> (NE of <b>Koani Bravo</b>)</li>
-        <li><b>Koani Railway Camp</b> (S of <b>Koani Delta</b>)</li>
-        <li><b>Buchon House, La Cruz</b> (E of <b>La Cruz Bravo</b>)</li>
-        <li>Small chance to spawn parked at random scenarios involving SBC.</li>
-			</ul>
+	    <ul>
+		  <li><b>Koani Air Base</b> (NE of <b>Koani Bravo</b>)</li>
+          <li><b>Koani Railway Camp</b> (S of <b>Koani Delta</b>)</li>
+          <li><b>Buchon House, La Cruz</b> (E of <b>La Cruz Bravo</b>)</li>
+          <li>Small chance to spawn parked at random scenarios involving SBC.</li>
+		</ul>
       <b>Armored Digger</b> can be found parked at:
       <ul>
         <li><b>Outpost, San Mateo</b> (E of <b>San Mateo Bravo</b>)</li>
         <li><b>Sueno Mausoleum, Pucara</b> (E of <b>Pucara Alpha</b>)</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Unidad Armored Buggy (AMV) <sub><b>[U]</b></sub><br>Zeus Pickup <sub><b>[S]</b></sub></td>
-        <td>15</td>
-		<td>
-				<b>Unidad AMV</b> can be found parked at:
-        <ul>
-          <li><b>Huma Chua Sawmill, Flor de Oro</b> (E of <b>Malca Charlie</b>)</li>
-        </ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Rescue Helicopter<br>Unidad Buggy (Small) <sub><b>[U]</b></sub></td>
-        <td>13</td>
-		<td>
-			<b>Unidad Buggy</b> can be found parked at:
+	  </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Unidad Armored Buggy (AMV) <sub><b>[U]</b></sub><br>Zeus Pickup <sub><b>[S]</b></sub></td>
+    <td>15</td>
+	<td>
+      <b>Unidad AMV</b> can be found parked at:
+      <ul>
+        <li><b>Huma Chua Sawmill, Flor de Oro</b> (E of <b>Malca Charlie</b>)</li>
+      </ul>
+	</td>
+  </tr>
+  <tr>
+    <td>Rescue Helicopter<br>Unidad Buggy (Small) <sub><b>[U]</b></sub></td>
+    <td>13</td>
+	<td>
+	  <b>Unidad Buggy</b> can be found parked at:
       <ul>
         <li><b>Armadillo Hunting Lodge, Flor de Oro</b> (SW of <b>Libertad Charlie</b>)</li>
       </ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Rescue Truck (Meds Convoy) <sub><b>[S]</b></sub><br>Unidad 4x4 (Camo Jeep)<sub><b>[U]</b></sub><br>Unidad Truck (F-350)<sub><b>[U]</b></sub></td>
-        <td>12</td>
-		<td>
-			<ul>
-				<li></li>
-			<ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Offroader (Black Jeep)<br>Plane (Large) <sub><b>[S] [U] [C]</b></sub><br>Plane (Small) <sub><b>[S] [U] [C]</b></sub><br>Pickup <sub><b>[R] [C]</b></sub><br>SUV <sub><b>[C]</b></sub>,4x4 <sub><b>[S]</b></sub><br>Van <sub><b>[C]</b></sub></td>
-        <td>11</td>
-		<td>
-			<b>Offroader</b> can be found parked at:
+	</td>
+  </tr>
+  <tr>
+    <td>Rescue Truck (Meds Convoy) <sub><b>[S]</b></sub><br>Unidad 4x4 (Camo Jeep)<sub><b>[U]</b></sub><br>Unidad Truck (F-350)<sub><b>[U]</b></sub></td>
+    <td>12</td>
+	<td>
+	  <ul>
+	    <li></li>
+	  <ul>
+	</td>
+  </tr>
+  <tr>
+    <td>Offroader (Black Jeep)<br>Plane (Large) <sub><b>[S] [U] [C]</b></sub><br>Plane (Small) <sub><b>[S] [U] [C]</b></sub><br>Pickup <sub><b>[R] [C]</b></sub><br>SUV <sub><b>[C]</b></sub><br>4x4 <sub><b>[S]</b></sub><br>Van <sub><b>[C]</b></sub></td>
+    <td>11</td>
+	<td>
+	  <b>Offroader</b> can be found parked at:
       <ul>
         <li><b>Vieja Granja, Itacua</b> (NE of <b>Itacua Alpha</b>)</li>
         <li><b>-20.4200, 66.3405</b> (E of <b>San Martin Mountain Hut</b>, SW of <b>Inca Camina Charlie</b>)</li>
         <li><b>-20.6980, -61.5744</b> (NE of <b>Icoya, Malca</b>)</li>
-			</ul>
-      <b>SUV</b> with <i>Esperanza Santa Blanca</i> livery can be found parked on the east side of <b>Acevedo, Media Luna</b> (NW of <b>San Mateo Alpha</b>).
-		</td>
-    </tr>
-    <tr>
-        <td>Helicopter (Large) <sub><b>[S] [U]</b></sub><br>Sports Car (Murcie)<sub><b>[S]</b></sub><br>Extreme Sports Car ("VS" Murcie)<br>Muscle Car <sub><b>[S]</b></sub><br>Sedan <sub><b>[S]</b></sub></td>
-        <td>10</td>
-		<td>
-			<b>Sports Car</b> can be found driven by <b>Santa Blanca Lieutenants</b>.<br>
-			<b>Sports Car</b> can be found parked at:
+	  </ul>
+      <b>SUV</b> with <b>Esperanza Santa Blanca</b> and <b>Jazz</b> livery can be found parked:
+      <ul>
+        <li><b>Acevedo, Media Luna</b> (NW of <b>San Mateo Alpha</b>)</li>
+      </ul>
+      <b>Van</b> with <b>ENLK</b> livery can be found parked:
+      <ul>
+        <li><b>Acevedo, Media Luna</b> (NW of <b>San Mateo Alpha</b>)</li>
+      </ul>
+	</td>
+  </tr>
+  <tr>
+    <td>Helicopter (Large) <sub><b>[S] [U]</b></sub><br>Sports Car (Murcie)<sub><b>[S]</b></sub><br>Extreme Sports Car ("VS" Murcie)<br>Muscle Car <sub><b>[S]</b></sub><br>Sedan <sub><b>[S]</b></sub></td>
+    <td>10</td>
+	<td>
+	  <b>Sports Car</b> can be found driven by <b>Santa Blanca Lieutenants</b>.<br>
+	  <b>Sports Car</b> can be found parked at:
       <ul>
         <li><b>Khochi, Itacua</b> (E of <b>Itacua Delta</b>)</li>
         <li><b>Outpost, Barvechos</b> (W of <b>Barvechos Alpha</b>)</li>
         <li><b>Outpost, Koani</b> (W of <b>Remanzo Alpha</b>)</li>
-			</ul>
+	  </ul>
       <b>Extreme Sports Car</b> ("VS" livery) can be found parked at:
       <ul>
         <li><b>Los Humildes Peregrinos, Espiritu Santo</b> (E of <b>Espiritu Santo Delta</b>)</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Military Chopper (Apache) <sub><b>[U]</b></sub><br>Helicopter (Small) <sub><b>[S] [U] [R]</b></sub><br>Vintage Car <sub><b>[S]</b></sub></td>
-        <td>9</td>
-		<td>
-			<b>Military Chopper</b> can be found parked at:
+	  </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Military Chopper (Apache) <sub><b>[U]</b></sub><br>Helicopter (Small) <sub><b>[S] [U] [R]</b></sub><br>Vintage Car <sub><b>[S]</b></sub><br>Boat (Santa Blanca)<br>Gunboat (Unidad)<br>Gunboat (Santa Blanca)</td>
+    <td>9</td>
+	<td>
+	  <b>Military Chopper</b> can be found parked at:
       <ul>
         <li><b>F.O.B. Serpiente, Flor de Oro</b> (N of <b>Flor de Oro Bravo</b>)</li>
         <li><b>F.O.B. Buitre, Media Luna</b> (E of <b>Media Luna Alpha</b>)</li>
         <li><b>M.O.B. Condor, Media Luna</b> (NE of <b>San Mateo Alpha</b>)</li>
         <li><b>F.O.B. Oso Hormiguero</b> (S of <b>Libertad Charlie</b>)</li>
-			</ul>
-		</td>
-    </tr>
-    <tr>
-        <td>Bike<br>Gunboat</td>
-        <td>6</td>
-		<td>
-      <b>Gunboat</b> can be found docked at:
-			<ul>
-				<li><b>Outpost</b> (W of <b>Caimanes Delta</b>)</li>
-			<ul>
-		</td>
-    </tr>
+	  </ul>
+      <b>Gunboat (Santa Blanca)</b> can be found docked at:
+      <ul>
+        <li><b>Outpost</b> (W of <b>Caimanes Delta</b>)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Boat (Pirogue)<br>Boat (Suntrap)</td>
+    <td>8</td>
+	<td>
+	  <ul>
+	    <li></li>
+	  <ul>
+	</td>
+  </tr>
+  <tr>
+    <td>Bike</td>
+    <td>6</td>
+	<td>
+	  <ul>
+	    <li></li>
+	  </ul>
+	</td>
+  </tr>
 </table>
 
 <sub><b>[x]</b></sub> <i>Passenger can enter and fire from the trunk.</i><br>
@@ -1034,6 +1058,765 @@ Below are armor testing results and information on vehicles available in the gam
 <sub><b>[U]</b></sub> <i>Used by Unidad and/or located at their campsites.</i><br>
 <sub><b>[S]</b></sub> <i>Used by SBC and/or located at their campsites.</i><br>
 <sub><b>[C]</b></sub> <i>Used by civilian NPCs and may spawn randomly.</i>
+
+### RP Vehicles
+
+<i>Listing all the crate vehicles and where they spawn.</i>
+
+<table>
+  <tr>
+    <th scope="col">PROVINCE</th>
+    <th scope="col">RALLY POINT</th>
+    <th scope="col">VEHICLES</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Montoyuc</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Inca Zeus Pickup <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+    <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>Military Plane <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Vintage Van <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="5">Inca Camina</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>Inca 4x4 <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (4x)</li>
+        <li>Pickup</li>
+        <li>Rescue Helicopter <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (4x)</li>
+        <li>Minibus</li>
+        <li>VIP SUV <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Delta</td>
+	  <td>
+	    <ul>
+	      <li>Bike (4x)</li>
+        <li>Minibus</li>
+        <li>Inca Trophy Truck <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Echo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (3x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Bolivian Minibus <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="4">Pucara</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>Helicopter (Small)</li>
+        <li>Santa Muerte Pickup <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Santa Muerte Helicopter <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (4x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Inca Zeus Pickup <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Delta</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Extreme SUV <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="5">Itacua</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Vintage Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Pickup</li>
+        <li>4x4</li>
+        <li>Helicopter (Small)</li>
+        <li>Bolivian Minibus <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Military Truck <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Delta</td>
+	  <td>
+	    <ul>
+        <li>Santa Blanca Boat</li>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Rescue Truck <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Echo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>Helicopter (Small)</li>
+        <li>Hunstman Motorbike <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="4">Ocoro</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Extreme SUV <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Santa Muerte Pickup <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike</li>
+        <li>SUV (Old)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Inca Trophy Truck <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Delta</td>
+	  <td>
+	    <ul>
+        <li>Santa Blanca Boat</li>
+	      <li>Bike (4x)</li>
+        <li>Helicopter (Small)</li>
+        <li>Santa Blanca SUV <sub><b>[DLC]</b></sub></li>
+        <li>VIP Muscle Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="5">Caimanes</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Extreme Sports Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Military Truck <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Hunstman Motorbike <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Delta</td>
+	  <td>
+	    <ul>
+	      <li>N/A</li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Echo</td>
+	  <td>
+	    <ul>
+	      <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Vintage Van <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="2">La Cruz</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Rescue Helicopter <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>VIP Sports Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="3">Libertad</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>Helicopter (Small)</li>
+        <li>Extreme Sports Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Military Plane <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+        <li>Santa Blanca Boat</li>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Bolivian Minibus <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="3">Flor de Oro</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>Helicopter (Small)</li>
+        <li>Military 4x4 <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Military Truck <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>VIP SUV <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="4">Malca</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Santa Muerte Bike <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>Helicopter (Small)</li>
+        <li>Hunstman Motorbike <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Santa Muerte Pickup <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Delta</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Inca 4x4 <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="3">Barvechos</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Vintage Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Extreme SUV <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>VIP Muscle Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Mojocoyo</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Hunstman Motorbike <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Santa Muerte Helicopter <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Remanzo</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>Helicopter (Small)</li>
+        <li>Bolivian Minibus <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>Inca Trophy Truck <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="4">Koani</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Rescue Truck <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (3x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Military Plane <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Extreme Sports Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Delta</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>VIP Sports Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Media Luna</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (4x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Extreme Muscle Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (4x)</li>
+        <li>Military 4x4 <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="2">San Mateo</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>VIP SUV <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Extreme Muscle Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="4">P.N. de Agua Verde</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+        <li>Santa Blanca Boat</li>
+        <li>Helicopter (Small)</li>
+        <li>Rescue Helicopter <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Extreme Muscle Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Helicopter (Small)</li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Delta</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Santa Muerte Bike <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="3">Tabacal</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Vintage Van <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike</li>
+        <li>Pickup</li>
+        <li>VIP Muscle Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Minibus</li>
+        <li>Hunstman Motorbike <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Monte Puncu</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (4x)</li>
+        <li>SUV (New)</li>
+        <li>Inca 4x4 <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Military 4x4 <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="4">Espiritu Santo</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Helicopter (Small)</li>
+        <li>Rescue Truck <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Santa Muerte Helicopter <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>VIP Sports Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Delta</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Santa Muerte Bike <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td rowspan="3">Villa Verde</td>
+    <td>Alpha</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>Pickup</li>
+        <li>Vintage Car <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Bravo</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Helicopter (Small)</li>
+        <li>Bolivian Minibus <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+	  <td>
+	    <ul>
+	      <li>Bike (2x)</li>
+        <li>SUV (Old)</li>
+        <li>Inca Zeus Pickup <sub><b>[DLC]</b></sub></li>
+	    <ul>
+	  </td>
+  </tr>
+</table>
 
 # WEAPON STATS
 
@@ -2854,23 +3637,69 @@ While wearing some icon skins (Smoke, Kapkan, etc) and using certain weapons (M4
 
 [[Reference.]](https://youtu.be/Tw8jjQp8IHU)
 
-To activate this Easter egg, the player must "Investigate" three sheets of paper at three separate grave sites at the Ancient Cemetery of Miners on the border of Inca Camina and Pucara (Northeast of Inca Camina Echo). The papers are located at graves which are the only ones that glow red at night (due to candles). The exact GPS coordinates of the three are as follows:
+<table>
+  <tr>
+    <th scope="col">THING</th>
+    <th scope="col">LOCATION</th>
+  </tr>
+  <tr>
+    <td>Document 1</td>
+    <td><b>-19.6647, -64.0323</b><br>(N of <b>Inca Camina Echo</b>)</td>
+  </tr>
+  <tr>
+    <td>Document 2</td>
+    <td><b>-19.7359, -64.1272</b><br>(N of <b>Inca Camina Echo</b>)</td>
+  </tr>
+  <tr>
+    <td>Document 3</td>
+    <td><b>-19.6253, -64.1516</b><br>(N of <b>Inca Camina Echo</b>)</td>
+  </tr>
+  <tr>
+    <td>Shrine 1</td>
+    <td><b>Old Silver Mine</b><br>(NE of <b>Inca Camina Echo</b>)</td>
+  </tr>
+  <tr>
+    <td>Shrine 2</td>
+    <td><b>Outpost</b><br>(NE of <b>Inca Camina Echo</b>)</td>
+  </tr>
+  <tr>
+    <td>Shrine 3</td>
+    <td><b>Pilca Mine</b><br>(NE of <b>Pucara Bravo</b>)</td>
+  </tr>
+  <tr>
+    <td>Ritual Site</td>
+    <td><b>Pucara, Pucara</b><br>(NE of <b>Pucara Bravo</b>) </td>
+  </tr>
+</table>
 
-Lat: -19.6647, Long: -64.0323<br>
-Lat: -19.7359, Long: -64.1272<br>
-Lat: -19.6253, Long: -64.1516<br>
-
-Next step is to travel to three mineshafts and kill all sicarios with the "El Tio" face paint. They'll be standing next to a statue of El Tio. The mineshafts are listed as: **Old Silver Mine** in **Pucara**, **Outpost** (Southwest of **Banado** in **Malca**), and **Pilca Mine** in **Pucara**.
-
-After killing all sicarios inside the mine with the "El Tio" face paint, travel to "**Pucara**" in Pucara (yes "Pucara, Pucara" that's not a typo). There should be bright red flare smoke along with music and chanting as you approach. If you activated the Easter egg correctly, and El Tio should be waiting there.
-
-This can be done indefinitely afterwards. You don't need to collect the grave documents again. All you have to do is return to all three statues and kill each set of sicarios wearing the "El Tio" face paint, then El Tio will spawn up at **Pucara** again.
+<ol>
+  <li>Travel to <b>Ancient Cemetary of Miners</b> and investigate the three documents at different grave sites. The papers are located at graves which are the only ones that glow red at night (due to candles).</li>
+  <li>Travel to three mineshafts and kill all sicarios with the "El Tio" face paint. They'll be standing next to a statue of El Tio.</li>
+  <li>Travel to <b>Pucara, Pucara</b> (no, that's not a typo). There should be bright red flare smoke along with music and chanting as you approach. If you activated the Easter egg correctly, and El Tio will be waiting there.</li>
+  <li>This can be done indefinitely afterwards. You don't need to collect the grave documents again. All you have to do is return to all three statues and kill each set of sicarios wearing the "El Tio" face paint, then El Tio will spawn at the ritual site again.</li>
+</ol>
 
 ### El Yeti
 
 [[Reference.]](https://youtu.be/QjHD9KYC5LI)
+[[Reference.]](https://youtu.be/Vci5joQPkeY)
 
-If you check a bloody rock with a bloody handprint along the east side of the stream flowing down the mountains in southwest **Inca Camina**, some guy in white camo and ghillie pops in wielding an HTI. Evidently he [hides out in a cave further up the mountain](https://youtu.be/Vci5joQPkeY). That cave is located on the map border southeast of **Cable Car Station**, also in **Inca Camina**.
+<table>
+  <tr>
+    <th scope="col">THING</th>
+    <th scope="col">LOCATION</th>
+  </tr>
+  <tr>
+    <td>Bloody Rock</td>
+    <td><b>-19.7419, -66.6621</b><br>(NW of <b>Inca Camina Charlie</b>)</td>
+  </tr>
+  <tr>
+    <td>Cave</td>
+    <td><b>-20.6656, -65.4066</b><br>(SW of <b>Inca Camina Delta</b>)</td>
+  </tr>
+</table>
+
+If you check a rock with a bloody handprint on the east side of the stream, some guy in white camo and ghillie pops in wielding an <b>HTI</b>. There is a cave on the southern border of the map thought to be his hideout.
 
 This can be activated over and over, just leave the area and return to the rock again.
 
@@ -2878,7 +3707,18 @@ This can be activated over and over, just leave the area and return to the rock 
 
 [[Reference.]](https://youtu.be/_7iiRtZUQT8)
 
-Collecting all 8 turns a certain spot into a shrine of sorts.
+<table>
+  <tr>
+    <th scope="col">THING</th>
+    <th scope="col">LOCATION</th>
+  </tr>
+  <tr>
+    <td>Shrine</td>
+    <td><b>-19.9719, -64.7908</b><br>(NE of <b>Inca Camina Delta</b>)</td>
+  </tr>
+</table>
+
+Collecting all 8 spawns a shrine.
 
 ### Day of the Skulls
 
@@ -2890,7 +3730,18 @@ Old event.
 
 [[Reference.]](https://youtu.be/XPl6AK_cCqA)
 
-There's a random owl on a dead tree on the edge of the map east of **Isque** in **La Cruz**. The stump has targets placed around it, and the owl explodes if you shoot it.
+<table>
+  <tr>
+    <th scope="col">THING</th>
+    <th scope="col">LOCATION</th>
+  </tr>
+  <tr>
+    <td>Exploding Owl</td>
+    <td><b>-19.3372, -59.4255</b><br>(NE of <b>Libertad Alpha</b>)</td>
+  </tr>
+</table>
+
+There's a random owl on a dead tree on the edge of the map. The stump has targets placed around it, and the owl explodes if you shoot it.
 
 ### Child Hut
 
@@ -2902,16 +3753,33 @@ Evidently attached to in-game lore.
 
 [[Reference.]](https://youtu.be/iGD0XD19eLs)
 
+<table>
+  <tr>
+    <th scope="col">THING</th>
+    <th scope="col">LOCATION</th>
+  </tr>
+  <tr>
+    <td>Shrine 1</td>
+    <td><b>-19.0896, -59.1558</b><br>(E of <b>Isque, La Cruz</b>)</td>
+  </tr>
+  <tr>
+    <td>Shrine 2</td>
+    <td><b>-19.2310, -59.6067</b><br>(SW of <b>Isque, La Cruz</b>)</td>
+  </tr>
+  <tr>
+    <td>Shrine 3</td>
+    <td><b>-18.5442, -59.6115</b><br>(SW of <b>Caimanes Echo</b>)</td>
+  </tr>
+</table>
+
 Three witches. Used to be part of occasional daily challenges.
 
 <ol>
   <li>Travel to <b>La Guardia de Tres Brujas</b> (E of <b>Pa Kollu, Libertad</b>).</li>
   <li>Enter the shack and watch the ravens fly away.</li>
-  <li>Travel to <b>-19.0896, -59.1558</b> (E of <b>Isque, La Cruz</b>) and activate the shrine just within the map border.</li>
-  <li>Travel to <b>-19.2310, -59.6067</b> (SW of <b>Isque, La Cruz</b>) and activate the shrine on the east cliffs of the lake.</li>
-  <li>Travel to <b>-18.5442, -59.6115</b> (SW of <b>Caimanes Echo</b>) and activate the shrine on the northwest shore of the pond.</li>
+  <li>Travel to each shrine and activate them.</li>
   <li>Travel back to <b>Pa Kollu, Libertad</b>.</li>
-  <li>Redeploy at 23:00. The <b>Lieutenant</b> only spawns at <b>22:00</b>.</li>
+  <li>Redeploy at <b>23:00</b>. The <b>Lieutenant</b> only spawns at <b>22:00</b>.</li>
   <li><b>Flashbang</b> the five <b>Heavies</b> and take them out, then grab the <b>Lieutenant</b>.</li>
   <li>More enemies will spawn coming from the NW. Take them out as well.</li>
   <li>Walk the <b>Lieutenant</b> to <b>La Guardia de Tres Brujas</b>.</li>
@@ -2948,6 +3816,12 @@ Agent 47's black suit with red tie (from the **Hitman** games) can be found in t
 ### Armored Dozers
 
 Only found near the tracks north of **El Sueno's Mausoleum** and west of a Santa Blance base on the east edge of **San Mateo**. These aren't known to spawn elsewhere.
+
+### Unique Dialogue
+
+Some NPCs have unique voice lines.
+
+- If you send your squad somewhere using the <b>GO TO</b> command then mark sync shots for them, their voice lines differ from those used when marking sync shots without sending your squad somewhere.
 
 # REFERENCES
 
