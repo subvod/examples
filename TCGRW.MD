@@ -5,9 +5,8 @@
 [INFORMATION](#information)
 <br>[GENERAL GAMEPLAY](#general-gameplay)
 <br>&emsp;[Quick Tips](#quick-tips)
-<br>&emsp;[Health and Damage](#health-and-damage)
-<br>&emsp;[Stealth Mechanics](#stealth-mechanics)
-<br>&emsp;[Guns and Attachments](#guns-and-attachments)
+<br>&emsp;[Noise Detection Ranges](#noise-detection-ranges)
+<br>&emsp;[Visual Detection Ranges](#visual-detection-ranges)
 <br>&emsp;[Tactical Items](#items)
 <br>&emsp;[Documents](#documents)
 <br>&emsp;[Skills and Resources](#skills-and-resources)
@@ -75,15 +74,18 @@ This is a collection of mostly factual data taken during and after testing many 
 
 ### Quick Tips
 
-- Unlock and equip the <b>M203 Grenade Launcher</b> as soon as possible.
-- <b>Intel</b> is most common in large towns and enemy bases.
-- <b>Flashbangs</b> blind all occupants of a vehicle.
+<ul>
+  <li>Unlock and equip the <b>M203 Grenade Launcher</b> as soon as possible.</li>
+  <li>Complete the two missions in the `Operation Archangel` strand in <b>Libertad</b> for the <b>Caviera Gloves</b>.</li>
+  <li><b>Intel</b> is most common in large towns and enemy bases.</li>
+  <li><b>Flashbangs</b> blind all occupants of a vehicle.</li>
+  <li>You regenerate health after not receiving damage for a short time.</li>
+  <li>Explosive damage doesn't penetrate solid surfaces, but explosive force does. This means that gate locks blow off, windows shatter, boxes get destroyed, etc.</li>
+  <li>You start out with the <b>P416</b>, <b>MP5</b>, and <b>P45T</b>. Ghost mode only allows one primary, so you'll only have the <b>P416</b> and <b>P45T</b> by default.</li>
+  <li><b>Weapon Cases</b> and <b>Accessory Cases</b> can be found around the entire map. Special guns can be obtained by completing certain missions. Most guns have their own unique stats. See [Weapon Stats] for more info.</li>
+</ul>
 
-### Health and Damage
-
-Explosions work just as they do in other games: more damage as you get closer to the center. Damage radius limits have proven to be difficult to pinpoint (outside of player's explosives). As far as damage through walls, no explosive damage penetrates a "solid" surface (what the game considers to be solid e.g. concrete, brick, etc; excludes tents, fences, etc). Now, damage doesn't penetrate solid surfaces, but explosive force does. This means within the spherical radius, anything which can be affected by explosions will be triggered. This includes gate locks blowing off, windows shattering, boxes destroyed, etc.
-
-### Stealth Mechanics
+### Noise Detection Ranges
 
 All weapon classes have their own noise detection with no difference between weapons of the same class despite what the "noise reduction" bar may show. Compensators do not affect noise, again despite what the stat bar shows. Below are the maximum distances at which gunfire is heard by an enemy NPC. This is a flat number, no variables change noise detection distance. For example, an enemy will hear your unsuppressed MP5 at 60m, but if you take a mere one step backwards he won't hear a thing at 61m.
 
@@ -132,7 +134,15 @@ All weapon classes have their own noise detection with no difference between wea
 
 <sub><b>[1]</b></sub> The <b>Compensator</b> does not affect loudness, despite showing that it decreases the <b>Noise Reduction</b> stat.
 
-Time of day also plays a part in visual detection distance (lighting in general does). Ubisoft ported a Splinter Cell system of sorts. It allows for variable detection speed based on light level. Dark areas reveal less therefore you get spotted slower in the shadows. Opposite goes for broad daylight in an open field with no brush. Speaking of bushes, they act as concealment for all players but not NPCs. You can mark an enemy hiding behind a bush, but they cannot see you hiding behind the same bush. Enemies will also not see you behind any sort of solid cover. However you can get spotted hiding behind what may appear to be solid cover. Things like boxes and metal dolleys, basically everything that you can move by just walking into it, is not cover nor concealment despite its solid appearance. The game engine treats all moveable objects as simply that and no more. Below are the ranges at which enemies begin to spot the player. These were tested in barren, unobscured conditions (no cover/concealment blocking view) against both SBC and Unidad forces at the Koani Air Base in Koani and F.O.B. Serpiente in Flor de Oro. No spotting distance differences were found between factions nor solider types (unarmored, vested, veteran, heavy). Snipers are the only NPC type which has altered sight distances, rightfully so. All of that into account, apparently Unidad is no more elite than some cokeheads with guns.
+### Visual Detection Ranges
+
+<ul>
+  <li>Time of day plays a part in visual detection distance (lighting in general does). Ubisoft ported a Splinter Cell system of sorts. It allows for variable detection speed based on player stance and light level. Dark areas reveal less therefore you get spotted slower in the shadows. Opposite goes for broad daylight in an open field with no brush.</li>
+  <li>Bushes act as concealment for all players but not NPCs. You can mark an enemy hiding behind a bush, but they cannot see you hiding behind the same bush.</li>
+  <li>Enemies will also not see you behind any sort of solid cover. However you can get spotted hiding behind what may appear to be solid cover. Things like boxes and metal dolleys, basically everything that you can move by just walking into it, is not cover nor concealment despite its solid appearance. The game engine treats all moveable objects as simply that and no more.</li>
+</ul>
+
+Below are the ranges at which enemies begin to spot the player. These were tested in barren, unobscured conditions (no cover/concealment blocking view) against both <b>SBC</b> and <b>Unidad</b> forces at <b>Koani Air Base, Koani</b> and <b>F.O.B. Serpiente, Flor de Oro</b>. No spotting distance differences were found between factions nor solider types (unarmored, vested, veteran, heavy). Snipers are the only NPC type which has altered sight distances, rightfully so. All of that into account, apparently Unidad is no more elite than some cokeheads with guns.
 
 <table>
   <tr>
@@ -171,14 +181,14 @@ Time of day also plays a part in visual detection distance (lighting in general 
     <td>101 m</td>
   </tr>
   <tr>
-    <td>In Vehicle<sub><b>[*]</b></sub></td>
+    <td>In Vehicle <sub><b>[*]</b></sub></td>
     <td>12:00</td>
     <td>11 m</td>
     <td>35 m</td>
     <td>58 m</td>
   </tr>
   <tr>
-    <td>In Vehicle<sub><b>[*]</b></sub></td>
+    <td>In Vehicle <sub><b>[*]</b></sub></td>
     <td>00:00</td>
     <td>7 m</td>
     <td>19 m</td>
@@ -186,14 +196,7 @@ Time of day also plays a part in visual detection distance (lighting in general 
   </tr>
 </table>
 
-<sub><b>[*]</b></sub> *Enemies in vehicles have a 360&deg; visual radius. The vehicle does not act as cover/concealment visibility-wise, either.*
-
-### Guns and Attachments
-
-- You start out with the **P416**, **MP5**, and **P45T**. Ghost mode only allows one primary, so you'll only have the **P416** and **P45T** by default.
-- Guns and attachments can be found in **Weapon Cases** and **Accessory Cases** around the map.
-- Special guns can be obtained by completing certain missions.
-- Most guns have their own unique stats. See [[Weapon Stats]](#weapon-stats) for more info.
+<sub><b>[*]</b></sub> <i>Enemies in vehicles have a 360&deg; visual radius. The vehicle does not act as cover/concealment visibility-wise, either.</i>
 
 ### Tactical Items
 
@@ -284,8 +287,8 @@ For convoy takedowns, the **EMP Drone** is hit or miss from my experience, espec
 
 ### Rebel Support
 
-- These can be very helpful when in a pinch. Each skill is upgraded by completing an associated <b>Rebel Support</b> mission.
-- Completing <b>Rebel Support</b> and <b>Supply Drop</b> missions increases Rebel presence. Completing all of each mission type will result in roads filled with Rebels ready to back you in the next firefight.
+- These can be very helpful when in a pinch. Each skill is upgraded by completing an associated <b>Rebel Ops</b> mission.
+- Completing <b>Rebel Ops</b> and <b>Supply Drop</b> missions increases Rebel presence. Completing all of each mission type will result in roads filled with Rebels ready to back you in the next firefight.
 
 # ENEMY AI
 
@@ -615,7 +618,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
 
 <sub><b>[NR]</b></sub> <i>Narco Road DLC</i><br>
 <sub><b>[FG]</b></sub> <i>Fallen Ghosts DLC</i><br>
-<sub><b>[1]</b></sub> These seem to be very rare NPCs. Can be found sparsely around the map at spots labeled <b>Rebel Campsite</b>.
+<sub><b>[1]</b></sub> <i>These seem to be very rare NPCs. Can be found sparsely around the map at spots labeled <b>Rebel Campsite</b>.</i>
 
 - Campsites/checkpoints are randomly populated by Cartel/Unidad/Rebel forces, anywhere from 2 to 4 of each type. Sometimes these campsites will have two or three factions, meaning one day you might pass it with just two cartel gunners while the next may have both Unidad and rebels. Population conditions are unknown. There is a special type of campsite spawn where it appears the cartel and Unidad are negotiating. In this scenario, there will be a Santa Blanca Veteran along with two Santa Blanca Soldiers and an Unidad Veteran with two Unidad Soldiers.
 
@@ -789,8 +792,8 @@ Below is data taken from observing road patrol vehicles in the full game and bot
 <table>
   <tr>
     <th scope="col">VEHICLE</th>
-    <th scope="col">MAXIMUM<br>NUMBEROF<br>OCCUPANTS</th>
-    <th scope="col">OCCUPANT TYPES</th>
+    <th scope="col">MAXIMUM<br>NUMBER OF<br>OCCUPANTS</th>
+    <th scope="col">OCCUPANT<br>TYPES</th>
   </tr>
   <tr>
     <td>Unidad Helicopter <sub><b>[x]</b></sub></td>
@@ -834,9 +837,9 @@ Below is data taken from observing road patrol vehicles in the full game and bot
   </tr>
 </table>
 
-<sub><b>[x]</b></sub> *Occupants do not vary.*<br>
-<sub><b>[NR]</b></sub> *Narco Road DLC*<br>
-<sub><b>[FG]</b></sub> *Fallen Ghosts DLC*
+<sub><b>[x]</b></sub> <i>Occupants do not vary.</i><br>
+<sub><b>[NR]</b></sub> <i>Narco Road DLC</i><br>
+<sub><b>[FG]</b></sub> <i>Fallen Ghosts DLC</i>
 
 # GAME MODES
 
@@ -911,7 +914,7 @@ Below are armor testing results and information on vehicles available in the gam
 	</td>
   </tr>
   <tr>
-    <td>Military 4x4 (Humvee) <sub><b>[S]</b></sub><br>Armored SUV <sub><b>[U]</b></sub>
+    <td>Military 4x4 (Humvee) <sub><b>[S]</b></sub><br>Armored SUV (Gurkha) <sub><b>[U]</b></sub>
     <td>19</td>
 	<td>
 	  <ul>
@@ -971,7 +974,7 @@ Below are armor testing results and information on vehicles available in the gam
 	</td>
   </tr>
   <tr>
-    <td>Rescue Truck (Meds Convoy) <sub><b>[S]</b></sub><br>Unidad 4x4 (Camo Jeep)<sub><b>[U]</b></sub><br>Unidad Truck (F-350)<sub><b>[U]</b></sub></td>
+    <td>Rescue Truck (Meds Convoy Ambulance) <sub><b>[S]</b></sub><br>Unidad 4x4 (Camo Jeep) <sub><b>[U]</b></sub><br>Unidad Truck (F-350) <sub><b>[U]</b></sub></td>
     <td>12</td>
 	<td>
 	  <ul>
@@ -989,7 +992,7 @@ Below are armor testing results and information on vehicles available in the gam
         <li><b>-20.4200, 66.3405</b> (E of <b>San Martin Mountain Hut</b>, SW of <b>Inca Camina Charlie</b>)</li>
         <li><b>-20.6980, -61.5744</b> (NE of <b>Icoya, Malca</b>)</li>
 	  </ul>
-      <b>SUV</b> with <b>Esperanza Santa Blanca</b> and <b>Jazz</b> livery can be found parked:
+      <b>SUV</b> with <b>Esperanza Santa Blanca</b> and <b>Jazz</b> liveries can be found parked:
       <ul>
         <li><b>Acevedo, Media Luna</b> (NW of <b>San Mateo Alpha</b>)</li>
       </ul>
@@ -1061,7 +1064,10 @@ Below are armor testing results and information on vehicles available in the gam
 
 ### RP Vehicles
 
-<i>Listing all the crate vehicles and where they spawn.</i>
+<i>Listing all the crate vehicles and which <b>Rally Points</b> they spawn at.</i>
+
+- Some <b>Rally Points</b> have piers near them. If a <b>Santa Blanca Boat</b> (Dinghy) spawns at the pier, I've listed it. Otherwise RPs with piers only spawn with pirogues.
+- A few <b>Rally Points</b> have multiple helicopters spawn at them.
 
 <table>
   <tr>
