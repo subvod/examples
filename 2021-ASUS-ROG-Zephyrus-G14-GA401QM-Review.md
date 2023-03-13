@@ -1,15 +1,17 @@
 # 2021 ASUS ROG Zephyrus G14 Review (GA401QM)
 
+*Just my thoughts so far.*
+
+### Update 2023/03/12
+
+&emsp;Stopped using controller to play RDR2 and GRW. God, this thing gets toasty. On **Performance** mode running GTA5, RDR2, and GRW, I'd be hovering around 88-92&deg;C. Had to change to **Manual** mode and set both CPU and GPU fans to kick in 100% at 49&deg;C. Having done that I can sit around a comfortable 62&deg;C, and in less demanding scenarios hover around 48&deg;C.
+
 ### Specifications
 
 - AMD Ryzen 9 5900HS @ 3.3 GHz
 - NVIDIA GeForce RTX 3060
 - Windows 10 64-bit
 - FHD 144 Hz "PANTONE Validated" 100% sRGB Display (1920x1080)
-
-### tl;dr is it worth it?
-
-After five months of owning this thing... for the $1,600.00 price tag? (Advertised at $1,599.99 because us normies are assumed to make a subconscious decision based on a single penny.) Sure. Continue reading for details.
 
 ### Is it better than the 2020 model/version?
 
@@ -21,16 +23,8 @@ I'm coming from an **Acer ASPIRE 5250-P5WE6**. It's done what I've thrown at it 
 
 ### Gaming Performance
 
-I don't play a whole lot of games. I still occasionally play *Homeworld 2 Remastered*, but for the most part I play *Red Dead Redemption 2*. This tiny thing...
-
-It can run RDR2, all medium settings (except with texture and all anti-aliasting settings on Ultra) at a consistent 60 fps. The lowest drop I've seen is 42fps when I was lobbing dynamite arrows one after another during a bounty hunter ambush. Now, I do run V-Sync because anything higher than 60 Hz doesn't make a difference to me even though the laptop screen itself can run at 144 Hz. (Plus, my TV I connect it to runs max 60fps in 1080p.)
-
-I do play a bit of Forza Horizon 3 and 4 as well. I've yet to test FH4 because the cocksuckers at Turn10 [cut off support of importing designs/vinyls from prior titles](https://forums.forzamotorsport.net/turn10_postst164750_I-can-t-import-designs-or-vinyl.aspx), but FH3 runs (on default "Medium" recommended settings) at a consistent 102-114 fps, with the lowest drop I've seen to date being 94 fps during a large multiplayer circuit race. (Possibly due to network latency, but I'll mention it nonetheless.)
-
-As the old Acer did, it emulates all pre-2005 (physical) systems flawlessly. And I've got my fully functional turbo back in VBA-M.
+Runs all games I play great. Forza Motorsport 7 runs at smooth 144 with V-Sync. RDR2, GTA5, and Wildlands play at smooth 60 with V-Sync.
 
 ### Programming & The Keyboard
 
-Some people have compained a bit about the keys on the keyboard... I've no clue what these people are on about. Keyboard works fine 24/7 for me. Been doing a lot of programming since I bought it and I got pretty well used to the 14" width within the first month. I can regularly type 70 wpm. Granted, it's not the perfect balance between 17" and 14". I don't have to swing my sausage fingers across the room to hit the left shift, but it's cramped enough to where even when sitting upright and actually trying the fastest I get is 88 wpm. (For comparison, on my Acer I regularly ran beyond 90 wpm.) So, all that being said if you have moderate or large hands like my own, not Herman Munster but not Anna Kendrick, the keyboard may be a downside. It doesn't bother me, but just something to keep in mind as I know how anal some people can be with everything.
-
-Programming wise, ehh. I mean, how much power do you need? My old Acer ran fine. Compile times for C/C++ and execution times for Python are reasonably faster than the Acer. It will fill the requirements of all day-to-day hobbyist developers like myself. I've no proper ground to make an argument for professional developers, but I reckon it'll fill that role as well.
+Keyboard still works fine. I actually still have the Logi MX Ergo I bought at the same time I got this G14, and the LMB on it is already janky. Have had zero issues with this keyboard, and can actually type at 92 wpm now compared to the 73 wpm right after I first started learning the smaller keyboard.
