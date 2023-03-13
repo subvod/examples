@@ -28,8 +28,9 @@
 <br>&emsp;[Grand Theft Auto V](#grand-theft-auto-v)
 <br>&emsp;[Minecraft](#minecraft)
 <br>&emsp;[Tom Clancy's Ghost Recon Wildlands](#tom-clancys-ghost-recon-wildlands)
-<br>&emsp;[Super Mario World](#super-mario-world)
-<br>&emsp;[Pokemon](#pokemon)
+<br>&emsp;[Emulation](#emulation)
+<br>&emsp;&emsp;[Super Mario World](#super-mario-world)
+<br>&emsp;&emsp;[Pokemon](#pokemon)
 <br>&emsp;[Minetest](#minetest)
 <br>&emsp;[Forza](#forza)
 <br>[QUOTES](#quotes)
@@ -117,6 +118,7 @@
 
 - [List of Latin Abbreviations](https://en.wikipedia.org/wiki/List_of_Latin_abbreviations) on Wikipedia.
 - [Search by Regular Expressions in Notepad++](https://npp-user-manual.org/docs/searching/#regular-expressions).
+- [Copying all lines hit by search in Notepad++.](https://stackoverflow.com/a/33098186) Useful for building indexes for Markdown documents.
 - You can add fonts for just **LibreOffice** in `<LibreOffice_InstallDirectory>\program\resource\common\fonts`.
 
 ## Web Browsing, Security, and Utilities
@@ -324,23 +326,32 @@
 
 ## Red Dead Redemption 2
 
-<s>[[rdr2-maps]](https://github.com/subvod/rdr2-maps)</s> [[Animal Location Maps]](https://www.nexusmods.com/reddeadredemption2/mods/1929) - Ported everything to **NexusMods**.
+<s>[[rdr2-maps]](https://github.com/subvod/rdr2-maps)</s> [[Animal Location Maps]](https://www.nexusmods.com/reddeadredemption2/mods/1929) - Rare animal location maps. Woodpeckers to moose to panthers. Ported everything to **NexusMods**.
 
-[[RDR2.MD]](https://github.com/subvod/examples/blob/master/RDR2.MD) - Copy of the notes file from `rdr2-maps`. Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc.
+[[RDR2.MD]](https://github.com/subvod/examples/blob/master/RDR2.MD) - Copy of the notes file from `rdr2-maps`. Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc. Been playing since 2020 and have no-lifed the hell out of this game with over 7k hours dumped in. So much fun, my God...
 
 ## Grand Theft Auto V
 
-[[GTA5.MD]](https://github.com/subvod/examples/blob/master/GTA5.MD) - Notes on single player GTA V. Rare vehicles, unique vehicles, NPC-modified vehicles, etc.
+[[GTA5.MD]](https://github.com/subvod/examples/blob/master/GTA5.MD) - Notes on single player GTA V. Rare vehicles, unique vehicles, NPC-modified vehicles, etc. Been playing since day one and probly have accumulated over 10k hours since 2013.
 
 ## Minecraft
 
-[[MINECRAFT.MD]](https://github.com/subvod/examples/blob/master/MINECRAFT.MD) - Notes on solo Minecraft, specifically **Java Edition**. Also, don't be a hipster for Fabric. It's done nothing but split the modding community down the middle for essentially no reason. Forge has worked as needed for over a decade, so just use [[Forge]](https://files.minecraftforge.net/net/minecraftforge/forge/).
+[[MINECRAFT.MD]](https://github.com/subvod/examples/blob/master/MINECRAFT.MD) - Notes on solo Minecraft, specifically **Java Edition**. Been playing since v1.5.2.
 
 ## Tom Clancy's Ghost Recon Wildlands
 
-[[TCGRW.MD]](https://github.com/subvod/examples/blob/master/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**.
+[[TCGRW.MD]](https://github.com/subvod/examples/blob/master/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**. I have over 6k hours in this game.
 
-## Super Mario World
+## Emulation
+
+- [Cycles' NES ROM Pack](https://archive.org/details/CylesNESRomPack)
+- [Cycles' SNES ROM Pack](https://archive.org/details/CylesSNESRomPack)
+- [Cycles' GB ROM Pack](https://archive.org/details/Cyles_Gameboy_roms)
+- [Cycles' GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)
+- [Cycles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)
+- [Cylum's DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)
+
+### Super Mario World
 
 *Tools:*
 
@@ -358,7 +369,7 @@
 - [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Docs]](https://www.smwcentral.net/?p=section&s=documents) [[ROM Hacks]](https://www.smwcentral.net/?p=section&s=smwhacks)
 - [FuSoYa's Niche](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think [FuSoYa](https://www.smwcentral.net/?p=profile&id=9435) has moved most everything to SMWCentral.
 
-## Pokemon
+### Pokemon
 
 *Tools:*
 
@@ -376,6 +387,17 @@
 - [Bulbapedia](https://bulbapedia.bulbagarden.net/) - Walkthroughs, wiki, reference docs, glitches, etc.
 - [Serebii](https://www.serebii.net/) - Reference docs.
 - [IIMarckus's Site](https://iimarckus.org/) - the brains behind the PRET disassemblies.
+
+*ROM Hacks:*
+
+Base Game | Names and Details
+:--- | ---
+Red | [Emu Edition](https://www.romhacking.net/hacks/1108/), complete vanilla solo experience for loners.<br>[Full Color Hack](https://www.romhacking.net/hacks/1385/) adds full color and Gen2 sprites.<br>[Proud Eyes](https://www.romhacking.net/hacks/866/), a complete overhaul of Red.<br>[Gen6 Typing](https://www.romhacking.net/hacks/1742/) tweaks species and move types to match Gen6.<br><br>**Install order:** Emu Edition, Proud Eyes, Full Color
+Yellow | [Thunder Yellow](https://www.romhacking.net/hacks/648/), a complete overhaul, but faithful.
+Crystal | [Polished Crystal](https://www.pokecommunity.com/showthread.php?t=373172) greatly improves Crystal. [[GitHub]](https://github.com/Rangi42/polishedcrystal)<br>[Emu Edition](https://www.romhacking.net/hacks/1420/), complete vanilla solo experience for loners.
+FireRed | [Ultra Violet](https://www.romhacking.net/hacks/1156/), Gen1 remade in Gen3.<br>[Liquid Crystal](https://www.romhacking.net/hacks/1901/), a not-so-faithful Gen2 made in Gen3.
+Emerald | [Complete NationalDex Edition](https://www.romhacking.net/hacks/1991/) enables all 386 species to be obtainable.<br>[Emerald Epsilon](https://www.romhacking.net/hacks/2917/), an overhaul of Emerald.<br>[Crystal Dust](https://www.pokecommunity.com/showthread.php?t=234566), Gen2 remade in Gen3. [[GitHub]](https://github.com/Sierraffinity/CrystalDust)
+Platinum | [Flawless Platinum](https://www.pokecommunity.com/showthread.php?t=307373), an overhaul.
 
 ## Minetest
 
