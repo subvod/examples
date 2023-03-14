@@ -660,6 +660,14 @@ There are many bases in both the stock game and DLCs. Listed below are statistic
     <td>31</td> <!-- soldiers -->
   </tr>
   <tr>
+    <td>Montoyuc Training Base<br>(NE of <b>Montoyuc Bravo</b>)</td>
+    <td>-</td> <!-- lieutenants -->
+    <td>2</td> <!-- snipers -->
+    <td>1</td> <!-- heavies -->
+    <td>2</td> <!-- veterans -->
+    <td>29</td> <!-- soldiers -->
+  </tr>
+  <tr>
     <td>Holy Malca Base<br>(NW of <b>Malca Delta</b>)</td>
     <td>1</td> <!-- lieutenants -->
     <td>6</td> <!-- snipers -->
@@ -3794,10 +3802,28 @@ Three witches. Used to be part of occasional daily challenges.
 
 ### DON'T PRESS ME!
 
-- In a burned forest northwest of a Rebel base in central northern **La Cruz**.
-- Northeast shore of the Dam.
-- Out in the salt flats on the west side of **Koani**. Between the road that runs along the western border and southwest of a **Santa Blanca Airbase**.
-- On the ridge path leading away from the Santa Muerte Statue in Malca.
+<table>
+  <tr>
+    <th scope="col">THING</th>
+    <th scope="col">LOCATION</th>
+  </tr>
+  <tr>
+    <td>Missiles</td>
+    <td><b>-18.6135, -60.3340</b><br>(NW of <b>La Cruz Alpha</b>)</td>
+  </tr>
+  <tr>
+    <td>Fireworks</td>
+    <td><b>-18.4943, -64.2287</b><br>(N of <b>Pucara Alpha</b>)</td>
+  </tr>
+  <tr>
+    <td>Dama Poderosa con Fuego</td>
+    <td><b>-19.5777, -62.5937</b><br>(NW of <b>Malca Bravo</b>)</td>
+  </tr>
+  <tr>
+    <td>Explosions</td>
+    <td><b>-14.4924, -67.0871</b><br>(NW of <b>Koani Alpha</b>)</td>
+  </tr>
+</table>
 
 ### Leap of Faith
 
