@@ -344,11 +344,11 @@
 
 ## Emulation
 
-- [Cycles' NES ROM Pack](https://archive.org/details/CylesNESRomPack)
-- [Cycles' SNES ROM Pack](https://archive.org/details/CylesSNESRomPack)
-- [Cycles' GB ROM Pack](https://archive.org/details/Cyles_Gameboy_roms)
-- [Cycles' GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)
-- [Cycles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)
+- [Cyles' NES ROM Pack](https://archive.org/details/CylesNESRomPack)
+- [Cyles' SNES ROM Pack](https://archive.org/details/CylesSNESRomPack)
+- [Cyles' GB ROM Pack](https://archive.org/details/Cyles_Gameboy_roms)
+- [Cyles' GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)
+- [Cyles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)
 - [Cylum's DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)
 
 ### Super Mario World
