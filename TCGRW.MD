@@ -1,6 +1,6 @@
 # TCGRW.MD
 
-*Notes on Tom Clancy's Ghost Recon: Wildlands.*
+<i>Notes on Tom Clancy's Ghost Recon: Wildlands.</i>
 
 [INFORMATION](#information)
 <br>[GENERAL GAMEPLAY](#general-gameplay)
@@ -200,8 +200,8 @@ Below are the ranges at which enemies begin to spot the player. These were teste
 
 ### Tactical Items
 
-- You start out with just **Frag Grenades**, but can unlock others via the **Skill Tree**.
-- The **Explosion Radius** elite perk from the **Items Skill Tree** is stupid useful.
+- You start out with just <b>Frag Grenades</b>, but can unlock others via the <b>Skill Tree</b>.
+- The <b>Explosion Radius</b> elite perk from the <b>Items Skill Tree</b> is stupid useful.
 - <b>Generators</b> can be found pretty much everywhere, show up hot on thermal, and explode when hit by an <b>EMP Drone</b> or multiple bullets.
 - <b>Red Barrels</b> can be found in fortified bases, <i>don't</i> show up on thermal, and explode from a single shot.
 
@@ -274,16 +274,16 @@ Documents, recordings, photos, collectibles, and Kingslayer Files can be found a
 
 ### Skills and Resources
 
-- **Perks** are unlocked on **Skill Trees**. After unlocking at least one bar in each perk of a **Skill Tree**, you'll unlock the **Elite Perk** of that tree. These **Elite Perks** are very useful.
-- **Skill Points** are used to unlock/upgrade perks. They can be found at various spots around the map, but are more common in hotter areas where conflicts with enemies are more likely to occur.
-- **Resources** are used to unlock/upgrade perks in the **Skill Tree**. There are four resource types: meds, food, fuel, and comms. Each resource has its own **drop**/**Convoy** vehicles and/or color schemes.
-- **Bonus Medals** act as an additional upgrade to a perk. If a perk in the **Skill Tree** has a star at the bottom right corner, it has a bonus medal. Highlight the perk to see the province its bonus medal is located in.
+- <b>Perks</b> are unlocked on <b>Skill Trees</b>. After unlocking at least one bar in each perk of a <b>Skill Tree</b>, you'll unlock the <b>Elite Perk</b> of that tree. These <b>Elite Perks</b> are very useful.
+- <b>Skill Points</b> are used to unlock/upgrade perks. They can be found at various spots around the map, but are more common in hotter areas where conflicts with enemies are more likely to occur.
+- <b>Resources</b> are used to unlock/upgrade perks in the <b>Skill Tree</b>. There are four resource types: meds, food, fuel, and comms. Each resource has its own <b>Supply Drop/Convoy</b> vehicles and/or color schemes.
+- <b>Bonus Medals</b> act as an additional upgrade to a perk. If a perk in the <b>Skill Tree</b> has a star at the bottom right corner, it has a bonus medal. Highlight the perk to see the province its bonus medal is located in.
 
 Small pickups from COM containers, petrol barrels, provision boxes, etc, are only worth it for the first few ranks of a new game. It's best to hit a convoy if you need resources.
 
-Basically, the most efficient method is to run a low tier profile in single player **Guerilla Mode**. You get hundreds of thousands of resources from a completed 25-wave game. To make it easy, wait until the last few enemies are automatically marked. Use sync shot to take off remaining enemies, leaving at least one. Run to him, grab him, turn on your tier mode, and then knock him out. Not only do you get tons of resources every fifth wave, tier mode also yields way more "scrap" used for buying weapons, attachments, skills, etc. This gives 600,000 resources (of varying types) in one 25-wave run through.
+Basically, the most efficient method is to run a low tier profile in single player <b>Guerilla Mode</b>. You get hundreds of thousands of resources from a completed 25-wave game. To make it easy, wait until the last few enemies are automatically marked. Use sync shot to take off remaining enemies, leaving at least one. Run to him, grab him, turn on your tier mode, and then knock him out. Not only do you get tons of resources every fifth wave, tier mode also yields way more "scrap" used for buying weapons, attachments, skills, etc. This gives 600,000 resources (of varying types) in one 25-wave run through.
 
-For convoy takedowns, the **EMP Drone** is hit or miss from my experience, especially if you EMP the main vehicle when it's traveling on even the slightest downhill strech. They'll just coast down and move on when the engine starts back up. The most effective method proven from testing is using sync shot for the driver and passenger, then a one-shot weapon for the escort vehicles (SR25 Jungle or Desert Tech HTI BDC). Second most effective is flashbang, then take out the driver and passenger yourself by shooting through the side window(s). Yes, flashbanging enemies inside vehicles works. Third most effective is the makeshift claymore method, setting a mine, then C4s in a backwards direction. This ensures the front vehicle sets off the initial explosion, which travels backwards and subsequently destroys all vehicles in the convoy (except for a heli if it has one). This method destroys the truck itself, halving the yield, therefore it's listed as the least effective.
+For convoy takedowns, the <b>EMP Drone</b> is hit or miss from my experience, especially if you EMP the main vehicle when it's traveling on even the slightest downhill strech. They'll just coast down and move on when the engine starts back up. The most effective method proven from testing is using sync shot for the driver and passenger, then a one-shot weapon for the escort vehicles (SR25 Jungle or Desert Tech HTI BDC). Second most effective is flashbang, then take out the driver and passenger yourself by shooting through the side window(s). Yes, flashbanging enemies inside vehicles works. Third most effective is the makeshift claymore method, setting a mine, then C4s in a backwards direction. This ensures the front vehicle sets off the initial explosion, which travels backwards and subsequently destroys all vehicles in the convoy (except for a heli if it has one). This method destroys the truck itself, halving the yield, therefore it's listed as the least effective.
 
 ### Rebel Support
 
@@ -851,7 +851,7 @@ Below is data taken from observing road patrol vehicles in the full game and bot
 
 # GAME MODES
 
-*Some info on different modes.*
+<i>Some info on different modes.</i>
 
 ### Tier Mode
 
@@ -904,7 +904,7 @@ Guerilla Mode can be used in conjunction with Tier Mode. Multipliers carry over 
 
 ### Vehicle Armor
 
-Below are armor testing results and information on vehicles available in the game. All of these except for the **"Pickup Truck"**, **"Armored SUV"**, and **"Helicopter"** are unlocked via **Prestige/Spec Ops Crate**. The former three are unlocked through **Network Station** missions. All shot numbers listed apply to all variants of the vehicles. All names are listed as they appear when unlocked via Crate. Parenthesis include other names the vehicle could go by and/or names shown when entering them.
+Below are armor testing results and information on vehicles available in the game. All of these except for the <b>Pickup Truck</b>, <b>Armored SUV</b>, and <b>Helicopter</b> are unlocked via <b>Prestige/Spec Ops Crate</b>. The former three are unlocked through <b>Network Station</b> missions. All shot numbers listed apply to all variants of the vehicles. All names are listed as they appear when unlocked via Crate. Parenthesis include other names the vehicle could go by and/or names shown when entering them.
 
 <table>
   <tr>
@@ -1838,7 +1838,7 @@ Below are armor testing results and information on vehicles available in the gam
 
 Guns will wear down over time. It's purely visual, performance is not affected by this. Gun wear is per gun, not per paint. Therefore, you can switch paints while retaining the gun's wear. You can reset a gun's wear to "clean" it, making the paint all sparkly, clear, and new. I haven't found any specific way to get a gun to wear quickly.
 
-*Stuff I've observed so far:*
+<i>Stuff I've observed so far:</i>
 
 - Hits on peds, vehicles, and defense systems (SAMs, jammers, etc) that haven't been blown up seem to be the only hits that count towards gun wear. Shots that don't hit anything which can take damage are disregarded.
 - Just having the gun equipped contributes to wear, albeit at a slower rate than actually using it.
@@ -1852,27 +1852,27 @@ For sniper optics, same thing: personal preference. Technically, snipers and DMR
 
 ### The Best Loadout
 
-Statistically speaking, the best loadout in vanilla Wildlands (the stock version of the game excluding DLCs and crate unlocks) for covering all ranges is: **M4A1**, **HTI**, and **Lady Killer**.
+Statistically speaking, the best loadout in vanilla Wildlands (the stock version of the game excluding DLCs and crate unlocks) for covering all ranges is: <b>M4A1</b>, <b>HTI</b>, and <b>Lady Killer</b>.
 
-- **M4A1** takes down any armored enemy in four shots while using full auto. It also has the second highest rate of fire among assault rifles (next to the G2 FAMAS). This means it has the lowest potential TTK among assault rifles. The burst trigger put against a Unidad or Santa Blanca heavy is where the M4A1 with a standard barrel falls behind. However that setback is not enough to significantly tank its ranking as it remains the best all-around weapon in general. By default, the AK-12 (chambered in 7.62x39mm) and G36C (chambered in 5.56x45mm, same as the M4A1) with the standard barrel and burst trigger will take down any enemy in a single burst of three (via burst trigger). Where as the M4A1 with the standard barrel and burst trigger will take **TWO** bursts of three. In reality it amounts to a four-shot kill. But the M4A1's two-burst kill potential is only applicable during engaging a heavy machine gunner. That, and when in full auto it still kills faster with four shots than every other assault rifle, including both the AK-12 and G36C. With the long barrel, the M4A1 gains the single burst kill potential the AK-12 and G36C inherently have with the standard barrel against a Unidad heavy. Additionally, the long barrel and 50-round magazine do affect handling, but the drop in ADS time and movement speed is noticable. Nonetheless, it still kills faster than every other assault rifle. Be that as it may, the M4A1, G36C, and AK-12 are among the same line on the performance spectrum and give you everything. You can go from nice and quiet to loud and proud without changing weapons and still remain just as effective. They are easy to control with soft and manageable recoil (even with the long barrel and no compensator). Not to mention they can be effective out to and beyond 200m even when used by literal noobs. However the M4A1 is the victor.
-- **HTI** because why not carry around a .50 BMG long rifle? While the **MSR** and other .338 rifles can also one-shot (with long barrel), the **HTI** does it better since it can one-shot vehicles as well as drone jammers.
-- **Lady Killer** has the highest damage of all suppressable pistols in vanilla.
+- <b>M4A1</b> takes down any armored enemy in four shots while using full auto. It also has the second highest rate of fire among assault rifles (next to the G2 FAMAS). This means it has the lowest potential TTK among assault rifles. The burst trigger put against a Unidad or Santa Blanca heavy is where the M4A1 with a standard barrel falls behind. However that setback is not enough to significantly tank its ranking as it remains the best all-around weapon in general. By default, the AK-12 (chambered in 7.62x39mm) and G36C (chambered in 5.56x45mm, same as the M4A1) with the standard barrel and burst trigger will take down any enemy in a single burst of three (via burst trigger). Where as the M4A1 with the standard barrel and burst trigger will take <b>TWO</b> bursts of three. In reality it amounts to a four-shot kill. But the M4A1's two-burst kill potential is only applicable during engaging a heavy machine gunner. That, and when in full auto it still kills faster with four shots than every other assault rifle, including both the AK-12 and G36C. With the long barrel, the M4A1 gains the single burst kill potential the AK-12 and G36C inherently have with the standard barrel against a Unidad heavy. Additionally, the long barrel and 50-round magazine do affect handling, but the drop in ADS time and movement speed is noticable. Nonetheless, it still kills faster than every other assault rifle. Be that as it may, the M4A1, G36C, and AK-12 are among the same line on the performance spectrum and give you everything. You can go from nice and quiet to loud and proud without changing weapons and still remain just as effective. They are easy to control with soft and manageable recoil (even with the long barrel and no compensator). Not to mention they can be effective out to and beyond 200m even when used by literal noobs. However the M4A1 is the victor.
+- <b>HTI</b> because why not carry around a .50 BMG long rifle? While the <b>MSR</b> and other .338 rifles can also one-shot (with long barrel), the <b>HTI</b> does it better since it can one-shot vehicles as well as drone jammers.
+- <b>Lady Killer</b> has the highest damage of all suppressable pistols in vanilla.
 
-DLC weapons which perform better than the aforementioned are: **416**, **BFG-50A**, and **Five-seveN Blacklist**.
+DLC weapons which perform better than the aforementioned are: <b>416</b>, <b>BFG-50A</b>, and <b>Five-seveN Blacklist</b>.
 
-- **416** does everything the **M4A1** does, but better.
-- **BFG-50A** *or* **Desert Tech HTI BDC** *or* **SR25 Jungle**. It's hard to argue for **HTI BDC** when the **BFG** is just a semi auto **HTI**. To be fair, the **HTI BDC** has less bullet drop, but the **Jungle** has a 20-round mag, is semi-auto, shoots flat out to 350m, and holds one-shot capability to everything. The **SR25 Jungle** is basically a combination of **HTI BDC** damage but shoots faster and flatter than the **BFG-50A**.
-- **Five-seveN Blacklist** has high damage and velocity, but also doesn't alert enemies. (Similar to the **Whisper**, but it has the absolute lowest damage of any weapon in the game.)
+- <b>416</b> does everything the <b>M4A1</b> does, but better.
+- <b>BFG-50A</b> <i>or</i> <b>Desert Tech HTI BDC</b> <i>or</i> <b>SR25 Jungle</b>. It's hard to argue for <b>HTI BDC</b> when the <b>BFG</b> is just a semi auto <b>HTI</b>. To be fair, the <b>HTI BDC</b> has less bullet drop, but the <b>Jungle</b> has a 20-round mag, is semi-auto, shoots flat out to 350m, and holds one-shot capability to everything. The <b>SR25 Jungle</b> is basically a combination of <b>HTI BDC</b> damage but shoots faster and flatter than the <b>BFG-50A</b>.
+- <b>Five-seveN Blacklist</b> has high damage and velocity, but also doesn't alert enemies. (Similar to the <b>Whisper</b>, but it has the absolute lowest damage of any weapon in the game.)
 
-Therefore the statistical best loadout including DLC weapons is: **416**, **SR25 Jungle**, and **Five-seveN Blacklist**.
+Therefore the statistical best loadout including DLC weapons is: <b>416</b>, <b>SR25 Jungle</b>, and <b>Five-seveN Blacklist</b>.
 
 And here's some honorable mentions:
 
 Gun | Class | Details
 :--- | --- | ---
 Mk 16<br>Mk 17<br>R5 RGP | Assault Rifle | Low fire rate, high damage, high recoil. Very useful for early game when <b>VHC Destruction</b> skill hasn't been purchased.<ul><li><b>Mk 16</b> is the <b>Mk 17</b>, but with a bit less recoil and faster reload.</li><li><b>Mk 17</b> is high damage, but slow reload.</li><li><b>R5 RGP</b> is the <b>Mk 16</b> in an AR15 package.</ul>
-AK-12<br>G36C | Assault Rifle | Performs similarly to **M4A1**.
-BFG-50A | Sniper Rifle | A semi auto **HTI** with slightly less bullet drop.
+AK-12<br>G36C | Assault Rifle | Performs similarly to <b>M4A1</b>.
+BFG-50A | Sniper Rifle | A semi auto <b>HTI</b> with slightly less bullet drop.
 MSR | Sniper Rifle | The best balanced sniper rifle. 10-round magazine capacity, guaranteed one-shot kill to personnel (with long barrel), two-shots helicopters, and manageable bullet drop (not the best but definitely not the worst).
 M40A5 | Sniper Rifle | One shots when equipped with Long Barrel. Requires some skill to use effectively.
 Vector .45 ACP<br>Scorpion EVO 3 | Submachine Gun | <i>beware the beez</i>
@@ -1885,11 +1885,11 @@ M9 | Pistol | Highest damage customizable pistol in the game.
 
 ### Critical Hit Mechanics
 
-A critical hit deals double the damage of a regular round fired from a weapon. After extensive gameplay, the way the game appears to calculate critical hit chance is dependent upon four factors: **shots fired**, **length of burst**, **shot placement**, and **target proximity**. I say four because any weapon (outside of Tier Mode and other than the Whisper pistol) will always one-shot unalerted enemies regardless of armor level. The game appears to just automatically kick the damage booster to well over 100% so as to guarantee a one-shot kill. Headshots work in this same manner. That being the case, analysis results will be based on experience with alerted enemies, specifically and exclusively regular Unidad soldiers (not heavy machine gunners or veterans).
+A critical hit deals double the damage of a regular round fired from a weapon. After extensive gameplay, the way the game appears to calculate critical hit chance is dependent upon four factors: shots fired, length of burst, shot placement, and target proximity. I say four because any weapon (outside of Tier Mode and other than the Whisper pistol) will always one-shot unalerted enemies regardless of armor level. The game appears to just automatically kick the damage booster to well over 100% so as to guarantee a one-shot kill. Headshots work in this same manner. That being the case, analysis results will be based on experience with alerted enemies, specifically and exclusively regular Unidad soldiers (not heavy machine gunners or veterans).
 
 The game does appear to have a "damage drop over distance" mechanic, or something that could be perceived as such. It also (sort of) parallels the way damage range works in Call of Duty: the farther your bullet goes the less damage it deals, meaning it will take more rounds to kill an enemy at longer ranges than the same weapon against the same enemy at shorter ranges. Less chance of a crit means you must rely on your weapon's base, raw damage. Weapons with a lower damage-per-round are rendered virtually ineffective at distances over 200m. Even some sniper rifles, ahem cough G28, lose out from a distance (since the goal of using a sniper rifle should be to kill in one shot rather than, say six) again erm cough G28 and Mk 14 cough cough. The critical hit damage multiplier is also lowered over distance. Meaning not only do you have a lower chance of landing a crit, even if you land a lucky crit it may as well have been a regular hit.
 
-**Balancing For Critical Hits:** High rate of fire means a higher chance of landing a critical hit. Most weapons with a low rate of fire have higher base damage compared to other weapons in their class to compensate for the lower rate of fire (thus lower chance of critting). However, as far as balancing goes, the M4A1 is about as good as it gets when it comes to "the best of both worlds". Closely ranked competitors are the AK-12 and G36C.
+<b><u>Balancing For Critical Hits:</u></b> High rate of fire means a higher chance of landing a critical hit. Most weapons with a low rate of fire have higher base damage compared to other weapons in their class to compensate for the lower rate of fire (thus lower chance of critting). However, as far as balancing goes, the M4A1 is about as good as it gets when it comes to "the best of both worlds". Closely ranked competitors are the AK-12 and G36C.
 
 ### Shotguns
 
@@ -1972,7 +1972,7 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
   <li>Each weapon class has its own penetration, as in they're guaranteed to shoot through certain surfaces. Some weapons penetrate more surfaces than others, as in one may go through a sandbag while another of the same class may not. For the most part, almost all weapons of a class will penetrate the same surface types and layers. Weapon penetration (both statistical and as shown in-game) appears to have no effect on armored personnel targets.</li>
 </ul>
 
-**QUICK NOTE ABOUT SNIPER DAMAGE AT RANGE:** I've been able to reproduce a strange event where my **HTI** (yes, with long barrel) doesn't one shot beyond 400m. I have no clue why this happens as it seems to come in and out at random. What I mean by "reproduce" is that I've had it happen a number of times in different spots. Twice from the cliff overlooking **M.O.B. Condor**, once at **La Carcel del Pueblo**, and twice at the **Koani Air Base**.
+<b><u>QUICK NOTE ABOUT SNIPER DAMAGE AT RANGE:</u></b> I've been able to reproduce a strange event where my <b>HTI</b> (yes, with long barrel) doesn't one shot <b>beyond 400m</b>. I have no clue why this happens as it seems to come in and out at random. What I mean by "reproduce" is that I've had it happen a number of times in different spots. Twice from the cliff overlooking <b>M.O.B. Condor, Media Luna</b>, once at <b>La Carcel del Pueblo, San Mateo</b>, and twice at the <b>Koani Air Base, Koani</b>.
 
 <table>
   <tr>
@@ -3482,7 +3482,7 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 
 This list is in descending order, with the highest hitting (least bullet drop) rifles at the top and lowest hitting (most bullet drop) rifles at the bottom. Each cell acts as its own drop rate, meaning all weapons within a row have either the exact same bullet drop or the difference between the weapons in the group was so minor that it could be attributed to breath movement/sway while aiming. All tests were conducted at <b>M.O.B. Condor, Media Luna</b> on the airstrip section at 300m. All rifles were set up with the <b>TARS101</b> scope, longest applicable barrel, and no suppressor. Shots were fired at the bottom of each breath sway.
 
-**DISCLAIMER:** YouTube creator *DarkDally* and many others have noted the scope zeroing differences between scopes and rifles. In an effort to ensure the most accurate data is recorded, markers were not used to zero the shots. Instead, rifle after rifle, the shot was scoped in to the exact same place the previous shot was, otherwise known as not moving the thumbsticks. This prevents misalignment due to camera movement and ensures every shot is taken at the exact same location regardless of where the rifle is zeroed with any optic. The original idea for this came from noting how every weapon is dead zero on the in-game crosshair (in third person). The crosshair placement might be skewed while aiming down sights, but the gun will not shoot skewed from the game's crosshair.
+<b><u>DISCLAIMER:</u></b> YouTube creator [DarkDally](https://www.youtube.com/channel/UC3ujGmsso9_IyYRj7PUjHkg) and many others have noted the scope zeroing differences between scopes and rifles. In an effort to ensure the most accurate data is recorded, markers were not used to zero the shots. Instead, rifle after rifle, the shot was scoped in to the exact same place the previous shot was, otherwise known as not moving the thumbsticks. This prevents misalignment due to camera movement and ensures every shot is taken at the exact same location regardless of where the rifle is zeroed with any optic. The original idea for this came from noting how every weapon is dead zero on the in-game crosshair (in third person). The crosshair placement might be skewed while aiming down sights, but the gun will not shoot skewed from the game's crosshair.
 
 <table>
   <tr>
@@ -3545,17 +3545,17 @@ This list is in descending order, with the highest hitting (least bullet drop) r
 
 # FAQ
 
-*Faq, glitches and easter eggs.* **SPOILERS AHEAD!**
+<i>Faq, glitches and easter eggs.</i> <b>SPOILERS AHEAD!</b>
 
 ### Ghost Mode speedrun for Gold Exoskeleton suit?
 
-The fastest and easiest way to go about getting the gold exo is to run a tier point grinding route. That, and using the right weapon. You can essentially use any weapon you choose, but as listed above some are statistically better than others. If when you start out you die often, it's best to use a weapon that is preconfigured with usable attachments, namely the M203 grenade launcher. Not only is it super overpowered in this game, you can use it despite not having the skill unlocked after restarting a new save with certain weapons. These are: **M16** (from Predator DLC pack), **556xi Dragon** (from Fallen Ghosts weapons DLC pack), and **P416 Micteca** (from Prestige Crates). **Ritmo** obtained from DJ Perico and the **LVOA-C Bad News** have the M203 but are unlocked with further progression, limiting their initial use.) I personally recommend the **P416 Micteca** as it is an M4A1 with a P416 skin and can equip a suppressor, but next in line is the **M16** which operates in the same manner with a lower rate of fire. The **556xi Dragon** has a compensator and therefore isn't mega useful when stealthing. It's fantastic for big firefights, though.
+The fastest and easiest way to go about getting the gold exo is to run a tier point grinding route. That, and using the right weapon. You can essentially use any weapon you choose, but as listed above some are statistically better than others. If when you start out you die often, it's best to use a weapon that is preconfigured with usable attachments, namely the M203 grenade launcher. Not only is it super overpowered in this game, you can use it despite not having the skill unlocked after restarting a new save with certain weapons. These are: <b>M16</b> (from Predator DLC pack), <b>556xi Dragon</b> (from Fallen Ghosts weapons DLC pack), and <b>P416 Micteca</b> (from Prestige Crates). <b>Ritmo</b> obtained from DJ Perico and the <b>LVOA-C Bad News</b> have the <b>M203 GL</b> but are unlocked with further progression, limiting their initial use.) I personally recommend the <b>P416 Micteca</b> as it is just an <b>M4A1</b>. Next in line is the <b>M16</b> which operates in the same manner with a lower rate of fire. The <b>556xi Dragon</b> has a compensator and therefore isn't mega useful when stealthing, but is fantastic for big firefights.
 
 If you run the route effectively, you can get the gold exo suit rather quickly. I flew through the storyline and ground out to tier 1 in about 48 hours. Granted, this was after 15 attempts and about six months of prior play. Two saves I lost were under tier 10, one at tier 8 and another at tier 6. A lot of the others were between tier 40 and 20, dying from explosions and such.
 
 ### How does the Optical Camo backpack work?
 
-A common misconception of the Optical Camo backpack (from completing both parts of Operation Silent Spade) is that it reduces the distance at which you're detected. What it actually does is reduce the speed at which you're detected rather than the distance.
+A common misconception of the Optical Camo backpack (from completing both parts of `Operation Silent Spade`) is that it reduces the distance at which you're detected. What it actually does is reduce the speed at which you're detected rather than the distance.
 
 ### Optical Camo backpack makes me just a floating balaclava.
 
@@ -3563,11 +3563,11 @@ The Optical Camo backpack is incompatible with a select few cosmetic items. Cert
 
 ### How to beat The Predator?
 
-**NOTE:** The Predator mission, **The Jungle Moved**, was removed from the game in 2022 due to trademarks expiring. The **Predator Biomask** can still be kept as long as you obtained it in a savegame prior to the mission being removed. The **Predator Helmet** is still for sale in the in-game store as well. This is all the more reason to use a cracked version of the game with a completionist savegame having all the items.
+<b><u>NOTE:</u></b> The Predator mission, <b>The Jungle Moved</b>, was removed from the game in 2022 due to trademarks expiring. The <b>Predator Biomask</b> can still be kept as long as you obtained it in a savegame prior to the mission being removed. The <b>Predator Helmet</b> is still for sale in the in-game store as well. This is all the more reason to use a cracked version of the game with a completionist savegame having all the items.
 
-This is rather simple. Grab your M4 and max out your "Guns for Hire" and "Diversion" rebel support skills. After that, go to the Predator's mission location, talk to the lady, investigate the locations, and move to the final waypoint. **BEFORE YOU ENTER THE CIRCLE TO START THE FINAL STAGE**, call in your rebels. The reason they are so important, or rather not, is because they'll act as bait. The Predator will lock onto them rather than you and your teammates, opening up more opportunities to fire upon it.
+This is rather simple. Grab your M4 and max out your "Guns for Hire" and "Diversion" rebel support skills. After that, go to the Predator's mission location, talk to the lady, investigate the locations, and move to the final waypoint. <b>BEFORE YOU ENTER THE CIRCLE TO START THE FINAL STAGE</b>, call in your rebels. The reason they are so important, or rather not, is because they'll act as bait. The Predator will lock onto them rather than you and your teammates, opening up more opportunities to fire upon it.
 
-The Predator itself does not have a definite health amount. Rather, he has a hit counter. Now... ideally if you're looking for numbers, drop your M4A1 for a Scorpion EVO 3. Higher rate of fire means you reach that hit counter faster. Do not attempt to shoot the Predator if you see him running around while cloaked. Hits landed in that stage do not count towards the total, for some reason. If you are locked onto, take cover **only if you know for sure you're covered.** The Predator's gun has radial damage because it is, indeed, an explosion. I recommend moving about more than taking cover. Why? Once you get the timing down you can dodge his shots with ease, much in the same way you dodge SAMs in an aircraft. The Predator's lasers track the target, so you could be running just around the corner of a tree and the laser will curve with you. My dodging strategy hasn't changed since I first got it down: as soon as you're locked onto, sprint in a straight line either directly towards or away from the Predator. When you hear him fire his laser thing, judge the length of time it will take for it to reach you (based on distance from him i.e. how loud the laser firing is). At just over &frac78; of that time, turn right or left to dodge.
+The Predator itself does not have a definite health amount. Rather, he has a hit counter. Now... ideally if you're looking for numbers, drop your <b>M4A1</b> for a <b>Scorpion EVO 3</b>. Higher rate of fire means you reach that hit counter faster. Do not attempt to shoot the Predator if you see him running around while cloaked. Hits landed in that stage do not count towards the total, for some reason. If you are locked onto, take cover <b>only if you know for sure you're covered.</b> The Predator's gun has radial damage because it is, indeed, an explosion. I recommend moving about more than taking cover. Why? Once you get the timing down you can dodge his shots with ease, much in the same way you dodge SAMs in an aircraft. The Predator's lasers track the target, so you could be running just around the corner of a tree and the laser will curve with you. My dodging strategy hasn't changed since I first got it down: as soon as you're locked onto, sprint in a straight line either directly towards or away from the Predator. When you hear him fire his laser thing, judge the length of time it will take for it to reach you (based on distance from him i.e. how loud the laser firing is). At just over &frac78; of that time, turn right or left to dodge.
 
 Once you get that strategy down, you're golden. The Predator will become easier and easier the more you practice it.
 
@@ -3579,14 +3579,16 @@ Having trouble taking General Baro? Plant yourself just outside of the mission c
 
 The following have unique melee animations and sounds:
 
-- Tank Top + Predator Wristblades (from `Predator DLC Pack`)
-- Caviera Gloves (from `Operation Archangel` with Caviera)
-- Echelon Gloves
-- Executioner (from `Operation Oracle: Suspicion` with Walker)
+<ul>
+  <li>Tank Top + Predator Wristblades (from `Predator DLC Pack`)</li>
+  <li>Caviera Gloves (from `Operation Archangel` with Caviera)</li>
+  <li>Echelon Gloves</li>
+  <li>Executioner (from `Operation Oracle: Suspicion` with Walker)</li>
+</ul>
 
 ### Caviera Gloves Automatic Marking
 
-Whenever a player makes a melee kill while wearing the **Caviera Gloves**, up to 4 enemies within the immediate area (inside the minimap) will be marked automatically. The melee animation is slower than others, but this ability is well worth the tradeoff.
+Whenever a player makes a melee kill while wearing the <b>Caviera Gloves</b>, up to 4 enemies within the immediate area (inside the minimap) will be marked automatically. The melee animation is slower than others, but this ability is well worth the tradeoff.
 
 ### Special Vision Modes
 
@@ -3594,36 +3596,42 @@ There are several special vision modes available in Wildlands:
 
 - Predator thermal vision mode can be accessed via the <b>Predator Biomask</b> (from `The Jungle Moved`) or <b>Predator Helmet</b> (from <b>Predator DLC Pack</b>).
 - The desaturated (grayscale) night vision mode can be accessed via the <b>SONAR Goggles</b> (from `Challenge Items DLC Pack`).
-- The Steiner night vision mode can be accessed by using a helmet with either the **Special NVG** or **Panoramic NVG** ocular types.
+- The Steiner night vision mode can be accessed by using a helmet with either the <b>Special NVG</b> or <b>Panoramic NVG</b> ocular types.
 
 The items below do not give special vision modes:
 
-- **Monocular NVG** (both helmet flip-down and head brace type)
-- **Advanced Ballistics Helmet**
-- **Echelon Goggles**
-- **Monocular Helmet**
-- **Conviction NVG**
+<ul>
+  <li>Monocular NVG</li>
+  <li>FAST + Monoc. NVG</li>
+  <li>High Cut + Monoc. NVG</li>
+  <li>Advanced Ballistics Helmet</li>
+  <li>Echelon Goggles</li>
+  <li>Monocular Helmet</li>
+  <li>Conviction NVG</li>
+</ul>
 
 ### Keep NVG Flipped Down
 
 [[Reference.]](https://youtu.be/8LN5ns7EPgo)
 
-1. Equip any cosmetic item with goggles.
-2. Turn on **Night Vision**.
-3. Equip an outfit without NVG/NODS.
-4. Turn off **Night Vision**.
-5. Equip the outfit with NVG/NODS.
-6. Enjoy having goggles flipped down without special vision modes.
+<ol>
+  <li>Equip any cosmetic item with goggles.</li>
+  <li>Turn on <b>Night Vision</b>.</li>
+  <li>Equip an outfit without NVG/NODS.</li>
+  <li>Turn off <b>Night Vision</b>.</li>
+  <li>Equip the outfit with NVG/NODS.</li>
+  <li>Enjoy having goggles flipped down without special vision modes.</li>
+</ol>
 
 ### Crooked Optics
 
-This is unintential on Ubisoft's part. Almost all optics shoot a tiny bit to the right of their center crosshair/dot. Some shoot a bit to the left and some shoot higher or lower (namely on select sniper rifles). The **EoTech** and **Panoramic Sight** are properly zero'd on all guns.
+This is unintential on Ubisoft's part. Almost all optics shoot a tiny bit to the right of their center crosshair/dot. Some shoot a bit to the left and some shoot higher or lower (namely on select sniper rifles). The <b>EoTech</b> and <b>Panoramic Sight</b> are properly zero'd on all guns.
 
 ### Ghost Mode Round in Chamber
 
 While using certain guns, the player can switch weapons then switch back to the original to get a round in the chamber. This effect does not carry over after reload, however.
 
-I've had this happen with the **MSR** and **Z93 AMR**, but don't know if it does the same for other snipers.
+I've had this happen with the <b>MSR</b> and <b>Z93 AMR</b>, but don't know if it does the same for other snipers.
 
 ### Ghost Mode Full Loadout
 
@@ -3631,7 +3639,7 @@ While in Ghost Mode, the player may find that they have a second primary weapon 
 
 ### M.O.B. Condor Full House
 
-Before interacting with Scott Mitchell in the first part of `Operation: Silent Spade` the player can travel to the Condor Airbase in eastern **Media Luna** to engage a ton of Unidad soldiers (way more than usual). This happens in both the regular game and Ghost Mode. The game has individual NPC information for some specialized missions, such as animations for cutscenes, travel paths, clothing, voice lines, etc. This means as long as you don't trigger the mission by speaking with Scott Mitchell, tons of Unidad will remain at M.O.B. Condor indefinitely. Very convenient and quite fun when looking for a nice firefight.
+Before interacting with Scott Mitchell in the first part of `Operation: Silent Spade` the player can travel to the Condor Airbase in eastern <b>Media Luna</b> to engage a ton of Unidad soldiers (way more than usual). This happens in both the regular game and Ghost Mode. The game has individual NPC information for some specialized missions, such as animations for cutscenes, travel paths, clothing, voice lines, etc. This means as long as you don't trigger the mission by speaking with Scott Mitchell, tons of Unidad will remain at M.O.B. Condor indefinitely. Very convenient and quite fun when looking for a nice firefight.
 
 This also works using mission replay.
 
@@ -3643,9 +3651,11 @@ When an enemy is mounted on a vehicle turret, they will take considerably more h
 
 While wearing some icon skins (Smoke, Kapkan, etc) and using certain weapons (M4A1, 416, etc.) with certain optics (CompM4, Digital Scope, TA31H, etc), the player may be able to see some parts of the character mesh while aiming down sight. Notable optics which resolve this (still unfixed) issue are the Panoramic Sight and EXPS3.
 
+One gun I've seen zero clipping issues with is the <b>Mk 16</b>.
+
 # EASTER EGGS
 
-*Easter eggs and special things.*
+<i>Easter eggs and special things.</i>
 
 ### El Tio
 
@@ -3827,27 +3837,27 @@ Three witches. Used to be part of occasional daily challenges.
 
 ### Leap of Faith
 
-Assassin's Creed reference at Nidia Flores Hacienda in **Barvechos**. One corner of the bell tower has an eagle perched on it. Below you will find the wheelbarrow of hay. It is not functional.
+Assassin's Creed reference at Nidia Flores Hacienda in <b>Barvechos</b>. One corner of the bell tower has an eagle perched on it. Below you will find the wheelbarrow of hay. It is not functional.
 
 ### Matrix Construct
 
-There's a lone chair out in the middle of nowhere in the salt flats of **Koani**.
+There's a lone chair out in the middle of nowhere in the salt flats of <b>Koani</b>.
 
 ### Flaming Sword
 
-Dark Souls reference. Found atop a hill near a Rebel campsite in northwest **Caimanes**.
+Dark Souls reference. Found atop a hill near a Rebel campsite in northwest <b>Caimanes</b>.
 
 ### Nuevo Mundo
 
-Southwesternmost landmark in **Inca Camina**. Based on Flight 571.
+Southwesternmost landmark in <b>Inca Camina</b>. Based on Flight 571.
 
 ### Hitman Suit
 
-Agent 47's black suit with red tie (from the **Hitman** games) can be found in the closet during Caveira's mission.
+Agent 47's black suit with red tie (from the <b>Hitman</b> games) can be found in the closet during Caveira's mission.
 
 ### Armored Dozers
 
-Only found near the tracks north of **El Sueno's Mausoleum** and west of a Santa Blance base on the east edge of **San Mateo**. These aren't known to spawn elsewhere.
+Only found near the tracks north of <b>El Sueno's Mausoleum</b> and west of a Santa Blance base on the east edge of <b>San Mateo</b>. These aren't known to spawn elsewhere.
 
 ### Unique Dialogue
 
@@ -3867,12 +3877,12 @@ Some NPCs have unique voice lines.
 
 # CREDITS
 
-*References:*
+<i>References:</i>
 
 - [Eroktic](https://www.youtube.com/channel/UCHmvQlYVHbkm4oKkgqezgIg) - some weapons testing and working out how aggro works.
 - [Darkdally](https://www.youtube.com/c/Darkdally) - weapons testing.
 
-*Tools Used:*
+<i>Tools Used:</i>
 
 - [Notepad++](https://notepad-plus-plus.org/) - creating the whole document. Also used integrated Regex search/replace for conversion from HTML to MD.
 - [Regex Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) - referenced during conversion from HTML to MD.
