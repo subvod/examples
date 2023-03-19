@@ -344,20 +344,17 @@
 
 ## Emulation
 
-<ul>
-  <li>[Cyles' NES ROM Pack](https://archive.org/details/CylesNESRomPack)</li>
-  <li>[Cyles' SNES ROM Pack](https://archive.org/details/CylesSNESRomPack)</li>
-  <li>[Cyles' GB ROM Pack](https://archive.org/details/Cyles_Gameboy_roms)</li>
-  <li>[Cyles' GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)</li>
-  <li>[Cyles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)</li>
-  <li>[Cylum's DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)</li>
-</ul>
 
-<ul>
-  <li>[WASM xdelta Patcher](https://kotcrab.github.io/xdelta-wasm/)</li>
-  <li>[Flips](https://www.smwcentral.net/?p=section&a=details&id=11474)</li> [[GitHub]](https://github.com/Alcaro/Flips)
-  <li>[DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)</li>
-</ul>
+- [Cyles' NES ROM Pack](https://archive.org/details/CylesNESRomPack)</li>
+- [Cyles' SNES ROM Pack](https://archive.org/details/CylesSNESRomPack)</li>
+- [Cyles' GB ROM Pack](https://archive.org/details/Cyles_Gameboy_roms)</li>
+- [Cyles' GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)</li>
+- [Cyles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)</li>
+- [Cylum's DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)</li>
+
+- [WASM xdelta Patcher](https://kotcrab.github.io/xdelta-wasm/)</li>
+- [Flips](https://www.smwcentral.net/?p=section&a=details&id=11474)</li> [[GitHub]](https://github.com/Alcaro/Flips)
+- [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)</li>
 
 ### Super Mario World
 
