@@ -344,12 +344,20 @@
 
 ## Emulation
 
-- [Cyles' NES ROM Pack](https://archive.org/details/CylesNESRomPack)
-- [Cyles' SNES ROM Pack](https://archive.org/details/CylesSNESRomPack)
-- [Cyles' GB ROM Pack](https://archive.org/details/Cyles_Gameboy_roms)
-- [Cyles' GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)
-- [Cyles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)
-- [Cylum's DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)
+<ul>
+  <li>[Cyles' NES ROM Pack](https://archive.org/details/CylesNESRomPack)</li>
+  <li>[Cyles' SNES ROM Pack](https://archive.org/details/CylesSNESRomPack)</li>
+  <li>[Cyles' GB ROM Pack](https://archive.org/details/Cyles_Gameboy_roms)</li>
+  <li>[Cyles' GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)</li>
+  <li>[Cyles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)</li>
+  <li>[Cylum's DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)</li>
+</ul>
+
+<ul>
+  <li>[WASM xdelta Patcher](https://kotcrab.github.io/xdelta-wasm/)</li>
+  <li>[Flips](https://www.smwcentral.net/?p=section&a=details&id=11474)</li> [[GitHub]](https://github.com/Alcaro/Flips)
+  <li>[DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)</li>
+</ul>
 
 ### Super Mario World
 
@@ -380,6 +388,7 @@
 - [pokeemerald](https://github.com/pret/pokeemerald) - decompilation of Pokemon Emerald.
 - [pokecrystal](https://github.com/pret/pokecrystal) - disassembly of Pokemon Crystal.
 - [pokeyellow](https://github.com/pret/pokeyellow) - disassembly of Pokemon Yellow.
+- [GSC Clock Password Generator](https://bl4cksh4rk.github.io/Pokemon-GSC-Clock-Password-Generator/) -  generates passwords for clock reset.
 
 *References:*
 
@@ -392,10 +401,8 @@
 
 Base Game | Names and Details
 :--- | ---
-Red | [Emu Edition](https://www.romhacking.net/hacks/1108/), complete vanilla solo experience for loners.<br>[Full Color Hack](https://www.romhacking.net/hacks/1385/) adds full color and Gen2 sprites.<br>[Proud Eyes](https://www.romhacking.net/hacks/866/), a complete overhaul of Red.<br>[Gen6 Typing](https://www.romhacking.net/hacks/1742/) tweaks species and move types to match Gen6.<br><br>**Install order:** Emu Edition, Proud Eyes, Full Color
-Yellow | [Thunder Yellow](https://www.romhacking.net/hacks/648/), a complete overhaul, but faithful.
-Crystal | [Polished Crystal](https://www.pokecommunity.com/showthread.php?t=373172) greatly improves Crystal. [[GitHub]](https://github.com/Rangi42/polishedcrystal)<br>[Emu Edition](https://www.romhacking.net/hacks/1420/), complete vanilla solo experience for loners.
-FireRed | [Ultra Violet](https://www.romhacking.net/hacks/1156/), Gen1 remade in Gen3.<br>[Liquid Crystal](https://www.romhacking.net/hacks/1901/), a not-so-faithful Gen2 made in Gen3.
+Yellow | [151](https://www.romhacking.net/hacks/5746/)<br>[Yellow Advanced](https://www.romhacking.net/hacks/6859/)
+Crystal | [251](https://www.romhacking.net/hacks/6088/)<br>[Polished Crystal](https://www.pokecommunity.com/showthread.php?t=373172) greatly improves Crystal. [[GitHub]](https://github.com/Rangi42/polishedcrystal)<br>[Emu Edition](https://www.romhacking.net/hacks/1420/), complete vanilla solo experience for loners.
 Emerald | [Complete NationalDex Edition](https://www.romhacking.net/hacks/1991/) enables all 386 species to be obtainable.<br>[Emerald Epsilon](https://www.romhacking.net/hacks/2917/), an overhaul of Emerald.<br>[Crystal Dust](https://www.pokecommunity.com/showthread.php?t=234566), Gen2 remade in Gen3. [[GitHub]](https://github.com/Sierraffinity/CrystalDust)
 Platinum | [Flawless Platinum](https://www.pokecommunity.com/showthread.php?t=307373), an overhaul.
 
