@@ -351,7 +351,6 @@
 - [Cyles' GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)</li>
 - [Cyles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)</li>
 - [Cylum's DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)</li>
-
 - [WASM xdelta Patcher](https://kotcrab.github.io/xdelta-wasm/)</li>
 - [Flips](https://www.smwcentral.net/?p=section&a=details&id=11474)</li> [[GitHub]](https://github.com/Alcaro/Flips)
 - [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)</li>
