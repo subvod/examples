@@ -352,7 +352,7 @@
 - [Cyles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)
 - [Cylum's DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)
 - [WASM xdelta Patcher](https://kotcrab.github.io/xdelta-wasm/)
-- [Flips](https://www.smwcentral.net/?p=section&a=details&id=11474)[[GitHub]](https://github.com/Alcaro/Flips)
+- [Flips](https://www.smwcentral.net/?p=section&a=details&id=11474) [[GitHub]](https://github.com/Alcaro/Flips)
 - [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)
 
 ### Super Mario World
