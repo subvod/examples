@@ -67,8 +67,7 @@
 *Tools:*
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Stream/download various media in various formats from various sources.
-- [FFMpeg](https://github.com/FFmpeg/FFmpeg) - Audio/video conversion. [[Docs]](https://ffmpeg.org/documentation.html)
-- [FFMpeg Nightly Builds from BtbN](https://github.com/BtbN/FFmpeg-Builds) - latest **FFMpeg** nightly builds with tons libraries already statically linked. Be sure to read the [[Targets, Variants, and Addins]](https://github.com/BtbN/FFmpeg-Builds#targets-variants-and-addins) in the **README.MD**.
+- [FFMpeg by BtbN](https://github.com/BtbN/FFmpeg-Builds) - Latest nightly builds of the Swiss army knife of audio/video [FFMpeg](https://github.com/FFmpeg/FFmpeg). Certain builds have tons libraries already statically linked. Be sure to read the [Targets, Variants, and Addins](https://github.com/BtbN/FFmpeg-Builds#targets-variants-and-addins).
 - [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet. Lossy, but it's a witchcrafty compression algorithm. [[Docs]](https://opus-codec.org/docs/) [[Source Code]](https://gitlab.xiph.org/xiph/opus-tools)
 - [VLC](https://www.videolan.org/) - Media player. [[Docs]](https://wiki.videolan.org/documentation:documentation/) [[Source Code]](https://github.com/videolan/vlc)
 - [Audacity](https://www.audacityteam.org/) - Audio editor. [[Docs]](https://manual.audacityteam.org/) [[Source Code]](https://github.com/audacity/audacity)
@@ -113,6 +112,11 @@
 
 - [CudaText](https://cudatext.github.io/) - Cross-platform code editor. [[Source Code]](https://github.com/Alexey-T/CudaText)
 - [Notepad++](https://notepad-plus-plus.org/) - Cross-platform code editor. Can be made into an [IDE with Batch scripts, NPPExec, and Macros](https://github.com/subvod/examples/blob/master/NPP-IDE.MD). [[Docs]](https://npp-user-manual.org/) [[Source Code]](https://github.com/notepad-plus-plus/notepad-plus-plus)
+
+*Other:*
+
+- [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) - This is the real deal. The one included in **Nerd-Fonts** is *Sauce Code Pro*.
+- [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher.
 
 *References:*
 
@@ -280,6 +284,7 @@
 *References:*
 
 - [Regex Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) - on MDN.
+- [Regex Match all characters between two strings](https://stackoverflow.com/a/6110113)
 
 ## Markdown
 
@@ -344,16 +349,18 @@
 
 ## Emulation
 
-
 - [Cyles' NES ROM Pack](https://archive.org/details/CylesNESRomPack)
 - [Cyles' SNES ROM Pack](https://archive.org/details/CylesSNESRomPack)
 - [Cyles' GB ROM Pack](https://archive.org/details/Cyles_Gameboy_roms)
 - [Cyles' GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)
 - [Cyles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)
 - [Cylum's DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)
-- [WASM xdelta Patcher](https://kotcrab.github.io/xdelta-wasm/)
-- [Flips](https://www.smwcentral.net/?p=section&a=details&id=11474) [[GitHub]](https://github.com/Alcaro/Flips)
-- [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)
+- [mGBA](https://mgba.io/) - GBA/GBC/GB emulator. [[GitHub]](https://github.com/mgba-emu/mgba) (Basically [VBA-M](https://github.com/visualboyadvance-m/visualboyadvance-m) combined with [TGB Dual](https://github.com/libertyernie/tgbdual_L).)
+- [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator.
+- [FlipsCygwin](https://github.com/subvod/FlipsCygwin) - Custom build of *Flips v1.31* with checkbox for quickly toggling checksum-mismatch overrides.
+- [Flips](https://www.smwcentral.net/?p=section&a=details&id=11474) - Applies and creates IPS and BPS patches. Based on [Lunar IPS](https://www.fusoya.eludevisibility.org/lips/). [[GitHub]](https://github.com/Alcaro/Flips)
+- [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) - GUI interface with integrated xdelta.
+- [WASM xdelta Patcher](https://kotcrab.github.io/xdelta-wasm/) - Online `.xdelta` patcher.
 
 ### Super Mario World
 
@@ -362,7 +369,6 @@
 - [Lunar Magic](https://fusoya.eludevisibility.org/lm/program.html) - the essential program needed to make SMW hacks. [[SMWCentral]](https://www.smwcentral.net/?p=section&a=details&id=28429)
 - [LMSW](https://www.smwcentral.net/?p=section&a=details&id=20746) - allows the internal emulator in Lunar Magic to be used.
 - [ASAR](https://www.smwcentral.net/?p=section&a=details&id=25953) - 65816 assembler; successor to [xkas](https://www.smwcentral.net/?p=section&a=details&id=4615). [[Source Code]](https://github.com/RPGHacker/asar)
-- [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator.
 - [AddMusicK](https://www.smwcentral.net/?p=section&a=details&id=24994) - insert custom music into SMW. Completely hardware compatible and designed with ease-of-use in mind. Supports songs made for both Addmusic 4.05 as well as AddmusicM with minimal tweaking.
 - [UberASM](https://www.smwcentral.net/?p=section&a=details&id=19982) - insert level, overworld, game mode, status bar, sprite and global ASM without using a patch.
 - [ROMclean](https://www.smwcentral.net/?p=section&a=details&id=12178) - checks if your ROM is a clean, headered `(U) [!]` ROM. If it's unclean, it tries to clean it. [JavaScript version](https://media.smwcentral.net/onlinetools/jsromclean.htm) for those paranoid about downloading things.
@@ -377,14 +383,24 @@
 
 *Tools:*
 
-- [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m) - merge project of all VBA branches; GB/GBC/GBA emulator.
-- [TGB Dual L](https://github.com/libertyernie/tgbdual_L) - Updated builds of TGB Dual, a GB/GBC emulator which supports link cable emulation.
-- [DeSmuME](http://desmume.org/download/) - Nintendo DS emulator. Nightly builds are current.
-- [RGBDS](https://github.com/gbdev/rgbds) - **R**ednex **G**ame**B**oy **D**evelopment **S**ystem.
-- [pokeemerald](https://github.com/pret/pokeemerald) - decompilation of Pokemon Emerald.
-- [pokecrystal](https://github.com/pret/pokecrystal) - disassembly of Pokemon Crystal.
-- [pokeyellow](https://github.com/pret/pokeyellow) - disassembly of Pokemon Yellow.
 - [GSC Clock Password Generator](https://bl4cksh4rk.github.io/Pokemon-GSC-Clock-Password-Generator/) -  generates passwords for clock reset.
+- [Eon Timer](https://github.com/DasAmpharos/EonTimer) - RNG timer.
+- [PKHeX](https://github.com/kwsch/PKHeX) [[ProjPoke]](https://projectpokemon.org/pkhex/) - Universal save file editor.
+- [HexManiacAdvance](https://github.com/haven1433/HexManiacAdvance) - A tool for editing tables, text, scripts, images, and other data in Pokemon GBA games.
+- [PokeFinder](https://github.com/Admiral-Fish/PokeFinder) -  Cross-platform Pokemon RNG tool.
+
+*Games:*
+
+- [pokeemerald](https://github.com/pret/pokeemerald) - decompilation of Pokemon Emerald. [[ROM Hack: Final]](https://www.pokecommunity.com/showthread.php?t=410480)
+- [pokeyellow](https://github.com/pret/pokeyellow) - disassembly of Pokemon Yellow. [[ROM Hack: 151]](https://www.romhacking.net/hacks/5746/)
+
+*ROM Hacks:*
+
+- [patched-crystal](https://github.com/UberMedic7/patched-crystal) - Fixes a lot of issues. Forked from [pokecrystal](https://github.com/pret/pokecrystal), a disassembly of Pokemon Crystal. [[IPS Patch Version]](https://www.romhacking.net/hacks/5104/)
+- [R.O.W.E.](https://www.pokecommunity.com/showthread.php?t=442592) - Massive backport of modern games' features into Emerald.
+- [Rising Crystal](https://www.pokecommunity.com/showthread.php?t=448400) - Backport of modern games' features into Crystal.
+- [Crystal Dust](https://www.pokecommunity.com/showthread.php?t=234566) - Gen2 remade in Gen3. [[GitHub]](https://github.com/Sierraffinity/CrystalDust)
+- [Flawless Platinum](https://www.pokecommunity.com/showthread.php?t=307373) - An overhaul.
 
 *References:*
 
@@ -392,15 +408,6 @@
 - [Bulbapedia](https://bulbapedia.bulbagarden.net/) - Walkthroughs, wiki, reference docs, glitches, etc.
 - [Serebii](https://www.serebii.net/) - Reference docs.
 - [IIMarckus's Site](https://iimarckus.org/) - the brains behind the PRET disassemblies.
-
-*ROM Hacks:*
-
-Base Game | Names and Details
-:--- | ---
-Yellow | [151](https://www.romhacking.net/hacks/5746/)<br>[Yellow Advanced](https://www.romhacking.net/hacks/6859/)
-Crystal | [251](https://www.romhacking.net/hacks/6088/)<br>[Polished Crystal](https://www.pokecommunity.com/showthread.php?t=373172) greatly improves Crystal. [[GitHub]](https://github.com/Rangi42/polishedcrystal)<br>[Emu Edition](https://www.romhacking.net/hacks/1420/), complete vanilla solo experience for loners.
-Emerald | [Complete NationalDex Edition](https://www.romhacking.net/hacks/1991/) enables all 386 species to be obtainable.<br>[Emerald Epsilon](https://www.romhacking.net/hacks/2917/), an overhaul of Emerald.<br>[Crystal Dust](https://www.pokecommunity.com/showthread.php?t=234566), Gen2 remade in Gen3. [[GitHub]](https://github.com/Sierraffinity/CrystalDust)
-Platinum | [Flawless Platinum](https://www.pokecommunity.com/showthread.php?t=307373), an overhaul.
 
 ## Minetest
 
