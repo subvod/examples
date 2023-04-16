@@ -1,11 +1,11 @@
-# sha256.py
+# _hashfile.py
 # generates hashes for file passed as argument
 # https://stackoverflow.com/a/22058673
 # https://stackoverflow.com/a/58141165
 # https://stackoverflow.com/a/39988702
 
 # example:
-#     sha256.py rom.gbc
+#     _hashfile.py rom.gbc
 
 import os
 import sys
