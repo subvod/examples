@@ -29,8 +29,8 @@
 <br>&emsp;[Minecraft](#minecraft)
 <br>&emsp;[Tom Clancy's Ghost Recon Wildlands](#tom-clancys-ghost-recon-wildlands)
 <br>&emsp;[Emulation](#emulation)
-<br>&emsp;&emsp;[Super Mario World](#super-mario-world)
-<br>&emsp;&emsp;[Pokemon](#pokemon)
+<br>&emsp;&emsp;[SNES](#snes)
+<br>&emsp;&emsp;[GameBoy](#gameboy)
 <br>&emsp;[Minetest](#minetest)
 <br>&emsp;[Forza](#forza)
 <br>[QUOTES](#quotes)
@@ -117,6 +117,7 @@
 
 - [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) - This is the real deal. The one included in **Nerd-Fonts** is *Sauce Code Pro*.
 - [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher.
+- [pandoc](https://github.com/jgm/pandoc) - Universal Markup converter.
 
 *References:*
 
@@ -302,6 +303,8 @@
 
 # GAMING
 
+- [AutoHotKey](https://www.autohotkey.com/) - Keyboard and mouse macros via scripting. [[Source Code]](https://github.com/AutoHotkey/AutoHotkey)
+
 ## Homeworld Remastered
 
 *Tools:*
@@ -341,7 +344,7 @@
 
 ## Minecraft
 
-[[MINECRAFT.MD]](https://github.com/subvod/examples/blob/master/misc/MINECRAFT.MD) - Notes on solo Minecraft, specifically **Java Edition**. Been playing since v1.5.2.
+[mc-stuff](https://github.com/subvod/mc-stuff) - Notes on solo Minecraft, specifically **Java Edition**.
 
 ## Tom Clancy's Ghost Recon Wildlands
 
@@ -349,45 +352,56 @@
 
 ## Emulation
 
-- [Cyles' NES ROM Pack](https://archive.org/details/CylesNESRomPack)
-- [Cyles' SNES ROM Pack](https://archive.org/details/CylesSNESRomPack)
-- [Cyles' GB ROM Pack](https://archive.org/details/Cyles_Gameboy_roms)
-- [Cyles' GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)
-- [Cyles' GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)
-- [Cylum's DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)
-- [BGB](http://bgb.bircd.org/) - GBA/GBC/GB emulator. Widely preferred by ROM hackers. Closed source.
-- [mGBA](https://mgba.io/) - GBA/GBC/GB emulator. [[GitHub]](https://github.com/mgba-emu/mgba) (Basically [VBA-M](https://github.com/visualboyadvance-m/visualboyadvance-m) combined with [TGB Dual](https://github.com/libertyernie/tgbdual_L).)
-- [Snes9x](https://github.com/snes9xgit/snes9x) - portable SNES emulator.
-- [FlipsCygwin](https://github.com/subvod/FlipsCygwin) - Applies and creates **IPS** and **BPS** patches. Custom build of **Flips v1.31** with checkbox for quickly toggling checksum-mismatch overrides. [[Floating IPS](https://www.smwcentral.net/?p=section&a=details&id=11474) [[Lunar IPS]](https://www.fusoya.eludevisibility.org/lips/) 
+*ROM Archives:*
+
+- [NES ROM Pack](https://archive.org/details/CylesNESRomPack)
+- [SNES ROM Pack](https://archive.org/details/CylesSNESRomPack)
+- [GB ROM Pack](https://archive.org/details/Cyles_Gameboy_roms)
+- [GBC ROM Pack](https://archive.org/details/CylesGameBoyColorRomPack)
+- [GBA ROM Pack](https://archive.org/details/CylesGameboyAdvancedRomPack)
+- [DS ROM Collection](https://archive.org/details/cylums-nintendo-ds-rom-collection)
+
+*Patching Tools:*
+
+- [FlipsCygwin](https://github.com/subvod/FlipsCygwin) - Applies and creates **IPS** and **BPS** patches. Custom build of **Flips v1.31** with checkbox for quickly toggling checksum-mismatch overrides. [[Floating IPS]](https://www.smwcentral.net/?p=section&a=details&id=11474) [[Lunar IPS]](https://www.fusoya.eludevisibility.org/lips/) 
 - [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) - GUI interface with integrated **xdelta**.
 - [WASM xdelta Patcher](https://kotcrab.github.io/xdelta-wasm/) - Online `.xdelta` patcher.
 
-### Super Mario World
+### SNES
+
+*Emulators:*
+
+- [Snes9x](http://www.snes9x.com/) - Portable SNES emulator. [[GitHub]](https://github.com/snes9xgit/snes9x)
 
 *Tools:*
 
 - [Lunar Magic](https://fusoya.eludevisibility.org/lm/program.html) - THE essential program needed to make SMW hacks. Closed source. [[SMWCentral]](https://www.smwcentral.net/?p=section&a=details&id=28429)
 - [LMSW](https://www.smwcentral.net/?p=section&a=details&id=20746) - Plugin which allows the internal emulator in **Lunar Magic** to be used. Open source.
-- [ASAR](https://www.smwcentral.net/?p=section&a=details&id=25953) - 65816 assembler; successor to [xkas](https://www.smwcentral.net/?p=section&a=details&id=4615). Open source. [[Source Code]](https://github.com/RPGHacker/asar)
-- [AddMusicK](https://www.smwcentral.net/?p=section&a=details&id=24994) - Insert custom music into SMW. Completely hardware compatible and designed with ease-of-use in mind. Supports songs made for both **Addmusic 4.05** as well as **AddmusicM** with minimal tweaking. Open source.
-- [UberASM](https://www.smwcentral.net/?p=section&a=details&id=19982) - Insert level, overworld, game mode, status bar, sprite and global ASM without using a patch. Open source.
 - [ROMclean](https://www.smwcentral.net/?p=section&a=details&id=12178) - checks if your ROM is a clean, headered `(U) [!]` ROM. If it's unclean, it tries to clean it. [JavaScript version](https://media.smwcentral.net/onlinetools/jsromclean.htm) for those paranoid about downloading things. Open source.
 - [NPP_HexEdit](https://github.com/chcg/NPP_HexEdit) - Notepad++ Hex Editor plugin. Open source.
 
 *References:*
 
 - [SMWCentral](https://www.smwcentral.net/) - Everything SMW hacking. [[Tools]](https://www.smwcentral.net/?p=section&s=tools) [[Docs]](https://www.smwcentral.net/?p=section&s=documents) [[ROM Hacks]](https://www.smwcentral.net/?p=section&s=smwhacks)
+- [SMW Hacking Guide](https://www.smwcentral.net/?p=beginners#how-to-make-hacks) - Beginner's guide Hosted on **SMWCentral**.
 - [FuSoYa's Niche](https://fusoya.eludevisibility.org/) - SMW hacking tools; though I think [FuSoYa](https://www.smwcentral.net/?p=profile&id=9435) has moved most everything to SMWCentral.
 
-### Pokemon
+### GameBoy
+
+*Emulators:*
+
+- [BGB](http://bgb.bircd.org/) - GBA/GBC/GB emulator. Widely preferred by ROM hackers. Closed source.
+- [mGBA](https://mgba.io/) - GBA/GBC/GB emulator with full link support. [[GitHub]](https://github.com/mgba-emu/mgba)
+- [TGB Dual](https://github.com/libertyernie/tgbdual_L) - GBC emulator with full link support.
+- [VBA-M](https://vba-m.com/) - Merge project of all **VisualBoyAdvance** branches. [[GitHub]](https://github.com/visualboyadvance-m/visualboyadvance-m/) [[Nightly Builds]](https://nightly.vba-m.com/)
 
 *Tools:*
 
-**NOTE:** If you're gonna make a ROM hack, use a disassembly/decompilation. Binary hacking may be old school and cool, but results in the most problems **BY FAR**. Especially further down the line in large projects.
+**NOTE:** If you're gonna make a Pokemon ROM hack, use a disassembly/decompilation. Binary hacking may be old school and cool, but results in the most problems **BY FAR**. Especially further down the line in large projects.
 
 - [GSC Clock Password Generator](https://bl4cksh4rk.github.io/Pokemon-GSC-Clock-Password-Generator/) -  generates passwords for clock reset.
 - [Eon Timer](https://github.com/DasAmpharos/EonTimer) - RNG timer.
-- [PKHeX](https://github.com/kwsch/PKHeX) [[ProjPoke]](https://projectpokemon.org/pkhex/) - Universal save file editor.
+- [PKHeX](https://projectpokemon.org/pkhex/) - Universal save file editor. [[GitHub]](https://github.com/kwsch/PKHeX)
 - [HexManiacAdvance](https://github.com/haven1433/HexManiacAdvance) - A tool for editing tables, text, scripts, images, and other data in Pokemon GBA games.
 - [PokeFinder](https://github.com/Admiral-Fish/PokeFinder) -  Cross-platform Pokemon RNG tool.
 
@@ -399,7 +413,7 @@
 
 *ROM Hacks:*
 
-- [patched-crystal](https://github.com/UberMedic7/patched-crystal) - Fixes a lot of issues. All 251 catchable. Forked from [pokecrystal](https://github.com/pret/pokecrystal). [[IPS Patch Version]](https://www.romhacking.net/hacks/5104/)
+- [patched-crystal](https://github.com/UberMedic7/patched-crystal) - Fixes a lot of issues. All 251 catchable. Forked from [pokecrystal](https://github.com/pret/pokecrystal).
 - [Yellow 151](https://www.romhacking.net/hacks/5746/) - Yellow, but with all 151 catchable. Other fixes included.
 - [R.O.W.E.](https://www.pokecommunity.com/showthread.php?t=442592) - Massive backport of modern games' features into Emerald.
 - [Emerald Final](https://www.pokecommunity.com/showthread.php?t=410480) - Lots of improvements on Emerald.
