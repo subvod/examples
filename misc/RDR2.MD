@@ -41,7 +41,7 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;[Weather and Attire](#weather-and-attire)
 <br>&emsp;[Animal Attacks](#animal-attacks)
 <br>&emsp;[Bed, Bath, and Beyond](#bed-bath-and-beyond)
-<br>&emsp;[Food, Beverages, Tonics, and Weight](#food-beverages-tonics-and-weight)
+<br>&emsp;[Food, Beverages, Tonics, Hair Length, and Body Weight](#food-beverages-tonics-hair-length-and-body-weight)
 <br>&emsp;[Honor](#honor)
 <br>&emsp;[Transportation](#transportation)
 <br>&emsp;[Weapons](#weapons)
@@ -133,6 +133,7 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;[Huge Bass with Kieran](#huge-bass-with-kieran)
 <br>&emsp;[Double skins](#double-skins)
 <br>[EASTER EGGS](#easter-eggs)
+<br>&emsp;[S.L. Caskets]()
 <br>&emsp;[Witch in Graveyard](#witch-in-graveyard)
 <br>&emsp;[Skinner Brothers Yelps](#skinner-brothers-yelps)
 <br>&emsp;[Voices at Old Camps](#voices-at-old-camps)
@@ -1742,6 +1743,20 @@ Much information here was sourced from the [Red Dead Fandom](https://reddead.fan
 *Just some things I jot down before I find out what they are, if I ever do.*
 
 - Random dead camper at dilapidated campsite just down the hill from **Hawks Eye Cabin, Big Valley, WE**. Only spawns at night.
+
+### S.L. Caskets
+
+[Reference.](https://redd.it/13flp4a)
+
+```
+These represent Sean Letts, Rockstar's animation director. He was responsible for face animation & cinematic animation in the game and got his own little easter egg. You can't pick up the small caskets directly, but depending on how you shoot the floorboard away, a box sometimes flies out with it (see picture No.2) and can then be recorded. These are silver earrings and sometimes a silver ring with an emblem.
+
+There are more of these caskets hidden around the map. (See picture #4) In the caravan at the fence in Rhodes you can also find an SL box in a drawer and pick it up directly. However, this is only possible with Arthur! Since the trailer is no longer accessible to John later. Something else is said to have been found in the house directly above the Rhodes lettering (see comment picture No.5)
+```
+
+- **Aberdeen Pig Farm, Scarlett Meadows, LE** (Five under a floorboard.)
+- **Rhodes, Scarlett Meadows, LE** (Caravan at the Fence.)
+- ****
 
 ### Witch in Graveyard
 
