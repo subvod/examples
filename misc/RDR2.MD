@@ -1,6 +1,10 @@
 # NOTICE
 
-I've moved this project to NexusMods: [Animal Location Maps](https://www.nexusmods.com/reddeadredemption2/mods/1929). All further updates will be uploaded there.
+**rdr2-maps** is now hosted on **NexusMods**: [Animal Location Maps](https://www.nexusmods.com/reddeadredemption2/mods/1929). All further updates will be uploaded there.
+
+This document is the location data from **rdr2-maps** combined with all of my other findings throughout 8,000 hours of RDR2 across two platforms. To jump to the **rdr2-maps** section, click below:
+
+[[Jump to rdr2-maps.]](#maps)
 
 <br>
 <br>
@@ -30,7 +34,7 @@ I've moved this project to NexusMods: [Animal Location Maps](https://www.nexusmo
 
 # OVERVIEW
 
-[[Now hosted on NexusMods.]](https://www.nexusmods.com/reddeadredemption2/mods/1929)
+[[The rdr2-maps project is now hosted on NexusMods.]](https://www.nexusmods.com/reddeadredemption2/mods/1929)
 
 This is a collection of noted events and encounters, along with some observed numerical data and notes associated with said data. All information is based upon PC vanilla runs without mods (aside from RampageTrainer). Be aware, here's a few spoilers here and there, but nothing major.
 
@@ -44,9 +48,12 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;[Food, Beverages, Tonics, Hair Length, and Body Weight](#food-beverages-tonics-hair-length-and-body-weight)
 <br>&emsp;[Honor](#honor)
 <br>&emsp;[Transportation](#transportation)
-<br>&emsp;[Weapons](#weapons)
 <br>&emsp;[Map Icons](#map-icons)
 <br>&emsp;[Camp Item Requests](#camp-item-requests)
+<br>[WEAPONS](#weapons)
+<br>&emsp;[Familiarity](#familiarity)
+<br>&emsp;[What is the best weapon?](#what-is-the-best-weapon)
+<br>&emsp;[How to unlock <weapon> early?](#how-to-unlock-weapon-early)
 <br>[HUNTING TIPS](#hunting-tips)
 <br>&emsp;[Debunking the save/reload deal.](#debunking-the-savereload-deal)
 <br>&emsp;[Use a headset if possible.](#use-a-headset-if-possible)
@@ -471,88 +478,6 @@ Mustang | Tiger Striped Bay | Rio del Lobo Rock, Rio Bravo, NA (south of Legenda
 American Standardbred | Black | Little Creek River, Big Valley, WE (along north bank; southeast of Watson's Cabin)
 Thoroughbred | Blood Bay | Larned Sod, Heartlands, NH (southwest of house)
 
-### Weapons
-
-**Weapon Familiarity**
-
-Yes, it's a thing and if you'd never seen it on the Compendium for each weapon you'd never know of it. Familiarity affects all stats, and the more familiar you are with a weapon, the better shot you become with it.
-
-- Use dead eye to get headshots.
-- If avoiding law and bounties, enemy hideouts refresh every few in-game days. The numerous Del Lobo hideouts in New Austin become accessible after Chapter 6.
-
-**What is the best weapon?**
-
-In practice, the **Bow** is the best hunting weapon for three reasons:
-
-1. Yes, its range is limited and does not yield perfect varmint pelts, but the longest range at which you can make Bow kills is outrageous. Even if you're a ways away you can close in towards the target and make the kill via deadeye still quite some distance away. Granted, though it may be slim, there is still a chance to miss even with deadeye lock-on when the target is near the outside edge of the bow's maximum range.
-2. It can make clean kills on everything except most animals which require the **Varmint Rifle** (which would have been nice to have some Varmint Arrows or just make either Regular or Small Game arrows cleanly kill the varmints). Most varmint kills with regular arrows will almost always yield a one-less-star pelt, i.e. you kill a three star and it will almost always drop to two stars. Be that as it may, there are exceptions to this: a headshot with a poison arrow to beavers and iguanas almost always yields a perfect pelt for me when skinning the two-star carcass. But every other varmint (skunks, possums, etc) rarely gives a perfect pelt with any arrow kill.
-3. You get to craft and use **Poison/Fire/Dynamite Arrows**.
-
-- Scoped rifles are more powerful than medium rifles and have near-hitscan bullet velocity, but two caveats: they must be scoped in when aiming (unless the de-scope glitch is used) and do not allow dead eye lock-on (even if de-scoped via glitch). The **Carcano** surpasses the **Rolling Block** on every point. It does everything the **Rolling Block** does, but with a six-round clip. Both of them will one-shot-headshot-kill a bear at any reasonable distance. Overall in practice, an unscoped **Carcano** is the best heavy rifle. It must be noted as well that a **Carcano** with **Express Ammo** deals more damage per shot than a **Rolling Block** with **Express Ammo**.
-- The medium rifles, the **Bolt Action** sacrifices just a bit of damage for better accuracy, fire rate, and reload. All in all, unless you're constantly taking very long shots, the **Bolt Action** is better in practice and works for most everyone. The **Springfield's** slightly higher damage is not a proportional tradeoff to the loss of accuracy and single-round capacity.
-- For revolvers, the **LeMat** comes out on top in terms of damage. The  **Double Action** has the best DPS (damage per second), but the **LeMat** also offers a secondary shotgun barrel. Slow to reload both the cap and ball ammo as well as the center grapeshot barrel, but you get everything in one package. The shotgun barrel itself appears to have quite less effective range than a **Sawed Off Shotgun**, but it's still mad effective at close range as a shotgun is meant to be.
-- For pistols, **Mauser** is the best all-around. Yes, the **M1899** has better damage and accuracy. Yes, the **Semi Auto** slightly higher fire rate allows it to make stupid fast deadeye kills. The **Mauser** reigns because it gets the extra two rounds per clip (10 total; where as the **Semi Auto** and **M1899**) and nearly matches the **Semi Auto Pistol** rate of fire. It's essentially the middle ground, best of both worlds.
-
-Below is a damage chart organized by weapon and bullet type (ordered corresponding to what's in-game). Weapon rows are grouped by class, with the highest damage of its class being at the top and all others in descending order. Incendiary and explosive ammo was not tested because... well, you know. Shotguns weren't tested either because... you get the gist. Testing was done with five shots of each bullet type for all weapons to eliminate one-off cases. All shots were to a grizzly's rear upper thigh (outside any critical/fatal areas). Damage was measured via RampageTrainer's in-game NPC debug feature.
-
-Split point rounds deal slightly more damage at close range than high velocity rounds. I've yet to test them at longer ranges, though I imagine it'll be no different from a distance. Weapon familiarity does not affect damage. I've not tested shotguns yet. All unique weapons are identical to their regular counterparts (in terms of damage) except for those listed below.
-
-Weapon | Class | Unlocked After | REG | HIV | SPL | EXP
-:--- | --- | --- | --- | --- | --- | ---
-Carcano | Rifle | `Goodbye, Dear Friend` | 57 | 70 | 78 | 85
-Rolling Block | Rifle | `Pouring Forth Oil` | 69 | 74 | 76 | 83
-Rare Rolling Block | Rifle | `Magicians for Sport`<br>**Held by Bounty Hunter in barn near end of mission.** | 68 | 73 | 75 | 79
-Springfield | Rifle | `Eastward Bound` | 60 | 62 | 64 | 66
-Bolt Action | Rifle | `Preaching Forgiveness as He Went` | 53 | 56 | 59 | 63
-Litchfield | Repeater | `Goodbye, Dear Friend` | 48 | 51 | 55 | 58
-Carbine | Repeater | `Old Friends` | 43 | 45 | 48 | 51
-Volcanic | Pistol | `Eastward Bound` | 40 | 43 | 46 | 50
-Lancaster | Repeater | `An American Pastoral Scene` | 36 | 38 | 41 | 43
-LeMat | Revolver | `The Gilded Cage`<br>**Saint Denis Gunsmith only.** | 33 | 35 | 37 | 40
-Evans | Repeater | `An Honest Mistake`<br>or `Advertising, The New American Art` | 34 | 35 | 38 | 39
-Schofield | Revolver | `Blessed are the Meek?` | 29 | 32 | 33 | 36
-Cattleman | Revolver | `Outlaws from the West` | 22 | 24 | 25 | 28
-M1899 | Pistol | `The Battle of Shady Belle`<br>**Saint Denis Gunsmith only.** | 22 | 24 | 26 | 28
-Double Action | Revolver | `A Strange Kindness` | 21 | 22 | 24 | 27
-Algernon's<br>High Roller | Revolver | `Dutchesses and Other Animals VI` | 20 | 23 | 24 | 27
-Micah's | Revolver | `American Venom`<br>**On Micah's corpse.** | 20 | 22 | 25 | 26
-Mauser | Pistol | `That's Murfree Country`<br>**Saint Denis and Valentine Gunsmiths only.** | 21 | 22 | 25 | 26
-Semi Auto | Pistol | `The Joys of Civilization`<br>**Saint Denis and Valentine Gunsmiths only.** | 19 | 21 | 23 | 25
-Varmint | Rifle | `Eastward Bound`<br>Free for Special/Ultimate edition players. | 19 | - | - | -
-Bow | N/A | `The Aftermath of Genesis` | 55<br>(REG) | 166<br>(IMP) | 15<br>(SGM) | 55+<br>(PSN)<br>**[*]**
-
-**[*]** Poison Arrows deal the same initial damage as Regular Arrows, but continue to deal damage at a certain rate. I couldn't find any immediate information on what that rate is, but have observed it myself with RampageTrainer's debug menu.
-
-And below here are early unlock methods for some weapons:
-
-Weapon | Location
-:--- | ---
-Schofield Revolver | during `Shop Robbery` of back room at **Valentine Doctor's Office**
-Double Action Revolver | gun case under bunk bed at **Lonnie's Shack, Scarlett Meadows, LE**; accessible before its associated `Homestead Robbery` with Sean in Chapter 3
-Otis Miller's Revolver | In a chest within a cave at **Rattlesnake Hollow, Cholla Springs, NA**
-M1899 Pistol | from moonshiner event northwest of **Valley View, Big Valley, WE**
-Mauser Pistol | **Midnight's Pistol** from Billy Midnight in **Rhodes** during `The Noblest of Men, and a Woman`
-Double Barrel Shotgun | **Catfish Jackson's, Scarlett Meadows, LE**
-Semi Auto Shotgun | gun case in the basement of **Watson's Cabin, Big Valley, WE**
-Pump Action Shotgun | gun case on platform above west bedroom in main house at **Chez Porter, Grizzlies West, AM**
-Lancaster Repeater | gun case in basement Gunsmith in **Rhodes, Scarlett Meadows, LE**; only accessible during its associated `Shop Robbery`
-Bolt Action Rifle | during `The First Shall Be Last`, after knifing the first two enemies with Javier, kill the one on the left of the next set of enemies **FIRST** and pick up his rifle
-Machete | used by **Murfree Brood** and **Night Folk**
-Broken Pirate Sword | in a broken boat south of **Caliga Hall** and **Saint Denis**, northeast of **Shady Belle, Scarlett Meadows, LE**
-Antler Knife | in the neck of a dead *Grizzly Bear* northeast of **Stilt Shack, Big Valley, WE**
-Civil War Knife | in the basement of **Fort Brennand, Roanoke Ridge, NH**
-Wide Blade Knife | in the back of a dead miner inside the cave at **Beryl's Dream, Big Valley, WE**
-Ornate Dagger | dropped by the Saint Denis **Vampire**
-Hewing Hatchet | in a tree stump next to **Flattened Cabin, Grizzlies East, AM**
-Stone Hatchet | in the center of **Native Burial, Big Valley, WE**
-Viking Hatchet | in a skeleton at the center of **Old Tomb, Roanoke Ridge, NH**
-Hunter Hatchet | in a tree stump outside **Dodd's Bluff, Grizzlies West, AM**
-Rusted Hunter Hatchet | in a tree stump outside **Martha's Swain, Grizzlies East, AM**
-Double Bit Hatchet | in a tree stump next to the rubble and remaining fence of an old cabin northwest of **Wallace Station, Big Valley, WE**
-Rusted Double Bit Hatchet | in a tree stump between two large houses in northern **Annesburg, Roanoke Ridge, NH**
-
-**NOTE:** You can also unlock dual wielding at the start of Chapter 2 by completing the **Master Hunter 1** challenge.
-
 ### Map Icons
 
 - I used [this map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) as a reference.
@@ -600,6 +525,88 @@ Available from Chapter II to Chapter VI. Pearson will be drinking beer at his wa
 **Dutch's Pipe**
 
 I've gotten it to pop right after starting both Chapters II and III. In those, Dutch will be standing on the front right side of his tent. In Chapter IV, he'll be standing outside the south door of **Shady Belle**.
+
+# WEAPONS
+
+### Familiarity
+
+Yes, it's a thing and if you'd never seen it on the Compendium for each weapon you'd never know of it. Familiarity affects all stats, and the more familiar you are with a weapon, the better shot you become with it.
+
+- Use dead eye to get headshots.
+- If avoiding law and bounties, enemy hideouts refresh every few in-game days. The numerous Del Lobo hideouts in New Austin become accessible after Chapter 6.
+
+### What is the best weapon?
+
+In practice, the **Bow** is the best hunting weapon for three reasons:
+
+1. Yes, its range is limited and does not yield perfect varmint pelts, but the longest range at which you can make Bow kills is outrageous. Even if you're a ways away you can close in towards the target and make the kill via deadeye still quite some distance away. Granted, though it may be slim, there is still a chance to miss even with deadeye lock-on when the target is near the outside edge of the bow's maximum range.
+2. It can make clean kills on everything except most animals which require the **Varmint Rifle** (which would have been nice to have some Varmint Arrows or just make either Regular or Small Game arrows cleanly kill the varmints). Most varmint kills with regular arrows will almost always yield a one-less-star pelt, i.e. you kill a three star and it will almost always drop to two stars. Be that as it may, there are exceptions to this: a headshot with a poison arrow to beavers and iguanas almost always yields a perfect pelt for me when skinning the two-star carcass. But every other varmint (skunks, possums, etc) rarely gives a perfect pelt with any arrow kill.
+3. You get to craft and use **Poison/Fire/Dynamite Arrows**.
+
+- Scoped rifles are more powerful than medium rifles and have near-hitscan bullet velocity, but two caveats: they must be scoped in when aiming (unless the de-scope glitch is used) and do not allow dead eye lock-on (even if de-scoped via glitch). The **Carcano** surpasses the **Rolling Block** on every point. It does everything the **Rolling Block** does, but with a six-round clip. Both of them will one-shot-headshot-kill a bear at any reasonable distance. Overall in practice, an unscoped **Carcano** is the best heavy rifle. It must be noted as well that a **Carcano** with **Express Ammo** deals more damage per shot than a **Rolling Block** with **Express Ammo**.
+- The medium rifles, the **Bolt Action** sacrifices just a bit of damage for better accuracy, fire rate, and reload. All in all, unless you're constantly taking very long shots, the **Bolt Action** is better in practice and works for most everyone. The **Springfield's** slightly higher damage is not a proportional tradeoff to the loss of accuracy and single-round capacity.
+- For revolvers, the **LeMat** comes out on top in terms of damage. The  **Double Action** has the best DPS (damage per second), but the **LeMat** also offers a secondary shotgun barrel. Slow to reload both the cap and ball ammo as well as the center grapeshot barrel, but you get everything in one package. The shotgun barrel itself appears to have quite less effective range than a **Sawed Off Shotgun**, but it's still mad effective at close range as a shotgun is meant to be.
+- For pistols, **Mauser** is the best all-around. Yes, the **M1899** has better damage and accuracy. Yes, the **Semi Auto** slightly higher fire rate allows it to make stupid fast deadeye kills. The **Mauser** reigns because it gets the extra two rounds per clip (10 total; where as the **Semi Auto** and **M1899**) and nearly matches the **Semi Auto Pistol** rate of fire. It's essentially the middle ground, best of both worlds.
+
+Below is a damage chart organized by weapon and bullet type (ordered corresponding to what's in-game). Weapon rows are grouped by class, with the highest damage of its class being at the top and all others in descending order. Incendiary and explosive ammo was not tested because... well, you know. Shotguns weren't tested either because... you get the gist. Testing was done with five shots of each bullet type for all weapons to eliminate one-off cases. All shots were to a grizzly's rear upper thigh (outside any critical/fatal areas). Damage was measured via RampageTrainer's in-game NPC debug feature.
+
+Split point rounds deal slightly more damage at close range than high velocity rounds. I've yet to test them at longer ranges, though I imagine it'll be no different from a distance. Weapon familiarity does not affect damage. I've not tested shotguns yet. All unique weapons are identical to their regular counterparts (in terms of damage) except for those listed below.
+
+Weapon | Class | Unlocked After | REG | HIV | SPL | EXP
+:--- | --- | --- | --- | --- | --- | ---
+Carcano | Rifle | `Goodbye, Dear Friend` | 57 | 70 | 78 | 85
+Rolling Block | Rifle | `Pouring Forth Oil` | 69 | 74 | 76 | 83
+Rare Rolling Block | Rifle | `Magicians for Sport`<br>**Held by Bounty Hunter in barn near end of mission.** | 68 | 73 | 75 | 79
+Springfield | Rifle | `Eastward Bound` | 60 | 62 | 64 | 66
+Bolt Action | Rifle | `Preaching Forgiveness as He Went` | 53 | 56 | 59 | 63
+Litchfield | Repeater | `Goodbye, Dear Friend` | 48 | 51 | 55 | 58
+Carbine | Repeater | `Old Friends` | 43 | 45 | 48 | 51
+Volcanic | Pistol | `Eastward Bound` | 40 | 43 | 46 | 50
+Lancaster | Repeater | `An American Pastoral Scene` | 36 | 38 | 41 | 43
+LeMat | Revolver | `The Gilded Cage`<br>**Saint Denis Gunsmith only.** | 33 | 35 | 37 | 40
+Evans | Repeater | `An Honest Mistake`<br>or `Advertising, The New American Art` | 34 | 35 | 38 | 39
+Schofield | Revolver | `Blessed are the Meek?` | 29 | 32 | 33 | 36
+Cattleman | Revolver | `Outlaws from the West` | 22 | 24 | 25 | 28
+M1899 | Pistol | `The Battle of Shady Belle`<br>**Saint Denis Gunsmith only.** | 22 | 24 | 26 | 28
+Double Action | Revolver | `A Strange Kindness` | 21 | 22 | 24 | 27
+Algernon's<br>High Roller | Revolver | `Dutchesses and Other Animals VI` | 20 | 23 | 24 | 27
+Micah's | Revolver | `American Venom`<br>**On Micah's corpse.** | 20 | 22 | 25 | 26
+Mauser | Pistol | `That's Murfree Country`<br>**Saint Denis and Valentine Gunsmiths only.** | 21 | 22 | 25 | 26
+Semi Auto | Pistol | `The Joys of Civilization`<br>**Saint Denis and Valentine Gunsmiths only.** | 19 | 21 | 23 | 25
+Varmint | Rifle | `Eastward Bound`<br>Free for Special/Ultimate edition players. | 19 | - | - | -
+Bow | N/A | `The Aftermath of Genesis` | 55<br>(REG) | 166<br>(IMP) | 15<br>(SGM) | 55+<br>(PSN)<br>**[!]**
+
+**[!]** Poison Arrows deal the same initial damage as Regular Arrows, but continue to deal damage at a certain rate. I couldn't find any immediate information on what that rate is, but have observed it myself with RampageTrainer's debug menu.
+
+### How to unlock <weapon> early?
+
+Weapon | Location
+:--- | ---
+Schofield Revolver | during `Shop Robbery` of back room at **Valentine Doctor's Office**
+Double Action Revolver | gun case under bunk bed at **Lonnie's Shack, Scarlett Meadows, LE**; accessible before its associated `Homestead Robbery` with Sean in Chapter 3
+Otis Miller's Revolver | In a chest within a cave at **Rattlesnake Hollow, Cholla Springs, NA**
+M1899 Pistol | from moonshiner event northwest of **Valley View, Big Valley, WE**
+Mauser Pistol | **Midnight's Pistol** from Billy Midnight in **Rhodes** during `The Noblest of Men, and a Woman`
+Double Barrel Shotgun | **Catfish Jackson's, Scarlett Meadows, LE**
+Semi Auto Shotgun | gun case in the basement of **Watson's Cabin, Big Valley, WE**
+Pump Action Shotgun | gun case on platform above west bedroom in main house at **Chez Porter, Grizzlies West, AM**
+Lancaster Repeater | gun case in basement Gunsmith in **Rhodes, Scarlett Meadows, LE**; only accessible during its associated `Shop Robbery`
+Bolt Action Rifle | during `The First Shall Be Last`, after knifing the first two enemies with Javier, kill the one on the left of the next set of enemies **FIRST** and pick up his rifle
+Machete | used by **Murfree Brood** and **Night Folk**
+Broken Pirate Sword | in a broken boat south of **Caliga Hall** and **Saint Denis**, northeast of **Shady Belle, Scarlett Meadows, LE**
+Antler Knife | in the neck of a dead *Grizzly Bear* northeast of **Stilt Shack, Big Valley, WE**
+Civil War Knife | in the basement of **Fort Brennand, Roanoke Ridge, NH**
+Wide Blade Knife | in the back of a dead miner inside the cave at **Beryl's Dream, Big Valley, WE**
+Ornate Dagger | dropped by the Saint Denis **Vampire**
+Hewing Hatchet | in a tree stump next to **Flattened Cabin, Grizzlies East, AM**
+Stone Hatchet | in the center of **Native Burial, Big Valley, WE**
+Viking Hatchet | in a skeleton at the center of **Old Tomb, Roanoke Ridge, NH**
+Hunter Hatchet | in a tree stump outside **Dodd's Bluff, Grizzlies West, AM**
+Rusted Hunter Hatchet | in a tree stump outside **Martha's Swain, Grizzlies East, AM**
+Double Bit Hatchet | in a tree stump next to the rubble and remaining fence of an old cabin northwest of **Wallace Station, Big Valley, WE**
+Rusted Double Bit Hatchet | in a tree stump between two large houses in northern **Annesburg, Roanoke Ridge, NH**
+
+**NOTE:** You can also unlock dual wielding at the start of Chapter 2 by completing the **Master Hunter 1** challenge.
 
 # HUNTING TIPS
 
@@ -710,6 +717,9 @@ NA | NA
 
 According to my own testing, all "varmints" can be skinned for a perfect pelt when headshot with a regular arrow except for the **Skunk** and **Gila Monster**. You're still chancing it not being perfect, though. Same goes for killing small birds (robins, woodpeckers, etc) and animals (rats, frogs, etc) with the **Varmint Rifle**. The **Varmint Rifle** itself is interesting, though. You get a huge range buff for trading off pelt damage. From my experience it seems like every fourth or fifth kill ends up perfect, so about a 20-25% chance of keeping the "perfect" quality of a small bird/animal. After completing story mode and free roaming in Epilogue, I highly recommend switching to the **Varmint Rifle** when hunting birds. Small animals like frogs and even flightless birds like Quail are quite easy to hit with a **Small Game Arrow**. But going after some Pigeons or Woodpeckers in-flight with a Bow and Small Game Arrows has always driven me mad because the arrows can only hit below a certain aim angle and are also limited by range. The Varmint Rifle's low chance of perfect carcasses is worth the range tradeoff if you know what you're looking for and where to find a lot of them.
 
+- Kill cleanliness is determined by two factors: skin quality and kill quality. Former is the randomly generated number of stars. Latter is the type of gun/ammo.
+- It is totally possible to loot pristine (3 star) items from a good (2 star) carcass after crafting the **Buck Antler Trinket**, which gives a chance for a good (2 star) carcass to be pristine (3 star). However, if a good (2 star) animal is killed with a gun/ammo that affects the quality outcome by even just one stage, the chance of a good (2 star) carcass yielding pristine (3 star) parts *after having been shot with an unfit weapon* becomes almost zero.
+
 Below is a chart showing the ideal weapon for all animals when shooting for perfect pelts. [Source.](https://redd.it/a3afo9)
 
 Class | Weapon(s) | Animal(s)
@@ -723,7 +733,7 @@ Massive Game | Improved Arrow<br>Poison Arrow<br>Poison Throwing Knife<br>Rifle<
 # FISHING TIPS
 
 - Contrary to compendium entries, weather doesn't seem to make a damn difference in spawn/bite rates.
-- Certain fish are more attracted to certain lures/baits, but quick-pressing RT will attract all fish to your lure/bait. Be that as mit may, some may not necessarily nibble/bite it. Flicking RT more than once while fish are near the bait/lure will scare them off.
+- Certain fish are more attracted to certain lures/baits, but quick-pressing RT will attract all fish to your lure/bait. Be that as it may, some may not necessarily nibble/bite it. Flicking RT more than once while fish are near the bait/lure will scare them off.
 - The regular **Swamp/River/Lake Lures** are consumable.
 - The **Special Swamp/River/Lake Lures** are a permanent inventory item and cannot be lost by any means, including line snaps.
 - **Cheese/Bread/Corn/Worm/Cricket/Crayfish** baits can be lost in two ways: either line snaps or an extensive number of bites.
@@ -1543,7 +1553,7 @@ For micro-stuttering (I had it about once every ten seconds):
 - Restart your computer. Yes, I know, stereotypical. But it generally works even for me.
 - Change your graphics API. If you're using Vulkan, change to DX12. If the contrary, do the opposite. See which works better. Some users Note Vulkan runs a bit faster but DX12 looks crisper/sharper.
 - Update/reinstall your graphics driver. Yeah, again, cliche... but the shit worked for me. Be sure to do a **CLEAN INSTALL** when reinstalling/updating the driver. It fixed the micro-stuttering I was encountering (about once every ten seconds). System info: ASUS G14 (2021) AMD Ryzen 9 5900HS @ 3301 MHz, 16384MB, NVIDIA RTX 3060 Laptop GPU, RDR2 Build 1436, NVIDIA Driver v471.96
-- Periodically delete everything in the Settings folder except for "system.xml" (to retain graphics settings). Some sources claim that deleting the `.bin` files isn't necessary, but I do it anyway and it works. Doing this can also fix crashing because of `ERR_GFX_STATE`. [[Reference.]](https://www.reddit.com/r/RDR2/comments/dxlreb/err_gfx_state/)
+- Periodically delete everything in the Settings folder except for "system.xml" (to retain graphics settings). Some sources claim that deleting the `.bin` files isn't necessary, but I do it anyway and it works. Doing this can also fix crashing because of `ERR_GFX_STATE`. [[Reference.]](https://redd.it/dxlreb)
 
 The last step can be semi-automated using [BleachBit](https://github.com/bleachbit/bleachbit). (I began using it when Avast decided to fuck up CCleaner.) All you have to do is `BleachBit > Preferences > Custom > Add Folder` and add your RDR2 `Settings` folder. Then, `BleachBit > Preferences > Whitelist` and add your `system.xml` file to prevent BleachBit from deleting it (retaining your GFX settings).
 
@@ -1772,7 +1782,7 @@ Voice lines from previous missions can be heard while traveling to previous camp
 
 ### Roanoke Forest Whispers
 
-[Explanation on Reddit.](https://www.reddit.com/r/reddeadmysteries/comments/9z42z3/roanoke_whispers_explained/)
+[Reference.](https://redd.it/9z42z3)
 
 Evidently, it's the voices of Ethel Boshared and Eugene Hutton, a couple who got lost in the forest. Some Theatres will show **The Ghostly Serenade**, which apparently tells the story of the couple.
 
@@ -1800,11 +1810,11 @@ Climbing to the bottom of the well at **Bear Claw, Tall Trees, WE** will change 
 
 ### Bolger Glade Whispers
 
-[Explanation on Reddit.](https://www.reddit.com/r/reddeadredemption/comments/ew1dx0/bolger_glade_sounds/)
+[Reference.](https://redd.it/ew1dx0)
 
 ### Lemoyne Ghost Train
 
-https://youtu.be/_fSlasTGGag
+[Reference.](https://youtu.be/_fSlasTGGag)
 
 ### UFO
 
@@ -2640,8 +2650,8 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 - [RDR2Mods](https://www.rdr2mods.com/) - focused around RDR2 modding. Wiki with databases, tutorials, and references (including hash IDs). [[Wiki]](https://www.rdr2mods.com/wiki/)
 - [RDOMap](https://jeanropke.github.io/RDOMap/) and its associated [contributors](https://github.com/jeanropke/RDOMap/blob/master/CONTRIBUTORS.md) for nearly all sit locations.
 - [Complete Map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) - Story mode map with all discoverable animal icons and location names.
-- [Original map, a fantastic 10MP hillshaded render](https://www.reddit.com/r/reddeadredemption/comments/gimo7v/10mp_rdr2_game_map_redux_enhanced_with_hillshaded/) by Reddit user [domriccobene](https://www.reddit.com/user/domriccobene/).
-- [Sit map](https://www.reddit.com/r/RedDeadOnline/comments/bzv17m/for_those_of_you_who_like_to_stay_classy_even/) by Reddit user [Impossible_Phase](https://www.reddit.com/user/Impossible_Phase/).
+- [Original map, a fantastic 10MP hillshaded render](https://redd.it/gimo7v) by Reddit user [domriccobene](https://www.reddit.com/user/domriccobene/).
+- [Sit map](https://redd.it/bzv17m) by Reddit user [Impossible_Phase](https://www.reddit.com/user/Impossible_Phase/).
 - [ViktorFekete](https://gtaforums.com/profile/1197324-viktorfekete/) for narrowing the search area for cougars around **Benedict Point, Gaptooth Ridge, NA**.
 - [Looser3241](https://gtaforums.com/profile/1225578-looser3241/) for the sit location at **Clemens Point, Scarlett Meadows, LE**. [Cutter de Blanc](https://gtaforums.com/profile/642145-cutter-de-blanc/) for testing the location.
 
