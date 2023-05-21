@@ -53,7 +53,7 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>[WEAPONS](#weapons)
 <br>&emsp;[Familiarity](#familiarity)
 <br>&emsp;[What is the best weapon?](#what-is-the-best-weapon)
-<br>&emsp;[How to unlock <weapon> early?](#how-to-unlock-weapon-early)
+<br>&emsp;[How to unlock weapons early?](#how-to-unlock-weapons-early)
 <br>[HUNTING TIPS](#hunting-tips)
 <br>&emsp;[Debunking the save/reload deal.](#debunking-the-savereload-deal)
 <br>&emsp;[Use a headset if possible.](#use-a-headset-if-possible)
