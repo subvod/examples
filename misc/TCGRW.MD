@@ -305,27 +305,27 @@ There are five (5) alert states which enemies of any faction can be in. The icon
   <tr>
     <td>Normal (None)</td>
     <td>N/A</td>
-    <td class="tdleft">Business as usual. Hostiles are unaware of any nearby threat and can be killed in one shot with essentially every weapon. Enemies walk their normal patrol routes and engage in recreational activities. (Such as soccer, smoking cigarettes or presumably some other illicit substance, using various tools, watching television, shooting into the air or at targets, and snorting cocaine. Lots and lots of cocaine.)</td>
+    <td class="tdleft"><b>Just makin' the rounds.</b><br><br>Hostiles are unaware of any nearby threat and can be killed in one shot with essentially every weapon. Enemies walk their normal patrol routes and engage in recreational activities. (Such as soccer, smoking cigarettes or presumably some other illicit substance, using various tools, watching television, shooting into the air or at targets, and snorting cocaine. Lots and lots of cocaine.)</td>
   </tr>
   <tr>
     <td>Suspected</td>
     <td class="tdleft">Distant sound (explosion or gunshot), nearby noise (projectile strike, objects moving, civilian NPCs running and screaming), lights go out overhead, or partial sighting of player/ally.</td>
-    <td class="tdleft">Mad sus. Enemies have either seen or heard something off key and may think the place is haunted. Suspicious enemies take a tiny bit more damage to kill, but are essentially still one-shot kills with most weapons. They move towards the area of suspicion. Upon nothing found, they move back to normal status and resume their previous activities.</td>
+    <td class="tdleft"><b>Mad sus.</b><br><br>Enemies have either seen or heard something off key and may think the place is haunted. Suspicious enemies take a tiny bit more damage to kill, but are essentially still one-shot kills with most weapons. They move towards the area of suspicion. Upon nothing found, they move back to normal status and resume their previous activities.</td>
   </tr>
   <tr>
     <td>Hunted (Stage 1)</td>
     <td class="tdleft">Explosion Alert, Shot Heard</td>
-    <td class="tdleft">Them eyes, boss. Enemies are aware of a nearby threat, but are unaware of its exact location. They move to the location of the sound and, upon nothing found, move back to normal status. Hostiles in this stage take multiple shots to kill from most weapons. This first stage of "Hunted" is only triggered by sound.</td>
+    <td class="tdleft"><b>Them eyes, boss.</b><br><br> Enemies are aware of a nearby threat, but are unaware of its exact location. They move to the location of the sound and, upon nothing found, move back to normal status. Hostiles in this stage take multiple shots to kill from most weapons. This first stage of "Hunted" is only triggered by sound.</td>
   </tr>
   <tr>
     <td>Hunted (Stage 2)</td>
     <td class="tdleft">Body Found, Kill Witnessed, Direct Threat (nearby strike from missed shot or thrown explosive)</td>
-    <td class="tdleft">Enemies are aware of a threat's presence and general area. They move into combat positions and rush the player. Hostiles take considerably more damage in this stage. If enemies (the players and AI teammates) are known to be out of range, reinforcement vehicles will be sent in. Only Santa Blanca sends in reinforcement vehicles. If the player is near a road, ground vehicles will be sent out. Otherwise, a helicopter will be sent. The only time Unidad will send in vehicles is if the player has alerted Unidad patrols anywhere from one to four purple chevrons. (Alerts are triggered when any nearby Unidad NPC is pushed into Hunted Stage 2.)</td>
+    <td class="tdleft"><b>Whose footprints are these?</b><br><br>Enemies are aware of a threat's presence and general area. They move into combat positions and rush the player. Hostiles take considerably more damage in this stage. If enemies (the players and AI teammates) are known to be out of range, reinforcement vehicles will be sent in. Only Santa Blanca sends in reinforcement vehicles. If the player is near a road, ground vehicles will be sent out. Otherwise, a helicopter will be sent. The only time Unidad will send in vehicles is if the player has alerted Unidad patrols anywhere from one to four purple chevrons. (Alerts are triggered when any nearby Unidad NPC is pushed into Hunted Stage 2.)</td>
   </tr>
   <tr>
     <td>Engaged</td>
     <td class="tdleft">Visual Detection</td>
-    <td class="tdleft">Enemies know the exact location of a threat and are directly engaging. Weapons free, open fire. This alert status is only pushed by visual detection, and can only be lost by either breaking visual contact or killing all alerted enemies in the area. Hostiles take slightly more damage than in "Hunted Stage 2". From "Engaged" status, after breaking visual contact with the enemy, you will move down into Hunted II. The enemies will move to your last known location, search the area, and upon nothing being found return to "Normal".</td>
+    <td class="tdleft"><b>C O N T A C T ! !</b><br><br>Enemies know the exact location of a threat and are directly engaging. Weapons free, open fire. This alert status is only pushed by visual detection, and can only be lost by either breaking visual contact or killing all alerted enemies in the area. Hostiles take slightly more damage than in "Hunted Stage 2". From "Engaged" status, after breaking visual contact with the enemy, you will move down into Hunted II. The enemies will move to your last known location, search the area, and upon nothing being found return to "Normal".</td>
   </tr>
 </table>
 
@@ -1846,17 +1846,100 @@ Guns will wear down over time. It's purely visual, performance is not affected b
 
 ### Scopes/Optics
 
-Technically speaking, it's more personal preference rather than testable statistics. Despite logic (being more accurate simply by using your preferred optic), optics directly affect accuracy and shot groupings (accordingly to what's shown on the stats page, which is one of the few accurate depictions of performance changes). This means that any assault rifle will have the closest shot groupings with the TA31H attached. Same goes for all weapons of all classes with all optics. The G33 magnifier widens shot groupings, so be aware of that. Speficially for me, I enjoy using the Panoramic Sight and CompM4 on everything I can. The CompM4 is the only optic (aside from the TA31H ACOG to some extent) that eliminates the lens glare that all other optics exhibit in certain lighting. That, and the CompM4 always has a zero'd red dot, unlike the Micro T1. In the same way, the Digital Scope, TA31H, Russian Red Dot, and Micro T-1 (with and without G33 magnifier) have offset zeros on all weapons. (I.e. they don't hit dead center on the dot. Usually a bit to the right most of the time, if not much farther down than center dot.) The CompM4, Panoramic Sight, EXPS3, and PK-AS are always properly zeroed on the center dot on every weapon. As for glare-prone optics, I use the Panoramic Sight because it's got the lowest parallax and least sight picture interference, as well as a larger and more defined reticle than the EXPS3. The G33 magnifier works decent on all compatible optics, but the Micro T1 dot becomes a red blob when magnified (making it harder to pinpoint exactly where I'm aiming especially past 150m). The Micro-T1 by itself isn't terrible for CQB, but if you can't deal with the tiny sight and tendency for glare you're likely better off with the CompM4. But, as stated earlier, it's purely preferential.
+Technically speaking, it's more personal preference rather than testable statistics. Despite logic (being more accurate simply by using your preferred optic), optics directly affect accuracy and shot groupings (accordingly to what's shown on the stats page, which is one of the few accurate depictions of performance changes). This means that any assault rifle will have the closest shot groupings with the **TA31H** attached. Same goes for all weapons of all classes with all optics.
 
-For sniper optics, same thing: personal preference. Technically, snipers and DMRs are less affected by accuracy as they're generally used in semi-auto or are bolt action. The T5Xi can be offset quite a bit on certain weapons, but provides the best accuracy and highest zoom. The POSP and TARS101 are widely reliable on all sniper rifles, though their offset zeros are worse on some. The G28 offers a 5.0x scope similar to the T5Xi with an alternate 1.0x red dot (Micro T-1) for quick change to CQB, but the reticle is zeroed on that red dot rather than the center crosshair on the high magnification scope below it, meaning it essentially zeroes the weapon out even farther. This is generally regarded as the most effective sniper scope. I personally recommend the G28 for sniping much in the same way many other people do, but also regularly use the TARS101 simply because of the look (and comparable zoom levels with minimal accuracy loss).
+- The **G33** magnifier widens shot groupings, so be aware of that. It works decent on all compatible optics, but the **Micro T1** dot becomes a red blob when magnified. (Makes it harder to pinpoint exactly where I'm aiming especially past 150m.)
+- The **Micro-T1** by itself isn't terrible for CQB, but if you can't deal with the tiny sight and tendency for glare you're likely better off with the **CompM4**.
+- The **CompM4** is the only optic (aside from the **TA31H** to some extent) that eliminates the lens glare that all other optics exhibit in certain lighting. Its dot is **always zero'd properly** across all guns (to my knowledge), unlike the **Micro T1**.
+- The **Digital Scope**, **TA31H**, **Russian Red Dot**, and **Micro T-1** (with and without **G33** magnifier) are **improperly zero'd** on all weapons. (I.e. they don't hit dead center on the dot. Usually a bit to the right most of the time, if not much farther down than center dot.)
+- The **CompM4**, **Panoramic Sight**, **EXPS3**, and **PK-AS** are **always properly zeroed** on the center dot on every weapon.
+- The **Panoramic Sight** has the lowest parallax and least sight picture interference, as well as a larger and more defined reticle than the **EXPS3**.
+
+For sniper optics, same thing: personal preference.
+
+- Technically, snipers and DMRs are less affected by accuracy as they're generally used in semi-auto or are bolt action.
+- The **T5Xi** can be offset quite a bit on certain weapons, but provides the best accuracy and highest zoom.
+- The **POSP** and **TARS101** are widely reliable on all sniper rifles, though their offset zeros are worse on a few.
+- The **G28** offers a 5.0x scope similar to the **T5Xi** with an alternate 1.0x red dot (Micro T-1) for quick change to CQB. The reticle is zero'd on the **Micro T-1** red dot rather than the center crosshair on the high magnification scope below it. It essentially zeroes the weapon out even farther, and this is generally regarded as the most utilitarian sniper scope. I personally recommend the **G28** for sniping much in the same way many other people do, but also regularly use the **TARS101** simply because of the little flappy lens caps. (And comparable zoom levels with minimal accuracy loss.)
 
 ### The Best Loadout
 
 Statistically speaking, the best loadout in vanilla Wildlands (the stock version of the game excluding DLCs and crate unlocks) for covering all ranges is: <b>M4A1</b>, <b>HTI</b>, and <b>Lady Killer</b>.
 
-- <b>M4A1</b> takes down any armored enemy in four shots while using full auto. It also has the second highest rate of fire among assault rifles (next to the G2 FAMAS). This means it has the lowest potential TTK among assault rifles. The burst trigger put against a Unidad or Santa Blanca heavy is where the M4A1 with a standard barrel falls behind. However that setback is not enough to significantly tank its ranking as it remains the best all-around weapon in general. By default, the AK-12 (chambered in 7.62x39mm) and G36C (chambered in 5.56x45mm, same as the M4A1) with the standard barrel and burst trigger will take down any enemy in a single burst of three (via burst trigger). Where as the M4A1 with the standard barrel and burst trigger will take <b>TWO</b> bursts of three. In reality it amounts to a four-shot kill. But the M4A1's two-burst kill potential is only applicable during engaging a heavy machine gunner. That, and when in full auto it still kills faster with four shots than every other assault rifle, including both the AK-12 and G36C. With the long barrel, the M4A1 gains the single burst kill potential the AK-12 and G36C inherently have with the standard barrel against a Unidad heavy. Additionally, the long barrel and 50-round magazine do affect handling, but the drop in ADS time and movement speed is noticable. Nonetheless, it still kills faster than every other assault rifle. Be that as it may, the M4A1, G36C, and AK-12 are among the same line on the performance spectrum and give you everything. You can go from nice and quiet to loud and proud without changing weapons and still remain just as effective. They are easy to control with soft and manageable recoil (even with the long barrel and no compensator). Not to mention they can be effective out to and beyond 200m even when used by literal noobs. However the M4A1 is the victor.
-- <b>HTI</b> because why not carry around a .50 BMG long rifle? While the <b>MSR</b> and other .338 rifles can also one-shot (with long barrel), the <b>HTI</b> does it better since it can one-shot vehicles as well as drone jammers.
-- <b>Lady Killer</b> has the highest damage of all suppressable pistols in vanilla.
+<table>
+	<thead>
+		<tr>
+			<th>
+				WEAPON
+			</th>
+			<td>
+				DETAILS
+			</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>
+				M4A1
+			</th>
+			<td>
+				<ul>
+					<li>
+						4sk heavy in full auto; two (2) bursts of three (3).
+					</li>
+					<li>
+						Second highest rate of fire among assault rifles. (Behind first place, being the **FAMAS G2**.)
+					</li>
+					<li>
+						Lowest potential TTK among assault rifles.
+					</li>
+					<li>
+						An **M4A1** with **burst trigger** against a **Unidad/Santa Blanca heavy** is where it falls behind. Not enough to significantly tank its ranking. It remains the best all-around weapon in general.
+					</li>
+					<li>
+						By default, the **AK-12** and **G36C** with the **standard barrel** and **burst trigger** will take down any enemy in a single burst of three (via burst trigger).
+					</li>
+					<li>
+						An **M4A1** with **long barrel** gains the single burst kill potential the **AK-12** and **G36C** inherently have with their **standard barrel**. The **long barrel** and **50-round magazine** do affect handling, and the drop in ADS time and movement speed is noticable.
+					</li>
+					<li>
+						You can go from nice and quiet to loud and proud without changing weapons and still remain just as effective.
+					</li>
+					<li>
+						Easy to control with soft and manageable recoil (even with the **long barrel** and **stock muzzle**).
+					</li>
+					<li>
+						Effective out to and beyond 200m even when used by literal noobs.
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th>
+				HTI
+			</th>
+			<td>
+				<ul>
+					<li>
+						Because why not carry around a .50 BMG long rifle? While the <b>MSR</b> and other .338 rifles can also one-shot (with long barrel), the <b>HTI</b> does it better since it can one-shot vehicles as well as drone jammers.
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th>
+				Lady Killer
+			</th>
+			<td>
+				<ul>
+					<li>
+						Highest damage of all suppressable pistols in vanilla Wildlands.
+					</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 DLC weapons which perform better than the aforementioned are: <b>416</b>, <b>BFG-50A</b>, and <b>Five-seveN Blacklist</b>.
 
@@ -1979,9 +2062,9 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
     <th scope="col">WEAPON</th>
     <th scope="col">CLASS</th>
     <th scope="col">AMMO</th>
-    <th scope="col">HARDTARGET</th>
-    <th scope="col">SOFTTARGET</th>
-    <th scope="col">SOFTTARGET(BURSTPOTENTIAL)</th>
+    <th scope="col">HARD TARGET</th>
+    <th scope="col">SOFT TARGET</th>
+    <th scope="col">SOFT TARGET<br>(BURST POTENTIAL)</th>
   </tr>
   <tr>
     <td>SR25 Jungle <sub><b>[DLC]</b></sub></td>
@@ -2216,10 +2299,9 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
     <td>1 (Long)<br>1 (Standard)</td>
   </tr>
   <tr>
-    <td>D-50</td>
+    <td>D-50<br>(136m)</td>
     <td>Pistol</td>
     <td>.50 AE</td>
-    <td>136m</td>
     <td>7</td>
     <td></td>
     <td></td>
@@ -3482,7 +3564,7 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
 
 This list is in descending order, with the highest hitting (least bullet drop) rifles at the top and lowest hitting (most bullet drop) rifles at the bottom. Each cell acts as its own drop rate, meaning all weapons within a row have either the exact same bullet drop or the difference between the weapons in the group was so minor that it could be attributed to breath movement/sway while aiming. All tests were conducted at <b>M.O.B. Condor, Media Luna</b> on the airstrip section at 300m. All rifles were set up with the <b>TARS101</b> scope, longest applicable barrel, and no suppressor. Shots were fired at the bottom of each breath sway.
 
-<b><u>DISCLAIMER:</u></b> YouTube creator [DarkDally](https://www.youtube.com/channel/UC3ujGmsso9_IyYRj7PUjHkg) and many others have noted the scope zeroing differences between scopes and rifles. In an effort to ensure the most accurate data is recorded, markers were not used to zero the shots. Instead, rifle after rifle, the shot was scoped in to the exact same place the previous shot was, otherwise known as not moving the thumbsticks. This prevents misalignment due to camera movement and ensures every shot is taken at the exact same location regardless of where the rifle is zeroed with any optic. The original idea for this came from noting how every weapon is dead zero on the in-game crosshair (in third person). The crosshair placement might be skewed while aiming down sights, but the gun will not shoot skewed from the game's crosshair.
+<b><u>DISCLAIMER:</u></b> YouTube creator [DarkDally](https://www.youtube.com/channel/UC3ujGmsso9_IyYRj7PUjHkg) and many others have noted the scope zeroing differences between scopes and rifles. You can [watch his testing on YouTube](https://youtu.be/t30kui923dQ?t=944). In an effort to ensure the most accurate data is recorded, markers were not used to zero the shots. Instead, rifle after rifle, the shot was scoped in to the exact same place the previous shot was, otherwise known as not moving the thumbsticks. This prevents misalignment due to camera movement and ensures every shot is taken at the exact same location regardless of where the rifle is zeroed with any optic. The original idea for this came from noting how every weapon is dead zero on the in-game crosshair (in third person). The crosshair placement might be skewed while aiming down sights, but the gun will not shoot skewed from the game's crosshair.
 
 <table>
   <tr>
