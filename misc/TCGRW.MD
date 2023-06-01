@@ -1888,25 +1888,25 @@ Statistically speaking, the best loadout in vanilla Wildlands (the stock version
 						4sk heavy in full auto; two (2) bursts of three (3).
 					</li>
 					<li>
-						Second highest rate of fire among assault rifles. (Behind first place, being the **FAMAS G2**.)
+						Second highest rate of fire among assault rifles. (Behind first place, being the <b>FAMAS G2</b>.)
 					</li>
 					<li>
 						Lowest potential TTK among assault rifles.
 					</li>
 					<li>
-						An **M4A1** with **burst trigger** against a **Unidad/Santa Blanca heavy** is where it falls behind. Not enough to significantly tank its ranking. It remains the best all-around weapon in general.
+						An <b>M4A1</b> with <b>burst trigger</b> against a <b>Unidad/Santa Blanca heavy</b> is where it falls behind. Not enough to significantly tank its ranking. It remains the best all-around weapon in general.
 					</li>
 					<li>
-						By default, the **AK-12** and **G36C** with the **standard barrel** and **burst trigger** will take down any enemy in a single burst of three (via burst trigger).
+						By default, the <b>AK-12</b> and <b>G36C</b> with the <b>standard barrel</b> and <b>burst trigger</b> will take down any enemy in a single burst of three (via burst trigger).
 					</li>
 					<li>
-						An **M4A1** with **long barrel** gains the single burst kill potential the **AK-12** and **G36C** inherently have with their **standard barrel**. The **long barrel** and **50-round magazine** do affect handling, and the drop in ADS time and movement speed is noticable.
+						An <b>M4A1</b> with <b>long barrel</b> gains the single burst kill potential the <b>AK-12</b> and <b>G36C</b> inherently have with their <b>standard barrel</b>. The <b>long barrel</b> and <b>50-round magazine</b> do affect handling, and the drop in ADS time and movement speed is noticeable.
 					</li>
 					<li>
 						You can go from nice and quiet to loud and proud without changing weapons and still remain just as effective.
 					</li>
 					<li>
-						Easy to control with soft and manageable recoil (even with the **long barrel** and **stock muzzle**).
+						Easy to control with soft and manageable recoil (even with the <b>long barrel</b> and <b>stock muzzle</b>).
 					</li>
 					<li>
 						Effective out to and beyond 200m even when used by literal noobs.
