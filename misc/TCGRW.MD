@@ -19,6 +19,7 @@
 <br>&emsp;[Tier Mode](#tier-mode)
 <br>&emsp;[Ghost Mode](#ghost-mode)
 <br>&emsp;[Guerilla Mode](#guerilla-mode)
+<br>&emsp;[Fallen Ghosts DLC](#fallen-ghosts-dlc)
 <br>[VEHICLE STATS](#vehicle-stats)
 <br>&emsp;[Vehicle Armor](#vehicle-armor)
 <br>&emsp;[RP Vehicles](#rp-vehicles)
@@ -292,7 +293,7 @@ For convoy takedowns, the <b>EMP Drone</b> is hit or miss from my experience, es
 
 # ENEMY AI
 
-[[Reference.]](https://youtu.be/SCh0uD8FZ18)
+[Reference.](https://youtu.be/SCh0uD8FZ18)
 
 There are five (5) alert states which enemies of any faction can be in. The icon above enemies which have no alert status will not blink. At "Suspected" and "Hunted", the icon will begin to blink slowly. At "Engaged" status, the icon blinks rapidly. The "Hunted" stage is broken into two separate stages despite what's shown above the minimap, but the rate of icon blinking is the same between the two.
 
@@ -585,7 +586,7 @@ There are five (5) alert states which enemies of any faction can be in. The icon
     <td>Extranjeros Jammer <sub><b>[FG]</b></sub></td>
     <td>MDR (Suppressed)</td>
     <td>18</td>
-    <td></td>
+    <td>If your radar goes to static and you're jammed out, there's at least one less than `84m` away.</td>
     <td>
 			<ul>
 				<li></li>
@@ -899,6 +900,13 @@ Guerilla Mode can be used in conjunction with Tier Mode. Multipliers carry over 
     <td>441600</td>
   </tr>
 </table>
+
+### Fallen Ghosts DLC
+
+- **Rebel Support** missions have been changed around a little.
+- Unique **skills** and **drone types** only available on the DLC. **Fast Reload** is definitely a big buff.
+- **Extranjeros** have atypical NPC variants. See [NPC Stats](#npc-stats) for more info.
+- Engaging any **Extranjeros** NPC gives a Unidad Patrol alert.
 
 # VEHICLE STATS
 
@@ -2067,31 +2075,31 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
     <th scope="col">SOFT TARGET<br>(BURST POTENTIAL)</th>
   </tr>
   <tr>
-    <td>SR25 Jungle <sub><b>[DLC]</b></sub></td>
-    <td>Sniper<br>Rifle</td>
+    <td><b>SR25 Jungle <sub>[DLC]</sub></b></td>
+    <td colspan="16">Sniper<br>Rifle</td>
     <td>7.62x51mm</td>
     <td>2</td>
     <td>1</td>
     <td>1</td>
   </tr>
   <tr>
-    <td>Desert Tech HTI BDC</td>
-    <td>Sniper<br>Rifle</td>
+    <td><b>Desert Tech HTI BDC</b></td>
+    <td></td>
     <td>.50 BMG</td>
     <td>2</td>
     <td>1</td>
     <td>1</td>
   </tr>
   <tr>
-    <td>Musket <sub><b>[DLC]</b></sub></td>
-    <td>Sniper<br>Rifle</td>
+    <td><b>Musket <sub>[DLC]</sub></b></td>
+    <td></td>
     <td>Lead Ball</td>
     <td>2</td>
     <td>1</td>
     <td>1</td>
   </tr>
   <tr>
-    <td>Z93 AMR <sub><b>[DLC]</b></sub></td>
+    <td><b>Z93 AMR <sub>[DLC]</sub></b></td>
     <td>Sniper<br>Rifle</td>
     <td>.50 BMG</td>
     <td>2 (Long)<br>2 (Standard)</td>
@@ -2099,7 +2107,7 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
     <td>1 (Long)<br>1 (Standard)</td>
   </tr>
   <tr>
-    <td>HTI</td>
+    <td><b>HTI</b></td>
     <td>Sniper<br>Rifle</td>
     <td>.50 BMG</td>
     <td>2 (Long)<br>3 (Standard)</td>
@@ -2779,7 +2787,7 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
     <td>3 (Long)<br>3 (Standard)<br>3 (Short)</td>
   </tr>
   <tr>
-    <td>Skorpion<br>Skorpion Skull <sub><b>[DLC]</b></sub><br>(> 300m)</td>
+    <td>Skorpion<br>Skorpion Skull <sub><b>[DLC]</b></sub><br>(&gt; 300m)</td>
     <td>Machine<br>Pistol</td>
     <td>9x19mm<br><i>(Uses .32 ACP Magazine)</i></td>
     <td>37</td>
@@ -3267,7 +3275,7 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
     <td>4</td>
   </tr>
   <tr>
-    <td>SMG-11<br>(> 300m)</td>
+    <td>SMG-11<br>(&gt; 300m)</td>
     <td>Machine<br>Pistol</td>
     <td>9x19mm<br><i>or</i>.45 ACP</td>
     <td>53</td>
@@ -3275,7 +3283,7 @@ Below are test results for maximum shotgun ranges with all available barrels. Di
     <td></td>
   </tr>
   <tr>
-    <td>SMG 11 Dragon <sub><b>[DLC]</b></sub><br>(> 300m)</td>
+    <td>SMG 11 Dragon <sub><b>[DLC]</b></sub><br>(&gt; 300m)</td>
     <td>Machine<br>Pistol</td>
     <td>9x19mm<br><i>or</i>.45 ACP</td>
     <td>53</td>
@@ -3637,6 +3645,8 @@ If you run the route effectively, you can get the gold exo suit rather quickly. 
 
 ### How does the Optical Camo backpack work?
 
+[Reference.](https://redd.it/14061rd)
+
 A common misconception of the Optical Camo backpack (from completing both parts of `Operation Silent Spade`) is that it reduces the distance at which you're detected. What it actually does is reduce the speed at which you're detected rather than the distance.
 
 ### Optical Camo backpack makes me just a floating balaclava.
@@ -3694,7 +3704,7 @@ The items below do not give special vision modes:
 
 ### Keep NVG Flipped Down
 
-[[Reference.]](https://youtu.be/8LN5ns7EPgo)
+[Reference.](https://youtu.be/8LN5ns7EPgo)
 
 <ol>
   <li>Equip any cosmetic item with goggles.</li>
@@ -3741,7 +3751,7 @@ One gun I've seen zero clipping issues with is the <b>Mk 16</b>.
 
 ### El Tio
 
-[[Reference.]](https://youtu.be/Tw8jjQp8IHU)
+[Reference.](https://youtu.be/Tw8jjQp8IHU)
 
 <table>
   <tr>
@@ -3787,8 +3797,8 @@ One gun I've seen zero clipping issues with is the <b>Mk 16</b>.
 
 ### El Yeti
 
-[[Reference.]](https://youtu.be/QjHD9KYC5LI)
-[[Reference.]](https://youtu.be/Vci5joQPkeY)
+[Reference.](https://youtu.be/QjHD9KYC5LI)
+[Reference.](https://youtu.be/Vci5joQPkeY)
 
 <table>
   <tr>
@@ -3811,7 +3821,7 @@ This can be activated over and over, just leave the area and return to the rock 
 
 ### Pachamama Statues
 
-[[Reference.]](https://youtu.be/_7iiRtZUQT8)
+[Reference.](https://youtu.be/_7iiRtZUQT8)
 
 <table>
   <tr>
@@ -3828,13 +3838,13 @@ Collecting all 8 spawns a shrine.
 
 ### Day of the Skulls
 
-[[Reference.]](https://youtu.be/zGA2LXyL20A)
+[Reference.](https://youtu.be/zGA2LXyL20A)
 
 Old event.
 
 ### Exploding Owl
 
-[[Reference.]](https://youtu.be/XPl6AK_cCqA)
+[Reference.](https://youtu.be/XPl6AK_cCqA)
 
 <table>
   <tr>
@@ -3851,13 +3861,13 @@ There's a random owl on a dead tree on the edge of the map. The stump has target
 
 ### Child Hut
 
-[[Reference.]](https://youtu.be/f-wng9ze5ZU)
+[Reference.](https://youtu.be/f-wng9ze5ZU)
 
 Evidently attached to in-game lore.
 
 ### Tres Brujas
 
-[[Reference.]](https://youtu.be/iGD0XD19eLs)
+[Reference.](https://youtu.be/iGD0XD19eLs)
 
 <table>
   <tr>
