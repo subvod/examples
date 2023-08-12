@@ -4,7 +4,7 @@
 
 This document is the location data from **rdr2-maps** combined with all of my other findings throughout 8,000 hours of RDR2 across two platforms. It's included in the project on **NexusMods**, and I keep it up to date both here on GitHub and over there. To jump to the **rdr2-maps** section, click below:
 
-[[Jump to rdr2-maps.]](#maps)
+[Jump to rdr2-maps.](#maps)
 
 <br>
 <br>
@@ -2006,23 +2006,23 @@ Span | Effect
 
 Animal(s) | Location(s) | Description
 :--- | --- | ---
-Cougar<br>Deer | - Little Creek River, Big Valley, WE (south of 'E' in "Little Creek Riv**e**r", 11:23, 20:56) | Cougar stalks and attacks Deer.
-Cougar<br>NPC Corpse | - Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br>- Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
-Western Bull Moose | - Lake Isabella, Grizzlies West, AM<br>- Barrow Lagoon, Grizzlies West, AM<br>- Cairn Lake, Grizzlies West, AM (16:08) | Slipping on ice while attempting to stand upright.
-Western Bull Moose<br>Gray Wolf | - Lake Isabella, Grizzlies West, AM (northwest side of lake, swims to western shore)<br>- Calumet Ravine, Grizzlies East, AM (just north of the bridge to **Wapiti**, swims to west shore)<br>- Owanjila, Big Valley, WE (towards north side of lake, swims to west shore, 18:55)<br>- Owanjila, Big Valley, WE (closer to bridge at **Owanjila Dam**, swims to east shore with a single **Burdock Root**, 08:28) | Moose swimming, sometimes being chased by a lone wolf.
-Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | - Old Greenbank Mill, Heartlands, NH (west side of path west of the mill)<br>- Emerald Ranch, Heartlands, NH (owl catches rat on NE side of ranch)<br>- Elysian Pool, Roanoke Ridge, NH<br>- Calumet Ravine, Grizzlies East, AM<br>- Little Creek River, Big Valley, WE (hawk catches squirrel, northeast of **Valley View**)<br>- Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow)<br>- Blackwater, Great Plains, WE (owl catches rat, east side of easternmost path heading southbound out of **Blackwater**) | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
-Whitetail Buck | - Heartlands, NH (SW of the 'H' in "THE **H**EARTLANDS")<br>- Strawberry, Big Valley, WE (SE of the **Strawberry Stable**) | Two Bucks, one dead and the other alive, with interlocked horns.
-Whitetail Buck | - Heartlands, NH (SW of second 'H' in "THE **H**EARTLANDS")<br>- Cumberland Falls, Heartlands, NH (east side of river, east of path southbound from **Cumberland Falls**, 12:50)<br>- Roanoke Ridge, NH (northern edge of the train tracks just inside the county border, southwest of the **Trapper**) | Two Bucks pushing each other around.
-Bighorn Ram | - Cumberland Forest, NH (north of 'D' in "CUMBERLAN**D** FOREST")<br>- Deadboot Creek, Grizzlies West, AM (southeast of 'k' in "Deadboot Cree**k**".<br>- Little Creek River, Big Valley, WE (northwest side of junction NW of 'R' in "Little Creek **R**iver"<br>- Black Bone Forest, Big Valley, WE (just SE of the **Trapper**)<br>- Black Bone Forest, Big Valley, WE (southeast corner of the path junction just southeast of the Geddes' house at **Pronghorn Ranch**)<br>- Pronghorn Ranch, Big Valley, WE (first junction on eastbound dashed path heading away from the ranch.<br>- Cholla Springs, NA (dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS") | Two Rams headbutt each other.
-American Bison | - Heartland Overflow, Heartlands, NH (SW of 'H' in "**H**eartland Overflow"<br>- Great Plains, WE (southeast of 'T' and west of 'P' in "GREA**T P**LAINS")<br>- Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each nother.
-Grizzly Bear<br>Gray Wolf | - Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br>- Cattail Pond, Grizzlies West, AM (east of the pond; 13:35)<br>- Little Creek River, Big Valley, WE (on 'R' in "Little Creek **R**iver") | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. 10:00
-Grizzly Bear | - Cattail Pond, Grizzlies West, AM (cliffside overlooking **Dakota River**, south of the pond) | Just chilling.
-Grizzly Bear | - Watson's Cabin, Big Valley, WE (east of the cabin)<br>- Fairvale Shanty, Grizzlies East, AM (a few feet south of the cabin)<br>- Bear Claw, Tall Trees, WE (south of the cabins) | Scratching itself on a tree trunk.
-Grizzly Bear<br>Sockeye Salmon | - O'Creagh's Run, Grizzlies East, AM (northern shore)<br>- Little Creek River, Big Valley, WE (east stretch of creek before stream goes downhill; 14:14)<br>- Little Creek River, Big Valley, WE (south of **Watson's Cabin**, 17:34)<br>- Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br>- Aurora Basin, Tall Trees, WE (southeast shore) | Grizzly catches and eats Salmon.
-Fox | - Barrow Lagoon, Grizzlies West, AM (south of lagoon)<br>- Spider Gorge, Grizzlies West, AM (south of 'S' in "**S**pider Gorge") | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
-Gray Wolf | - Elysian Pool, Roanoke Ridge, NH (southeast of)<br>- Lake Isabella, Grizzlies West, AM (northwest path)<br>- Cairn Lake, Grizzlies West, AM (south side of the path leading westbound away from the lake)<br>- Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
-Gray Wolf | - Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of)<br>- Lake Isabella, Grizzlies West, AM (atop the cliff overlooking the waterfall on the northwest side of lake) | Mourning over dead wolf.
-American Fox Hound<br>Bluetick Coonhound | - Painted Sky, Big Valley, WE (east side of path next to junction directly west of woodpecker icon) | Two domestic dogs play-fighting.
+Cougar<br>Deer | &bull; Little Creek River, Big Valley, WE (south of 'E' in "Little Creek Riv**e**r", 11:23, 20:56) | Cougar stalks and attacks Deer.
+Cougar<br>NPC Corpse | &bull; Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br><br>&bull; Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
+Western Bull Moose | &bull; Lake Isabella, Grizzlies West, AM<br><br>&bull; Barrow Lagoon, Grizzlies West, AM<br><br>&bull; Cairn Lake, Grizzlies West, AM (16:08) | Slipping on ice while attempting to stand upright.
+Western Bull Moose<br>Gray Wolf | &bull; Lake Isabella, Grizzlies West, AM (northwest side of lake, swims to western shore)<br><br>&bull; Calumet Ravine, Grizzlies East, AM (just north of the bridge to **Wapiti**, swims to west shore)<br><br>&bull; Owanjila, Big Valley, WE (towards north side of lake, swims to west shore, 18:55)<br><br>&bull; Owanjila, Big Valley, WE (closer to bridge at **Owanjila Dam**, swims to east shore with a single **Burdock Root**, 08:28) | Moose swimming, sometimes being chased by a lone wolf.
+Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | &bull; Old Greenbank Mill, Heartlands, NH (west side of path west of the mill)<br><br>&bull; Emerald Ranch, Heartlands, NH (owl catches rat on NE side of ranch)<br><br>&bull; Elysian Pool, Roanoke Ridge, NH<br><br>&bull; Calumet Ravine, Grizzlies East, AM<br><br>&bull; Little Creek River, Big Valley, WE (hawk catches squirrel, northeast of **Valley View**)<br><br>&bull; Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow)<br><br>&bull; Blackwater, Great Plains, WE (owl catches rat, east side of easternmost path heading southbound out of **Blackwater**) | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
+Whitetail Buck | &bull; Heartlands, NH (SW of the 'H' in "THE **H**EARTLANDS")<br><br>&bull; Strawberry, Big Valley, WE (SE of the **Strawberry Stable**) | Two Bucks, one dead and the other alive, with interlocked horns.
+Whitetail Buck | &bull; Heartlands, NH (SW of second 'H' in "THE **H**EARTLANDS")<br><br>&bull; Cumberland Falls, Heartlands, NH (east side of river, east of path southbound from **Cumberland Falls**, 12:50)<br><br>&bull; Roanoke Ridge, NH (northern edge of the train tracks just inside the county border, southwest of the **Trapper**) | Two Bucks pushing each other around.
+Bighorn Ram | &bull; Cumberland Forest, NH (north of 'D' in "CUMBERLAN**D** FOREST")<br><br>&bull; Deadboot Creek, Grizzlies West, AM (southeast of 'k' in "Deadboot Cree**k**".<br><br>&bull; Little Creek River, Big Valley, WE (northwest side of junction NW of 'R' in "Little Creek **R**iver"<br><br>&bull; Black Bone Forest, Big Valley, WE (just SE of the **Trapper**)<br><br>&bull; Black Bone Forest, Big Valley, WE (southeast corner of the path junction just southeast of the Geddes' house at **Pronghorn Ranch**)<br><br>&bull; Pronghorn Ranch, Big Valley, WE (first junction on eastbound dashed path heading away from the ranch.<br><br>&bull; Cholla Springs, NA (dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS") | Two Rams headbutt each other.
+American Bison | &bull; Heartland Overflow, Heartlands, NH (SW of 'H' in "**H**eartland Overflow"<br><br>&bull; Great Plains, WE (southeast of 'T' and west of 'P' in "GREA**T P**LAINS")<br><br>&bull; Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each nother.
+Grizzly Bear<br>Gray Wolf | &bull; Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br><br>&bull; Cattail Pond, Grizzlies West, AM (east of the pond; 13:35)<br><br>&bull; Little Creek River, Big Valley, WE (on 'R' in "Little Creek **R**iver") | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. 10:00
+Grizzly Bear | &bull; Cattail Pond, Grizzlies West, AM (cliffside overlooking **Dakota River**, south of the pond) | Just chilling.
+Grizzly Bear | &bull; Watson's Cabin, Big Valley, WE (east of the cabin)<br><br>&bull; Fairvale Shanty, Grizzlies East, AM (a few feet south of the cabin)<br><br>&bull; Bear Claw, Tall Trees, WE (south of the cabins) | Scratching itself on a tree trunk.
+Grizzly Bear<br>Sockeye Salmon | &bull; O'Creagh's Run, Grizzlies East, AM (northern shore)<br><br>&bull; Little Creek River, Big Valley, WE (east stretch of creek before stream goes downhill; 14:14)<br><br>&bull; Little Creek River, Big Valley, WE (south of **Watson's Cabin**, 17:34)<br><br>&bull; Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br><br>&bull; Aurora Basin, Tall Trees, WE (southeast shore) | Grizzly catches and eats Salmon.
+Fox | &bull; Barrow Lagoon, Grizzlies West, AM (south of lagoon)<br><br>&bull; Spider Gorge, Grizzlies West, AM (south of 'S' in "**S**pider Gorge") | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
+Gray Wolf | &bull; Elysian Pool, Roanoke Ridge, NH (southeast of)<br><br>&bull; Lake Isabella, Grizzlies West, AM (northwest path)<br><br>&bull; Cairn Lake, Grizzlies West, AM (south side of the path leading westbound away from the lake)<br><br>&bull; Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
+Gray Wolf | &bull; Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of)<br><br>&bull; Lake Isabella, Grizzlies West, AM (atop the cliff overlooking the waterfall on the northwest side of lake) | Mourning over dead wolf.
+American Fox Hound<br>Bluetick Coonhound | &bull; Painted Sky, Big Valley, WE (east side of path next to junction directly west of woodpecker icon) | Two domestic dogs play-fighting.
 
 ## Rival Gangs
 
@@ -2295,6 +2295,12 @@ Pleasance House, Cholla Springs, NA | in the hills west of **Pleasance House**; 
 
 *Primarily diurnal. Flies solo. Seems to be quite widespread, but flying spawns appear to be more common in **Great Plains, WE**.*
 
+https://redd.it/146nl7o
+
+> There’s also another 99% guaranteed robin spawn in the woods just east of Hanging Dog Ranch.
+
+> I prefer the bridge at Trail Trees.
+
 Location | Details
 :--- | ---
 Heartland Oil Fields, Heartlands, NH | flying overhead southeast of **Cornwall Kerosene & Tar**
@@ -2560,7 +2566,6 @@ Blackwater, Great Plains, WE | at campfires in bank construction zone
 
 Location | Type | Details
 :--- | --- | ---
-Valentine, Heartlands, NH | beer | in camp west of town
 Hill Haven Ranch, Scarlett Meadows, LE | whiskey | inside ranch house
 Rhodes, Scarlett Meadows, LE | whiskey | next to campfire in **Trelawny's Caravan**
 Rhodes, Scarlett Meadows, LE | beer | center of houses west of **Fence**
@@ -2571,6 +2576,8 @@ Van Horn, Roanoke Ridge, NH | beer | atop house boat on southeast side of town
 Van Horn, Roanoke Ridge, NH | beer | directly west of **Five Finger Fillet**
 Butcher Creek, Roanoke Ridge, NH | whiskey | atop a table next to a stew over a campfire
 Butcher Creek, Roanoke Ridge, NH | whiskey | atop a table next to the house just north of the butcher's canopy
+Cornwall Kerosene &amp; Tar, Heartlands, NH | beer | atop a table next to a shack on the south side of the site
+Valentine, Heartlands, NH | beer | in camp west of town
 Downes Ranch, Heartlands, NH | beer | inside ranch house
 Castor's Ridge, Heartlands, NH | beer | inside house
 Lagras, Bayou Nwa, LE | beer<br>random<br>whiskey | two beer, two whiskey, one random, all among the houses
@@ -2624,16 +2631,17 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 - [Lenny's Mod Loader (LML)](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) - Stream modded content directly into game. Required by all mods that stream files.
 - [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer.
 - [Stash That Lantern](https://www.nexusmods.com/reddeadredemption2/mods/333) - Store lantern on satchels, both your own and on your horse.
-- [ImprovedLoot](https://www.nexusmods.com/reddeadredemption2/mods/1596) - Improves NPC, animal, and herb loot pool. Also improves clean kills on many weapons.
-- [Realistic Weapon Rebalance](https://www.nexusmods.com/reddeadredemption2/mods/1156) - Rebalances all guns in story mode.
+- [Improved Wildlife](https://www.nexusmods.com/reddeadredemption2/mods/1527) - Increases spawn rates.
+- [ImprovedLoot](https://www.nexusmods.com/reddeadredemption2/mods/1596) - Improves NPC, animal, and herb loot pool.
 - [Non-Sticky Hats](https://www.nexusmods.com/reddeadredemption2/mods/263) - Changes physics to make hats more likely to fall off.
 - [Main Menu and Legal Skip](https://www.nexusmods.com/reddeadredemption2/mods/1469) - Boot right into story mode.
 - [SnappyUI](https://www.nexusmods.com/reddeadredemption2/mods/971) - Disable the "smooth transition" in the pause menu.
 - [Better Horses](https://www.nexusmods.com/reddeadredemption2/mods/842) - Improves horse stats of those which basically only the player can own.
-- [Multiclass Horses](https://www.nexusmods.com/reddeadredemption2/mods/1226) - Cross-species horse coats. Avaiable for all breeds.
-- [Remove Horse Speed Limit](https://www.nexusmods.com/reddeadredemption2/mods/975) - Removes horse speed limit in towns and on train tracks.
-- [Clothing and Accessory Textures](https://www.nexusmods.com/reddeadredemption2/mods/570) - Various modded textures for player clothing.
-- [Proper Horse Sprint on Controller](https://www.nexusmods.com/reddeadredemption2/mods/1347) - Locks current horse speed while holding A.
+- [Multiclass Horses](https://www.nexusmods.com/reddeadredemption2/mods/1226) - Cross-species horse coats. Available for all breeds.
+- [Unlimited Horse Whistling Distance](https://www.nexusmods.com/reddeadredemption2/mods/306) - F--- realism! When I whistle, that horse better come!
+- [Legend of the East Equipment Restored](https://www.nexusmods.com/reddeadredemption2/mods/1462) - Complete set of LotE gear.
+- [Easier Hunting](https://www.nexusmods.com/reddeadredemption2/mods/841) - Makes more pristine animals spawn.
+- [Dynamic Seasons](https://www.nexusmods.com/reddeadredemption2/mods/1557) - Makes the game world a bit more robust.
 
 ### Programs Used
 
