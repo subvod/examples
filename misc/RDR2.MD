@@ -190,20 +190,21 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;&emsp;[Timber Wolf](#timber-wolf)
 <br>&emsp;&emsp;[Cougar](#cougar)
 <br>&emsp;&emsp;[Grizzly Bear](#grizzly-bear)
-<br>&emsp;&emsp;[Gray Wolf](#gray-wolf)
 <br>&emsp;[Birds and Small Game Animals](#birds-and-small-game-animals)
 <br>&emsp;&emsp;[Scoreless Spawns](#scoreless-spawns)
 <br>&emsp;&emsp;[Little Brown Bat](#little-brown-bat)
 <br>&emsp;&emsp;[Blue Jay](#blue-jay)
-<br>&emsp;&emsp;[Cardinal](#cardinal)
-<br>&emsp;&emsp;[Condor](#condor)
+<br>&emsp;&emsp;[American Bullfrog](#american-bullfrog)
+<br>&emsp;&emsp;[Northern Cardinal](#northern-cardinal)
+<br>&emsp;&emsp;[Western Chipmunk](#western-chipmunk)
+<br>&emsp;&emsp;[California Condor](#california-condor)
 <br>&emsp;&emsp;[Cormorant](#cormorant)
 <br>&emsp;&emsp;[Crane](#crane)
-<br>&emsp;&emsp;[Crow](#crow)
+<br>&emsp;&emsp;[American Crow](#american-crow)
 <br>&emsp;&emsp;[Duck](#duck)
 <br>&emsp;&emsp;[Eagle](#eagle)
 <br>&emsp;&emsp;[Egret](#egret)
-<br>&emsp;&emsp;[Goose](#goose)
+<br>&emsp;&emsp;[Canada Goose](#canada-goose)
 <br>&emsp;&emsp;[Hawk](#hawk)
 <br>&emsp;&emsp;[Heron](#heron)
 <br>&emsp;&emsp;[Loon](#loon)
@@ -213,12 +214,15 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;&emsp;[Pigeon](#pigeon)
 <br>&emsp;&emsp;[California Quail](#california-quail)
 <br>&emsp;&emsp;[Rat](#rat)
-<br>&emsp;&emsp;[Raven](#raven)
+<br>&emsp;&emsp;[Western Raven](#western-raven)
 <br>&emsp;&emsp;[American Robin](#american-robin)
 <br>&emsp;&emsp;[Seagull](#seagull)
+<br>&emsp;&emsp;[Snake](#snake)
 <br>&emsp;&emsp;[Songbird](#songbird)
 <br>&emsp;&emsp;[Sparrow](#sparrow)
-<br>&emsp;&emsp;[Spoonbill](#spoonbill)
+<br>&emsp;&emsp;[Roseate Spoonbill](#roseate-spoonbill)
+<br>&emsp;&emsp;[Squirrel](#squirrel)
+<br>&emsp;&emsp;[Toad](#toad)
 <br>&emsp;&emsp;[Turkey](#turkey)
 <br>&emsp;&emsp;[Vulture](#vulture)
 <br>&emsp;&emsp;[Cedar Waxwing](#cedar-waxwing)
@@ -1226,7 +1230,7 @@ Found in a shack west of **Stilt Shack, Big Valley, WE**. The site can be inspec
 
 ### Sun Worshipper
 
-[Reference.](https://youtu.be/97ruEliFXt0)
+[[Reference.]](https://youtu.be/97ruEliFXt0)
 
 Bob Brownlee is a Sun worshipper who can be found at 12 different locations around New Austin. He spawns only when it is sunny weather after 12:00. He can be encountered again three in-game days after the previous encounter.
 
@@ -1312,7 +1316,7 @@ Once you've studied 30 animals, a flock of Pheasants will spawn on the southwest
 - **Charity Handbill**: on the table of **Thomas Downes’** charity in **Valentine**; he shows up once before `Americans At Rest`, and once again after that mission; his table is outside of the newly built house adjacent the **Valentine Stable**.
 - **Dutch’s Speech Notes**: picked up in **Horseshoe Overlook** camp; can be missed if you don’t pick it up before you move to the next camp
 - **Native American Ring**: see [Ex Soldier](#ex-soldier).
-- **John’s Cattleman Revolver**: You can actually get these as **Arthur** in Ch. 2 missions `Paying a Social Call`, `The Sheep and the Goats`, `Pouring Forth Oil` [Reference.](https://reddead.fandom.com/wiki/John%27s_Cattleman_Revolver#Acquisition)
+- **John’s Cattleman Revolver**: You can actually get these as **Arthur** in Ch. 2 missions `Paying a Social Call`, `The Sheep and the Goats`, `Pouring Forth Oil` [[Reference.]](https://reddead.fandom.com/wiki/John%27s_Cattleman_Revolver#Acquisition)
 - **Rare Shotgun**: used by **Hermit Man** at **Manito Glade**
 - **Jimmy's Pen**: during `Polite Society, Valentine Style` only if you spare him; makes some (not all) journal entries more neatly written and darker; does not affect sketches)
 - **Jack's Drawing**: reward for Jack's item request (Thimble); request available only in Chapter 2; unlocks shortly after `A Fisher of Men`
@@ -1731,7 +1735,7 @@ You'll need enough alcohol to blackout to do this, and it works anywhere applica
 
 ### Glitching through locked interiors.
 
-It's possible to glitch into locked interiors like **Taxodermist House**. This doesn't work on all surfaces, though.
+It's possible to glitch into locked interiors like **Taxidermist House**. This doesn't work on all surfaces, though.
 
 1. In third person view, equip the lantern and a pistol/revolver.
 2. Walk up to a wall or door and aim straight down dead center with whatever you're trying to glitch through. Angles are important for this, so it usually takes some finesse.
@@ -1779,7 +1783,7 @@ Much information here was sourced from the [Red Dead Fandom](https://reddead.fan
 
 ### SL Caskets
 
-[Reference.](https://redd.it/13flp4a)
+[[Reference.]](https://redd.it/13flp4a)
 
 ```
 These represent Sean Letts, Rockstar's animation director. He was responsible for face animation & cinematic animation in the game and got his own little easter egg. You can't pick up the small caskets directly, but depending on how you shoot the floorboard away, a box sometimes flies out with it (see picture No.2) and can then be recorded. These are silver earrings and sometimes a silver ring with an emblem.
@@ -1805,7 +1809,7 @@ Voice lines from previous missions can be heard while traveling to previous camp
 
 ### Roanoke Forest Whispers
 
-[Reference.](https://redd.it/9z42z3)
+[[Reference.]](https://redd.it/9z42z3)
 
 Evidently, it's the voices of Ethel Boshared and Eugene Hutton, a couple who got lost in the forest. Some Theatres will show **The Ghostly Serenade**, which apparently tells the story of the couple.
 
@@ -1833,11 +1837,11 @@ Climbing to the bottom of the well at **Bear Claw, Tall Trees, WE** will change 
 
 ### Bolger Glade Whispers
 
-[Reference.](https://redd.it/ew1dx0)
+[[Reference.]](https://redd.it/ew1dx0)
 
 ### Lemoyne Ghost Train
 
-[Reference.](https://youtu.be/_fSlasTGGag)
+[[Reference.]](https://youtu.be/_fSlasTGGag)
 
 ### UFO
 
@@ -1891,9 +1895,9 @@ There's a skull on a stake next to a bull skull on a stump northeast of **Swadba
 
 ### Undead Nightmare
 
-The green mask from RDR1 Undead Nightmare can be found in the top left sheft behind the **Fence** shopkeep's counter in **Saint Denis, Bayou Nwa, LE**. [Reference.](https://youtu.be/lJm0PzXcRkA)
+The green mask from RDR1 Undead Nightmare can be found in the top left sheft behind the **Fence** shopkeep's counter in **Saint Denis, Bayou Nwa, LE**. [[Reference.]](https://youtu.be/lJm0PzXcRkA)
 
-In the Epilogue, some Aztec symbols around **Blackwater, Great Plains, WE** can be sketched. [Reference.](https://youtu.be/TwQq9BbPNco)
+In the Epilogue, some Aztec symbols around **Blackwater, Great Plains, WE** can be sketched. [[Reference.]](https://youtu.be/TwQq9BbPNco)
 
 ### Strange Man
 
@@ -1923,7 +1927,7 @@ Can be found inside the outhouse dead south of the 'H' in "MOUNT **H**AGEN".
 
 ### Frozen Explorer
 
-[Reference.](https://youtu.be/NgYR4sXorW8)
+[[Reference.]](https://youtu.be/NgYR4sXorW8)
 
 Can be found at the northwesternmost edge of **Deadboot Creek, Grizzlies West, AM**.
 
@@ -1933,7 +1937,7 @@ Cabin in **Grizzlies West, AM**, dead west of the 't' in "Deadboo**t** Creek". T
 
 ### Frozen Cattle
 
-[Reference.](https://youtu.be/WHdjFlmMTK8)
+[[Reference.]](https://youtu.be/WHdjFlmMTK8)
 
 The cattle can be found in **Grizzlies West, AM**, dead east of the 'S' in "**S**pider Gorge". A lone skeleton can be found under a rockface near the northwest shore of **Lake Isabella**.
 
@@ -2012,18 +2016,18 @@ NA | New Austin | Hennigan's Stead<br>Cholla Springs<br>Rio Bravo<br>Gaptooth Ri
 
 Span | Effect
 :--- | ---
-04:00-06:00 | Early Morning
-06:00-10:00 | Morning
-10:00-14:00 | Midday
-14:00-18:00 | Evening
-18:00-22:00 | Late Evening
-22:00-02:00 | Midnight
-02:00-04:00 | Late Night
+`04:00`-`06:00` | Early Morning
+`06:00`-`10:00` | Morning
+`10:00`-`14:00` | Midday
+`14:00`-`18:00` | Evening
+`18:00`-`22:00` | Late Evening
+`22:00`-`02:00` | Midnight
+`02:00`-`04:00` | Late Night
 --- | ---
-05:00-21:00 | Miscellaneous birds flying overhead.
-18:00-10:00<br>04:00-06:00 | Owl flying spawns seem way more common.
-22:00-04:00 | Most cougar/panther/wolf/owl spawns active.
-08:00-16:00 | Most small bird spawns active.
+`05:00`-`21:00` | Miscellaneous birds flying overhead.
+`18:00`-`10:00`<br>`04:00`-`06:00` | Owl flying spawns seem way more common.
+`22:00`-`04:00` | Most cougar/panther/wolf/owl spawns active.
+`08:00`-`16:00` | Most small bird spawns active.
 
 ### Animal Scenarios
 
@@ -2031,19 +2035,19 @@ Span | Effect
 
 Animal(s) | Location(s) | Description
 :--- | --- | ---
-Cougar<br>Deer | &bull; Little Creek River, Big Valley, WE (south of 'E' in "Little Creek Riv**e**r", 11:23, 20:56) | Cougar stalks and attacks Deer.
+Cougar<br>Deer | &bull; Little Creek River, Big Valley, WE (south of 'E' in "Little Creek Riv**e**r", `11:23`, `20:56`) | Cougar stalks and attacks Deer.
 Cougar<br>NPC Corpse | &bull; Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br><br>&bull; Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
 Western Bull Moose | &bull; Lake Isabella, Grizzlies West, AM<br><br>&bull; Barrow Lagoon, Grizzlies West, AM<br><br>&bull; Cairn Lake, Grizzlies West, AM (16:08) | Slipping on ice while attempting to stand upright.
-Western Bull Moose<br>Gray Wolf | &bull; Lake Isabella, Grizzlies West, AM (northwest side of lake, swims to western shore)<br><br>&bull; Calumet Ravine, Grizzlies East, AM (just north of the bridge to **Wapiti**, swims to west shore)<br><br>&bull; Owanjila, Big Valley, WE (towards north side of lake, swims to west shore, 18:55)<br><br>&bull; Owanjila, Big Valley, WE (closer to bridge at **Owanjila Dam**, swims to east shore with a single **Burdock Root**, 08:28) | Moose swimming, sometimes being chased by a lone wolf.
+Western Bull Moose<br>Gray Wolf | &bull; Lake Isabella, Grizzlies West, AM (northwest side of lake, swims to western shore)<br><br>&bull; Calumet Ravine, Grizzlies East, AM (just north of the bridge to **Wapiti**, swims to west shore)<br><br>&bull; Owanjila, Big Valley, WE (towards north side of lake, swims to west shore, `18:55`)<br><br>&bull; Owanjila, Big Valley, WE (closer to bridge at **Owanjila Dam**, swims to east shore with a single **Burdock Root**, `08:28`) | Moose swimming, sometimes being chased by a lone wolf.
 Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | &bull; Old Greenbank Mill, Heartlands, NH (west side of path west of the mill)<br><br>&bull; Emerald Ranch, Heartlands, NH (owl catches rat on NE side of ranch)<br><br>&bull; Elysian Pool, Roanoke Ridge, NH<br><br>&bull; Calumet Ravine, Grizzlies East, AM<br><br>&bull; Little Creek River, Big Valley, WE (hawk catches squirrel, northeast of **Valley View**)<br><br>&bull; Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow)<br><br>&bull; Blackwater, Great Plains, WE (owl catches rat, east side of easternmost path heading southbound out of **Blackwater**) | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
 Whitetail Buck | &bull; Heartlands, NH (SW of the 'H' in "THE **H**EARTLANDS")<br><br>&bull; Strawberry, Big Valley, WE (SE of the **Strawberry Stable**) | Two Bucks, one dead and the other alive, with interlocked horns.
-Whitetail Buck | &bull; Heartlands, NH (SW of second 'H' in "THE **H**EARTLANDS")<br><br>&bull; Cumberland Falls, Heartlands, NH (east side of river, east of path southbound from **Cumberland Falls**, 12:50)<br><br>&bull; Roanoke Ridge, NH (northern edge of the train tracks just inside the county border, southwest of the **Trapper**) | Two Bucks pushing each other around.
+Whitetail Buck | &bull; Heartlands, NH (SW of second 'H' in "THE **H**EARTLANDS")<br><br>&bull; Cumberland Falls, Heartlands, NH (east side of river, east of path southbound from **Cumberland Falls**, `12:50`)<br><br>&bull; Roanoke Ridge, NH (northern edge of the train tracks just inside the county border, southwest of the **Trapper**) | Two Bucks pushing each other around.
 Bighorn Ram | &bull; Cumberland Forest, NH (north of 'D' in "CUMBERLAN**D** FOREST")<br><br>&bull; Deadboot Creek, Grizzlies West, AM (southeast of 'k' in "Deadboot Cree**k**".<br><br>&bull; Little Creek River, Big Valley, WE (northwest side of junction NW of 'R' in "Little Creek **R**iver"<br><br>&bull; Black Bone Forest, Big Valley, WE (just SE of the **Trapper**)<br><br>&bull; Black Bone Forest, Big Valley, WE (southeast corner of the path junction just southeast of the Geddes' house at **Pronghorn Ranch**)<br><br>&bull; Pronghorn Ranch, Big Valley, WE (first junction on eastbound dashed path heading away from the ranch.<br><br>&bull; Cholla Springs, NA (dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS") | Two Rams headbutt each other.
 American Bison | &bull; Heartland Overflow, Heartlands, NH (SW of 'H' in "**H**eartland Overflow"<br><br>&bull; Great Plains, WE (southeast of 'T' and west of 'P' in "GREA**T P**LAINS")<br><br>&bull; Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each nother.
-Grizzly Bear<br>Gray Wolf | &bull; Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br><br>&bull; Cattail Pond, Grizzlies West, AM (east of the pond; 13:35)<br><br>&bull; Little Creek River, Big Valley, WE (on 'R' in "Little Creek **R**iver") | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. 10:00
+Grizzly Bear<br>Gray Wolf | &bull; Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br><br>&bull; Cattail Pond, Grizzlies West, AM (east of the pond; `13:35`)<br><br>&bull; Little Creek River, Big Valley, WE (on 'R' in "Little Creek **R**iver") | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. `10:00`
 Grizzly Bear | &bull; Cattail Pond, Grizzlies West, AM (cliffside overlooking **Dakota River**, south of the pond) | Just chilling.
 Grizzly Bear | &bull; Watson's Cabin, Big Valley, WE (east of the cabin)<br><br>&bull; Fairvale Shanty, Grizzlies East, AM (a few feet south of the cabin)<br><br>&bull; Bear Claw, Tall Trees, WE (south of the cabins) | Scratching itself on a tree trunk.
-Grizzly Bear<br>Sockeye Salmon | &bull; O'Creagh's Run, Grizzlies East, AM (northern shore)<br><br>&bull; Little Creek River, Big Valley, WE (east stretch of creek before stream goes downhill; 14:14)<br><br>&bull; Little Creek River, Big Valley, WE (south of **Watson's Cabin**, 17:34)<br><br>&bull; Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br><br>&bull; Aurora Basin, Tall Trees, WE (southeast shore) | Grizzly catches and eats Salmon.
+Grizzly Bear<br>Sockeye Salmon | &bull; O'Creagh's Run, Grizzlies East, AM (northern shore)<br><br>&bull; Little Creek River, Big Valley, WE (east stretch of creek before stream goes downhill; `14:14`)<br><br>&bull; Little Creek River, Big Valley, WE (south of **Watson's Cabin**, `17:34`)<br><br>&bull; Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br><br>&bull; Aurora Basin, Tall Trees, WE (southeast shore) | Grizzly catches and eats Salmon.
 Fox | &bull; Barrow Lagoon, Grizzlies West, AM (south of lagoon)<br><br>&bull; Spider Gorge, Grizzlies West, AM (south of 'S' in "**S**pider Gorge") | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
 Gray Wolf | &bull; Elysian Pool, Roanoke Ridge, NH (southeast of)<br><br>&bull; Lake Isabella, Grizzlies West, AM (northwest path)<br><br>&bull; Cairn Lake, Grizzlies West, AM (south side of the path leading westbound away from the lake)<br><br>&bull; Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
 Gray Wolf | &bull; Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of)<br><br>&bull; Lake Isabella, Grizzlies West, AM (atop the cliff overlooking the waterfall on the northwest side of lake) | Mourning over dead wolf.
@@ -2107,40 +2111,40 @@ See `RDR2-WesternBullMoose.jpg` for more locations.
 
 Location | Details | Time(s)
 :--- | --- | ---
-Colter, Grizzlies West, AM | always a bull; atop small cliff on southeast side of road running northeast out of **Colter** [[Reference.]](https://youtu.be/Cg4ycMgVkAA) | 06:27, 14:41
-Cairn Lake, Grizzlies West, AM | laying on the center of the ice | 06:55, 16:32, 19:27
-Lake Isabella, Grizzlies West, AM | atop small cliff northeast of 'A' in "**A**MBARINO", west side of path | 09:02
-Lake Isabella, Grizzlies West, AM | always a bull; west side of path on northeast side of the lake; [[Reference.]](https://youtu.be/ys0vj0g2iAc) [[Reference.]](https://youtu.be/B_ma0mppixo) [[Reference.]](https://youtu.be/9r1fI8o3KM4) | 12:25
-Lake Isabella, Grizzlies West, AM | path on west side of **Lake Isabella**; unaffected by **White Arabian** presence; unaffected by playing wolves random encounter | 09:13, 15:32, 16:40, 18:33, 18:40
-Lake Isabella, Grizzlies West, AM | laying on ice northwest side of **Lake Isabella**; southeast of destroyed cabin; just some paces away from the spawn described above [[Reference.]](https://youtu.be/pmWMlnCKJlQ?t=502) [[Reference.]](https://youtu.be/lFeQF6NeQFs) | 06:24
-Lake Isabella, Grizzlies West, AM | always a bull; chased by wolf across northwestern **Lake Isabella**; swims to northern shore just southeast of waterfall | 17:45
-Barrow Lagoon, Grizzlies West, AM | laying on ice southeast side of lagoon | 08:20, 10:45
+Colter, Grizzlies West, AM | always a bull; atop small cliff on southeast side of road running northeast out of **Colter** [[Reference.]](https://youtu.be/Cg4ycMgVkAA) | `06:27`, `14:41`
+Cairn Lake, Grizzlies West, AM | laying on the center of the ice | `06:55`, `16:32`, `19:27`
+Lake Isabella, Grizzlies West, AM | atop small cliff northeast of 'A' in "**A**MBARINO", west side of path | `09:02`
+Lake Isabella, Grizzlies West, AM | always a bull; west side of path on northeast side of the lake; [[Reference.]](https://youtu.be/ys0vj0g2iAc) [[Reference.]](https://youtu.be/B_ma0mppixo) [[Reference.]](https://youtu.be/9r1fI8o3KM4) | `12:25`
+Lake Isabella, Grizzlies West, AM | path on west side of **Lake Isabella**; unaffected by **White Arabian** presence; unaffected by playing wolves random encounter | `09:13`, `15:32`, `16:40`, `18:33`, `18:40`
+Lake Isabella, Grizzlies West, AM | laying on ice northwest side of **Lake Isabella**; southeast of destroyed cabin; just some paces away from the spawn described above [[Reference.]](https://youtu.be/pmWMlnCKJlQ?t=502) [[Reference.]](https://youtu.be/lFeQF6NeQFs) | `06:24`
+Lake Isabella, Grizzlies West, AM | always a bull; chased by wolf across northwestern **Lake Isabella**; swims to northern shore just southeast of waterfall | `17:45`
+Barrow Lagoon, Grizzlies West, AM | laying on ice southeast side of lagoon | `08:20`, `10:45`
 Window Rock, Grizzlies West, AM | always a bull; west side of train tracks atop cliff overlooking trestle bridge southwest of **Window Rock**; southwest of the trestle bridge itself; dead west of "Dodd's Bluff"; dead south of "Chez Porter"; northeast of dreamcatcher | -
-Cattail Pond, Grizzlies West, AM | northeast shore of **Cattail Pond** on path which **Beartooth Beck** flows over [[Reference.]](https://youtu.be/SjCSYm1xiuc) | 19:05
-Calumet Ravine, Grizzlies East, AM | always a bull; swims to west shore on the south side of the lake being chased by wolf; directly in line with junction east of **Wapiti** | 07:16, 14:45
-Fort Wallace, Grizzlies East, AM | east of **Fort Wallace**; in trees on west side of road at first junction south of **Bacchus Station**, [[Reference.]](https://youtu.be/UkMZvcwiGZ4) | 10:17, 15:01
-Witches Cauldron, Grizzlies East, AM | west of **Witches Cauldron**; between 'I' and 'N' in "AMBAR**IN**O"; northeast of junction by **Strange Statues**; OOB, but can be lured with bait or by rolling the dice spooking it; alternative coats spawn here [[Reference.]](https://youtu.be/6He4lvedONs) | 24-hour
-Witches Cauldron, Grizzlies East, AM | always a cow; same as above, but about 100m east-southeast; does not move so it's normally inaccessible and cannot be seen from the cliff opposite the path | 24-hour
-O'Creagh's Run, Grizzlies East, AM | east shoreline of lake; just south of **Veteran's Homestead**; 15 paces west of Alaskan Ginseng plant; to the east of "O'Creagh's" in "**O'Creagh's** Run" | 06:17, 13:32
-O'Creagh's Run, Grizzlies East, AM | always a bull; near north shoreline of lake; swims south in line with "Cr" in "O'**Cr**eagh's Run" to northeast edge of western peninsula | 14:09
-Fairvale Shanty, Grizzlies East, AM | in grass on south side of road; southwest of **Fairvale Shanty**; sleep until morning at **The Loft** [[Reference.]](https://youtu.be/b2DvMtMiW7o) | 06:49, 12:32
-Willard's Rest, Roanoke Ridge, NH | inside 3-way junction just southeast of "Rest" in "Willard's **Rest**"; north side of train tracks [[Reference.]](https://youtu.be/9P7lpPdG2V0) | 07:48, 10:37, 11:59, 13:15, 18:38
-Willard's Rest, Roanoke Ridge, NH | always a cow; a little farther north of the other spawn here, seems to be just cow moose [[Reference.]](https://youtu.be/hWw00gGpBno) | 10:47
-Brandywine Drop, Roanoke Ridge, NH | always a bull; east side of river; edge of first cliff up from river at waterfall; west of first 'R' in "**R**OANOKE RIDGE" [Reference.](https://youtu.be/XjKY2grbAa8) | 08:15, 10:35
-Deer Cottage, Roanoke Ridge, NH | west of 'A' in "RO**A**NOKE RIDGE"; inside double junctions | 10:55
-Viking Tomb, Roanoke Ridge, NH | northern shoreline of **Kamassa River**; southwest of **Viking Tomb**; just below moose map icon [[Reference.]](https://youtu.be/U1ExHRWOotc) | 07:01, 08:03
-Cumberland Falls, Heartlands, NH | always a bull; east shore between 'o' and 't' in "Dak**ot**a River"; across from where **Little Creek River** feeds in; southwest of **Downes Ranch** [[Reference.]](https://youtu.be/QKzZjW0LKRE) | 11:15
-Cumberland Falls, Big Valley, WE | always a cow; island southwest of 'R' in "Dakota **R**iver" | 08:15, 09:42; 12:50
-Wallace Station, Big Valley, WE | always a bull; east-southeast of the station; atop cliff hanging over the path closest to the west side of the **Dakota River** [[Reference.]](https://youtu.be/hWw00gGpBno) | 06:28, 09:12, 11:55, 12:46, 15:15
+Cattail Pond, Grizzlies West, AM | northeast shore of **Cattail Pond** on path which **Beartooth Beck** flows over [[Reference.]](https://youtu.be/SjCSYm1xiuc) | `19:05`
+Calumet Ravine, Grizzlies East, AM | always a bull; swims to west shore on the south side of the lake being chased by wolf; directly in line with junction east of **Wapiti** | `07:16`, `14:45`
+Fort Wallace, Grizzlies East, AM | east of **Fort Wallace**; in trees on west side of road at first junction south of **Bacchus Station**, [[Reference.]](https://youtu.be/UkMZvcwiGZ4) | `10:17`, `15:01`
+Witches Cauldron, Grizzlies East, AM | west of **Witches Cauldron**; between 'I' and 'N' in "AMBAR**IN**O"; northeast of junction by **Strange Statues**; OOB, but can be lured with bait or by rolling the dice spooking it; alternative coats spawn here [[Reference.]](https://youtu.be/6He4lvedONs) | `24 HOURS`
+Witches Cauldron, Grizzlies East, AM | always a cow; same as above, but about 100m east-southeast; does not move so it's normally inaccessible and cannot be seen from the cliff opposite the path | `24 HOURS`
+O'Creagh's Run, Grizzlies East, AM | east shoreline of lake; just south of **Veteran's Homestead**; 15 paces west of Alaskan Ginseng plant; to the east of "O'Creagh's" in "**O'Creagh's** Run" | `06:17`, `13:32`
+O'Creagh's Run, Grizzlies East, AM | always a bull; near north shoreline of lake; swims south in line with "Cr" in "O'**Cr**eagh's Run" to northeast edge of western peninsula | `14:09`
+Fairvale Shanty, Grizzlies East, AM | in grass on south side of road; southwest of **Fairvale Shanty**; sleep until morning at **The Loft** [[Reference.]](https://youtu.be/b2DvMtMiW7o) | `06:49`, `12:32`
+Willard's Rest, Roanoke Ridge, NH | inside 3-way junction just southeast of "Rest" in "Willard's **Rest**"; north side of train tracks [[Reference.]](https://youtu.be/9P7lpPdG2V0) | `07:48`, `10:37`, `11:59`, `13:15`, `18:38`
+Willard's Rest, Roanoke Ridge, NH | always a cow; a little farther north of the other spawn here, seems to be just cow moose [[Reference.]](https://youtu.be/hWw00gGpBno) | `10:47`
+Brandywine Drop, Roanoke Ridge, NH | always a bull; east side of river; edge of first cliff up from river at waterfall; west of first 'R' in "**R**OANOKE RIDGE" [[Reference.]](https://youtu.be/XjKY2grbAa8) | `08:15`, `10:35`
+Deer Cottage, Roanoke Ridge, NH | west of 'A' in "RO**A**NOKE RIDGE"; inside double junctions | `10:55`
+Viking Tomb, Roanoke Ridge, NH | northern shoreline of **Kamassa River**; southwest of **Viking Tomb**; just below moose map icon [[Reference.]](https://youtu.be/U1ExHRWOotc) | `07:01`, `08:03`
+Cumberland Falls, Heartlands, NH | always a bull; east shore between 'o' and 't' in "Dak**ot**a River"; across from where **Little Creek River** feeds in; southwest of **Downes Ranch** [[Reference.]](https://youtu.be/QKzZjW0LKRE) | `11:15`
+Cumberland Falls, Big Valley, WE | always a cow; island southwest of 'R' in "Dakota **R**iver" | `08:15`, `09:42`; `12:50`
+Wallace Station, Big Valley, WE | always a bull; east-southeast of the station; atop cliff hanging over the path closest to the west side of the **Dakota River** [[Reference.]](https://youtu.be/hWw00gGpBno) | `06:28`, `09:12`, `11:55`, `12:46`, `15:15`
 Painted Sky, Big Valley, WE | southern shore of **Dakota River** next to 4 Wild Mint plants; north of **Painted Sky**; below **Burdock Root** map icon | -
-Owanjila, Big Valley, WE | chased by wolf, swims to west shore of **Owanjila**, approach **Owanjila Dam** from south [[Reference.]](https://youtu.be/rgKzDOm6w-o) [[Reference.]](https://youtu.be/GVywtz_SdZg) | 06:47, 07:25, 08:45, 11:45, 12:46, 17:20
-Owanjila, Big Valley, WE | swims to east shore next to a single Burdock Root plant [[Reference.]](https://youtu.be/cpBf3hXDm0M) [[Reference.]](https://youtu.be/dZ1P0u3_J9w) [[Reference.]](https://youtu.be/5vf27qTAUl0) | 06:48
-Fort Riggs, Big Valley, WE | always a cow; southwest of junction coming from the **Strawberry Stable**; 10 or so paces southeast of boar map icon [[Reference.]](https://youtu.be/ncTQZNpx5k8) [[Reference.]](https://youtu.be/BRXpsBWv-A4) | 14:01
+Owanjila, Big Valley, WE | chased by wolf, swims to west shore of **Owanjila**, approach **Owanjila Dam** from south [[Reference.]](https://youtu.be/rgKzDOm6w-o) [[Reference.]](https://youtu.be/GVywtz_SdZg) | `06:47`, `07:25`, `08:45`, `11:45`, `12:46`, `17:20`
+Owanjila, Big Valley, WE | swims to east shore next to a single Burdock Root plant [[Reference.]](https://youtu.be/cpBf3hXDm0M) [[Reference.]](https://youtu.be/dZ1P0u3_J9w) [[Reference.]](https://youtu.be/5vf27qTAUl0) | `06:48`
+Fort Riggs, Big Valley, WE | always a cow; southwest of junction coming from the **Strawberry Stable**; 10 or so paces southeast of boar map icon [[Reference.]](https://youtu.be/ncTQZNpx5k8) [[Reference.]](https://youtu.be/BRXpsBWv-A4) | `14:01`
 Upper Montana River, Tall Trees, WE | west side of river; northwest of 'U' in "**U**pper Montana River"; south side of path that crosses the river north of the 'U'; on the edge of a **Loon** map icon | -
-Nekoti Rock, Tall Trees, WE | on a cliff overlooking the **Upper Montana River**; just southeast of where the path from **Owanjila Dam** turns southwestbound into **Tall Trees** | 06:06, 13:20
-Evelyn Miller Camp, Tall Trees, WE | directly east of second 'L' in "TAL**L** TREES"; next to a **Lady Slipper Orchid**; alternative coats spawn here; can be seen from the permanent campsite with the pine limb lean-to [[Reference.]](https://youtu.be/myi-AxL9Zws) | 24-hour
+Nekoti Rock, Tall Trees, WE | on a cliff overlooking the **Upper Montana River**; just southeast of where the path from **Owanjila Dam** turns southwestbound into **Tall Trees** | `06:06`, `13:20`
+Evelyn Miller Camp, Tall Trees, WE | directly east of second 'L' in "TAL**L** TREES"; next to a **Lady Slipper Orchid**; alternative coats spawn here; can be seen from the permanent campsite with the pine limb lean-to [[Reference.]](https://youtu.be/myi-AxL9Zws) | `24 HOURS`
 Aurora Basin, Tall Trees, WE | between two groups of Burdock Root on the northwest side of **Aurora Basin**; northeast of Skinner Brothers campsite which, if present, will prevent moose spawn | -
-Aurora Basin, Tall Trees, WE | always a bull; out-of-bounds atop small cliff on the southwest end of **Aurora Basin**; west side of **Lower Montana River**; may sometimes fall backwards and remain out-of-bounds; draw it out with Herbivore Bait like with the OOB Ambarino moose | 06:00, 13:00
+Aurora Basin, Tall Trees, WE | always a bull; out-of-bounds atop small cliff on the southwest end of **Aurora Basin**; west side of **Lower Montana River**; may sometimes fall backwards and remain out-of-bounds; draw it out with Herbivore Bait like with the OOB Ambarino moose | `06:00`, `13:00`
 Bear Claw, Tall Trees, WE | second 'E' in "TALL TRE**E**S"; nearby random NPC campsite if present will prevent moose spawn | -
 
 ### Panther
@@ -2151,9 +2155,9 @@ See `RDR2-CougarPanther.jpg` for specific locations.
 
 Location | Details | Time(s)
 :--- | --- | ---
-Old Harry Fen, Scarlett Meadows, LE | two spawns close together; southwest of junction northeast of **Catfish Jacksons**; southeast of **Old Harry Fen** | 24 HOURS
-Lakay, Bayou Nwa, LE | two spawns close together; eastern bank of **Kamassa River**; sleeping at water's edge northeast of **Lakay** | 00:00-04:00
-Macomb's End, Bayou Nwa, LE | many spawn points from the schoolhouse of **Pleasance** down to **Macomb's End** | 00:00-05:00
+Old Harry Fen, Scarlett Meadows, LE | two spawns close together; southwest of junction northeast of **Catfish Jacksons**; southeast of **Old Harry Fen** | `24 HOURS`
+Lakay, Bayou Nwa, LE | two spawns close together; eastern bank of **Kamassa River**; sleeping at water's edge northeast of **Lakay** | `00:00-04:00`
+Macomb's End, Bayou Nwa, LE | many spawn points from the schoolhouse of **Pleasance** down to **Macomb's End** | `00:00-05:00`
 
 ### Horned Owl
 
@@ -2163,14 +2167,14 @@ Additional locations are marked in `RDR2-Owl.jpg`.
 
 Location | Details
 :--- | ---
-Fairvale Shanty, Grizzlies East, AM | 24 HOURS; perched atop a rock directly south of the shanty; north side of road
-Little Creek River, Big Valley, WE | 24 HOURS; perched on ground next to boulder creekside southwest of the path junction from **Watson's Cabin** [[Reference.]](https://youtu.be/r9mEj49iook)
+Fairvale Shanty, Grizzlies East, AM | `24 HOURS`; perched atop a rock directly south of the shanty; north side of road
+Little Creek River, Big Valley, WE | `24 HOURS`; perched on ground next to boulder creekside southwest of the path junction from **Watson's Cabin** [[Reference.]](https://youtu.be/r9mEj49iook)
 Fort Riggs, Big Valley, WE | on cliff edge southeast of the fort. [This fella posted screens of his catch at Fort Riggs.](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/page/64/#comment-1071852129)
 Fort Riggs, Big Valley, WE | flying south over the river a ways northwest of the fort. Usually turns westbound into **Tall Trees**, but sometimes turns eastward towards the fort.
 Lone Mule Stead, Big Valley, WE | flying northwest of Blackwater; if followed, sometimes flies over **Lone Mule Stead**
 Blackwater, Big Valley, WE | flying north out of Blackwater; if followed, sometimes flies to **Riggs Station** and continues toward **Appleseed Timber Co.**
-Evelyn Miller Camp, Tall Trees, WE | 24 HOURS; perched atop rockface
-Tanner's Reach, Tall Trees, WE | 24 HOURS; perched atop chimney
+Evelyn Miller Camp, Tall Trees, WE | `24 HOURS`; perched atop rockface
+Tanner's Reach, Tall Trees, WE | `24 HOURS`; perched atop chimney
 
 ### Timber Wolf
 
@@ -2187,19 +2191,19 @@ See `RDR2-TimberWolf.jpg` for locations.
 Location | Details | Time(s)
 :--- | --- | ---
 Pronghorn Ranch, Big Valley, WE | north side of path north of last 'h' in "Pronghorn Ranc**h**" | -
-Valley View, Big Valley, WE | attacking deer; south of last 'e' in "Little Creek Riv**e**r" | 23:05, 19:17
+Valley View, Big Valley, WE | attacking deer; south of last 'e' in "Little Creek Riv**e**r" | `23:05`, `19:17`
 Black Bone Forest, Big Valley, WE | creek bank feeding into **Owanjila**; west of **Native Burial**; between path and creek | -
-Black Bone Forest, Big Valley, WE | southeast side of path; northwest of **Native Burial** | 07:15
+Black Bone Forest, Big Valley, WE | southeast side of path; northwest of **Native Burial** | `07:15`
 Doverhill, Roanoke Ridge, NH | spawns on path on west bank of **Kamassa River**; north of train tracks; creeps up to NPC campsite | -
 Roanoke Valley, Roanoke Ridge, NH | there are a ton of spawns between **Black Balsan Rise** and **Doverhill**; fewer spawns west of the **Kamassa River** | -
-Cochinay, Tall Trees, WE | northwest of first 'T' in "**T**ALL TREES" | 24-hour
+Cochinay, Tall Trees, WE | northwest of first 'T' in "**T**ALL TREES" | `24 HOURS`
 Beecher's Hope, Great Plains, WE | east of 'G' in "**G**REAT PLAINS" | -
 Quaker's Cove, Great Plains, WE | between 'N' and 'S' in "GREAT PLAI**NS**" | -
 Ridgewood Farm, Cholla Springs, NA | north of **Ridgewood Farm**; from southeast of **Rathskeller Fork** to east of **Pleasance House**; there's a ton of spawns between 'C' and second 'L' in "**C**HOL**L**A SPRINGS" | -
 Plainview, Rio Bravo, NA | southwest of **Plainview**; in land depression on north side of path beyond junctions located west of **Plainview**; north-northeast of last 'R' in "SAN LUIS RIVE**R**"; at the base of a rocky hill | -
-Benedict Point, Rio Bravo, NA | dead west of **Solomon's Folly**; dead south of the 'i' in "Benedict Po**i**nt" | 15:15
+Benedict Point, Rio Bravo, NA | dead west of **Solomon's Folly**; dead south of the 'i' in "Benedict Po**i**nt" | `15:15`
 Rathskeller Fork, Gaptooth Ridge, NA | south of **Rathskeller**; northeast corner of junctions north of 'G' in "GAPTOOTH RID**G**E"; west of rabbit map icon | -
-Gaptooth Ridge, NA | atop hill on north side of path directly north of second 'G' in "GAPTOOTH RID**G**E" | 09:54
+Gaptooth Ridge, NA | atop hill on north side of path directly north of second 'G' in "GAPTOOTH RID**G**E" | `09:54`
 
 ### Grizzly Bear
 
@@ -2209,13 +2213,13 @@ Gaptooth Ridge, NA | atop hill on north side of path directly north of second 'G
 
 Location | Details | Time(s)
 :--- | --- | ---
-Barrow Lagoon, Grizzlies West, AM | north of 'a' in "L**a**goon"; eating deer carcass | 10:40, 13:25
-Barrow Lagoon, Grizzlies West, AM | between 'o' and 'n' in "Lago**on**"; eating deer carcass | 09:38, 10:32, 16:15
-Cattail Pond, Grizzlies West, AM | southeast of pond; south of train tracks near cliff edge and **Alaskan Ginseng** growing on dead brush patch | 13:45
+Barrow Lagoon, Grizzlies West, AM | north of 'a' in "L**a**goon"; eating deer carcass | `10:40`, `13:25`
+Barrow Lagoon, Grizzlies West, AM | between 'o' and 'n' in "Lago**on**"; eating deer carcass | `09:38`, `10:32`, `16:15`
+Cattail Pond, Grizzlies West, AM | southeast of pond; south of train tracks near cliff edge and **Alaskan Ginseng** growing on dead brush patch | `13:45`
 Cotorra Springs, Grizzlies East, AM | south of hot springs | -
 Fairvale Shanty, Grizzlies East, AM | in small bunch of trees 15 paces south of shanty | -
 O'Creagh's Run, Grizzlies East, AM | west shore; eating deer carcass | -
-O'Creagh's Run, Grizzlies East, AM | north shore; catching salmon | 10:25
+O'Creagh's Run, Grizzlies East, AM | north shore; catching salmon | `10:25`
 Hanging Dog Ranch, Big Valley, WE | in trees on north side of paths coming from the ranch | -
 Vetter's Echo, Big Valley, WE | unique encounter; inside the cabin upon first entry; does not respawn after killing it once | -
 Sheperds Rise, Big Valley, WE | streamside northwest of cabin; catching salmon | -
@@ -2225,13 +2229,13 @@ Wallace Station, Big Valley, WE | there's at least four spawn locations in close
 Wallace Station, Big Valley, WE | north of the second 'L' in "WAL**L**ACE" | -
 Watson's Cabin, Big Valley, WE | south shore of the creek; north of 'R' in "Little Creek **R**iver" | -
 Pronghorn Ranch, Big Valley, WE | south of 'W' in "**W**EST ELIZABETH" | -
-Black Bone Forest, Big Valley, WE | south-southeast of **Trapper**; just northwest of path diverge from creek | 22:00
+Black Bone Forest, Big Valley, WE | south-southeast of **Trapper**; just northwest of path diverge from creek | `22:00`
 Nekoti Rock, Tall Trees, WE | standing in the **Upper Montana River** towards the west bank; east of **Nekoti Rock**; west of second 'n' in "Upper Monta**n**a River" | -
 Bear Claw, Tall Trees, WE | northwest of **Bear Claw**; second 'E' in "TALL TRE**E**S"; snooping around NPC campsite | -
 Bear Claw, Tall Trees, WE | west of **Bear Claw**; sitting near cliff edge facing **Lower Montana River** | -
 Bear Claw, Tall Trees, WE | south of **Bear Claw** | -
-Aurora Basin, Tall Trees, WE | eating deer carcass on northeastern peninsula | 15:15
-Aurora Basin, Tall Trees, WE | catching salmon on east shore | 14:42
+Aurora Basin, Tall Trees, WE | eating deer carcass on northeastern peninsula | `15:15`
+Aurora Basin, Tall Trees, WE | catching salmon on east shore | `14:42`
 
 ## Birds and Small Game Animals
 
@@ -2266,7 +2270,7 @@ Pleasance, Scarlett Meadows, LE | swarm in the schoolhouse damaged by a fallen t
 Fort Brennand, Roanoke Ridge, NH | perched in southwest crows nest
 Elysian Pool, Roanoke Ridge, NH | perched on ceiling of cave inside the waterfall
 Wild Man's Cave, Roanoke Ridge, NH | perched on ceiling of cave entrance
-Flattened Cabin, Grizzlies East, AM | inside the cabin at **Moonstone Pond**; tons of them if you approach shortly after; 18:00
+Flattened Cabin, Grizzlies East, AM | inside the cabin at **Moonstone Pond**; tons of them if you approach shortly after; `18:00`
 Big Valley, WE | perched in the opening of the dinosaur bone cave northeast of **Watson's Cabin**
 Mount Shann, Big Valley, WE | cave mouth just south of 'U' in "MO**U**NT SHANN"; same cave **Winton Holmes** and the player travel to during `Money Lending and Other Sins IV`
 Swadbass Point, Tall Trees, WE | perched on north side of cabin at **Aurora Basin**
@@ -2275,24 +2279,60 @@ Tumbleweed, Gaptooth Ridge, NA | atop the large two story house on the west edge
 
 ### Blue Jay
 
+*Hard to miss.*
+
 Location | Details
 :--- | ---
 Caliban's Seat, Heartlands, NH | flying overhead southeast of **Caliban's Seat**
 Dakota River, Heartlands, NH | atop rocks along the river
 
-### Cardinal
+### American Bullfrog
+
+Location | Details
+:--- | ---
+Mattock Pond, Scarlett Meadows, LE | around the pond
+Canebreak Manor, Bluewater Marsh, LE | along the water north and southwest of **Canebreak Manor**
+Copperhead Landing, Bluewater Marsh, LE | along the water southwest and north of **Copperhead Landing**
+Greenhollow, Hennigan's Stead, NA | on the island southeast of **Greenhollow**
+Brittlebrush Trawl, Hennigan's Stead, NA | on the island southwest of **Brittlebrush Trawl**
+Rio del Lobo House, Rio Bravo, NA | along the shoreline of the **San Luis River** and on the islands southeast of **Lake Don Julio**
+
+### Northern Cardinal
+
+*Males are red. Females are brown.*
 
 Location | Details
 :--- | ---
 Downes Ranch, Heartlands, NH | southwest of **Downes Ranch**
 
-### Condor
+### Western Chipmunk
+
+*Easy to miss.*
+
+Location | Details
+:--- | ---
+Horseshoe Overlook, Heartlands, NH | along the path northeast of **Horseshoe Overlook**
+Elysian Pool, Roanoke Ridge, NH | along both sides of the path northbound on the east side of **Elysian Pool**
+Old Trail Rise, Scarlett Meadows, LE | just east of **Old Trail Rise**
+Ringneck Creek, Scarlett Meadows, LE | along both sides of the creek bank
+Clemens Point, Scarlett Meadows, LE | north and east of **Clemens Point**
+Radley's Pasture, Scarlett Meadows, LE| north and northwest of **Radley's Pasture**
+Bolger Glade, Scarlett Meadows, LE | northwest of **Bolger Glade**
+Catfish Jackson's, Scarlett Meadows, LE | just northeast of **Catfish Jacksons**
+Monto's Rest, Big Valley, WE | east of **Monto's Rest**
+Taxidermist House, Big Valley, WE | all around it
+Nekoti Rock, Tall Trees, WE | along the path eastbound from **Nekoti Rock**
+Manteca Falls, Hennigan's Stead, NA | between the train tracks and path northwest of **Manteca Falls**
+
+### California Condor
 
 Location | Details
 :--- | ---
 Repentance, Rio Bravo, NA | flying overhead
 
 ### Cormorant
+
+*Two species: Double Crested and Neotropic. Double Crested spawns around most large bodies of water. (Dakota River, Kamassa River, Flat Iron Lake, etc.) Neotropic spawns in select places along the shore of the Lannahechee River.*
 
 Location | Details
 :--- | ---
@@ -2301,18 +2341,22 @@ Braithwaite Manor, Scarlett Meadows, LE | `Neotropic` variant spawns sparsely al
 
 ### Crane
 
+*Two species: Whooping and Sandhill. Both usually spawn in the same places.*
+
 Location | Details
 :--- | ---
 Crawdad Willies, Bayou Nwa, LE | east of **Shady Belle**, south of **Crawdad Willies**
 Bayall Edge, Bayou Nwa, LE | north of **Bayall Edge** past the train bridge
 
-### Crow
+### American Crow
 
 Location | Details
 :--- | ---
 Bolger Glade, Scarlett Meadows, LE | flying overhead and perched atop... well, everything
 
 ### Duck
+
+*Two species: Pekin and Mallard. Both usually spawn in the same places.*
 
 Location | Details
 :--- | ---
@@ -2321,7 +2365,7 @@ Dakota River, Heartlands, NH | perched and flying over the river
 
 ### Eagle
 
-*These can be found literally everywhere. Even up northwest in the barren mountains. Both Hawks and Eagles spawn flying over dead carcasses. This happens even at night.*
+*Two species: Golden and Bald. These can be found literally everywhere. Even up northwest in the barren mountains. Both Hawks and Eagles spawn flying over dead carcasses. This happens even at night.*
 
 Location | Details
 :--- | ---
@@ -2332,11 +2376,13 @@ Tanner's Reach, Tall Trees, WE | tons of eagles
 
 ### Egret
 
+*Three species: Reddish, Little, and Snowy. All spawn around the same locations.*
+
 Location | Details
 :--- | ---
 Bayall Edge, Bayou Nwa, LE | primarily north of **Bayall Edge**
 
-### Goose
+### Canada Goose
 
 Location | Details
 :--- | ---
@@ -2345,7 +2391,7 @@ Fairvale Shanty, Grizzlies East, AM | south of **Fairvale Shanty**
 
 ### Hawk
 
-*These can be found literally everywhere. Even up northwest in the barren mountains. Both Hawks and Eagles spawn flying over dead carcasses. This happens even at night.*
+*Three species: Ferringous, Rough-Legged, and Red Tailed. These can be found literally everywhere. Even up northwest in the barren mountains. Both Hawks and Eagles spawn flying over dead carcasses. This happens even at night.*
 
 Location | Details
 :--- | ---
@@ -2356,11 +2402,15 @@ Tanner's Reach, Tall Trees, WE | tons of eagles
 
 ### Heron
 
+*Two species: Great Blue and Tricolored. Both spawn around the same locations.*
+
 Location | Details
 :--- | ---
 Lannahechee River, Bayou Nwa, LE | perched on the sand islands along the river northeast of **Saint Denis**
 
 ### Loon
+
+*Three species: Common, Pacific, and Yellow-Billed. All spawn around the same locations.*
 
 Location | Details
 :--- | ---
@@ -2368,17 +2418,23 @@ Owanjila, Big Valley, WE | swimming in and flying over **Owanjila**
 
 ### Oriole
 
+*Two species: Baltimore and Hooded. Both spawn around the same locations.*
+
 Location | Details
 :--- | ---
 Cumberland Falls, Big Valley, WE | along the path westbound from the waterfall
 
 ### Pelican
 
+*Two species: Brown and American White. Both spawn around the same locations.*
+
 Location | Details
 :--- | ---
 Saint Denis, Bayou Nwa, LE | perched around and flying over the docks on the southeast side of **Saint Denis**
 
 ### Pheasant
+
+*Two species: Ring Necked and Chinese Ring Necked. Both spawn in the same locations, and groups may sometimes be of mixed species.*
 
 Location | Details
 :--- | ---
@@ -2387,7 +2443,7 @@ Lucky's Cabin, Heartlands, NH | just northwest of the cabin
 
 ### Pigeon
 
-*Primarily diurnal. Two species: Rock Pigeon and Band-Tailed Pigeon. Rock Pigeon swarms spawn in a few places shared with American Crow swarms.*
+*Primarily diurnal. Two species: Rock and Band-Tailed. Rock Pigeon swarms spawn in a few places shared with American Crow swarms.*
 
 Location | Details
 :--- | ---
@@ -2412,7 +2468,7 @@ Location | Details
 :--- | ---
 Carmody Dell, Heartlands, NH | east of the junction southeast of **Carmody Dell**
 Diablo Ridge, Big Valley, WE | at the double junction southwest of **Diablo Ridge**
-Lone Mule Stead, Big Valley, WE | next to northwest corner of house, **24 HOURS**
+Lone Mule Stead, Big Valley, WE | next to northwest corner of house, `24 HOURS`
 
 ### Rat
 
@@ -2440,7 +2496,9 @@ Lone Mule Stead, Big Valley, WE | Black | around the cabin
 Fort Riggs, Big Valley, WE | Black<br>Brown | around the western fort
 The Old Bacchus Place, Hennigan's Stead, NA | Brown | numerous scoreless brown rats inside the shack
 
-### Raven
+### Western Raven
+
+*They're everywhere... E V E R Y W H E R E ! !*
 
 Location | Details
 :--- | ---
@@ -2473,12 +2531,32 @@ Aurora Basin, Tall Trees, WE | up to three perched on ground next to directional
 
 ### Seagull
 
+*Three species: Herring, Laughing, and Ring-Billed. All spawn in the same locations.*
+
 Location | Details
 :--- | ---
 Saint Denis, Bayou Nwa, LE | along the docks on the southeast side of **Saint Denis**
 Gill's Landing, Heartlands, NH | along the water west of **Gill's Landing**
 
+### Snake
+
+*&bull; Three species of Rattlesnake: Diamondback, Black-Tailed, and Timber.<br>&bull; Two species of Copperhead: Northern and Southern.<br>&bull; Three species of water snake: Midland, Northern, and Cottonmouth.<br>&bull; *
+
+Location | Details
+:--- | ---
+Old Harry Fen, Scarlett Meadows, LE | `Southern Copperhead` variant
+Shady Belle, Bayou Nwa, LE | `Southern Copperhead` variant; from the sand islands east of **Shady Belle**, then north past **Crawdad Willies** all the way to the train tracks
+Bayall Edge, Bayou Nwa, LE | north and east of **Bayall Edge**, south of **Hagen Orchards**
+Macomb's End, Bayou Nwa, LE | all around that general area
+Lagras, Bayou Nwa, LE | swimming in all the water east of **Lagras**
+Lakay, Bayou Nwa, LE | northeast of **Lakay** along the big path northbound coming out of **Saint Denis**
+Lakay, Bayou Nwa, LE | west and southeast of the 'W' in "BAYOU N**W**A"
+Saint Denis, Bayou Nwa, LE | northeast of the 'E' in "LEMOYN**E**"
+Fort Brennand, Roanoke Ridge, NH | inside and around **Fort Brennand**
+
 ### Songbird
+
+*Two species: Scarlet Tanager and Western Tanager.*
 
 Location | Details
 :--- | ---
@@ -2487,15 +2565,38 @@ Owanjila Dam, Big Valley, WE | `Western` variant flying overhead
 
 ### Sparrow
 
+*Three species: American Tree, Eurasian Tree, and Golden Crowned.*
+
 Location | Details
 :--- | ---
-Taxodermist House, Big Valley, WE | perched on and all around the whole damn house
+Taxidermist House, Big Valley, WE | perched on and all around the whole damn house
 
-### Spoonbill
+### Roseate Spoonbill
 
 Location | Details
 :--- | ---
 Bayall Edge, Bayou Nwa, LE | north of **Bayall Edge**
+
+### Squirrel
+
+*Three species: American Red, Western Gray, and Black. All three spawn in the same locations. Black Squirrels may sometimes show up as Western Gray Squirrels.*
+
+Location | Details
+:--- | ---
+Six Point Cabin, Cumberland Forest, NH | all around the cabin
+Ringneck Creek, Scarlett Meadows, LE | place has a damn squirrel infestation problem
+Clemens Point, Scarlett Meadows, LE | north and northeast of **Clemens Point**
+Bolger Glade, Scarlett Meadows, LE | all around **Bolger Glade**
+Bolger Glade, Scarlett Meadows, LE | northeast of **Bolger Glade** all the way to the county border
+Taxidermist House, Big Valley, WE | west and northwest of **Taxidermist House**
+
+### Toad
+
+*Two species: Western and Sonoran Desert.*
+
+Location | Details
+:--- | ---
+San Luis River, Rio Bravo, NA | along the shoreline from southeast of **Plainview** all the way to **Rio del Lobo Rock**; highest concentration around and on the islands southeast of **Plainview**
 
 ### Turkey
 
@@ -2569,6 +2670,8 @@ Pleasance House, Cholla Springs, NA | in the hills west of **Pleasance House**; 
 
 ### Bull
 
+*Two species: Angus, Devon, Hereford.*
+
 Location | Details
 :--- | ---
 Carmody Dell, Heartlands, NH | in fenced off area on north side of ranch
@@ -2577,6 +2680,8 @@ Bayou Nwa, LE | in ranch north of second 'A' in "BAYOU NW**A**"
 Hanging Dog Ranch, Big Valley, WE | scoreless; Epilogue only
 
 ### Ox
+
+*Two species: Angus and Devon.*
 
 Location | Details
 :--- | ---
@@ -2600,6 +2705,8 @@ Macfarlane's Ranch, Hennigan's Stead, NA | grazing with rancher alongside the pa
 
 ### Rooster
 
+*Three species: Java, Dominique, and Leghorn. All can be found at the same places.*
+
 Location | Details
 :--- | ---
 Granger's Hoggery, Heartlands, NH | roaming around the shack
@@ -2613,6 +2720,8 @@ Macfarlane's Ranch, Hennigan's Stead, NA | up to four around chicken coops on so
 
 ### Chicken
 
+*Three species: Java, Dominique, and Leghorn. All can be found at the same places.*
+
 Location | Details
 :--- | ---
 Emerald Ranch, Heartlands, NH | in a pen on the southwest side of ranch
@@ -2620,6 +2729,8 @@ Armadillo, Cholla Springs, NA | in a pen on the north edge of town
 Rathskeller Fork, Gaptooth Ridge, NA | roaming around the farm
 
 ### Pig
+
+*Three species: Berkshire, Big China, and Old Spot. All can be found in the same places.*
 
 Location | Details
 :--- | ---
@@ -2656,61 +2767,61 @@ Little Creek River, Big Valley, WE | coming from tree line herded by rancher hea
 
 Breed | Coat | Type | Handling | Health | Stamina | Speed | Acceleration | Location(s)
 :---- | ---- | ---- | -------- | ------ | ------- | ----- | ------------ | -----------
-American Paint | Grey Overo | Work | Standard | 5 | 5 | 4 | 4 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
+American Paint | Grey Overo | Work | Standard | 5 | 5 | 4 | 4 | &bull; **Tumbleweed, Gaptooth Ridge, NA** (stable)
 American Paint | Overo | Work | Standard | 3 | 4 | 3 | 3 | -
 American Paint | Splashed White | Work | Standard | 3 | 5 | 3 | 3 | -
 American Paint | Tobiano | Work | Standard | 3 | 4 | 3 | 3 | -
 American Standardbred | Black | Race | Race | 3 | 3 | 4 | 3 | -
 American Standardbred | Buckskin | Race | Race | 3 | 3 | 4 | 3 | -
-American Standardbred | Palomino Dapple | Race | Race | 3 | 3 | 5 | 4 | **Valentine, Heartlands, NH** (stable)
-American Standardbred | Silver Tail Buckskin | Race | Race | 4 | 4 | 5 | 5 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
-Andalusian | Dark Bay | War | Standard | 5 | 4 | 3 | 3 | **Strawberry, Big Valley, WE** (stable)
-Andalusian | Rose Grey | War | Standard | 7 | 5 | 3 | 3 | **Van Horn, Roanoke Ridge, NH** (stable)
-Andalusian | Perlino | War | Standard | 7 | 5 | 3 | 3 | **Brandywine Drop, Roanoke Ridge, NH**
+American Standardbred | Palomino Dapple | Race | Race | 3 | 3 | 5 | 4 | &bull; **Valentine, Heartlands, NH** (stable)
+American Standardbred | Silver Tail Buckskin | Race | Race | 4 | 4 | 5 | 5 | &bull; **Tumbleweed, Gaptooth Ridge, NA** (stable)
+Andalusian | Dark Bay | War | Standard | 5 | 4 | 3 | 3 | &bull; **Strawberry, Big Valley, WE** (stable)
+Andalusian | Rose Grey | War | Standard | 7 | 5 | 3 | 3 | &bull; **Van Horn, Roanoke Ridge, NH** (stable)
+Andalusian | Perlino | War | Standard | 7 | 5 | 3 | 3 | &bull; **Brandywine Drop, Roanoke Ridge, NH**
 Appaloosa | Blanket | Work | Standard | 3 | 4 | 3 | 3 | -
-Appaloosa | Brown Leopard | Work | Standard | 5 | 6 | 4 | 3 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
-Appaloosa | Leopard | Work | Standard | 5 | 6 | 4 | 3 | **Van Horn, Roanoke Ridge, NH** (stable)
+Appaloosa | Brown Leopard | Work | Standard | 5 | 6 | 4 | 3 | &bull; **Tumbleweed, Gaptooth Ridge, NA** (stable)
+Appaloosa | Leopard | Work | Standard | 5 | 6 | 4 | 3 | &bull; **Van Horn, Roanoke Ridge, NH** (stable)
 Appaloosa | Leopard Blanket | Work | Standard | 3 | 4 | 3 | 3 | -
 Appaloosa | Few Spotted | Work | Standard | 3 | 5 | 3 | 3 | -
-Appaloosa | Scarred Blanket | Work | Standard | 3 | 3 | 2 | 2 | during random encounters with Murfree Brood
-Arabian | Black | Superior | Elite | 6 | 6 | 6 | 6 | **Saint Denis, Bayou Nwa, LE** (stable)<br>random encounter `Pedestrian Robbery` in **Saint Denis, Bayou Nwa, LE**
-Arabian | Rose Grey Bay | Superior | Elite | 7 | 7 | 6 | 6 | **Blackwater, Great Plains, WE** (stable)
-Arabian | White | Superior | Elite | 5 | 5 | 6 | 6 | **Lake Isabella, Grizzlies West, AM**
-Arabian | Red Chestnut | Superior | Elite | 4 | 5 | 5 | 4 | **Owanjila, Big Valley, WE** (west side)
-Arabian | Warped Brindle | Superior | Elite | 3 | 5 | 6 | 4 | **Wapiti, Grizzlies East, AM** (northwest of)
-Ardennes | Bay Roan | War | Standard | 5 | 4 | 3 | 3 | **Scarlett Meadows, Scarlett Meadows, LE** (stable)
-Ardennes | Strawberry Roan | War | Standard | 7 | 5 | 3 | 3 | **Van Horn, Roanoke Ridge, NH** (stable)
-Belgian Draft | Mealy Chestnut<br>Blonde Chestnut | Draft | Heavy | 3 | 3 | 3 | 3 | pulling random NPC wagons
-Dutch Warmblood | Chocolate Roan | Work | Standard | 5 | 6 | 4 | 3 | **Valentine, Heartlands, NH** (stable)
-Dutch Warmblood | Seal Brown | Work | Standard | 4 | 5 | 3 | 3 | **Strawberry, Big Valley, WE** (stable)<br>`Bounty Hunter` random encounters<br>ridden by one of Cornwall's men during `An Honest Mistake`
-Dutch Warmblood | Sooty Buckskin | Work | Standard | 4 | 5 | 3 | 3 | **Scarlett Meadows, LE** (stable)<br>`Prospector` random encounters<br>`Bounty Hunter` random encounters
-Dutch Warmblood **(!)** | Cremello Gold | Work | Standard | - | - | - | - | during `The Veteran - V`
-Hungarian Halfbred | Dapple Dark Grey | War | Standard | 5 | 4 | 3 | 3 | **Valentine, Heartlands, NH** (stable)
-Hungarian Halfbred | Flaxen Chestnut | War | Standard | 4 | 3 | 3 | 3 | Wild
-Hungarian Halfbred | Piebald Tobiano | War | Standard | 4 | 3 | 3 | 3 | **Twin Stack Pass, Heartlands, NH** (bounty hunter camp west of)<br>during `An Honest Mistake`
-Kentucky Saddler | Grey<br>Chestnut Pinto<br>Black<br>Silver Bay | Riding | Standard | 3 | 2 | 3 | 2 | Ambient/Wild
-Missouri Fox Trotter | Amber Champagne | Race/Work | Standard | 5 | 6 | 7 | 5 | **Scarlett Meadows, LE** (stable)
-Missouri Fox Trotter | Silver Dapple Pinto | Race/Work | Standard | 5 | 6 | 7 | 5 | **Blackwater, Great Plains, WE** (stable)<br>during `Arcadia for Amateurs - III`<br>during `Trapped Rider` random encounters
-Morgan | Palomino<br>Bay<br>Bay Roan<br>Flaxen Chestnut | Riding | Standard | 2 | 3 | 3 | 2 | Ambient/Wild
-Mustang | Grullo Dun<br>Wild Bay | War/Work | Standard | 4 | 4 | 3 | 2 | Wild
-Mustang | Tiger Striped Bay | War/Work | Standard | 5 | 5 | 4 | 3 | **Rio Del Lobo Rock, Rio Bravo, NA**
-Nokota | Reverse Dapple Roan | Race | Race | 3 | 3 | 7 | 5 | **Saint Denis, Bayou Nwa, LE** (stable)
-Nokota | Blue Roan<br>White Roan | Race | Race | 3 | 3 | 4 | 3 | Wild
-Nokota | Scarred Blue Roan | Race | Race | 3 | 3 | 4 | 3 | during random encounters with Murfree Brood
-Shire | Dark Bay<br>Light Grey | Draft | Heavy | 4 | 3 | 3 | 2 | pulling NPC wagons
-Shire **(!)** | Raven Black | Draft | Heavy | 4 | 4 | 3 | 2 | during `Exit Pursued by a Bruised Ego`
-Suffolk Punch | Red Chestnut | Draft | Heavy | - | - | 3 | 2 | pulling NPC wagons
-Tennessee Walker | Flaxen Roan | Riding | Standard | 3 | 3 | 2 | 2 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
-Tennessee Walker | Mahogany Bay | Riding | Standard | 3 | 3 | 2 | 2 | during `Outlaws from the West`
-Tennessee Walker | Gold Palomino | Riding | Standard | 3 | 4 | 3 | 2 | Ambient/Wild
-Tennessee Walker | Black Rabicano<br>Chestnut<br>Dapple Bay<br>Red Roan | Riding | Standard | 3 | 3 | 2 | 2 | Ambient/Wild
-Thoroughbred | Brindle | Race | Race | 3 | 3 | 7 | 5 | **Strawberry, Big Valley, WE** (stable)
-Thoroughbred | Blood Bay<br>Dapple Grey | Race | Race | 3 | 3 | 4 | 3 | Wild
-Thoroughbred **(!)** | Seal Brown | Race | Race | 4 | 4 | 6 | 4 | after `The Wheel`
-Turkoman | Dark Bay | Race/War | Standard | 7 | 5 | 6 | 5 | **Blackwater, Great Plains, WE** (stable)
-Turkoman | Gold | Race/War | Standard | 7 | 5 | 6 | 5 | **Saint Denis, Bayou Nwa, LE** (stable)
-Turkoman | Silver | Race/War | Standard | 7 | 5 | 6 | 5 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
-Mule | - | Work | Standard | - | - | - | - | **Emerald Ranch, Heartlands, NH** (south side of ranch in front of Seamus' **Fence**)
+Appaloosa | Scarred Blanket | Work | Standard | 3 | 3 | 2 | 2 | &bull; during random encounters with **Murfree Brood**
+Arabian | Black | Superior | Elite | 6 | 6 | 6 | 6 | &bull; **Saint Denis, Bayou Nwa, LE** (stable)<br><br>&bull; random encounter `Pedestrian Robbery` in **Saint Denis, Bayou Nwa, LE**
+Arabian | Rose Grey Bay | Superior | Elite | 7 | 7 | 6 | 6 | &bull; **Blackwater, Great Plains, WE** (stable)
+Arabian | White | Superior | Elite | 5 | 5 | 6 | 6 | &bull; **Lake Isabella, Grizzlies West, AM**
+Arabian | Red Chestnut | Superior | Elite | 4 | 5 | 5 | 4 | &bull; **Owanjila, Big Valley, WE** (west side)
+Arabian | Warped Brindle | Superior | Elite | 3 | 5 | 6 | 4 | &bull; **Wapiti, Grizzlies East, AM** (northwest of)
+Ardennes | Bay Roan | War | Standard | 5 | 4 | 3 | 3 | &bull; **Scarlett Meadows, Scarlett Meadows, LE** (stable)
+Ardennes | Strawberry Roan | War | Standard | 7 | 5 | 3 | 3 | &bull; **Van Horn, Roanoke Ridge, NH** (stable)
+Belgian Draft | Mealy Chestnut<br>Blonde Chestnut | Draft | Heavy | 3 | 3 | 3 | 3 | &bull; pulling random NPC wagons
+Dutch Warmblood | Chocolate Roan | Work | Standard | 5 | 6 | 4 | 3 | &bull; **Valentine, Heartlands, NH** (stable)
+Dutch Warmblood | Seal Brown | Work | Standard | 4 | 5 | 3 | 3 | &bull; **Strawberry, Big Valley, WE** (stable)<br><br>&bull; `Bounty Hunter` random encounters<br><br>&bull; ridden by one of Cornwall's men during `An Honest Mistake`
+Dutch Warmblood | Sooty Buckskin | Work | Standard | 4 | 5 | 3 | 3 | &bull; **Scarlett Meadows, LE** (stable)<br><br>&bull; `Prospector` random encounters<br><br>&bull; `Bounty Hunter` random encounters
+Dutch Warmblood **(!)** | Cremello Gold | Work | Standard | - | - | - | - | &bull; during `The Veteran - V`
+Hungarian Halfbred | Dapple Dark Grey | War | Standard | 5 | 4 | 3 | 3 | &bull; **Valentine, Heartlands, NH** (stable)
+Hungarian Halfbred | Flaxen Chestnut | War | Standard | 4 | 3 | 3 | 3 | &bull; Wild
+Hungarian Halfbred | Piebald Tobiano | War | Standard | 4 | 3 | 3 | 3 | &bull; **Twin Stack Pass, Heartlands, NH** (bounty hunter camp west of)<br><br>&bull; during `An Honest Mistake`
+Kentucky Saddler | Grey<br>Chestnut Pinto<br>Black<br>Silver Bay | Riding | Standard | 3 | 2 | 3 | 2 | &bull; Ambient/Wild
+Missouri Fox Trotter | Amber Champagne | Race/Work | Standard | 5 | 6 | 7 | 5 | &bull; **Scarlett Meadows, LE** (stable)
+Missouri Fox Trotter | Silver Dapple Pinto | Race/Work | Standard | 5 | 6 | 7 | 5 | &bull; **Blackwater, Great Plains, WE** (stable)<br>during `Arcadia for Amateurs - III`<br>during `Trapped Rider` random encounters
+Morgan | Palomino<br>Bay<br>Bay Roan<br>Flaxen Chestnut | Riding | Standard | 2 | 3 | 3 | 2 | &bull; Ambient/Wild
+Mustang | Grullo Dun<br>Wild Bay | War/Work | Standard | 4 | 4 | 3 | 2 | &bull; Wild
+Mustang | Tiger Striped Bay | War/Work | Standard | 5 | 5 | 4 | 3 | &bull; **Rio Del Lobo Rock, Rio Bravo, NA**
+Nokota | Reverse Dapple Roan | Race | Race | 3 | 3 | 7 | 5 | &bull; **Saint Denis, Bayou Nwa, LE** (stable)
+Nokota | Blue Roan<br>White Roan | Race | Race | 3 | 3 | 4 | 3 | &bull; Wild
+Nokota | Scarred Blue Roan | Race | Race | 3 | 3 | 4 | 3 | &bull; during random encounters with Murfree Brood
+Shire | Dark Bay<br>Light Grey | Draft | Heavy | 4 | 3 | 3 | 2 | &bull; pulling NPC wagons
+Shire **(!)** | Raven Black | Draft | Heavy | 4 | 4 | 3 | 2 | &bull; during `Exit Pursued by a Bruised Ego`
+Suffolk Punch | Red Chestnut | Draft | Heavy | - | - | 3 | 2 | &bull; pulling NPC wagons
+Tennessee Walker | Flaxen Roan | Riding | Standard | 3 | 3 | 2 | 2 | &bull; **Tumbleweed, Gaptooth Ridge, NA** (stable)
+Tennessee Walker | Mahogany Bay | Riding | Standard | 3 | 3 | 2 | 2 | &bull; during `Outlaws from the West`
+Tennessee Walker | Gold Palomino | Riding | Standard | 3 | 4 | 3 | 2 | &bull; Ambient/Wild
+Tennessee Walker | Black Rabicano<br>Chestnut<br>Dapple Bay<br>Red Roan | Riding | Standard | 3 | 3 | 2 | 2 | &bull; Ambient/Wild
+Thoroughbred | Brindle | Race | Race | 3 | 3 | 7 | 5 | &bull; **Strawberry, Big Valley, WE** (stable)
+Thoroughbred | Blood Bay<br>Dapple Grey | Race | Race | 3 | 3 | 4 | 3 | &bull; Wild
+Thoroughbred **(!)** | Seal Brown | Race | Race | 4 | 4 | 6 | 4 | &bull; after `The Wheel`
+Turkoman | Dark Bay | Race/War | Standard | 7 | 5 | 6 | 5 | &bull; **Blackwater, Great Plains, WE** (stable)
+Turkoman | Gold | Race/War | Standard | 7 | 5 | 6 | 5 | &bull; **Saint Denis, Bayou Nwa, LE** (stable)
+Turkoman | Silver | Race/War | Standard | 7 | 5 | 6 | 5 | &bull; **Tumbleweed, Gaptooth Ridge, NA** (stable)
+Mule | - | Work | Standard | - | - | - | - | &bull; **Emerald Ranch, Heartlands, NH** (south side of ranch in front of Seamus' **Fence**)
 
 **Early Unlocks:**
 
