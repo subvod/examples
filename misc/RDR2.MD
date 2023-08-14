@@ -140,7 +140,7 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;[Huge Bass with Kieran](#huge-bass-with-kieran)
 <br>&emsp;[Double skins](#double-skins)
 <br>[EASTER EGGS](#easter-eggs)
-<br>&emsp;[S.L. Caskets]()
+<br>&emsp;[SL Caskets](#sl-caskets)
 <br>&emsp;[Witch in Graveyard](#witch-in-graveyard)
 <br>&emsp;[Skinner Brothers Yelps](#skinner-brothers-yelps)
 <br>&emsp;[Voices at Old Camps](#voices-at-old-camps)
@@ -190,17 +190,40 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;&emsp;[Timber Wolf](#timber-wolf)
 <br>&emsp;&emsp;[Cougar](#cougar)
 <br>&emsp;&emsp;[Grizzly Bear](#grizzly-bear)
-<br>&emsp;&emsp;[Hawk and Eagle](#hawk-and-eagle)
-<br>&emsp;&emsp;[Vulture](#vulture)
 <br>&emsp;&emsp;[Gray Wolf](#gray-wolf)
-<br>&emsp;[Small Birds and Animals](#small-birds)
+<br>&emsp;[Birds and Small Game Animals](#birds-and-small-game-animals)
 <br>&emsp;&emsp;[Scoreless Spawns](#scoreless-spawns)
+<br>&emsp;&emsp;[Little Brown Bat](#little-brown-bat)
+<br>&emsp;&emsp;[Blue Jay](#blue-jay)
+<br>&emsp;&emsp;[Cardinal](#cardinal)
+<br>&emsp;&emsp;[Condor](#condor)
+<br>&emsp;&emsp;[Cormorant](#cormorant)
+<br>&emsp;&emsp;[Crane](#crane)
+<br>&emsp;&emsp;[Crow](#crow)
+<br>&emsp;&emsp;[Duck](#duck)
+<br>&emsp;&emsp;[Eagle](#eagle)
+<br>&emsp;&emsp;[Egret](#egret)
+<br>&emsp;&emsp;[Goose](#goose)
+<br>&emsp;&emsp;[Hawk](#hawk)
+<br>&emsp;&emsp;[Heron](#heron)
+<br>&emsp;&emsp;[Loon](#loon)
+<br>&emsp;&emsp;[Oriole](#oriole)
+<br>&emsp;&emsp;[Pelican](#pelican)
+<br>&emsp;&emsp;[Pheasant](#pheasant)
+<br>&emsp;&emsp;[Pigeon](#pigeon)
+<br>&emsp;&emsp;[California Quail](#california-quail)
+<br>&emsp;&emsp;[Rat](#rat)
+<br>&emsp;&emsp;[Raven](#raven)
+<br>&emsp;&emsp;[American Robin](#american-robin)
+<br>&emsp;&emsp;[Seagull](#seagull)
+<br>&emsp;&emsp;[Songbird](#songbird)
+<br>&emsp;&emsp;[Sparrow](#sparrow)
+<br>&emsp;&emsp;[Spoonbill](#spoonbill)
+<br>&emsp;&emsp;[Turkey](#turkey)
+<br>&emsp;&emsp;[Vulture](#vulture)
+<br>&emsp;&emsp;[Cedar Waxwing](#cedar-waxwing)
 <br>&emsp;&emsp;[Pileated Woodpecker](#pileated-woodpecker)
 <br>&emsp;&emsp;[Red Bellied Woodpecker](#red-bellied-woodpecker)
-<br>&emsp;&emsp;[American Robin](#american-robin)
-<br>&emsp;&emsp;[Pigeon](#pigeon)
-<br>&emsp;&emsp;[Little Brown Bat](#little-brown-bat)
-<br>&emsp;&emsp;[Rat](#rat)
 <br>&emsp;[Domestic Animal Locations](#domestic-animal-locations)
 <br>&emsp;&emsp;[Bull](#bull)
 <br>&emsp;&emsp;[Ox](#ox)
@@ -1474,7 +1497,7 @@ $10.00 | Rat Tail<br>Queen's<br>Lady Slipper<br>
 
 *These are bugs which don't appear to have exploitable benefits.*
 
-### Facial hair glitch
+### Facial hair bug
 
 Sometimes the player's facial hair will appear to grow beside the eyes, high on the sides of the jaw, and patches on the lower neck. The only way to fix this is to exit and restart the game.
 
@@ -1754,7 +1777,7 @@ Much information here was sourced from the [Red Dead Fandom](https://reddead.fan
 
 - Random dead camper at dilapidated campsite just down the hill from **Hawks Eye Cabin, Big Valley, WE**. Only spawns at night.
 
-### S.L. Caskets
+### SL Caskets
 
 [Reference.](https://redd.it/13flp4a)
 
@@ -2004,6 +2027,8 @@ Span | Effect
 
 ### Animal Scenarios
 
+*Scenario events occur at random. Spending a lot of time in one area, resting and sleeping often, saving and reloading, and allowing the game to enter the idle Cinematic Camera seem to contribute to spawning them.*
+
 Animal(s) | Location(s) | Description
 :--- | --- | ---
 Cougar<br>Deer | &bull; Little Creek River, Big Valley, WE (south of 'E' in "Little Creek Riv**e**r", 11:23, 20:56) | Cougar stalks and attacks Deer.
@@ -2022,7 +2047,7 @@ Grizzly Bear<br>Sockeye Salmon | &bull; O'Creagh's Run, Grizzlies East, AM (nort
 Fox | &bull; Barrow Lagoon, Grizzlies West, AM (south of lagoon)<br><br>&bull; Spider Gorge, Grizzlies West, AM (south of 'S' in "**S**pider Gorge") | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
 Gray Wolf | &bull; Elysian Pool, Roanoke Ridge, NH (southeast of)<br><br>&bull; Lake Isabella, Grizzlies West, AM (northwest path)<br><br>&bull; Cairn Lake, Grizzlies West, AM (south side of the path leading westbound away from the lake)<br><br>&bull; Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
 Gray Wolf | &bull; Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of)<br><br>&bull; Lake Isabella, Grizzlies West, AM (atop the cliff overlooking the waterfall on the northwest side of lake) | Mourning over dead wolf.
-American Fox Hound<br>Bluetick Coonhound | &bull; Painted Sky, Big Valley, WE (east side of path next to junction directly west of woodpecker icon) | Two domestic dogs play-fighting.
+American Fox Hound<br>Bluetick Coonhound | &bull; Rhodes, Scarlett Meadows, LE (next to the train station; [[Source.]](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/?do=findComment&comment=1072192862))<br><br>&bull; Painted Sky, Big Valley, WE (east side of path next to junction directly west of woodpecker icon) | Two domestic dogs play-fighting.
 
 ## Rival Gangs
 
@@ -2208,34 +2233,7 @@ Bear Claw, Tall Trees, WE | south of **Bear Claw** | -
 Aurora Basin, Tall Trees, WE | eating deer carcass on northeastern peninsula | 15:15
 Aurora Basin, Tall Trees, WE | catching salmon on east shore | 14:42
 
-### Hawk and Eagle
-
-*These can be found literally everywhere. Even up northwest in the barren mountains. Both Hawks and Eagles spawn flying over dead carcasses. This happens even at night. Yes, when they're meant to be roosted in their nests. I don't understand it, either.*
-
-Location | Details
-:--- | ---
-Twin Stack Pass, Heartlands, NH | both perched atop and flying around the peaks
-Grizzlies East, AM | tons of both flying and perched around the first 'I' in "GR**I**ZZLIES EAST"
-Mount Hagen, Grizzlies West, AM | perched on top of mountain and flying overhead
-Tanner's Reach, Tall Trees, WE | tons of eagles
-
-### Vulture
-
-*Primarily diurnal scavenger birds. Easy to attract with dead animals. Skinning a dead animal doesn't appear to affect the level of attractance. I don't know if that's a word.*
-
-**NOTE:** These seem to be more common at run down and burned areas. Including Pleasance, Limpany, Armadillo, etc.
-
-Location | Details
-:--- | ---
-Bard's Crossing, Heartlands, NH | sunning atop southern railing on east side of bridge; directly north of 'G' in "BARD'S CROSSIN**G**"
-Twin Stack Pass, Heartlands, NH | flying overhead and perched atop cliffs
-Dewberry Creek, Scarlett Meadows, LE | flying overhead
-Bluewater Marsh, LE | flying overhead
-Lenora View, Big Valley, WE | sunning atop a large rock on the west side of the road southeast of the cabin
-Hawks Eye Creek, Big Valley, WE | scavenging a deer carcass at the eastern tip of the 'Z' in "WEST ELI**Z**ABETH"
-Armadillo, Cholla Springs, NA | flying all around the outskirts of Armadillo
-
-## Small Birds and Animals
+## Birds and Small Game Animals
 
 Damn tiny things.
 
@@ -2252,6 +2250,282 @@ Trail Trees, Roanoke Ridge, NH | atop the railing of a bridge northeast of **Tra
 Cattail Pond, Grizzlies West, AM | atop the flat rockface directly west of the pond
 Taxidermist House, Big Valley, WE | atop the house
 Lone Mule Stead, Big Valley, WE | atop the house
+
+### Little Brown Bat
+
+*Solely nocturnal and common across Lemoyne, but can be found in only certain locations outside of Lemoyne.*
+
+Location | Details
+:--- | ---
+Bolger Glade, Scarlett Meadows, LE | perched on **Abandoned Church**; also may be flying overhead
+Braithwaite Manor, Scarlett Meadows, LE | flying around the boat house on the east shore of **Flat Iron Lake**
+Bayall Edge, Bayou Nwa, LE | perched on the front of the cabin
+Canebreak Manor, Bluewater Marsh, LE | flying over the marsh flats
+Macomb's End, Bayou Nwa, LE | swarm in the easternmost house
+Pleasance, Scarlett Meadows, LE | swarm in the schoolhouse damaged by a fallen tree; south of 'c' in "Pleasan**c**e"
+Fort Brennand, Roanoke Ridge, NH | perched in southwest crows nest
+Elysian Pool, Roanoke Ridge, NH | perched on ceiling of cave inside the waterfall
+Wild Man's Cave, Roanoke Ridge, NH | perched on ceiling of cave entrance
+Flattened Cabin, Grizzlies East, AM | inside the cabin at **Moonstone Pond**; tons of them if you approach shortly after; 18:00
+Big Valley, WE | perched in the opening of the dinosaur bone cave northeast of **Watson's Cabin**
+Mount Shann, Big Valley, WE | cave mouth just south of 'U' in "MO**U**NT SHANN"; same cave **Winton Holmes** and the player travel to during `Money Lending and Other Sins IV`
+Swadbass Point, Tall Trees, WE | perched on north side of cabin at **Aurora Basin**
+Two Crows, Cholla Springs, NA | perched in northern shed
+Tumbleweed, Gaptooth Ridge, NA | atop the large two story house on the west edge of Tumbleweed
+
+### Blue Jay
+
+Location | Details
+:--- | ---
+Caliban's Seat, Heartlands, NH | flying overhead southeast of **Caliban's Seat**
+Dakota River, Heartlands, NH | atop rocks along the river
+
+### Cardinal
+
+Location | Details
+:--- | ---
+Downes Ranch, Heartlands, NH | southwest of **Downes Ranch**
+
+### Condor
+
+Location | Details
+:--- | ---
+Repentance, Rio Bravo, NA | flying overhead
+
+### Cormorant
+
+Location | Details
+:--- | ---
+Bard's Crossing, Heartlands, NH | `Double Crested` variant flying over the **Dakota River** north of the train bridge
+Braithwaite Manor, Scarlett Meadows, LE | `Neotropic` variant spawns sparsely along the shore of the **Lannahechee River** from southwest **Braithwaite Manor** all the way to **Crawdad Willies**
+
+### Crane
+
+Location | Details
+:--- | ---
+Crawdad Willies, Bayou Nwa, LE | east of **Shady Belle**, south of **Crawdad Willies**
+Bayall Edge, Bayou Nwa, LE | north of **Bayall Edge** past the train bridge
+
+### Crow
+
+Location | Details
+:--- | ---
+Bolger Glade, Scarlett Meadows, LE | flying overhead and perched atop... well, everything
+
+### Duck
+
+Location | Details
+:--- | ---
+All The Water, Everywhere, In The Game | waterfowl stay close to water
+Dakota River, Heartlands, NH | perched and flying over the river
+
+### Eagle
+
+*These can be found literally everywhere. Even up northwest in the barren mountains. Both Hawks and Eagles spawn flying over dead carcasses. This happens even at night.*
+
+Location | Details
+:--- | ---
+Twin Stack Pass, Heartlands, NH | both perched atop and flying around the peaks
+Grizzlies East, AM | tons of both flying and perched around the first 'I' in "GR**I**ZZLIES EAST"
+Mount Hagen, Grizzlies West, AM | perched on top of mountain and flying overhead
+Tanner's Reach, Tall Trees, WE | tons of eagles
+
+### Egret
+
+Location | Details
+:--- | ---
+Bayall Edge, Bayou Nwa, LE | primarily north of **Bayall Edge**
+
+### Goose
+
+Location | Details
+:--- | ---
+Bard's Crossing, Heartlands, NH | swimming in and flying over the river
+Fairvale Shanty, Grizzlies East, AM | south of **Fairvale Shanty**
+
+### Hawk
+
+*These can be found literally everywhere. Even up northwest in the barren mountains. Both Hawks and Eagles spawn flying over dead carcasses. This happens even at night.*
+
+Location | Details
+:--- | ---
+Twin Stack Pass, Heartlands, NH | both perched atop and flying around the peaks
+Grizzlies East, AM | tons of both flying and perched around the first 'I' in "GR**I**ZZLIES EAST"
+Mount Hagen, Grizzlies West, AM | perched on top of mountain and flying overhead
+Tanner's Reach, Tall Trees, WE | tons of eagles
+
+### Heron
+
+Location | Details
+:--- | ---
+Lannahechee River, Bayou Nwa, LE | perched on the sand islands along the river northeast of **Saint Denis**
+
+### Loon
+
+Location | Details
+:--- | ---
+Owanjila, Big Valley, WE | swimming in and flying over **Owanjila**
+
+### Oriole
+
+Location | Details
+:--- | ---
+Cumberland Falls, Big Valley, WE | along the path westbound from the waterfall
+
+### Pelican
+
+Location | Details
+:--- | ---
+Saint Denis, Bayou Nwa, LE | perched around and flying over the docks on the southeast side of **Saint Denis**
+
+### Pheasant
+
+Location | Details
+:--- | ---
+Carmody Dell, Heartlands, NH | northeast and southwest of **Carmody Dell**
+Lucky's Cabin, Heartlands, NH | just northwest of the cabin
+
+### Pigeon
+
+*Primarily diurnal. Two species: Rock Pigeon and Band-Tailed Pigeon. Rock Pigeon swarms spawn in a few places shared with American Crow swarms.*
+
+Location | Details
+:--- | ---
+Bard's Crossing, Heartlands, NH | perched atop railing of railroad bridge over **Flat Iron Lake**
+Bard's Crossing, Heartlands, NH | perched atop rocks on islands below the railroad bridge, usually on the southwest side
+Braithwaite Manor, Scarlett Meadows, LE | swarming over grass northeast of the main plantation house; sometimes perched on ground a ways north of 'E' in "BRAITHWAIT**E** MANOR"
+Saint Denis, Bayou Nwa, LE | perched on the fence and in the mud around dilapidated train station along tracks northwest of **Crawdad Willies**
+Saint Denis, Bayou Nwa, LE | flying over the pond northwest of **Stable**
+Van Horn, Roanoke Ridge, NH | swarming over and perched on a decent sized boulder a few paces NW from the **Van Horn Post Office**
+Van Horn, Roanoke Ridge, NH | perched on the shore north of **Van Horn**
+Annesburg, Roanoke Ridge, NH | perched along the shoreline of the town, usually more numerous on the north shore, may spawn near the piers or atop the dead tree
+Cumberland Falls, Big Valley, WE | perched on the ground in middle of paths' intersection on west side of falls.
+Pleasance House, Cholla Springs, NA | swarming just south of the **Crashed Airship** (south of **Pleasance House**)
+
+### California Quail
+
+*Primarily diurnal. Usually found in groups of three to four, but sometimes as few as just one or as many as six.*
+
+See `RDR2-CaliforniaQuail.jpg` for locations.
+
+Location | Details
+:--- | ---
+Carmody Dell, Heartlands, NH | east of the junction southeast of **Carmody Dell**
+Diablo Ridge, Big Valley, WE | at the double junction southwest of **Diablo Ridge**
+Lone Mule Stead, Big Valley, WE | next to northwest corner of house, **24 HOURS**
+
+### Rat
+
+*Primarily nocturnal. Two species: Black and Brown. Most spawns can yield either at random. Often found scavenging on dead animals, including humans. Especially dead NPCs found at campsites around **Armadillo, Cholla Springs, NA**.*
+
+Location | Species | Details
+:--- | --- | ---
+Oil Derrick, Heartlands, NH | Black<br>Brown | close to the rig tower
+Limpany, Heartlands, NH | Black<br>Brown | mainly in the two story building on the west end
+Bolger Glade, Scarlett Meadows, LE | Black<br>Brown | in and around the **Abandoned Church**
+Prinz & Co, Bayou Nwa, LE | Black<br>Brown | around the trash and carcass piles
+Saint Denis, Bayou Nwa, LE | Brown | tons of scoreless inside **Doyle's Tavern** during the two infestation random encounters associated with it
+Saint Denis, Bayou Nwa, LE | Brown | east end of main path through cemetary near 45 degree turn southeast
+Lagras, Bayou Nwa, LE | Black | a few near the west shore across the road from the **Bait Shop**
+Pleasance, Scarlett Meadows, LE | Black | around the burned down school house
+Copperhead Landing, Bluewater Marsh, LE | Black<br>Brown | around the dilapidated cabin
+Maclean's House, Roanoke Ridge, NH | Brown | next to the outhouse west of the farmhouse
+Fort Brennand, Roanoke Ridge, NH | Black | inside the fort walls
+Wild Man's Cave, Roanoke Ridge, NH | Black | inside the cave
+Van Horn, Roanoke Ridge, NH | Black<br>Brown | behind the **Old Light Saloon**
+Mysterious Hill Home, Grizzlies East, AM | Black | on the southwest side of the home
+Hermit Woman's Shack, Big Valley, WE | Black | inside the shack
+Appleseed Timber Co, Big Valley, WE | Black<br>Brown | inside the foreman's cabin after the area is abandoned
+Lone Mule Stead, Big Valley, WE | Black | around the cabin
+Fort Riggs, Big Valley, WE | Black<br>Brown | around the western fort
+The Old Bacchus Place, Hennigan's Stead, NA | Brown | numerous scoreless brown rats inside the shack
+
+### Raven
+
+Location | Details
+:--- | ---
+Black Bone Forest, Big Valley, WE | flying overhead
+
+### American Robin
+
+*Primarily diurnal. Flies solo. Seems to be quite widespread, but flying spawns appear to be more common in **Great Plains, WE**.*
+
+https://redd.it/146nl7o
+
+> There’s also another 99% guaranteed robin spawn in the woods just east of Hanging Dog Ranch.
+
+> I prefer the bridge at Trail Trees.
+
+Location | Details
+:--- | ---
+Heartland Oil Fields, Heartlands, NH | flying overhead southeast of **Cornwall Kerosene & Tar**
+Braithwaite Manor, Scarlett Meadows, LE | flying overhead east of the manor
+Flat Iron Lake, Scarlett Meadows, LE | perched on the ground; southwestern side of the southernmost island
+Caliga Hall, Bayou Nwa, LE | flying overhead
+Roanoke Ridge, NH | on the railing of the bridge north of **Trapper**, near the **Trail Trees**
+Kamassa River, Roanoke Ridge, NH | perched atop rocks along the river, north of **Elysian Pool** all the way to **Brandywine Drop**
+Fort Brennand, Roanoke Ridge, NH | perched on fort walls and flying overhead
+Fort Wallace, Cumberland Forest, NH | flying overhead east of **Fort Wallace**
+Cattail Pond, Grizzlies West, AM | perched atop rocks west and southwest of the pond
+Upper Montana River, Great Plains, WE | up to four standing on river bank along the south side of the **Upper Montana**; directly across from two canoe spawns south of **Fort Riggs**
+Broken Tree, Great Plains, WE | flying overhead, atop large rocks, and small cliffs southwest of **Blackwater**
+Aurora Basin, Tall Trees, WE | up to three perched on ground next to directional sign at junction south of **Swadbass Point**
+
+### Seagull
+
+Location | Details
+:--- | ---
+Saint Denis, Bayou Nwa, LE | along the docks on the southeast side of **Saint Denis**
+Gill's Landing, Heartlands, NH | along the water west of **Gill's Landing**
+
+### Songbird
+
+Location | Details
+:--- | ---
+Monto's Rest, Big Valley, WE | `Scarlet` variant flying overhead
+Owanjila Dam, Big Valley, WE | `Western` variant flying overhead
+
+### Sparrow
+
+Location | Details
+:--- | ---
+Taxodermist House, Big Valley, WE | perched on and all around the whole damn house
+
+### Spoonbill
+
+Location | Details
+:--- | ---
+Bayall Edge, Bayou Nwa, LE | north of **Bayall Edge**
+
+### Turkey
+
+Location | Details
+:--- | ---
+Huron Glen, Roanoke Ridge, NH | east of **Huron Glen**
+
+### Vulture
+
+*Primarily diurnal scavenger birds. Easy to attract with dead animals. Skinning a dead animal doesn't appear to affect the level of attractance. No, I don't know if that's a word.*
+
+Location | Details
+:--- | ---
+Guthrie Farm, Heartlands, NH | `Western` variant perched atop small cliff northeast of **Guthrie Farm**
+Twin Stack Pass, Heartlands, NH | perched atop the east side of the northern cliff
+Twin Stack Pass, Heartlands, NH | perched atop the south side of the southern cliff
+Twin Stack Pass, Heartlands, NH | northwest corner of the second 'T' in "THE HEAR**T**LANDS"
+Bard's Crossing, Heartlands, NH | sunning atop southern railing on east side of bridge; directly north of 'G' in "BARD'S CROSSIN**G**"
+Twin Stack Pass, Heartlands, NH | flying overhead and perched atop cliffs
+Dewberry Creek, Scarlett Meadows, LE | flying overhead
+Bluewater Marsh, LE | flying overhead
+Lenora View, Big Valley, WE | sunning atop a large rock on the west side of the road southeast of the cabin
+Hawks Eye Creek, Big Valley, WE | scavenging a deer carcass at the eastern tip of the 'Z' in "WEST ELI**Z**ABETH"
+Armadillo, Cholla Springs, NA | flying all around the outskirts of Armadillo
+
+### Cedar Waxwing
+
+Location | Details
+:--- | ---
+Cumberland Falls, Big Valley, WE | along the path westbound from the waterfall
 
 ### Pileated Woodpecker
 
@@ -2291,108 +2565,6 @@ Old Harry Fen, Scarlett Meadows, LE | pecking tree trunk directly west of juncti
 Hennigan's Stead, NA | flying overhead
 Pleasance House, Cholla Springs, NA | in the hills west of **Pleasance House**; sometimes flying, but more often perched on ground and can be stirred up even at night
 
-### American Robin
-
-*Primarily diurnal. Flies solo. Seems to be quite widespread, but flying spawns appear to be more common in **Great Plains, WE**.*
-
-https://redd.it/146nl7o
-
-> There’s also another 99% guaranteed robin spawn in the woods just east of Hanging Dog Ranch.
-
-> I prefer the bridge at Trail Trees.
-
-Location | Details
-:--- | ---
-Heartland Oil Fields, Heartlands, NH | flying overhead southeast of **Cornwall Kerosene & Tar**
-Braithwaite Manor, Scarlett Meadows, LE | flying overhead east of the manor
-Flat Iron Lake, Scarlett Meadows, LE | perched on the ground; southwestern side of the southernmost island
-Caliga Hall, Bayou Nwa, LE | flying overhead
-Roanoke Ridge, NH | on the railing of the bridge north of **Trapper**, near the **Trail Trees**
-Kamassa River, Roanoke Ridge, NH | perched atop rocks along the river, north of **Elysian Pool** all the way to **Brandywine Drop**
-Fort Brennand, Roanoke Ridge, NH | perched on fort walls and flying overhead
-Fort Wallace, Cumberland Forest, NH | flying overhead east of **Fort Wallace**
-Cattail Pond, Grizzlies West, AM | perched atop rocks west and southwest of the pond
-Upper Montana River, Great Plains, WE | up to four standing on river bank along the south side of the **Upper Montana**; directly across from two canoe spawns south of **Fort Riggs**
-Broken Tree, Great Plains, WE | flying overhead, atop large rocks, and small cliffs southwest of **Blackwater**
-Aurora Basin, Tall Trees, WE | up to three perched on ground next to directional sign at junction south of **Swadbass Point**
-
-### California Quail
-
-*Primarily diurnal. Usually found in groups of three to four, but sometimes as few as just one or as many as six.*
-
-See `RDR2-CaliforniaQuail.jpg` for locations.
-
-Location | Details
-:--- | ---
-Carmody Dell, Heartlands, NH | east of the junction southeast of **Carmody Dell**
-Diablo Ridge, Big Valley, WE | at the double junction southwest of **Diablo Ridge**
-Lone Mule Stead, Big Valley, WE | next to northwest corner of house, **24 HOURS**
-
-### Pigeon
-
-*Primarily diurnal. Two species: Rock Pigeon and Band-Tailed Pigeon. Rock Pigeon swarms spawn in a few places shared with American Crow swarms.*
-
-Location | Details
-:--- | ---
-Bard's Crossing, Heartlands, NH | perched atop railing of railroad bridge over **Flat Iron Lake**
-Bard's Crossing, Heartlands, NH | perched atop rocks on islands below the railroad bridge, usually on the southwest side
-Braithwaite Manor, Scarlett Meadows, LE | swarming over grass northeast of the main plantation house; sometimes perched on ground a ways north of 'E' in "BRAITHWAIT**E** MANOR"
-Saint Denis, Bayou Nwa, LE | perched on the fence and in the mud around dilapidated train station along tracks northwest of **Crawdad Willies**
-Saint Denis, Bayou Nwa, LE | flying over the pond northwest of **Stable**
-Van Horn, Roanoke Ridge, NH | swarming over and perched on a decent sized boulder a few paces NW from the **Van Horn Post Office**
-Van Horn, Roanoke Ridge, NH | perched on the shore north of **Van Horn**
-Annesburg, Roanoke Ridge, NH | perched along the shoreline of the town, usually more numerous on the north shore, may spawn near the piers or atop the dead tree
-Cumberland Falls, Big Valley, WE | perched on the ground in middle of paths' intersection on west side of falls.
-Pleasance House, Cholla Springs, NA | swarming just south of the **Crashed Airship** (south of **Pleasance House**)
-
-### Rat
-
-*Primarily nocturnal. Two species: Black and Brown. Most spawns can yield either at random. Often found scavenging on dead animals, including humans. Especially dead NPCs found at campsites around **Armadillo, Cholla Springs, NA**.*
-
-Location | Species | Details
-:--- | --- | ---
-Oil Derrick, Heartlands, NH | Black<br>Brown | close to the rig tower
-Limpany, Heartlands, NH | Black<br>Brown | mainly in the two story building on the west end
-Bolger Glade, Scarlett Meadows, LE | Black<br>Brown | in and around the **Abandoned Church**
-Prinz & Co, Bayou Nwa, LE | Black<br>Brown | around the trash and carcass piles
-Saint Denis, Bayou Nwa, LE | Brown | tons of scoreless inside **Doyle's Tavern** during the two infestation random encounters associated with it
-Saint Denis, Bayou Nwa, LE | Brown | east end of main path through cemetary near 45 degree turn southeast
-Lagras, Bayou Nwa, LE | Black | a few near the west shore across the road from the **Bait Shop**
-Pleasance, Scarlett Meadows, LE | Black | around the burned down school house
-Copperhead Landing, Bluewater Marsh, LE | Black<br>Brown | around the dilapidated cabin
-Maclean's House, Roanoke Ridge, NH | Brown | next to the outhouse west of the farmhouse
-Fort Brennand, Roanoke Ridge, NH | Black | inside the fort walls
-Wild Man's Cave, Roanoke Ridge, NH | Black | inside the cave
-Van Horn, Roanoke Ridge, NH | Black<br>Brown | behind the **Old Light Saloon**
-Mysterious Hill Home, Grizzlies East, AM | Black | on the southwest side of the home
-Hermit Woman's Shack, Big Valley, WE | Black | inside the shack
-Appleseed Timber Co, Big Valley, WE | Black<br>Brown | inside the foreman's cabin after the area is abandoned
-Lone Mule Stead, Big Valley, WE | Black | around the cabin
-Fort Riggs, Big Valley, WE | Black<br>Brown | around the western fort
-The Old Bacchus Place, Hennigan's Stead, NA | Brown | numerous scoreless brown rats inside the shack
-
-### Little Brown Bat
-
-*Solely nocturnal and common across Lemoyne, but can be found in only certain locations outside of Lemoyne.*
-
-Location | Details
-:--- | ---
-Bolger Glade, Scarlett Meadows, LE | perched on **Abandoned Church**; also may be flying overhead
-Braithewaite Manor, Scarlett Meadows, LE | flying around the boat house on the east shore of **Flat Iron Lake**
-Bayall Edge, Bayou Nwa, LE | perched on the front of the cabin
-Canebreak Manor, Bluewater Marsh, LE | flying over the marsh flats
-Macomb's End, Bayou Nwa, LE | swarm in the easternmost house
-Pleasance, Scarlett Meadows, LE | swarm in the schoolhouse damaged by a fallen tree; south of 'c' in "Pleasan**c**e"
-Fort Brennand, Roanoke Ridge, NH | perched in southwest crows nest
-Elysian Pool, Roanoke Ridge, NH | perched on ceiling of cave inside the waterfall
-Wild Man's Cave, Roanoke Ridge, NH | perched on ceiling of cave entrance
-Flattened Cabin, Grizzlies East, AM | inside the cabin at **Moonstone Pond**; tons of them if you approach shortly after; 18:00
-Big Valley, WE | perched in the opening of the dinosaur bone cave northeast of **Watson's Cabin**
-Mount Shann, Big Valley, WE | cave mouth just south of 'U' in "MO**U**NT SHANN"; same cave **Winton Holmes** and the player travel to during `Money Lending and Other Sins IV`
-Swadbass Point, Tall Trees, WE | perched on north side of cabin at **Aurora Basin**
-Two Crows, Cholla Springs, NA | perched in northern shed
-Tumbleweed, Gaptooth Ridge, NA | atop the large two story house on the west edge of Tumbleweed
-
 ## Domestic Animal Locations
 
 ### Bull
@@ -2419,7 +2591,7 @@ Robard Farm, Scarlett Meadows, LE | northwest edge of the 's' in "Southfield Fla
 Caliga Hall, Scarlett Meadows, LE | near the water northeast of all the houses
 Caliga Hall, Scarlett Meadows, LE | west of 'C' in "**C**ALIGA HALL"
 Bolger Glade, Scarlett Meadows, LE | walking with rancher across the path north of the 'R' in "BOLGE**R** GLADE"
-Braithewaite Manor, Scarlett Meadows, LE | southeast of the main plantation house
+Braithwaite Manor, Scarlett Meadows, LE | southeast of the main plantation house
 Hill Haven Ranch, Scarlett Meadows, LE | walking with rancher across the road northwest of the ranch
 Eris Field, Scarlett Meadows, LE | walking with rancher on east side of road directly west of north side of **Ringneck Creek**
 Roanoke Ridge, NH | next to the first shack on the road heading southeast out of **Butcher Creek**; northwest of **Manmade Mutant**
