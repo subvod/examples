@@ -38,6 +38,8 @@ This document is the location data from **rdr2-maps** combined with all of my ot
 
 This is a collection of noted events and encounters, along with some observed numerical data and notes associated with said data. All information is based upon PC vanilla runs without mods (aside from RampageTrainer). Be aware, here's a few spoilers here and there, but nothing major.
 
+All external links are shown in brackets, i.e. [[a link to this page]](https://github.com/subvod/examples/blob/master/misc/RDR2.MD). Links without brackets, i.e. [Mods](#mods), are to markers within this document.
+
 **For map-related information, skip to [Maps](#maps).**
 
 [OVERVIEW](#overview)
@@ -121,6 +123,9 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;[Legend of the East outfit not unlocking after 90th challenge.](#legend-of-the-east-outfit-not-unlocking-after-90th-challenge)
 <br>&emsp;[Micro-stuttering, FPS drops, ERR_GFX_STATE popup/crash, and other graphics issues.](#micro-stuttering-fps-drops-err_gfx_state-popupcrash-and-other-graphics-issues)
 <br>[GLITCHES](#glitches)
+<br>&emsp;[Companion Glitch](#companion-glitch)
+<br>&emsp;[Stow Torch in Inventory](#stow-torch-in-inventory)
+<br>&emsp;[Going to New Austin as Arthur](#going-to-new-austin-as-arthur)
 <br>&emsp;[Keep Arthur's unique suit from The Gilded Cage](#keep-arthurs-unique-suit-from-the-gilded-cage)
 <br>&emsp;[Keep Arthur's closed Winter Shogun Coat](#keep-arthurs-closed-winter-shogun-coat)
 <br>&emsp;[Looting saddle bags and not getting the shit kicked out of you](#looting-saddle-bags-and-not-getting-the-shit-kicked-out-of-you)
@@ -243,7 +248,6 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;&emsp;[Chop Firewood](#chop-firewood)
 <br>[MISCELLANEOUS](#miscellaneous)
 <br>&emsp;[Cool Things](#cool-things)
-<br>&emsp;[Tools](#tools)
 <br>&emsp;[Mods](#mods)
 <br>&emsp;[Programs Used](#programs-used)
 <br>&emsp;[References](#references)
@@ -310,17 +314,17 @@ Some businesses offer lodging, baths, table games, and/or dining. If a shop as t
 
 Business | Amenities
 :--- | ---
-**Flatneck Station**<br>Heartlands, NH | Poker
-**Keane's Saloon**<br>Valentine, Heartlands NH | Oatmeal
-**Smithfield's Saloon**<br>Valentine, Heartlands, NH | Poker<br>Beef Stew<br>Lamb's Fry with green peas and boiled potatoes.
-**Saints Hotel**<br>Valentine, Heartlands, NH | Room<br>Bath
-**Old Light Saloon**<br>Van Horn, Roanoke Ridge, NH | Blackjack<br>Fish Stew<br>Lamb's Heart with boiled cabbage.
-**Van Horn Post Station**<br>Van Horn, Roanoke Ridge, NH | Room<br>Bath
-**Rhodes Parlour House**<br>Rhodes, Scarlett Meadows, LE | Blackjack<br>Cracked Wheat and Milk<br>Fried Catfish with greens and boiled beans.
-**Bastille Saloon**<br>Saint Denis, Bayou Nwa, LE | Poker<br>Lobster Bisque<br>Prime Rib with potatoes dauphinoise and spring salad.
-**Blackwater Saloon**<br>Blackwater, Great Plains, WE | Poker<br>Blackjack<br>Room<br>Bath<br>Peach Cobbler with cream.<br>Roast Prarie Chicken with green beans and mashed potato and gravy.
-**Tumbleweed Saloon**<br>Tumbleweed, Gaptooth Ridge, NA | Poker<br>Chili<br>Roast Beef with corn and glazed carrots.
-**Tumbleweed Gunsmith**<br>Tumbleweed, Gaptooth Ridge, NA | Room
+**Flatneck Station**<br>Heartlands, NH | &bull; Poker
+**Keane's Saloon**<br>Valentine, Heartlands NH | &bull; Oatmeal
+**Smithfield's Saloon**<br>Valentine, Heartlands, NH | &bull; Poker<br>&bull; Beef Stew<br>&bull; Lamb's Fry with green peas and boiled potatoes.
+**Saints Hotel**<br>Valentine, Heartlands, NH | &bull; Room<br>&bull; Bath
+**Old Light Saloon**<br>Van Horn, Roanoke Ridge, NH | Blackjack&bull; <br>&bull; Fish Stew<br>&bull; Lamb's Heart with boiled cabbage.
+**Van Horn Post Station**<br>Van Horn, Roanoke Ridge, NH | &bull; Room<br>&bull; Bath
+**Rhodes Parlour House**<br>Rhodes, Scarlett Meadows, LE | &bull; Blackjack<br>&bull; Cracked Wheat and Milk<br>&bull; Fried Catfish with greens and boiled beans.
+**Bastille Saloon**<br>Saint Denis, Bayou Nwa, LE | &bull; Poker<br>&bull; Lobster Bisque<br>&bull; Prime Rib with potatoes dauphinoise and spring salad.
+**Blackwater Saloon**<br>Blackwater, Great Plains, WE | &bull; Poker<br>&bull; Blackjack<br>&bull; Room<br>&bull; Bath<br>&bull; Peach Cobbler with cream.<br>&bull; Roast Prarie Chicken with green beans and mashed potato and gravy.
+**Tumbleweed Saloon**<br>Tumbleweed, Gaptooth Ridge, NA | &bull; Poker<br>&bull; Chili<br>&bull; Roast Beef with corn and glazed carrots.
+**Tumbleweed Gunsmith**<br>Tumbleweed, Gaptooth Ridge, NA | &bull; Room
 
 ### Food, Beverages, Tonics, Hair Length, and Body Weight
 
@@ -328,47 +332,47 @@ You can get bonuses depending on your weight. Heavier gives less damage taken, l
 
 Both weight and hair length is updated each time the camera fades out/in. This includes setting up camp, tearing down camp, selecting "Wait Until Morning" when at closed shops, etc.
 
-[Source.](https://youtu.be/CmkjekIdiJo) The fastest way to gain weight is:
+[[Reference.]](https://youtu.be/CmkjekIdiJo) The fastest way to gain weight is:
 
 1. Travel to any town which serves meals.
 2. Rent a room in town.
-3. Go to the Saloon.
-4. Eat `2` of the $5.00 meals.
-5. Sleep until midnight.
-6. Eat `2` more $5.00 meals at the Saloon.
-7. Go to any closed shop and "Wait Until Morning".
+3. Go to the **Saloon**.
+4. Eat `2` of the `$5.00` meals.
+5. Sleep until `00:00` (midnight).
+6. Eat `2` more `$5.00` meals at the Saloon.
+7. Go to any closed shop and `Wait Until Morning`.
 8. Repeat.
 
 The fastest way to grow hair is also to do the above, but drinking a hair tonic every time you spawn back in.
 
-There is an alternative method using just free alcohol crates: just keep drinking until you black out, over and over again. [Source.](https://youtu.be/zXprkDSzKBI)
+There is an alternative method using just free alcohol crates: just keep drinking until you black out, over and over again. [[Reference.]](https://youtu.be/zXprkDSzKBI)
 
 **Alcohol**
 
-Below is a list of alcohol values per item. Coped from [this Reddit post](https://redd.it/9s6qnk/). Values amount to "proof", and are the base values before any modifiers. Higher proof means drunk quicker. A value of `1.00` is "blackout drunk". The **Wolf's Heart Trinket** halves the effects of all alcohol.
+Below is a list of alcohol values per item. Coped from [[this Reddit post]](https://redd.it/9s6qnk/). Values amount to "proof", and are the base values before any modifiers. Higher proof means drunk quicker. A value of `1.00` is "blackout drunk". The **Wolf's Heart Trinket** halves the effects of all alcohol.
 
 State | Range
 :--- | ---
-Sober | 0.00 to 0.49
-Tipsy | 0.50 to 0.74
-Drunk | 0.75 to 0.99
-Blackout | 1.00+
+Sober | `0.00` to `0.49`
+Tipsy | `0.50` to `0.74`
+Drunk | `0.75` to `0.99`
+Blackout | `1.00+`
 
 Name | Value
 :--- | ---
-Saloon Beer | 0.1
-Saloon Whiskey | 0.1
-Opened Guarma Rum | 0.1
-Opened Fine Brandy | 0.1
-Opened Gin | 0.1
-Opened Kentucky Bourbon | 0.13
-Guarma Rum | 0.17
-Fine Brandy | 0.17
-Gin | 0.17
-Kentucky Bourbon | 0.25
-Moonshine | 0.3
-Whiskey Bottle | 0.4
-Aged Pirate Rum | 0.5
+Saloon Beer | `0.1`
+Saloon Whiskey | `0.1`
+Opened Guarma Rum | `0.1`
+Opened Fine Brandy | `0.1`
+Opened Gin | `0.1`
+Opened Kentucky Bourbon | `0.13`
+Guarma Rum | `0.17`
+Fine Brandy | `0.17`
+Gin | `0.17`
+Kentucky Bourbon | `0.25`
+Moonshine | `0.3`
+Whiskey Bottle | `0.4`
+Aged Pirate Rum | `0.5`
 
 **Cores/Tonics**
 
@@ -376,36 +380,36 @@ In testing **Potent Tonics** against their **Special** variants, a piece of **Co
 
 **Stamina**
 1. Oregano Big Game + Special Bitters
-- 01:54:04
+- `01:54:04`
 2. Oregano Big Game + Potent Bitters
-- 01:42:87
+- `01:42:87`
 
 **Dead Eye**
 1. Thyme Big Game + Special Snake Oil
-- 0:44:21
+- `0:44:21`
 2. Thyme Big Game + Potent Snake Oil
-- 0:41:68
+- `0:41:68`
 
 As you can see, **Special Bitters** makes a bit of a difference, where as **Special Snake Oil** does fairly little in terms of better fortification. Overall, if you're short on materials, bought/crafted Potent tonics will do just fine in most situations.
 
 ### Honor
 
-Honor is measured by ranks -8 to +8 on a scale according to the total honor as an integer from -320 to +320. It affects some aspects of the game. Interaction dialog change levels are unverified, but the effect does occur.
+Honor is measured by ranks `-8` to `+8` on a scale according to the total honor as an integer from `-320` to `+320`. It affects some aspects of the game. Interaction dialog change levels are unverified, but the effect does occur.
 
-**NOTE:** In Chapter 6, actions that affect honor have a multiplier of 1.5x. Use this to your advantage if you run low honor as Arthur but want the "high honor" ending.
+**NOTE:** In Chapter 6, actions that affect honor have a multiplier of `1.5x`. Use this to your advantage if you run low honor as Arthur but want the "high honor" ending.
 
 Honor | Effect
 :--- | ---
-280 | 50% discount in all shops
-240 | New outfits available in shops.
-200 | 25% discount in all shops
-120 | New outfits available in shops.
-80 | 10% discount in all shops. Interaction dialog changes to "positive".
-40 | When looting bodies, drop rates of potent tonics, restorative items, jewelry, and food is increased.
-0 | When looting bodies, primarily obtain standard tonics, cheap jewelry, basic horse consumables, and used/opened alcohol and tobacco.
--40 | When looting bodies, drop rates of dead eye tonics, thrown weapons, alcohol, and tobacco are increased. Also receive more money and jewelry when looting lawmen.
--80 | Interaction dialog changes to "negative".
--280 | Ambient sounds within dead eye change.
+`280` | `50%` discount in all shops
+`240` | **New outfits** available in shops.
+`200` | `25%` discount in all shops
+`120` | **New outfits** available in shops.
+`80` | `10%` discount in all shops. Interaction dialog changes to `positive`.
+`40` | When looting bodies, drop rates of **potent tonics**, **restorative items**, **jewelry**, and **food** is increased.
+`0` | When looting bodies, primarily obtain **standard tonics**, **cheap jewelry**, **basic horse consumables**, and **used/opened alcohol** and **tobacco**.
+`-40` | When looting bodies, drop rates of **dead eye tonics**, **thrown weapons**, **alcohol**, and **tobacco** are increased. Also receive more **money** and **jewelry** when looting lawmen.
+`-80` | Interaction dialog changes to `negative`.
+`-280` | **Ambient sounds** within dead eye change.
 
 ### Transportation
 
@@ -423,36 +427,36 @@ Train | Annesburg<br>Emerald Ranch<br>Riggs Station<br>Rhodes<br>Saint Denis<br>
 
 **Asking for a ride?**
 
-You can **Callout** NPCs on wagons to ask for a ride. If accepted, you'll be taken to the nearest town.
+You can `Callout` NPCs on wagons to ask for a ride. If accepted, you'll be taken to the nearest town.
 
 **How many horses can I own?**
 
-Up to four horses can be stabled, with a fifth as a "temporary" horse anywhere outside of the Stable. Temporary horses will have a horse head icon (with no bit) on the main map and minimap. Your main (saddle) horse will have the same icon but with a bit and harness. When you reach bonding level 1 with a new horse, your temporary horse will despawn automatically if it's far enough away.
+Up to **four** horses can be stabled, with a fifth as a **temporary horse** anywhere outside of the **Stable**. Temporary horses will have a horse head icon (with no bit) on the main map and minimap. Your main (saddle) horse will have the same icon but with a bit and harness. When you reach bonding level `1` with a new horse, your temporary horse will despawn automatically if it's far enough away.
 
 **How to tame a wild horse?**
 
-1. Hold LT when approaching to keep it from spooking immediately. While you're walking up to it, do not let its "calmness" bar deplete as that will cause it to flee. It's usually best to immediately hop on the horse when you get close enough, rather than petting it.
-2. After hopping on, hold the LS in the opposite direction of where the horse is turning. If it's turning left, hold LS to the right. It's turning right, hold LS to the left. The backwards and forwards movements aren't needed, just left to right.
+1. Hold `LT` when approaching to keep it from spooking immediately. While you're walking up to it, do not let its "calmness" bar deplete as that will cause it to flee. It's usually best to immediately hop on the horse when you get close enough, rather than petting it.
+2. After hopping on, hold `LS` in the opposite direction of where the horse is turning. If it's turning left, hold `LS` to the **right**. It's turning right, hold `LS` to the **left**. The backwards and forwards movements aren't needed, just left to right.
 
 *Alternative methods:*
 
-- Hit it in a non-vital spot with any gun, then revive it. This carries more risk, but immediately grants bonding rank 1.
+- Hit it in a non-vital spot with any gun, then revive it. This carries more risk, but immediately grants bonding rank `1`.
 - Lasso it. This is the quick and dirty method, but it works. Stay on your own horse, ride up to the wild one, lasso it, and move forwards to hop on.
 
 **How to max bond horses fast?**
 
-- Food items have their own unique bonding point yields. Peppermints give the most points (6), while Sugar Cubes give (5).
+- Food items have their own unique bonding point yields. **Peppermints** give the most points (`6`), while **Sugar Cubes** give (`5`).
 - Completing two horse races with at least one of the [associated Horse Racer NPCs](#horse-races) will both allow you to bond with your horse while spurring and (after winning the second race) gives a third bar of speed for your saddled horse. Traveling in cinematic mode gives bonding points after completing the second race; a great legitimate way to bond AFK.
 - Leading your horse yields more bonding points per minute than anything else. Yes, even more than constantly shoving Peppermints down your new horse's throat. The old rubber band trick works for this. CheatEngine64's speedhack also works wonders if you're rushing or just short on time.
 
 1. Begin leading your horse.
-2. Travel to the open fields of **The Heartlands**. Alternatively you can go to the plains west of Blackwater, but there are more snakes out that way. (Getting close to any aggressive animal will end the lead.)
+2. Travel to the open fields of **The Heartlands**. Alternatively you can go to the plains west of **Blackwater**, but there are more snakes out that way. (Getting close to any aggressive animal will end the lead.)
 3. Wrap a rubber band around your thumbstick and the end of either palm grip (depending on the length of the rubber band).
-4. Do other things for a while. (About 20 minutes.)
+4. Do other things for a while. (About `20` minutes.)
 5. Come back to your fully bonded horse.
 
 - *BY DOING THIS, YOU'RE BASICALLY STILL IN-GAME, SO THE POSSIBILITY OF HOSTILITY FROM BOUNTY HUNTERS, BUSHWHACKERS, ROBBERS, AGGRESSIVE ANIMALS, ETC IS STILL PRESENT. MIGHT WANT TO PEEK AT THE SCREEN EVERY NOW AND THEN AND/OR KEEP AN EAR OUT.*
-- *If on the PC version without a controller, you can use [AutoHotKey](https://www.autohotkey.com/) to simulate holding down the movement key(s).*
+- *If on the PC version without a controller, you can use [[AutoHotKey]](https://www.autohotkey.com/) to simulate holding down the movement key(s).*
 
 **What is the best horse?**
 
@@ -460,14 +464,7 @@ A purely subjective question. But, statistically speaking and taking into accoun
 
 For the "best" horse that can be found in the wild, I've found the **Thoroughbred** and **American Standardbred** breeds are the best balanced and closest to Turkoman and MFT.
 
-Again, all purely subjective. Some players may go for looks. Others may go for stats. Like a certain coat on a certain horse, but don't care for its stats? If you're on PC, you're in luck:
-
-[Multiclass Horses](https://www.nexusmods.com/reddeadredemption2/mods/1226)
-[Work Horses](https://www.nexusmods.com/reddeadredemption2/mods/1340)
-[War Horses](https://www.nexusmods.com/reddeadredemption2/mods/1327)
-[Race Horses](https://www.nexusmods.com/reddeadredemption2/mods/1303)
-[Draft Horses](https://www.nexusmods.com/reddeadredemption2/mods/1271)
-[Riding Horses](https://www.nexusmods.com/reddeadredemption2/mods/1239)
+Again, all purely subjective. Some players may go for looks. Others may go for stats. Like a certain coat on a certain horse, but don't care for its stats? If you're on PC, [you're in luck](#mods).
 
 **What's the best saddle?**
 
@@ -475,20 +472,20 @@ Technically, the **Beaver Roping Saddle** is the "best" saddle solely in terms o
 
 Name | HEALTH CORE<br>DRAIN | STAMINA CORE<br>DRAIN | STAMINA<br>DRAIN | STAMINA<br>REGEN
 :--- | --- | --- | --- | ---
-Beaver Roping | -26% | -20% | -50% | +24%
-Panther Trail | -20% | -26% | -50% | +24%
-Rattlesnake Vaquero | -22% | -24% | -50% | +24%
-Alligator Ranch Cutter | -24% | -20% | -50% | +22%
-Bear Dakota | -20% | -24% | -50% | +22%
-Cougar McClelland | -20% | -22% | -50% | +20%
-Boar Mother Hubbard | -22% | -20% | -50% | +20%
-Nuevo Paraiso | -12% | -12% | -25% | +12%
+Beaver Roping | `-26%` | `-20%` | `-50%` | `+24%`
+Panther Trail | `-20%` | `-26%` | `-50%` | `+24%`
+Rattlesnake Vaquero | `-22%` | `-24%` | `-50%` | `+24%`
+Alligator Ranch Cutter | `-24%` | `-20%` | `-50%` | `+22%`
+Bear Dakota | `-20%` | `-24%` | `-50%` | `+22%`
+Cougar McClelland | `-20%` | `-22%` | `-50%` | `+20%`
+Boar Mother Hubbard | `-22%` | `-20%` | `-50%` | `+20%`
+Nuevo Paraiso | `-12%` | `-12%` | `-25%` | `+12%`
 
 **Auto Travel**
 
-Aside from fast travel (unlocked by purchasing the map from the camp ledger), you can autopilot to a destination: set a destination (must be in a road/path) on the map, hop on your horse and begin sprinting towards the waypoint. While sprinting, hold down the SELECT button (XB1) or X button (on PS4) to enter cinematic view. Black bars will appear and you will travel to the waypoint.
+Aside from fast travel (unlocked by purchasing the map from the camp ledger), you can autopilot to a destination: set a destination (must be in a road/path) on the map, hop on your horse and begin sprinting towards the waypoint. While sprinting, hold down the `SELECT` button (XB1) or `X` button (on PS4) to enter cinematic view. Black bars will appear and you will travel to the waypoint.
 
-**NOTE:** I've observed that sometimes, regardless of distance, when I arrive at the waypoint my horse will have a full stamina core and bar. I've seen this only when doing so with a level 4 bonded horse (and feeding it a **Horse Meal** and injecting a **Potent Horse Stimulant** before going into Cinematic Camera). Every time I've done this with a non-max-level bonded horse, it always ends up with an empty stamina core and bar regardless of what I feed/inject it with.
+**NOTE:** I've observed that sometimes, regardless of distance, when I arrive at the waypoint my horse will have a full stamina core and bar. I've seen this only when doing so with a level `4` bonded horse (and feeding it a **Horse Meal** and injecting a **Potent Horse Stimulant** before going into Cinematic Camera). Every time I've done this with a non-max-level bonded horse, it always ends up with an empty stamina core and bar regardless of what I feed/inject it with.
 
 **NOTE:** events still occur, it's just a different camera view. You can still get attacked by a predator or enemies.
 
@@ -511,7 +508,7 @@ Thoroughbred | Blood Bay | Larned Sod, Heartlands, NH (southwest of house)
 - Icons are rough areas of static spawns. There usually isn't a spawn of the marked animal directly at the icon's location, just in the general area.
 - Animal drawings are added to the map when an animal is focused on, studied, picked up, or skinned in a specific area. The best thing to do is study and track everything you come across. Binoculars are by far the best way to add icons.
 - Plant drawings are added when a plant is picked at least once in the immediate area of the icon. Best to pick everything you come across because spawning a plant with a trainer and picking it does not add the icon for some reason (unlike skinning/tracking animals).
-- Point of interest and collectibel locations are added when they are "investigated".
+- Point of interest and collectible locations are added when they are `Investigated`.
 - All map icons do not change based on what character discovered them. The journal sketches do, though.
 
 ### Camp Item Requests
@@ -520,34 +517,34 @@ Thoroughbred | Blood Bay | Larned Sod, Heartlands, NH (southwest of house)
 
 Camp Member | Chapter(s) | Request | Reward | Location
 :--- | --- | --- | --- | ---
-Abigail | II<br>(sitting with Jack at their tent) | $5.00 | - | -
-Bill | II-IV<br>(sitting at his tent) | Hair Pomade | - | Store/Loot
-Pearson | II-IV<br>(drinking beer and whistling) | Rabbit Carcass | Scout Jacket | Everywhere
-Pearson | II-III<br>(while playing Poker) | Naval Compass | - | 
-Charles | II<br>(making arrows by the campfire) | Oleander Sage | Poison Arrow
-Charles | Epilogue | Eagle Feather | - | From wild Eagles.
-Dutch | II-IV<br>(smoking cigar outside his tent) | Pipe | Vaquero Rider Spurs | Vetter's Echo, Big Valley, WE
-Hosea | II-IV<br>(using mortar and pestle at table) | 2x Ginseng | - | -
-Hosea | II-IV<br>(pick up the book at his tent) | Crime Novel | - | Hagen Orchards, Bayou Nwa, LE
-Jack | II-IV<br>(during `A Fisher of Men`) | Penny Dreadful Book | Chocolate Bar | Osman Grove, Roanoke Ridge, NH<br>Clawson’s Rest, Grizzlies West, AM<br>Pleasance, Scarlett Meadows, LE<br>Downes Ranch, Heartlands, NH<br>Lake Don Julio House, Rio Bravo, NA
-Jack | II<br>(walks up to you after `A Fisher of Men`) | Thimble | Jack's Drawing | Looted from enemy peds.
-Javier | II-IV<br>(making knives at table) | Oleander | Poison Throwing Knife | Bayou Nwa, LE (near water)
-Kieran | III<br>(tending to horses near Arthur's tent) | 2x Burdock Root | Horse Meal Pamphlet | near water
-Lenny | II-IV | Pocket Watch | - | Store/Loot
-Mary Beth | II<br>(writing in journal by her tent) | Fountain Pen | - | Osman Grove, Roanoke Ridge, NH
-Molly | III-IV<br>(walks up and tells of "bad luck") | Pocket Mirror | - | Martha's Swain, Grizzlies East, AM
-Sadie | III<br>(during `Further Questions of Female Suffrage`) | Harmonica | - | Granger's Hoggery, Heartlands, NH
-Sean | II-III | Kentucky Bourbon | - | Store/Loot
-Susan | II | 2x Oregano/Mint/Thyme | - | In the wild.
-Tilly | II<br>(while playing Dominoes) | Necklace | - | Loot female peds.
-Uncle | Epilogue I-II<br>("PSSST! JOHN!"; 08:00-20:00) | Kentucky Bourbon<br>Milkweed<br>Peppermint<br>Hair Pomade<br>Skunk Carcass | Frontier Vest<br>Tornado Boots<br>Drifter Hat<br>Classic Frock Coat | -
+Abigail | II<br>(sitting with Jack at their tent) | `$5.00` | - | -
+Bill | II-IV<br>(sitting at his tent) | **Hair Pomade** | - | &bull; Store/Loot
+Pearson | II-IV<br>(drinking beer and whistling) | **Rabbit Carcass** | **Scout Jacket** | &bull; Everywhere
+Pearson | II-III<br>(while playing Poker) | **Naval Compass** | - | &bull; Braithwaite Manor, Scarlett Meadows, LE (in the boat house at the water's edge)<br><br>&bull; Ridgewood Farm, Cholla Springs, NA (in a lockbox at the back of the house)
+Charles | II<br>(making arrows by the campfire) | **Oleander Sage** | &bull; **Poison Arrow**
+Charles | Epilogue | **Eagle Feather** | - | &bull; From wild **Eagles**.
+Dutch | II-IV<br>(smoking cigar outside his tent) | **Pipe** | **Vaquero Rider Spurs** | &bull; Vetter's Echo, Big Valley, WE (atop the desk)
+Hosea | II-IV<br>(using mortar and pestle at table) | `2x` **Ginseng** | - | -
+Hosea | II-IV<br>(pick up the book at his tent) | **Crime Novel** | - | &bull; Hagen Orchards, Bayou Nwa, LE (on a coffee table inside the main house)
+Jack | II-IV<br>(during `A Fisher of Men`) | **Penny Dreadful Book** | **Chocolate Bar** | &bull; Osman Grove, Roanoke Ridge, NH<br><br>&bull; Clawson’s Rest, Grizzlies West, AM<br><br>&bull; Pleasance, Scarlett Meadows, LE<br><br>&bull; Downes Ranch, Heartlands, NH<br><br>&bull; Lake Don Julio House, Rio Bravo, NA
+Jack | II<br>(walks up to you after `A Fisher of Men`) | **Thimble** | **Jack's Drawing** | &bull; Looted from enemy peds.
+Javier | II-IV<br>(making knives at table) | **Oleander Sage** | **Poison Throwing Knife** | &bull; Bayou Nwa, LE (near water)
+Kieran | III<br>(tending to horses near Arthur's tent) | `2x` **Burdock Root** | **Horse Meal Pamphlet** | &bull; near water
+Lenny | II-IV | **Pocket Watch** | - | &bull; Store/Loot
+Mary Beth | II<br>(writing in journal by her tent) | **Fountain Pen** | - | &bull; Osman Grove, Roanoke Ridge, NH
+Molly | III-IV<br>(walks up and tells of "bad luck") | **Pocket Mirror** | - | &bull; Martha's Swain, Grizzlies East, AM
+Sadie | III<br>(during `Further Questions of Female Suffrage`) | **Harmonica** | - | &bull; Granger's Hoggery, Heartlands, NH
+Sean | II-III | **Kentucky Bourbon** | - | &bull; Store/Loot
+Susan | II | `2x` **Oregano/Mint/Thyme** | - | &bull; In the wild.
+Tilly | II<br>(while playing **Dominoes** in camp) | **Necklace** | - | &bull; Looted from female peds.
+Uncle | Epilogue I-II<br>("PSSST! JOHN!"; `08:00`-`20:00`) | **&bull; Kentucky Bourbon<br>&bull; Milkweed<br>&bull; Peppermint<br>&bull; Hair Pomade<br>&bull; Skunk Carcass** | **&bull; Frontier Vest<br>&bull; Tornado Boots<br>&bull; Drifter Hat<br>&bull; Classic Frock Coat** | &bull; Shops (**Kentucky Bourbon**, **Hair Pomade**)<br>&bull; Stables (**Peppermint**)<br>&bull; Bolger Glade, Scarlett Meadows, LE (tons of **Skunks**)<br>&bull; Heartland Overflow, Heartlands, NH (**Milkweed**)
 
 **Pearson's Rabbit**
 
-Available from Chapter II to Chapter VI. Pearson will be drinking beer at his wagon's table. When you walk near him, it will only give a **Greet** prompt when the request is available for activation (like every other request). There are two cheese methods to get it to pop; rinse and repeat as needed:
+Available from Chapter II to Chapter VI. Pearson will be drinking beer at his wagon's table. When you walk near him, it will only give a `Greet` prompt when the request is available for activation (like every other request). There are two cheese methods to get it to pop; rinse and repeat as needed:
 
-- Low or zero health core. Sleep until morning, then drink a bunch of **Whiskey/Moonshine** or eat **Oleander Sage**. Head out of camp until around 10:00, then head back in.
-- Wait until just after 10:00, then suicide jump off the cliff to the west right out of camp. After respawning, head back into camp.
+- Low or zero health core. Sleep until morning, then drink a bunch of **Whiskey/Moonshine** or eat **Oleander Sage**. Head out of camp until around `10:00`, then head back in.
+- Wait until just after `10:00`, then suicide jump off the cliff to the west right out of camp. After respawning, head back into camp.
 
 **Dutch's Pipe**
 
@@ -557,10 +554,10 @@ I've gotten it to pop right after starting both Chapters II and III. In those, D
 
 ### Familiarity
 
-Yes, it's a thing and if you'd never seen it on the Compendium for each weapon you'd never know of it. Familiarity affects all stats, and the more familiar you are with a weapon, the better shot you become with it.
+Yes, it's a thing and if you'd never seen it on the **Compendium** for each weapon you'd never know of it. **Familiarity** affects all stats, and the more familiar you are with a weapon, the better shot you become with it.
 
 - Use dead eye to get headshots.
-- If avoiding law and bounties, enemy hideouts refresh every few in-game days. The numerous Del Lobo hideouts in New Austin become accessible after Chapter 6.
+- If avoiding law and bounties, enemy hideouts refresh every few in-game days. The numerous **Del Lobo** hideouts in **New Austin** become accessible after Chapter 6.
 
 ### What is the best weapon?
 
@@ -607,31 +604,34 @@ Bow | N/A | `The Aftermath of Genesis` | 55<br>(REG) | 166<br>(IMP) | 15<br>(SGM
 
 ### How to unlock <weapon> early?
 
+[[Method compilation video.]](https://youtu.be/hC0xWTzcGMU)
+
 Weapon | Location
 :--- | ---
-Schofield Revolver | during `Shop Robbery` of back room at **Valentine Doctor's Office**
-Double Action Revolver | gun case under bunk bed at **Lonnie's Shack, Scarlett Meadows, LE**; accessible before its associated `Homestead Robbery` with Sean in Chapter 3
-Otis Miller's Revolver | In a chest within a cave at **Rattlesnake Hollow, Cholla Springs, NA**
-M1899 Pistol | from moonshiner event northwest of **Valley View, Big Valley, WE**
-Mauser Pistol | **Midnight's Pistol** from Billy Midnight in **Rhodes** during `The Noblest of Men, and a Woman`
-Double Barrel Shotgun | **Catfish Jackson's, Scarlett Meadows, LE**
-Semi Auto Shotgun | gun case in the basement of **Watson's Cabin, Big Valley, WE**
-Pump Action Shotgun | gun case on platform above west bedroom in main house at **Chez Porter, Grizzlies West, AM**
-Lancaster Repeater | gun case in basement Gunsmith in **Rhodes, Scarlett Meadows, LE**; only accessible during its associated `Shop Robbery`
-Bolt Action Rifle | during `The First Shall Be Last`, after knifing the first two enemies with Javier, kill the one on the left of the next set of enemies **FIRST** and pick up his rifle
-Machete | used by **Murfree Brood** and **Night Folk**
-Broken Pirate Sword | in a broken boat south of **Caliga Hall** and **Saint Denis**, northeast of **Shady Belle, Scarlett Meadows, LE**
-Antler Knife | in the neck of a dead *Grizzly Bear* northeast of **Stilt Shack, Big Valley, WE**
-Civil War Knife | in the basement of **Fort Brennand, Roanoke Ridge, NH**
-Wide Blade Knife | in the back of a dead miner inside the cave at **Beryl's Dream, Big Valley, WE**
-Ornate Dagger | dropped by the Saint Denis **Vampire**
-Hewing Hatchet | in a tree stump next to **Flattened Cabin, Grizzlies East, AM**
-Stone Hatchet | in the center of **Native Burial, Big Valley, WE**
-Viking Hatchet | in a skeleton at the center of **Old Tomb, Roanoke Ridge, NH**
-Hunter Hatchet | in a tree stump outside **Dodd's Bluff, Grizzlies West, AM**
-Rusted Hunter Hatchet | in a tree stump outside **Martha's Swain, Grizzlies East, AM**
-Double Bit Hatchet | in a tree stump next to the rubble and remaining fence of an old cabin northwest of **Wallace Station, Big Valley, WE**
-Rusted Double Bit Hatchet | in a tree stump between two large houses in northern **Annesburg, Roanoke Ridge, NH**
+Schofield Revolver | &bull; during `Shop Robbery` of back room at **Valentine Doctor's Office**
+Double Action Revolver | &bull; gun case under bunk bed at **Lonnie's Shack, Scarlett Meadows, LE**; accessible before its associated `Homestead Robbery` with Sean in Chapter 3
+Otis Miller's Revolver | &bull; in a chest within a cave at **Rattlesnake Hollow, Cholla Springs, NA**
+M1899 Pistol | &bull; from moonshiner event northwest of **Valley View, Big Valley, WE**
+Mauser Pistol | &bull; **Midnight's Pistol** from Billy Midnight in **Rhodes** during `The Noblest of Men, and a Woman`
+Double Barrel Shotgun | &bull; **Catfish Jackson's, Scarlett Meadows, LE**
+Semi Auto Shotgun | &bull; gun case in the basement of **Watson's Cabin, Big Valley, WE**
+Pump Action Shotgun | &bull; gun case on platform above west bedroom in main house at **Chez Porter, Grizzlies West, AM**
+Lancaster Repeater | &bull; gun case in basement Gunsmith in **Rhodes, Scarlett Meadows, LE**; only accessible during its associated `Shop Robbery`
+Bolt Action Rifle | &bull; during `The First Shall Be Last`, after knifing the first two enemies with Javier, kill the one on the left of the next set of enemies **FIRST** and pick up his rifle [[Reference.]](https://youtu.be/5YAZ1JGoIIM)
+Rolling Block Rifle | &bull; dropped by Hosea while performing the [Companion Glitch](#companion-glitch)
+Machete | &bull; used by **Murfree Brood** and **Night Folk**
+Broken Pirate Sword | &bull; in a broken boat south of **Caliga Hall** and **Saint Denis**, northeast of **Shady Belle, Scarlett Meadows, LE**
+Antler Knife | &bull; in the neck of a dead *Grizzly Bear* northeast of **Stilt Shack, Big Valley, WE**
+Civil War Knife | &bull; in the basement of **Fort Brennand, Roanoke Ridge, NH**
+Wide Blade Knife | &bull; in the back of a dead miner inside the cave at **Beryl's Dream, Big Valley, WE**
+Ornate Dagger | &bull; dropped by the Saint Denis **Vampire**
+Hewing Hatchet | &bull; in a tree stump next to **Flattened Cabin, Grizzlies East, AM**
+Stone Hatchet | &bull; in the center of **Native Burial, Big Valley, WE**
+Viking Hatchet | &bull; in a skeleton at the center of **Old Tomb, Roanoke Ridge, NH**
+Hunter Hatchet | &bull; in a tree stump outside **Dodd's Bluff, Grizzlies West, AM**
+Rusted Hunter Hatchet | &bull; in a tree stump outside **Martha's Swain, Grizzlies East, AM**
+Double Bit Hatchet | &bull; in a tree stump next to the rubble and remaining fence of an old cabin northwest of **Wallace Station, Big Valley, WE**
+Rusted Double Bit Hatchet | &bull; in a tree stump between two large houses in northern **Annesburg, Roanoke Ridge, NH**
 
 **NOTE:** You can also unlock dual wielding at the start of Chapter 2 by completing the **Master Hunter 1** challenge.
 
@@ -747,7 +747,7 @@ According to my own testing, all "varmints" can be skinned for a perfect pelt wh
 - Kill cleanliness is determined by two factors: skin quality and kill quality. Former is the randomly generated number of stars. Latter is the type of gun/ammo.
 - It is totally possible to loot pristine (3 star) items from a good (2 star) carcass after crafting the **Buck Antler Trinket**, which gives a chance for a good (2 star) carcass to be pristine (3 star). However, if a good (2 star) animal is killed with a gun/ammo that affects the quality outcome by even just one stage, the chance of a good (2 star) carcass yielding pristine (3 star) parts *after having been shot with an unfit weapon* becomes almost zero.
 
-Below is a chart showing the ideal weapon for all animals when shooting for perfect pelts. [Source.](https://redd.it/a3afo9)
+Below is a chart showing the ideal weapon for all animals when shooting for perfect pelts. [[Reference.]](https://redd.it/a3afo9)
 
 Class | Weapon(s) | Animal(s)
 :--- | --- | ---
@@ -1238,7 +1238,9 @@ See `RDR2-SunWorshipper.jpg` for locations.
 
 ### Ghost in Swamp
 
-A physical manifestation of the ghost of a woman, Agnes Dowd, can be seen near a tree west of the **Trapper's Cabin** from 21:00 to 03:00, usually in foggy weather. [Here's a compilation of all possible encounters.](https://youtu.be/P3Tra3O6Rko)
+[[Reference.]]](https://youtu.be/P3Tra3O6Rko)
+
+A physical manifestation of the ghost of a woman, Agnes Dowd, can be seen near a tree west of the **Trapper's Cabin** from 21:00 to 03:00, usually in foggy weather.
 
 ### KKK
 
@@ -1251,7 +1253,7 @@ A physical manifestation of the ghost of a woman, Agnes Dowd, can be seen near a
 
 *The guy that has the Native American Ring.*
 
-This is random camp encounter which happens only at night. Appears to be active from 00:00 to 04:00. An ex soldier will invite you to his camp, ask for whiskey, reveal his past, and pass out. Loot him and you get the ring. Its effect(s) is unknown, and nothing immediately noticeable occurs aside from larger random wolf packs. The encounter with the ex soldier has several possible locations:
+This is random camp encounter which happens only at night. Appears to be active from `00:00` to `04:00`. An ex soldier will invite you to his camp, ask for whiskey, reveal his past, and pass out. Loot him and you get the ring. Its effect(s) is unknown, and nothing immediately noticeable occurs aside from larger random wolf packs. The encounter with the ex soldier has several possible locations:
 
 Location | Details
 :--- | ---
@@ -1264,9 +1266,9 @@ Little Creek River, Big Valley, WE | just southeast of **r** in "Little Creek Ri
 
 ### Feral Man
 
-This is a sequence of three random events. The journal item is missable and [it is possible to glitch it out](#unable-to-obtain-wild-mans-journal).
+[[Reference.]](https://reddead.fandom.com/wiki/Feral_Man)
 
-https://reddead.fandom.com/wiki/Feral_Man
+This is a sequence of three random events. The journal item is missable and [it is possible to glitch it out](#unable-to-obtain-wild-mans-journal).
 
 ### Cave Voice
 
@@ -1301,14 +1303,14 @@ Once you've studied 30 animals, a flock of Pheasants will spawn on the southwest
 - Home Robbery with Javier
 - Hunting with Charles
 - Playing five finger fillet with Lenny
-- Event Area missions (3x, look for missable items below) [Video.](https://youtu.be/QUZl1tseOF8)
+- Event Area missions (3x, look for missable items below) [[Reference.]](https://youtu.be/QUZl1tseOF8)
 
 *Random Events:*
 
 - Rescue Bill Williamson: Random Event outside the camp where you’re getting asked to help safe Bill from some Bounty hunters (Chapter II-IV)
 - Fundraiser: (Possible Chapter II – IV)
 - Braithwaite's Secret: point of interest, the crazy lady in the outhouse, Gertrude Braithwaite. She is no longer there after Chapter 6
-- Horse Races: can be made unavailable if declined once; [Reddit post.](https://redd.it/9yq601)
+- Horse Races: can be made unavailable if declined once; [[Reference.]](https://redd.it/9yq601)
 
 *Items:*
 
@@ -1395,7 +1397,7 @@ Once you've studied 30 animals, a flock of Pheasants will spawn on the southwest
 - Gray's Secret: available in Chapter 4 and beyond, though getting it in the Epilogue is dodgy. It's the corpse of Tavish Gray on the back porch of **Caliga Hall**.
 
 *Items:*
-- Antique Compass: You can get this one BEFORE the mission `A Fine Night for Debauchery`, [best explained here](https://youtu.be/pIqYzmGdqDc)
+- Antique Compass: You can get this one BEFORE the mission `A Fine Night for Debauchery`, [[Reference.]](https://youtu.be/pIqYzmGdqDc)
 - Electric Chair Blueprint: Professor Bell's corpse after `The Mercies of Knowledge - VIII`; missed if you don't loot him, available from Chapter IV and onwards
 - Letter to Bronte from the mayor: on the table during `The Gilded Cage`; take it at the beginning of the mission before you head out to the others
 - List of Accounts: Letter on Bronte's table during `Revenge is a Dish Best Eaten`
@@ -1411,7 +1413,7 @@ Once you've studied 30 animals, a flock of Pheasants will spawn on the southwest
 
 *Missions:*
 - `Savagery Unleashed`: can be missed if you start with Dutch’s mission right after arriving at the island)
-- 2 `Random Encounters`: one where you see some guards chasing some prisoners, and one where arthur falls into a pit trap.
+- 2 `Random Encounters`: one where you see some guards chasing some prisoners, and one where Arthur falls into a pit trap.
 
 *Items:*
 - Sun Hat: random enemies wearing it during Chapter 5; most easily collected during  `Savagery Unleashed` and `A Kind and Benevolent Despot`
@@ -1445,7 +1447,7 @@ Once you've studied 30 animals, a flock of Pheasants will spawn on the southwest
 - Owl Feather Trinket: infiltrate the army camp during `Archeology for Beginners` and get the Chanupa without killing anybody; easy to just pistol whip everyone
 - Military Mountie Hat: during `Archeology for Beginners`, random soldiers at **Fort Wallace** as well
 - Saint Denis Lawman Helmet: during `Goodbye Dear Friend`; WARNING: this one is glitched as you can only keep it on your horse and it has no name in the inventory (so collect on your own risk): you may get the flying raven claw talisman bug as well
-- Saint Denis Police Outfit: you can actually keep the outfit; [Video.](https://youtu.be/IkBk2TZef4)
+- Saint Denis Police Outfit: you can actually keep the outfit; [[Reference.]](https://youtu.be/IkBk2TZef4)
 - Liability Agreement: on the table next to money stacks during `The Wisdom of the Elders V`
 - Letter to Tom from Colm: looted from the final O'Driscoll (killed by Sadie Adler) on the second floor of the house during `Sadie Adler, Widow II`
 
@@ -1473,7 +1475,7 @@ Some items are temporary, but can be retained either via glitch or a trainer fun
 
 ### Animal Skins
 
-*All prices are based on Saint Denis Trapper. Animals listed below each Trapper location are local to the area and will sell for the normal price. Selling animals not local to the area you sell them in gives a small bonus in sell price. The general rule of thumb is the farther away from the animal's habitat, the more it will sell for. Go figure. Cross-country hauling one moose pelt to the Tumbleweed Butcher just for an extra $2.00-3.00*
+*All prices are based on Saint Denis Trapper. Animals listed below each Trapper location are local to the area and will sell for the normal price. Selling animals not local to the area you sell them in gives a small bonus in sell price. The general rule of thumb is the farther away from the animal's habitat, the more it will sell for. Go figure. Cross-country hauling one moose pelt to the Tumbleweed Butcher just for an extra `$2.00`-`3.00`*
 
 Local Area | Animal(s)
 :--- | ---
@@ -1492,10 +1494,10 @@ Riggs Station | Beaver<br>Bighorn<br>Chipmunk<br>Cougar<br>Elk<br>Goose<br>Grizz
 
 Price | Orchid(s)
 :--- | ---
-$15.00 | Dragon's Mouth
-$14.00 | Night Scented<br>Moccasin Flower<br>Ghost<br>Clamshell
-$11.00 | Sparrow's Egg<br>Lady of the Night<br>Cigar<br>Acuna's Star
-$10.00 | Rat Tail<br>Queen's<br>Lady Slipper<br>
+$15.00 | &bull; Dragon's Mouth
+$14.00 | &bull; Night Scented<br>&bull; Moccasin Flower<br>&bull; Ghost<br>&bull; Clamshell
+$11.00 | &bull; Sparrow's Egg<br>&bull; Lady of the Night<br>&bull; Cigar<br>&bull; Acuna's Star
+$10.00 | &bull; Rat Tail<br>&bull; Queen's<br>&bull; Lady Slipper
 
 # BUGS
 
@@ -1523,7 +1525,7 @@ After taking the **Rare Orchids Order**, you are forced to send all you have of 
 
 ### Second horse disappears while camping
 
-[Source.](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/?do=findComment&comment=1071884440)
+[[Reference.]](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/?do=findComment&comment=1071884440)
 
 If you load your game while camped at your campsite, your secondary horse will disappear, saving and reloading your game while not at the campsite will bring it back.
 
@@ -1582,19 +1584,44 @@ For micro-stuttering (I had it about once every ten seconds):
 - Update/reinstall your graphics driver. Yeah, again, cliche... but the shit worked for me. Be sure to do a **CLEAN INSTALL** when reinstalling/updating the driver. It fixed the micro-stuttering I was encountering (about once every ten seconds). System info: ASUS G14 (2021) AMD Ryzen 9 5900HS @ 3301 MHz, 16384MB, NVIDIA RTX 3060 Laptop GPU, RDR2 Build 1436, NVIDIA Driver v471.96
 - Periodically delete everything in the Settings folder except for "system.xml" (to retain graphics settings). Some sources claim that deleting the `.bin` files isn't necessary, but I do it anyway and it works. Doing this can also fix crashing because of `ERR_GFX_STATE`. [[Reference.]](https://redd.it/dxlreb)
 
-The last step can be semi-automated using [BleachBit](https://github.com/bleachbit/bleachbit). (I began using it when Avast decided to fuck up CCleaner.) All you have to do is `BleachBit > Preferences > Custom > Add Folder` and add your RDR2 `Settings` folder. Then, `BleachBit > Preferences > Whitelist` and add your `system.xml` file to prevent BleachBit from deleting it (retaining your GFX settings).
+The last step can be semi-automated using [[BleachBit]](https://github.com/bleachbit/bleachbit). (I began using it when Avast decided to fuck up CCleaner.) All you have to do is `BleachBit > Preferences > Custom > Add Folder` and add your RDR2 `Settings` folder. Then, `BleachBit > Preferences > Whitelist` and add your `system.xml` file to prevent BleachBit from deleting it (retaining your GFX settings).
 
 # GLITCHES
 
 *These are bugs/glitches which can be exploited.*
 
+### Companion Glitch
+
+[[Reference.]](https://youtu.be/GsAsfLzTc6k)
+
+This can be done with multiple friendly NPCs.
+
+### Stow Torch in Inventory
+
+[[Reference.]](https://youtu.be/I1PYO9ROQIU)
+
+1. Find an enemy with a **Torch** (Murfree Brood or Night Folk) and kill them.
+2. Pick up the **Torch**.
+3. Tackle any NPC.
+
+Alternative method posted in a [[comment]](https://www.youtube.com/channel/UC4lxh6N4O4SCRplA6KnD8yg):
+
+1. Stand on a **Torch** so you could take it.
+2. Open the **Weapon Wheel** and chose something to eat.
+3. **Pick Up** the **Torch**.
+4. Open the **Weapon Wheel** again.
+5. Choose weapon. (I always used both handguns.)
+6. **Torch** is saved. Once taken out, you got to repeat these steps.
+
 ### Going to New Austin as Arthur
 
-[In-mission method](https://youtu.be/1FUCZLHJSGk) during `Who is Not Without Sin`.
+[[Reference.]](https://youtu.be/1FUCZLHJSGk)
+
+Can be done in-mission during `Who is Not Without Sin`.
 
 ### Keep Arthur's unique suit from The Gilded Cage
 
-[Source.](https://youtu.be/nrecu-MKn-c)
+[[Reference.]](https://youtu.be/nrecu-MKn-c)
 
 1. Continue mission normally until you get to the part where Arthur, Dutch, Hosea, and Bill are walking towards the house's front door.
 2. U-turn and fail mission by leaving the area.
@@ -1634,7 +1661,7 @@ For whatever reason, there is no prompt to break down large fish from the satche
 
 ### Keep temporary documents.
 
-[Video of using the glitch](https://youtu.be/jZXI3JYEqv8) by [Alcomahol](https://gtaforums.com/profile/1162284-alcomahol/).
+[[Reference.]](https://youtu.be/jZXI3JYEqv8)
 
 You can obtain almost every temporary document using this glitch. "Almost" because some documents cannot be stored permanently even with this glitch.
 
@@ -1643,7 +1670,7 @@ You can obtain almost every temporary document using this glitch. "Almost" becau
 
 ### Launch from horse with carcass stowed on side.
 
-This might not be very useful, but I found that with a Condor stored on the side of a horse, getting off on the same side launches me up about 10 feet before landing. I've been able to launch atop buildings you normally wouldn't be able to access doing this.
+This might not be very useful, but I found that with a **Condor** stored on the side of a horse, getting off on the same side launches me up about `10` feet before landing. I've been able to launch atop buildings you normally wouldn't be able to access doing this.
 
 ### Getting caught when quickly dismounting your horse.
 
@@ -1651,7 +1678,7 @@ While wearing chaps/spats, I found that occasionally I'll fumble off my horse wh
 
 ### Steal any horse from any stable.
 
-[Source.](https://youtu.be/F2J00n9a7-s)
+[[Reference.]](https://youtu.be/F2J00n9a7-s)
 
 *This works with all horses at every Stable. You must be able to buy the horse after it's unlocked. (Unlocking it puts the horse physically in the stable to be bought. For example, you can't steal an Amber Champagne MFT from Scarlett Meadows before Chapter 4.) Stealing horses in this manner doesn't reduce honor. Some Stables are easier to hit than others, though.*
 
@@ -1670,7 +1697,7 @@ While wearing chaps/spats, I found that occasionally I'll fumble off my horse wh
 
 ### Remove scope from carcano and/or rolling block rifles.
 
-[Source.](https://youtu.be/Mst4pshFcD0)
+[[Reference.]](https://youtu.be/Mst4pshFcD0)
 
 Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode, you can permanently de-scope (un-scope?) both the Rolling Block and Carcano Rifles. This glitch isn't entirely permanent, but only because you can just go to a Gunsmith and re-equip any scope to negate it. The rifle(s) will remain scopeless as long as you don't re-scope them at the Gunsmith. They will not gain the auto-aim function even if it's turned on. They still operate as the regular rifle, you're just no longer forced to scope in.
 
@@ -1683,7 +1710,7 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 
 ### Universal saddle blankets.
 
-[Source.](https://youtu.be/vSIyry-KePE)
+[[Reference.]](https://youtu.be/vSIyry-KePE)
 
 *Some Trapper saddles have unique blankets. This method does not work with two saddles which have thier own unique blankets. You can glitch the panther blanket with the Rattlesnake Vaquero Saddle but not with the Alligator Saddle.*
 
@@ -1697,7 +1724,7 @@ Want a scopeless sniper in place of a Bolt Action or Springfield? In story mode,
 
 ### Saving Arthur's money for John.
 
-[[Source.]](https://youtu.be/Gu5s3l6w7h0)
+[[Reference.]](https://youtu.be/Gu5s3l6w7h0)
 
 The **Aberdeen Pig Farm** is inhabited by an incestual brother and sister, whom together work as a team of serial killers. There is a sort of side mission with these two: as either John or Arthur you can eat dinner with them. During which they'll offer some drinks. After drinking a few times, you pass out and wake up in their body dump site with no money. A decent backing for sticking to the story, I think, is: Arthur gets robbed, John reads about it in his journal, John goes to the farm and takes the money as it's of no use to Arthur at that point. :)
 
@@ -1705,7 +1732,7 @@ Go there and get robbed as Arthur right before the mission **"Red Dead Redemptio
 
 ### Getting gang horses
 
-[[Source.]](https://youtu.be/yMr_xta-Q6s)
+[[Reference.]](https://youtu.be/yMr_xta-Q6s)
 
 It's possible to obtain gang horses, even in the Epilogue. You can't bond with them, but this is a mod-less way to get them. All gang horses spawn at random with this method.
 
@@ -1716,12 +1743,12 @@ It's possible to obtain gang horses, even in the Epilogue. You can't bond with t
 
 ### Getting out of bounds.
 
-[OOB on San Luis River.](https://youtu.be/kYmREKUf09A)<br>
-[OOB on San Luis River (alternate).](https://youtu.be/GfM9vxakKTA)<br>
-[Bridge glitch.](https://youtu.be/VSRt7FPGItE)<br>
-[OOB far northeast.](https://youtu.be/eppF2TnLt00)<br>
-[OOB in Devil's Cave.](https://youtu.be/Kx0llq2e8qs)<br>
-[OOB at Aurora Basin.](https://youtu.be/KKgIuLrLe8A) - using slide glitch.
+[[OOB on San Luis River.]](https://youtu.be/kYmREKUf09A)<br>
+[[OOB on San Luis River; alternate method.]](https://youtu.be/GfM9vxakKTA)<br>
+[[Bridge glitch.]](https://youtu.be/VSRt7FPGItE)<br>
+[[OOB far northeast.]](https://youtu.be/eppF2TnLt00)<br>
+[[OOB in Devil's Cave.]](https://youtu.be/Kx0llq2e8qs)<br>
+[[OOB at Aurora Basin]](https://youtu.be/KKgIuLrLe8A) using slide glitch.
 
 You'll need enough alcohol to blackout to do this, and it works anywhere applicable. Most spots under cliffs work well. If you've got the **Wolf Heart Trinket**, you'll need a lot. Now, to get compendium entries and sketches as Arthur for animals specific to New Austin (and/or Guarma before/after of Chapter 5), or just to run around and explore, you can travel out of bounds via the far west end (at the edge of a drop-off) in the **Devil's Cave**. If you're running post-Epilogue and want to explore the southern side out-of-map or travel to Guarma much quicker, an infinitely faster method is to travel to a specific point on the southern shore of the **San Luis River**.) Do the following once at either location:
 
@@ -1746,7 +1773,7 @@ It's possible to glitch into locked interiors like **Taxidermist House**. This d
 
 *This involves using third-party programs. Some recipies can be done seamlessly by holding A (on Xbox). For example, ammunition.*
 
-Download [CheatEngine](https://www.cheatengine.org/downloads.php). I use the RAR archive version which you don't have to join Patreon for; it doesn't come bundled with "optional" adware/bloatware like the installer does, but feel free to use what you want. Be sure to launch the 64-bit version of CheatEngine when using it in RDR2. Open "RDR2.exe" via the Open Process dialog and check "Enable Speedhack". You can adjust the speed as you see fit. When finished, uncheck the box to disable the speedhack.
+Download [CheatEngine](#programs-used). I use the RAR archive version which you don't have to join Patreon for; it doesn't come bundled with "optional" adware/bloatware like the installer does, but feel free to use what you want. Be sure to launch the 64-bit version of CheatEngine when using it in RDR2. Open "RDR2.exe" via the Open Process dialog and check "Enable Speedhack". You can adjust the speed as you see fit. When finished, uncheck the box to disable the speedhack.
 
 Sometimes, a glitch may occur where the crafting process of some items (seemingly random) will freeze halfway through. I use 500x speed and travel near Colter when doing this, which seems to lower the chance of this happening.
 
@@ -1773,7 +1800,7 @@ If an animal can be picked up, you can get two ticks added to its `Skinned` coun
 
 # EASTER EGGS
 
-Much information here was sourced from the [Red Dead Fandom](https://reddead.fandom.com/wiki/Easter_Eggs_%26_Secrets_in_Redemption_2).
+Much information here was sourced from the [[Red Dead Fandom]](https://reddead.fandom.com/wiki/Easter_Eggs_%26_Secrets_in_Redemption_2).
 
 ### Egg Notes
 
@@ -1793,7 +1820,6 @@ There are more of these caskets hidden around the map. (See picture #4) In the c
 
 - **Aberdeen Pig Farm, Scarlett Meadows, LE** (Five under a floorboard.)
 - **Rhodes, Scarlett Meadows, LE** (Caravan at the Fence.)
-- ****
 
 ### Witch in Graveyard
 
@@ -1984,8 +2010,8 @@ For release format and download information, see [Release Format](#release-forma
 Color | Marker Type
 :--- | ---
 Solid Red | Gang Hideout
-Hollow Red | Animal Static Spawn<br>Bird Static Perch Spawn<br>Gang Campsite<br>Permanent Sit Spot<br>Friendly NPC With Dialogue
-Hollow Blue | Animal Scenario Spawn<br>Bird Flying Spawn<br>Gang Random Event<br>Temporary Sit Spot<br>Friendly NPC Without Dialogue
+Hollow Red | &bull; Animal Static Spawn<br><br>&bull; Bird Static Perch Spawn<br><br>&bull; Gang Campsite<br><br>&bull; Permanent Sit Spot<br><br>&bull; Friendly NPC With Dialogue
+Hollow Blue | &bull; Animal Scenario Spawn<br><br>&bull; Bird Flying Spawn<br><br>&bull; Gang Random Event<br><br>&bull; Temporary Sit Spot<br><br>&bull; Friendly NPC Without Dialogue
 
 Some exceptions to these map key rules are:
 
@@ -1995,13 +2021,13 @@ Some exceptions to these map key rules are:
 
 I list locations in the typical format of smallest to largest territory. For RDR2 this is **Place, Region, State**.
 
-Abbreviation | State | Regions
+State | Abbreviation | Regions
 :- | -- | --
-AM | Ambarino | Grizzlies West<br>Grizzlies East
-NH | New Hanover | Heartlands<br>Cumberland Forest<br>Roanoke Ridge
-LE | Lemoyne | Scarlett Meadows<br>Bayou Nwa<br>Bluewater Marsh
-WE | West Elizabeth | Big Valley<br>Great Plains<br>Tall Trees
-NA | New Austin | Hennigan's Stead<br>Cholla Springs<br>Rio Bravo<br>Gaptooth Ridge
+Ambarino | AM | &bull; Grizzlies West<br><br>&bull; Grizzlies East
+New Hanover | NH | &bull; Heartlands<br><br>&bull; Cumberland Forest<br><br>&bull; Roanoke Ridge
+Lemoyne | LE | &bull; Scarlett Meadows<br><br>&bull; Bayou Nwa<br><br>&bull; Bluewater Marsh
+West Elizabeth | WE | &bull; Big Valley<br><br>&bull; Great Plains<br><br>&bull; Tall Trees
+New Austin | NA | &bull; Hennigan's Stead<br><br>&bull; Cholla Springs<br><br>&bull; Rio Bravo<br><br>&bull; Gaptooth Ridge
 
 ### Some Notes
 
@@ -2025,7 +2051,7 @@ Span | Effect
 `02:00`-`04:00` | Late Night
 --- | ---
 `05:00`-`21:00` | Miscellaneous birds flying overhead.
-`18:00`-`10:00`<br>`04:00`-`06:00` | Owl flying spawns seem way more common.
+`18:00`-`22:00`<br>`04:00`-`06:00` | Owl flying spawns seem way more common.
 `22:00`-`04:00` | Most cougar/panther/wolf/owl spawns active.
 `08:00`-`16:00` | Most small bird spawns active.
 
@@ -2035,23 +2061,24 @@ Span | Effect
 
 Animal(s) | Location(s) | Description
 :--- | --- | ---
-Cougar<br>Deer | &bull; Little Creek River, Big Valley, WE (south of 'E' in "Little Creek Riv**e**r", `11:23`, `20:56`) | Cougar stalks and attacks Deer.
-Cougar<br>NPC Corpse | &bull; Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br><br>&bull; Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
-Western Bull Moose | &bull; Lake Isabella, Grizzlies West, AM<br><br>&bull; Barrow Lagoon, Grizzlies West, AM<br><br>&bull; Cairn Lake, Grizzlies West, AM (16:08) | Slipping on ice while attempting to stand upright.
-Western Bull Moose<br>Gray Wolf | &bull; Lake Isabella, Grizzlies West, AM (northwest side of lake, swims to western shore)<br><br>&bull; Calumet Ravine, Grizzlies East, AM (just north of the bridge to **Wapiti**, swims to west shore)<br><br>&bull; Owanjila, Big Valley, WE (towards north side of lake, swims to west shore, `18:55`)<br><br>&bull; Owanjila, Big Valley, WE (closer to bridge at **Owanjila Dam**, swims to east shore with a single **Burdock Root**, `08:28`) | Moose swimming, sometimes being chased by a lone wolf.
-Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | &bull; Old Greenbank Mill, Heartlands, NH (west side of path west of the mill)<br><br>&bull; Emerald Ranch, Heartlands, NH (owl catches rat on NE side of ranch)<br><br>&bull; Elysian Pool, Roanoke Ridge, NH<br><br>&bull; Calumet Ravine, Grizzlies East, AM<br><br>&bull; Little Creek River, Big Valley, WE (hawk catches squirrel, northeast of **Valley View**)<br><br>&bull; Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow)<br><br>&bull; Blackwater, Great Plains, WE (owl catches rat, east side of easternmost path heading southbound out of **Blackwater**) | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
+Cougar<br><br>Deer | &bull; Little Creek River, Big Valley, WE (south of 'E' in "Little Creek Riv**e**r", `11:23`, `20:56`) | Cougar stalks and attacks Deer.
+Cougar<br><br>NPC Corpse | &bull; Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br><br>&bull; Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
+Western Bull Moose | &bull; Lake Isabella, Grizzlies West, AM<br><br>&bull; Barrow Lagoon, Grizzlies West, AM<br><br>&bull; Cairn Lake, Grizzlies West, AM (`16:08`) | Slipping on ice while attempting to stand upright.
+Western Bull Moose<br><br>Gray Wolf | &bull; Lake Isabella, Grizzlies West, AM (northwest side of lake, swims to western shore)<br><br>&bull; Calumet Ravine, Grizzlies East, AM (just north of the bridge to **Wapiti**, swims to west shore)<br><br>&bull; Owanjila, Big Valley, WE (towards north side of lake, swims to west shore, `18:55`)<br><br>&bull; Owanjila, Big Valley, WE (closer to bridge at **Owanjila Dam**, swims to east shore with a single **Burdock Root**, `08:28`) | Moose swimming, sometimes being chased by a lone wolf.
+Hawk/Eagle/Owl<br><br>Fish/Snake/Rabbit/Rat | &bull; Old Greenbank Mill, Heartlands, NH (west side of path west of the mill)<br><br>&bull; Emerald Ranch, Heartlands, NH (owl catches rat on NE side of ranch)<br><br>&bull; Elysian Pool, Roanoke Ridge, NH<br><br>&bull; Calumet Ravine, Grizzlies East, AM<br><br>&bull; Little Creek River, Big Valley, WE (hawk catches squirrel, northeast of **Valley View**)<br><br>&bull; Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow)<br><br>&bull; Blackwater, Great Plains, WE (owl catches rat, east side of easternmost path heading southbound out of **Blackwater**) | Bird dives and catches random fish/mammal/snake.
+Whitetail Buck | &bull; Diablo Ridge, Big Valley, WE (near path northeastbound from **Appleseed Timber Co.**) | Three dead bucks. Evidently based on a 2015 event in Ohio.
 Whitetail Buck | &bull; Heartlands, NH (SW of the 'H' in "THE **H**EARTLANDS")<br><br>&bull; Strawberry, Big Valley, WE (SE of the **Strawberry Stable**) | Two Bucks, one dead and the other alive, with interlocked horns.
 Whitetail Buck | &bull; Heartlands, NH (SW of second 'H' in "THE **H**EARTLANDS")<br><br>&bull; Cumberland Falls, Heartlands, NH (east side of river, east of path southbound from **Cumberland Falls**, `12:50`)<br><br>&bull; Roanoke Ridge, NH (northern edge of the train tracks just inside the county border, southwest of the **Trapper**) | Two Bucks pushing each other around.
 Bighorn Ram | &bull; Cumberland Forest, NH (north of 'D' in "CUMBERLAN**D** FOREST")<br><br>&bull; Deadboot Creek, Grizzlies West, AM (southeast of 'k' in "Deadboot Cree**k**".<br><br>&bull; Little Creek River, Big Valley, WE (northwest side of junction NW of 'R' in "Little Creek **R**iver"<br><br>&bull; Black Bone Forest, Big Valley, WE (just SE of the **Trapper**)<br><br>&bull; Black Bone Forest, Big Valley, WE (southeast corner of the path junction just southeast of the Geddes' house at **Pronghorn Ranch**)<br><br>&bull; Pronghorn Ranch, Big Valley, WE (first junction on eastbound dashed path heading away from the ranch.<br><br>&bull; Cholla Springs, NA (dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS") | Two Rams headbutt each other.
-American Bison | &bull; Heartland Overflow, Heartlands, NH (SW of 'H' in "**H**eartland Overflow"<br><br>&bull; Great Plains, WE (southeast of 'T' and west of 'P' in "GREA**T P**LAINS")<br><br>&bull; Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each nother.
-Grizzly Bear<br>Gray Wolf | &bull; Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br><br>&bull; Cattail Pond, Grizzlies West, AM (east of the pond; `13:35`)<br><br>&bull; Little Creek River, Big Valley, WE (on 'R' in "Little Creek **R**iver") | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. `10:00`
+American Bison | &bull; Heartland Overflow, Heartlands, NH (SW of 'H' in "**H**eartland Overflow"<br><br>&bull; Great Plains, WE (southeast of 'T' and west of 'P' in "GREA**T P**LAINS")<br><br>&bull; Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each other.
+Grizzly Bear<br><br>Gray Wolf | &bull; Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br><br>&bull; Cattail Pond, Grizzlies West, AM (east of the pond; `13:35`)<br><br>&bull; Little Creek River, Big Valley, WE (southwest of 'R' in "Little Creek **R**iver"; `12:42`) | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly.
 Grizzly Bear | &bull; Cattail Pond, Grizzlies West, AM (cliffside overlooking **Dakota River**, south of the pond) | Just chilling.
 Grizzly Bear | &bull; Watson's Cabin, Big Valley, WE (east of the cabin)<br><br>&bull; Fairvale Shanty, Grizzlies East, AM (a few feet south of the cabin)<br><br>&bull; Bear Claw, Tall Trees, WE (south of the cabins) | Scratching itself on a tree trunk.
-Grizzly Bear<br>Sockeye Salmon | &bull; O'Creagh's Run, Grizzlies East, AM (northern shore)<br><br>&bull; Little Creek River, Big Valley, WE (east stretch of creek before stream goes downhill; `14:14`)<br><br>&bull; Little Creek River, Big Valley, WE (south of **Watson's Cabin**, `17:34`)<br><br>&bull; Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br><br>&bull; Aurora Basin, Tall Trees, WE (southeast shore) | Grizzly catches and eats Salmon.
-Fox | &bull; Barrow Lagoon, Grizzlies West, AM (south of lagoon)<br><br>&bull; Spider Gorge, Grizzlies West, AM (south of 'S' in "**S**pider Gorge") | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
+Grizzly Bear<br><br>Sockeye Salmon | &bull; O'Creagh's Run, Grizzlies East, AM (northern shore)<br><br>&bull; Little Creek River, Big Valley, WE (east stretch of creek before stream goes downhill; `14:14`)<br><br>&bull; Little Creek River, Big Valley, WE (south of **Watson's Cabin**, `17:34`)<br><br>&bull; Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br><br>&bull; Aurora Basin, Tall Trees, WE (southeast shore) | Grizzly catches and eats Salmon.
+American Red Fox | &bull; Barrow Lagoon, Grizzlies West, AM (south of lagoon)<br><br>&bull; Spider Gorge, Grizzlies West, AM (south of 'S' in "**S**pider Gorge") | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
 Gray Wolf | &bull; Elysian Pool, Roanoke Ridge, NH (southeast of)<br><br>&bull; Lake Isabella, Grizzlies West, AM (northwest path)<br><br>&bull; Cairn Lake, Grizzlies West, AM (south side of the path leading westbound away from the lake)<br><br>&bull; Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
 Gray Wolf | &bull; Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of)<br><br>&bull; Lake Isabella, Grizzlies West, AM (atop the cliff overlooking the waterfall on the northwest side of lake) | Mourning over dead wolf.
-American Fox Hound<br>Bluetick Coonhound | &bull; Rhodes, Scarlett Meadows, LE (next to the train station; [[Source.]](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/?do=findComment&comment=1072192862))<br><br>&bull; Painted Sky, Big Valley, WE (east side of path next to junction directly west of woodpecker icon) | Two domestic dogs play-fighting.
+American Fox Hound<br><br>Bluetick Coonhound | &bull; Rhodes, Scarlett Meadows, LE (next to the train station) [[Reference.]](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/?do=findComment&comment=1072192862)<br><br>&bull; Painted Sky, Big Valley, WE (east side of path next to junction directly west of woodpecker icon) | Two domestic dogs play-fighting.
 
 ## Rival Gangs
 
@@ -2161,18 +2188,20 @@ Macomb's End, Bayou Nwa, LE | many spawn points from the schoolhouse of **Pleasa
 
 ### Horned Owl
 
-*Primarily nocturnal, but a few select spawns are active 24 hours. Three coats: Californian (rust brown), Coastal (tan gray), and Great (gray white). Owls seem to share many (if not all) perch locations with Hawks and Eagles. All perch spawns are also landing points, so all large birds can also spawn flying nearby, but land on the perch.*
+*Primarily nocturnal, but a few select spawns are active 24 hours. Three coats: Californian (rust brown), Coastal (tan gray), and Great (gray white). Owls seem to share many (if not all) perch locations with Hawks and Eagles. All perch spawns are also landing points, so all large birds can also spawn flying nearby, but may land on the perch.*
 
 Additional locations are marked in `RDR2-Owl.jpg`.
+
+**NOTE:** The **California Horned Owl** *does*, in fact, spawn north of the **Upper Montana River** in several locations, albeit with quite a bit of luck.
 
 Location | Details
 :--- | ---
 Fairvale Shanty, Grizzlies East, AM | `24 HOURS`; perched atop a rock directly south of the shanty; north side of road
 Little Creek River, Big Valley, WE | `24 HOURS`; perched on ground next to boulder creekside southwest of the path junction from **Watson's Cabin** [[Reference.]](https://youtu.be/r9mEj49iook)
-Fort Riggs, Big Valley, WE | on cliff edge southeast of the fort. [This fella posted screens of his catch at Fort Riggs.](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/page/64/#comment-1071852129)
-Fort Riggs, Big Valley, WE | flying south over the river a ways northwest of the fort. Usually turns westbound into **Tall Trees**, but sometimes turns eastward towards the fort.
-Lone Mule Stead, Big Valley, WE | flying northwest of Blackwater; if followed, sometimes flies over **Lone Mule Stead**
-Blackwater, Big Valley, WE | flying north out of Blackwater; if followed, sometimes flies to **Riggs Station** and continues toward **Appleseed Timber Co.**
+Fort Riggs, Big Valley, WE | on cliff edge southeast of the fort. [[Reference.]](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/page/64/#comment-1071852129)
+Fort Riggs, Big Valley, WE | `California` variant; flying south over the river a ways northwest of the fort. Usually turns westbound into **Tall Trees**, but sometimes turns eastward towards the fort.
+Lone Mule Stead, Big Valley, WE | `California` variant; flying northwest of Blackwater; if followed, sometimes flies across the **Upper Montana River** and over **Lone Mule Stead**
+Blackwater, Big Valley, WE | `California` variant; flying north out of Blackwater; if followed, sometimes flies to **Riggs Station** and continues toward **Appleseed Timber Co.**
 Evelyn Miller Camp, Tall Trees, WE | `24 HOURS`; perched atop rockface
 Tanner's Reach, Tall Trees, WE | `24 HOURS`; perched atop chimney
 
@@ -2278,8 +2307,6 @@ Two Crows, Cholla Springs, NA | perched in northern shed
 Tumbleweed, Gaptooth Ridge, NA | atop the large two story house on the west edge of Tumbleweed
 
 ### Blue Jay
-
-*Hard to miss.*
 
 Location | Details
 :--- | ---
@@ -2508,7 +2535,7 @@ Black Bone Forest, Big Valley, WE | flying overhead
 
 *Primarily diurnal. Flies solo. Seems to be quite widespread, but flying spawns appear to be more common in **Great Plains, WE**.*
 
-https://redd.it/146nl7o
+[[Reference.]](https://redd.it/146nl7o)
 
 > There’s also another 99% guaranteed robin spawn in the woods just east of Hanging Dog Ranch.
 
@@ -2540,7 +2567,9 @@ Gill's Landing, Heartlands, NH | along the water west of **Gill's Landing**
 
 ### Snake
 
-*&bull; Three species of Rattlesnake: Diamondback, Black-Tailed, and Timber.<br>&bull; Two species of Copperhead: Northern and Southern.<br>&bull; Three species of water snake: Midland, Northern, and Cottonmouth.<br>&bull; *
+- Three species of Rattlesnake: Diamondback, Black-Tailed, and Timber.
+- Two species of Copperhead: Northern and Southern.
+- Three species of Water Snake: Midland, Northern, and Cottonmouth.
 
 Location | Details
 :--- | ---
@@ -2670,7 +2699,7 @@ Pleasance House, Cholla Springs, NA | in the hills west of **Pleasance House**; 
 
 ### Bull
 
-*Two species: Angus, Devon, Hereford.*
+*Three species: Angus, Devon, Hereford. All spawn at the same locations.*
 
 Location | Details
 :--- | ---
@@ -2761,7 +2790,7 @@ Little Creek River, Big Valley, WE | coming from tree line herded by rancher hea
 
 ## Horse Stats and Locations
 
-[Source.](https://reddead.fandom.com/wiki/Horse#Red_Dead_Redemption_2)
+[[Reference.]](https://reddead.fandom.com/wiki/Horse#Red_Dead_Redemption_2)
 
 **(!)** Unique
 
@@ -2828,8 +2857,8 @@ Mule | - | Work | Standard | - | - | - | - | &bull; **Emerald Ranch, Heartlands,
 Breed | Coat | Details
 :--- | --- | ---
 Turkoman | Dark Bay | In **Chapter 3** during `Horse Flesh for Dinner`. Before starting the mission, discard/sell all possible horse food options, then fill up on **Sugar Cubes** from a **Stable**. Start the mission and continue until right after you rope in the escaped (untethered) horse. When John and Javier are mounted still next to the brothers who run the **Horse Fence**, dismount your horse, walk up to the Turkoman, and hold the prompt to feed it until you reach bonding rank 1 (and it becomes a temporary horse, shown by an icon on the map). Getting close to the brothers will trigger the next cutscene, so stay away from them while you're feeding the Turkoman.
-Missouri Fox Trotter | Silver Dapple Pinto | (METHOD 1) During the random encounter where the woman's horse "Biscuit" has died and she needs a ride to Emerald Ranch, a glitch can occur where the horse, a Silver Dapple Pinto, will be found alive and can be claimed. Similarly, a woman needing a ride to Lagras will also have Silver Dapple Pinto that will occasionally spawn alive. One way to ensure this is to go stand upon Face Rock where the event spawns by, aim with a sniper rifle at the road below after which the event should spawn so long as the encounter has not been completed by the player prior, and keep shooting the lady. This causes both her and her horse to respawn, and eventually, it should respawn alive, and can be claimed by the player. [[Source.]](https://youtu.be/E3bM1zs83GM) [[Source.]]()<br><br>(METHOD 2) Another alternative way to obtain the Silver Dapple Pinto coat as Arthur is after the third encounter with Albert Mason `Arcadia For Amateurs III`. While herding the horses, go into Eagle Eye, track the Silver Dapple Pinto and then exit Eagle Eye while staying focused on the horse's trail. Once Mason photographs the herd, go to him and skip the cutscene as soon as it starts. Then follow the horse's trail, carefully and patiently, as the trail can be lost and the tracking process can last approximately up to 10 minutes. Once you find the horse, jump on it from your horse's back and ride it to the nearest stable without dismounting it to saddle it up or store it. Save the game and load the save file you just made. Then the horse will be yours to keep. [[Source.]](https://youtu.be/uaFjw5BlOZo) [[Source.]](https://youtu.be/DJgv9dChjPs) [[Wagon method.]](https://youtu.be/GqN3ygmcfwI)
-Dutch Warmblood | Cremello Gold | The special horse a.k.a. Buell, Hamish Sinclair's horse. You can get him as [both Arthur and John](https://youtu.be/B-NCMd6ftjA).
+Missouri Fox Trotter | Silver Dapple Pinto | **METHOD 1: ** During the random encounter where the woman's horse "Biscuit" has died and she needs a ride to Emerald Ranch, a glitch can occur where the horse, a Silver Dapple Pinto, will be found alive and can be claimed. Similarly, a woman needing a ride to Lagras will also have Silver Dapple Pinto that will occasionally spawn alive. One way to ensure this is to go stand upon Face Rock where the event spawns by, aim with a sniper rifle at the road below after which the event should spawn so long as the encounter has not been completed by the player prior, and keep shooting the lady. This causes both her and her horse to respawn, and eventually, it should respawn alive, and can be claimed by the player. [[Reference.]](https://youtu.be/E3bM1zs83GM) [[Reference.]](<br><br>**METHOD 2:** Another alternative way to obtain the Silver Dapple Pinto coat as Arthur is after the third encounter with Albert Mason `Arcadia For Amateurs III`. While herding the horses, go into Eagle Eye, track the Silver Dapple Pinto and then exit Eagle Eye while staying focused on the horse's trail. Once Mason photographs the herd, go to him and skip the cutscene as soon as it starts. Then follow the horse's trail, carefully and patiently, as the trail can be lost and the tracking process can last approximately up to 10 minutes. Once you find the horse, jump on it from your horse's back and ride it to the nearest stable without dismounting it to saddle it up or store it. Save the game and load the save file you just made. Then the horse will be yours to keep. [[Reference.]](https://youtu.be/uaFjw5BlOZo) [[Reference.]](https://youtu.be/DJgv9dChjPs) [[Wagon method.]](https://youtu.be/GqN3ygmcfwI)
+Dutch Warmblood | Cremello Gold | The special horse a.k.a. Buell, Hamish Sinclair's horse. You can get him as [[both Arthur and John]](https://youtu.be/B-NCMd6ftjA).
 
 ## Activites
 
@@ -2898,85 +2927,99 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 
 *All references to controls are in terms of Xbox One/Series controllers.*
 
-[Reference](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/)
+[[Reference.]](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/)
 
 - Double-tap RB to walk your horse backwards.
 - Perform a flashy holster animation by double-tapping LB. Works with only primary sidearm. Does not work with Sawed Off Shotgun.
 - You can buy goods from some of the shops at the **Saint Denis Market**.
 
-### Tools
-
-- [CodeWalker](https://github.com/dexyfex/CodeWalker)
-
 ### Mods
 
-- [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base required for ASI plugin mods. SDK for development of C++ plugins available on the same page.
-- [Lenny's Mod Loader (LML)](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) - Stream modded content directly into game. Required by all mods that stream files.
-- [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer.
-- [Stash That Lantern](https://www.nexusmods.com/reddeadredemption2/mods/333) - Store lantern on satchels, both your own and on your horse.
-- [Improved Wildlife](https://www.nexusmods.com/reddeadredemption2/mods/1527) - Increases spawn rates.
-- [ImprovedLoot](https://www.nexusmods.com/reddeadredemption2/mods/1596) - Improves NPC, animal, and herb loot pool.
-- [Non-Sticky Hats](https://www.nexusmods.com/reddeadredemption2/mods/263) - Changes physics to make hats more likely to fall off.
-- [Main Menu and Legal Skip](https://www.nexusmods.com/reddeadredemption2/mods/1469) - Boot right into story mode.
-- [SnappyUI](https://www.nexusmods.com/reddeadredemption2/mods/971) - Disable the "smooth transition" in the pause menu.
-- [Better Horses](https://www.nexusmods.com/reddeadredemption2/mods/842) - Improves horse stats of those which basically only the player can own.
-- [Multiclass Horses](https://www.nexusmods.com/reddeadredemption2/mods/1226) - Cross-species horse coats. Available for all breeds.
-- [Unlimited Horse Whistling Distance](https://www.nexusmods.com/reddeadredemption2/mods/306) - F--- realism! When I whistle, that horse better come!
-- [Legend of the East Equipment Restored](https://www.nexusmods.com/reddeadredemption2/mods/1462) - Complete set of LotE gear.
-- [Easier Hunting](https://www.nexusmods.com/reddeadredemption2/mods/841) - Makes more pristine animals spawn.
-- [Dynamic Seasons](https://www.nexusmods.com/reddeadredemption2/mods/1557) - Makes the game world a bit more robust.
+*Main:*
+
+- [[ScriptHookRDR2]](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base required for ASI plugin mods. SDK for development of C++ plugins available on the same page.
+- [[Lenny's Mod Loader]](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) - a.k.a. **LML**. Stream modded content directly into game. Required by all mods that stream files.
+- [[RampageTrainer]](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer. Many useful functions.
+
+*Quality of Life:*
+
+- [[Main Menu and Legal Skip]](https://www.nexusmods.com/reddeadredemption2/mods/1469) - Boot right into story mode.
+- [[SnappyUI]](https://www.nexusmods.com/reddeadredemption2/mods/971) - Disable the "smooth transition" in the pause menu.
+- [[Gun Belt Fix]](https://www.nexusmods.com/reddeadredemption2/mods/1600) - Changes the gun belt physics from the current patch version to the `1.00` version.
+- [[Fixed Bandolier]](https://www.nexusmods.com/reddeadredemption2/mods/982) - Fixes the hovering bandolier.
+- [[Stash That Lantern]](https://www.nexusmods.com/reddeadredemption2/mods/333) - Store lantern on satchels, both your own and on your horse.
+- [[Non-Sticky Hats]](https://www.nexusmods.com/reddeadredemption2/mods/263) - Changes physics to make hats more likely to fall off.
+- [[Remove Speed Limits]](https://www.nexusmods.com/reddeadredemption2/mods/975) - Remove horse and player speed limits in camps, towns, indoors and on bridges.
+- [[No Honor Loss When Masked]](https://www.nexusmods.com/reddeadredemption2/mods/2122) - Prevents honor stat from being modified while wearing a bandana or large mask.
+- [[Locomotive Power]](https://www.nexusmods.com/reddeadredemption2/mods/1309) - Train top speed and acceleration/deceleration adjusted to real life.
+- [[Corpse Spawn Distance]](https://www.nexusmods.com/reddeadredemption2/mods/1786) - Increased spawn distance of the corpses so you will not see them drop in front of you.
+- [[Better Horses]](https://www.nexusmods.com/reddeadredemption2/mods/842) - Improves horse stats of those which basically only the player can own.
+- [[Dynamic Seasons]](https://www.nexusmods.com/reddeadredemption2/mods/1557) - Makes the game world a bit more robust.
+- [[Realtime Eagle Eye]](https://www.nexusmods.com/reddeadredemption2/mods/2615) - Small tweak to disable slow motion concerning the Eagle Eye mechanic as it destroyed pacing.
+- [[Unlimited Horse Whistling Distance]](https://www.nexusmods.com/reddeadredemption2/mods/306) - F--- realism! When I whistle, that horse better come!
+- [[Unlocked Deadeye]](https://www.nexusmods.com/reddeadredemption2/mods/867) - Unlock all Deadeye abilities from level 1.
+- [[Improved Wildlife]](https://www.nexusmods.com/reddeadredemption2/mods/1527) - Increases spawn rates.
+- [[ImprovedLoot]](https://www.nexusmods.com/reddeadredemption2/mods/1596) - Improves NPC, animal, and herb loot pool.
+- [[Easier Hunting]](https://www.nexusmods.com/reddeadredemption2/mods/841) - Makes more pristine animals spawn.
+- [[Auto Challenges]](https://www.nexusmods.com/reddeadredemption2/mods/1067) - It's at the bottom of the list for a reason.
+
+*Textures:*
+
+- [[Multiclass Horses]](https://www.nexusmods.com/reddeadredemption2/mods/1226) - Cross-species horse coats. Available for all breeds.
+- [[Legend of the East Equipment Restored]](https://www.nexusmods.com/reddeadredemption2/mods/1462) - Complete set of LotE gear.
+- [[Clothing and Accessory Textures]](https://www.nexusmods.com/reddeadredemption2/mods/570) - A ton of retextures.
+- [[Worn Arthur Clothes]](https://www.nexusmods.com/reddeadredemption2/mods/530) - This makes Arthur's **Gunslinger Jacket** and **Gambler Hat** more worn.
+- [[Marston Equipment Retexture]](https://www.nexusmods.com/reddeadredemption2/mods/782) - Retextures Marston's equipment to a darker tone. Changes the **Upgraded Bandolier**'s texture to match the newer Marston textures. It darkens the rifle strap as well and gives it a more clean up look.
 
 ### Programs Used
 
-- [GNU Image Manipulation Program](https://www.gimp.org/) - *Editing maps.*
-- [GreenShot](https://github.com/greenshot/greenshot) - Capturing in-game screenshots.
-- [nomacs](https://github.com/nomacs/nomacs) - Scan through screenshots when marking new locations.
-- [CheatEngine](https://www.cheatengine.org/download/CheatEngine7.2_MissingSetup.rar) - *portable version; used for speedhack to make time fly by.*
-- [7-Zip](https://www.7-zip.org/) - *Archiving and compressing.*
-- [VS Code](https://code.visualstudio.com/) - *Editing and previewing Markdown docs.*
+- [[Red Dead Redemption 2 v1436.28 (DODI Repack)]](https://www.1337x.to/torrent/5156100/Red-Dead-Redemption-2-Ultimate-Edition-v1-0-1436-28-MULTi13-EMPRESS-DODI-Repack/) - *I can't be bothered to use the Rockstar Launcher anymore, don't give me a hard time.*
+- [[DODI/EMPRESS Mods Pack]](https://mega.nz/file/DY9DSY5Q#gjlDWT0myvlsb6yARqzszRuoRabxl5hyIZwv8_eE8kg) - Specific versions of all base mods (**ScriptHookRDR2**, **RampageTrainer**, and **LML**) compatible with **RDR2 v1436.28 (DODI Repack)**.
+- [[GIMP]](https://www.gimp.org/) - GNU Photoshop.
+- [[GreenShot]](https://github.com/greenshot/greenshot) - Capture in-game screenshots.
+- [[nomacs]](https://github.com/nomacs/nomacs) - Scan through screenshots when marking new locations.
+- [[7-Zip]](https://www.7-zip.org/) - Archiving and compressing.
+- [[Notepad++]](https://notepad-plus-plus.org/) - Text editor. Using [[NppMarkdownPanel]](https://github.com/mohzy83/NppMarkdownPanel) to edit and preview **Markdown** docs.
+- [[CodeWalker]](https://github.com/dexyfex/CodeWalker) - RDR2 support unconfirmed.
+- [[OpenIV]](https://openiv.com/) - Borderline supports RDR2.
 
 ### References
 
-- [RDR Fandom Missable Content](https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2) [[Steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=2002543938) [[GTAForums]](https://gtaforums.com/topic/924480-spoilers-everything-missable-in-rdr2/)
-- [RDR2Mods](https://www.rdr2mods.com/) - focused around RDR2 modding. Wiki with databases, tutorials, and references (including hash IDs). [[Wiki]](https://www.rdr2mods.com/wiki/)
-- [RDOMap](https://jeanropke.github.io/RDOMap/) and its associated [contributors](https://github.com/jeanropke/RDOMap/blob/master/CONTRIBUTORS.md) for nearly all sit locations.
-- [Complete Map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) - Story mode map with all discoverable animal icons and location names.
-- [Original map, a fantastic 10MP hillshaded render](https://redd.it/gimo7v) by Reddit user [domriccobene](https://www.reddit.com/user/domriccobene/).
-- [Sit map](https://redd.it/bzv17m) by Reddit user [Impossible_Phase](https://www.reddit.com/user/Impossible_Phase/).
-- [ViktorFekete](https://gtaforums.com/profile/1197324-viktorfekete/) for narrowing the search area for cougars around **Benedict Point, Gaptooth Ridge, NA**.
-- [Looser3241](https://gtaforums.com/profile/1225578-looser3241/) for the sit location at **Clemens Point, Scarlett Meadows, LE**. [Cutter de Blanc](https://gtaforums.com/profile/642145-cutter-de-blanc/) for testing the location.
+- [[RDR Fandom Missable Content]](https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2) [[Steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=2002543938) [[GTAForums]](https://gtaforums.com/topic/924480-spoilers-everything-missable-in-rdr2/)
+- [[RDR2Mods]](https://www.rdr2mods.com/) - focused around RDR2 modding. Wiki with databases, tutorials, and references (including hash IDs). [[Wiki]](https://www.rdr2mods.com/wiki/)
+- [[RDOMap]](https://jeanropke.github.io/RDOMap/) and its associated [contributors](https://github.com/jeanropke/RDOMap/blob/master/CONTRIBUTORS.md) for nearly all sit locations.
+- [[Complete Map]](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) - Story mode map with all discoverable animal icons and location names.
+- [[Original map, a fantastic 10MP hillshaded render]](https://redd.it/gimo7v) by Reddit user [domriccobene](https://www.reddit.com/user/domriccobene/).
+- [[Sit map]](https://redd.it/bzv17m) by Reddit user [Impossible_Phase](https://www.reddit.com/user/Impossible_Phase/).
+- [[ViktorFekete]](https://gtaforums.com/profile/1197324-viktorfekete/) for narrowing the search area for cougars around **Benedict Point, Gaptooth Ridge, NA**.
+- [[Looser3241]](https://gtaforums.com/profile/1225578-looser3241/) for the sit location at **Clemens Point, Scarlett Meadows, LE**. [Cutter de Blanc](https://gtaforums.com/profile/642145-cutter-de-blanc/) for testing the location.
 
 For select animal population maps:
 
-- [Red Dead Wiki](https://reddead.fandom.com/)
-- [GosuNoob](https://www.gosunoob.com/red-dead-redemption-2/)
-- [GTABase](https://gtabase.com/)
-- [RDR2.org](https://rdr2.org/)
-- [PowerPyx's Guides](https://www.powerpyx.com/red-dead-redemption-2-all-animal-locations-zoologist-skin-deep/)
+- [[Red Dead Wiki]](https://reddead.fandom.com/)
+- [[GosuNoob]](https://www.gosunoob.com/red-dead-redemption-2/)
+- [[GTABase]](https://gtabase.com/)
+- [[RDR2.org]](https://rdr2.org/)
+- [[PowerPyx's Guides]](https://www.powerpyx.com/red-dead-redemption-2-all-animal-locations-zoologist-skin-deep/)
 
 ### Testing Procedures
 
-Here's some notes on what all I keep constant while playing:
-
-- PC, latest version, locked at 60fps, V-Sync on, Triple Buffering on, mostly medium settings aside from low lighting qualities and ultra textures.
+- Playing on **RDR2 PC v1436.28 (DODI Repack)**.
 - All animals are tracked back to their original locations via **Eagle Eye**. All locations shown were verified at least twice before being marked.
 - Dismount horse well away from spawn.
-- Constant application of **Cover Scent Lotion**, as in once every 30 or so seconds.
+- Constant application of **Cover Scent Lotion**, as in once every 30 or so seconds even if it's not worn off yet.
 - Slow approach, normal crouched walking.
-- RampageTrainer (freeze/change time/weather; 2021/12/05 using Ignored By Wild Animals to pinpoint exact spawn locations)
 
 ### Release Format
 
-You can download archives of maps in the `Releases` tab on the right side of this page. All releases are in 7z format with LZMA2 compression, so you'll need an archiving program capable of extracting LZMA2 7-zip archives. I use [7-zip itself](https://www.7-zip.org/), but you're free to use whatever you want.
-
-In-game screenshots of the player sitting at a "sit" location are uploaded in their own, separate archives with the suffix `SitLocationsInGame` (i.e. `rdr2-maps-2021-11-07-SitLocationsInGame.7z`).
+More details on [[NexusMods]](https://www.nexusmods.com/reddeadredemption2/mods/1929).
 
 ### Quotes
 
-[Abe (Ep. I, Simple Pleasures)](https://game-scripts.fandom.com/wiki/Red_Dead_Redemption_2#Simple_Pleasures)
+[[Abe, Ep. I, Simple Pleasures]](https://game-scripts.fandom.com/wiki/Red_Dead_Redemption_2#Simple_Pleasures)
 
 > It’s changed. Rich fellers are coming in and buying everything... the ranches... but... well, it ain’t as wild as it once were, at least. 
 
-[Charles Smith (Ep. II, Bare Knuckle Friendships)](https://game-scripts.fandom.com/wiki/Red_Dead_Redemption_2#Bare_Knuckle_Friendships)
+[[Charles Smith, Ep. II, Bare Knuckle Friendships]](https://game-scripts.fandom.com/wiki/Red_Dead_Redemption_2#Bare_Knuckle_Friendships)
 
 > Those are Guido Martelli's men.
