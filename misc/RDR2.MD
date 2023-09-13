@@ -69,7 +69,7 @@ All external links are shown in brackets, i.e. [[a link to this page]](https://g
 <br>&emsp;[List of materials for Satchel, Camp, and Trapper.](#list-of-materials-for-satchel-camp-and-trapper)
 <br>&emsp;[What is the best weapon?](#what-is-the-best-weapon)
 <br>&emsp;[How to get perfect skins?](#how-to-get-perfect-skins-pelts-hides-etc)
-<br>[FISHING TIPS](#fishing-tips)
+<br>[FISHING](#fishing)
 <br>&emsp;[Weather, bait, and bite sequences.](#weather-baits-and-bite-sequences)
 <br>[PLANT/HERB LOCATIONS](#plantherb-locations)
 <br>[ITEM LOCATIONS](#item-locations)
@@ -89,8 +89,10 @@ All external links are shown in brackets, i.e. [[a link to this page]](https://g
 <br>&emsp;[Soothsayer](#soothsayer)
 <br>&emsp;[Blind Man Cassidy](#blind-man-cassidy)
 <br>&emsp;[Cave Hermit](#cave-hermit)
-<br>&emsp;[Hermit Woman](#hermit-woman)
 <br>&emsp;[Hermit Man](#hermit-man)
+<br>&emsp;[Hermit Woman](#hermit-woman)
+<br>&emsp;[Hermit King](#hermit-king)
+<br>&emsp;[Tree House Man](#tree-house-man)
 <br>&emsp;[Ghost In Swamp](#ghost-in-swamp)
 <br>&emsp;[Sun Worshipper](#sun-worshipper)
 <br>&emsp;[KKK](#kkk)
@@ -111,6 +113,7 @@ All external links are shown in brackets, i.e. [[a link to this page]](https://g
 <br>&emsp;[Animal Skins](#animal-skins)
 <br>&emsp;[Orchids](#orchids)
 <br>[BUGS](#bugs)
+<br>&emsp;[Game volume very low](#game-volume-very-low)
 <br>&emsp;[Panthers not spawning in Story Mode](#panthers-not-spawning-in-story-mode)
 <br>&emsp;[Facial hair bug](#facial-hair-bug)
 <br>&emsp;[Cattleman Hero Grip wrong texture](#cattleman-hero-grip-wrong-texture)
@@ -147,6 +150,10 @@ All external links are shown in brackets, i.e. [[a link to this page]](https://g
 <br>&emsp;[Huge Bass with Kieran](#huge-bass-with-kieran)
 <br>&emsp;[Double skins](#double-skins)
 <br>[EASTER EGGS](#easter-eggs)
+<br>&emsp;[Egg Notes](#rhodes-fence)
+<br>&emsp;[Dead Man Treasure](#dead-man-treasure)
+<br>&emsp;[Rhodes Fence](#egg-notes)
+<br>&emsp;[Lakay](#lakay)
 <br>&emsp;[SL Caskets](#sl-caskets)
 <br>&emsp;[Witch in Graveyard](#witch-in-graveyard)
 <br>&emsp;[Skinner Brothers Yelps](#skinner-brothers-yelps)
@@ -759,7 +766,7 @@ Medium Game | Normal Arrow<br>Poison Arrow<br>Throwing Knife<br>Poison Throwing 
 Large Game | Normal Arrow<br>Poison Arrow<br>Poison Throwing Knife<br>Rifle<br>Sniper Rifle | Boar<br>Pronghorn<br>Goat<br>Buck<br>Deer<br>Cougar<br>Sheep<br>Panther<br>Collared Peccary<br>Bighorn Ram<br>Wolf<br>Alligator (Small)<br>Turtle
 Massive Game | Improved Arrow<br>Poison Arrow<br>Poison Throwing Knife<br>Rifle<br>Sniper Rifle<br>Shotgun Slug | Alligator<br>Grizzly/Black Bear<br>American Bison<br>Rocky Mountain Cow/Bull Elk<br>Western Cow/Bull Moose<br>Angus/Devon/Hereford Bull<br>Angus/Devon Ox<br>Florida Cracker Cow
 
-# FISHING TIPS
+# FISHING
 
 - Contrary to compendium entries, weather doesn't seem to make a damn difference in spawn/bite rates.
 - Certain fish are more attracted to certain lures/baits, but quick-pressing RT will attract all fish to your lure/bait. Be that as it may, some may not necessarily nibble/bite it. Flicking RT more than once while fish are near the bait/lure will scare them off.
@@ -1204,15 +1211,24 @@ Mysterious Hill Home, Grizzlies East, AM | NW of the home
 
 ### Mad Preacher
 
+[[Reference.]](https://youtu.be/KcoWidTFLxg)
+
 Location | Details
 :--- | ---
+Kamassa River, Roanoke Ridge, NH | northwest of **Beaver Hollow**
 Dakota River, Heartlands, NH | northwest of **Lucky's Cabin**; northwest of 'V' in "**V**ALENTINE"; `14:00`
+Hawk Eye Creek, Big Valley, WE | northwest of **Strawberry**
+San Luis River, Gaptooth Ridge, NA | southwest of **Scratching Post**
 
 ### Soothsayer
 
-A fortuneteller woman of African American heritage. Otherwise more commonly known as "the black lady fortuneteller in the swamp". In foggy weather at 18:00-02:00, she can be found at two different locations: south of **Canebreak Manor**, and northeast of **Bayall Edge**. She can be encountered again three in-game days after the previous encounter.
+[[Reference.]](https://youtu.be/-7BR_wyGYao)
+
+A fortuneteller woman of evidently African descent. Otherwise more commonly known as "the black lady fortuneteller in the swamp". In foggy weather at `18:00` - `02:00`, she can be found at two different locations: southwest of **Canebreak Manor** and northeast of **Bayall Edge**. She can be encountered again three in-game days after the previous encounter.
 
 ### Blind Man Cassidy
+
+[[Reference.]](https://youtu.be/AukHGzOipPU)
 
 Gives short, mystifying words of wisdom. He can be found on roadsides all around the map:
 
@@ -1226,15 +1242,31 @@ Blackwater, Great Plains, WE | north of the 'C' in "BLA**C**KWATER"
 
 ### Cave Hermit
 
+[[Reference.]](https://youtu.be/XI2o2e5kFAY)
+
 Found inside a cave southwest of **Stilt Shack, Big Valley, WE**.
 
 ### Hermit Man
+
+[[Reference.]](https://youtu.be/mIPCXl7W4jg)
 
 Found at **Manito Glade, Roanoke Ridge, NH**. A sketch is automatically added to the journal after completing the event.
 
 ### Hermit Woman
 
 Found in a shack west of **Stilt Shack, Big Valley, WE**. The site can be inspected and sketched after completing the event.
+
+### Hermit King
+
+[[Reference.]](https://youtu.be/H27wntZM0PE)
+
+A.k.a. "Poor Joe" can be found in a large tree east of **Doverhill, Roanoke Ridge, NH**.
+
+### Tree House Man
+
+[[Reference.]](https://youtu.be/obd66v4ItUA)
+
+Found in a tree house northwest of the last 'N' in "NEW AUSTI**N**".
 
 ### Sun Worshipper
 
@@ -1248,11 +1280,11 @@ See `RDR2-SunWorshipper.jpg` for locations.
 
 [[Reference.]]](https://youtu.be/P3Tra3O6Rko)
 
-A physical manifestation of the ghost of a woman, Agnes Dowd, can be seen near a tree west of the **Trapper's Cabin** from 21:00 to 03:00, usually in foggy weather.
+A physical manifestation of the ghost of a woman, Agnes Dowd, can be seen near a tree west of the **Trapper's Cabin** from `21:00` to `03:00`, usually in foggy weather.
 
 ### KKK
 
-*18:00-06:00*
+`18:00` - `06:00`
 
 - just south of junctions along **Little Creek River**, dead east of **Valley View** (across path to the east)
 - southeast of 'L' in "WEST E**L**IZABETH"
@@ -1274,9 +1306,9 @@ Little Creek River, Big Valley, WE | just southeast of **r** in "Little Creek Ri
 
 ### Feral Man
 
-[[Reference.]](https://reddead.fandom.com/wiki/Feral_Man)
+[[Reference.]](https://youtu.be/MMd9LNjEQKw) [[Reference.]](https://reddead.fandom.com/wiki/Feral_Man)
 
-This is a sequence of three random events. The journal item is missable and [it is possible to glitch it out](#unable-to-obtain-wild-mans-journal).
+A.k.a. the **Wild Man**. This is a sequence of three random events. The journal item is missable and [it is possible to glitch it out](#unable-to-obtain-wild-mans-journal).
 
 ### Cave Voice
 
@@ -1510,6 +1542,15 @@ $10.00 | &bull; Rat Tail<br>&bull; Queen's<br>&bull; Lady Slipper
 # BUGS
 
 *These are bugs which don't appear to have exploitable benefits.*
+
+### Game volume very low
+
+[[Reference.]](https://redd.it/k4tzaj)
+
+This is evidently present in only certain versions of the game. The easy workaround is right-clicking the volume control icon in the Windows system tray and turning the `RDR2.exe` volume up, but many players (better versed in computers) recommend using [[NirCmd]](https://www.nirsoft.net/utils/nircmd.html).
+
+1. Launch the game.
+2. At title screen, press `Alt+Tab` and run `nircmd.exe setappvolume rdr2.exe 1`
 
 ### Panthers not spawning in Story Mode
 
@@ -1822,6 +1863,24 @@ Much information here was sourced from the [[Red Dead Fandom]](https://reddead.f
 
 - Random dead camper at dilapidated campsite just down the hill from **Hawks Eye Cabin, Big Valley, WE**. Only spawns at night.
 
+### Dead Man Treasure
+
+[[Reference.]](https://youtu.be/st9c9Co3csk?t=268)
+
+Two bodies can be found beside a chest northwest of the 'T' in "CUMBERLAND FORES**T**".
+
+### Rhodes Fence
+
+[[Reference.]](https://youtu.be/ZsV8a5agnbw)
+
+After selling unique items to a **Fence**, you can re-obtain them by blowing yourself into the **Fence** in **Rhodes, Scarlett Meadows, LE** by using **Dynamite Arrows** and collect them from the shelf.
+
+### Lakay
+
+[[Reference.]](https://youtu.be/UaKiXVAjaqY)
+
+Feared by locals of **Saint Denis**. Appears to have some connection with the **Pagan Ritual Site** in **Big Valley, WE**.
+
 ### SL Caskets
 
 [[Reference.]](https://redd.it/13flp4a)
@@ -1837,6 +1896,8 @@ There are more of these caskets hidden around the map. (See picture #4) In the c
 
 ### Witch in Graveyard
 
+[[Reference.]](https://youtu.be/H2y8mVpd7kg)
+
 During `Angelo Bronte, A Man of Honor` (in Chapter 3), a woman dressed in all black with one cataracted eye can be seen running around several spots in the graveyard. She doesn't appear outside of this mission.
 
 ### Skinner Brothers Yelps
@@ -1849,13 +1910,15 @@ Voice lines from previous missions can be heard while traveling to previous camp
 
 ### Roanoke Forest Whispers
 
-[[Reference.]](https://redd.it/9z42z3)
+[[Reference.]](https://youtu.be/IUy0lZZ-LnA) [[Reference.]](https://redd.it/9z42z3)
 
 Evidently, it's the voices of Ethel Boshared and Eugene Hutton, a couple who got lost in the forest. Some Theatres will show **The Ghostly Serenade**, which apparently tells the story of the couple.
 
 ### Woman in the Window
 
-Seen at night peering out the second floor window of the house dead east of the junction at **Emerald Ranch, Heartlands, NH**.
+[[Reference.]](https://youtu.be/68l4dDkUP3Q) [[Reference.]](https://youtu.be/wKzDe4Cp93I)
+
+Miriam Wegner can be seen at `12:00` (noon) and at night, peering out the second floor window of the house dead east of the junction at **Emerald Ranch, Heartlands, NH**. There is a mailcart in **Cumberland Forest** which contains **Letter to Miriam Wegner from Annabelle**. In the letter, it's mentioned that Miriam's boyfriend died in a horrible way. A headstone near the old saloon (mentioned by an NPC in the `Stranded` random event) reads "Joshua Burgess, Accidentally Shot, August 1898".
 
 ### Trelawny's House
 
@@ -1877,7 +1940,9 @@ Climbing to the bottom of the well at **Bear Claw, Tall Trees, WE** will change 
 
 ### Bolger Glade Whispers
 
-[[Reference.]](https://redd.it/ew1dx0)
+[[Reference.]](https://redd.it/ew1dx0) [[Reference.]](https://youtu.be/cLDzQDtzUZE)
+
+Voices of soldiers long passed on can be heard on stormy nights at **Bolger Glade, Scarlett Meadows, LE**.
 
 ### Lemoyne Ghost Train
 
@@ -1885,9 +1950,13 @@ Climbing to the bottom of the well at **Bear Claw, Tall Trees, WE** will change 
 
 ### UFO
 
-00:00-04:00 a stereotypically alien "UFO" shows up over **Hani's Bethel, Heartlands, NH**.
+[[Reference.]](https://youtu.be/p8ceO40MLsk) [[Reference.]](https://youtu.be/F9L0jlun0MM)
+
+`02:00` - `04:00` a stereotypically alien "UFO" shows up over **Hani's Bethel, Heartlands, NH**.
 
 Another spawns in **Big Valley, WE**, southeast of the last 'N' in "MOUNT SHAN**N**". A small monolith can be found atop a cliff west of the path junction nearby, northwest of the 'M' in "**M**OUNT SHANN". Some miscellaneous gear can be found under a rock alongside the path southeast of the 'V' in "BIG **V**ALLEY".
+
+**Chez Porter** in **Grizzlies West, AM** may have some connection to the UFOs since the events which take place there in-game are heavily inspired by the [[Heaven's Gate Cult]](https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group)). It's also believed to be connected with the happenings at **Clawson's Rest** just down the road. [[Reference.]](https://youtu.be/HmH6kjpWxJI)
 
 ### Witches Cauldron
 
@@ -1902,6 +1971,8 @@ After completing Marko Dragic's mission strand, is "son" (the robot) can be foun
 A frozen couple holds the map northwest of the 'A' in "**A**MBARINO".
 
 ### Giant Snake
+
+[[Reference.]](https://youtu.be/IKPWRj0MRO8)
 
 South of **Pleasance, Scarlett Meadows, LE**.
 
@@ -2002,6 +2073,8 @@ A dead man and Grizzly Bear can be found northeast of **Stilt Shack, Big Valley,
 Found at **Butcher Creek, Roanoke Ridge, NH**. Based on a real life person.
 
 ### Pentagram
+
+[[Reference.]](https://youtu.be/MVdT5iylnco)
 
 `04:00` - `05:00` Glowing red under the northeasternmost cabin at **Butcher Creek, Roanoke Ridge, NH**.
 
@@ -2905,8 +2978,7 @@ Location | Details
 *all story camp locations* | Pearson makes stew every day
 Valentine, Heartlands, NH | in camp west side of town
 Beecher's Hope, Great Plains, WE | Abigail will serve stew every evening
-Blackwater, Great Plains, WE | west side of bank construction
-Blackwater, Great Plains, WE | southeast side of camp outside of town
+Blackwater, Great Plains, WE | &bull; west side of bank construction<br><br>&bull; southeast side of camp outside of town
 
 ### Chop Firewood
 
@@ -2927,12 +2999,15 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 [[Reference.]](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/)
 
 - Double-tap RB to walk your horse backwards.
-- Perform a flashy holster animation by double-tapping LB. Works with only primary sidearm. Does not work with Sawed Off Shotgun.
-- You can buy goods from some of the shops at the **Saint Denis Market**.
+- Perform a flashy holster animation by double-tapping LB. Works with only primary sidearm. Does not work with **Sawed Off Shotgun**.
+- You can buy goods from some of the shops at the **Market** in **Saint Denis, Bayou Nwa, LE**.
+- A **Steam Boat** can be found and driven off the docks in **Annesburg, Roanoke Ridge, NH**. [[Reference.]](https://youtu.be/JTUHiExJeA8?t=408)
 
 ### Mods
 
-*Main:*
+**NOTE:** All mods with a `.asi` extension require **ScriptHookRDR2**. All other mods will (almost always) require **LML**.
+
+*Core:*
 
 - [[ScriptHookRDR2]](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base required for ASI plugin mods. SDK for development of C++ plugins available on the same page.
 - [[Lenny's Mod Loader]](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) - a.k.a. **LML**. Stream modded content directly into game.
@@ -2943,6 +3018,10 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 - [[Main Menu and Legal Skip]](https://www.nexusmods.com/reddeadredemption2/mods/1469) - Boot right into story mode.
 - [[SnappyUI]](https://www.nexusmods.com/reddeadredemption2/mods/971) - Disable the "smooth transition" in the pause menu.
 - [[Gun Belt Fix]](https://www.nexusmods.com/reddeadredemption2/mods/1600) - Changes the gun belt physics from the current patch version to the `1.00` version.
+- [[Just Do The Thing Already]](https://www.nexusmods.com/reddeadredemption2/mods/1960) - Turns most hold prompts in the game into regular button presses! Also makes other prompts like studying animals almost instant! NOW WITH CRAFTING!
+- [[Just Quit Trolling Already]](https://www.nexusmods.com/reddeadredemption2/mods/1977) - Disables all NPC troll behaviors when riding a horse! Including running into the road in-front of you, veering into you on horseback and cutting you off in wagons!
+- [[Just Shut Up Already]](https://www.nexusmods.com/reddeadredemption2/mods/1981) - Fixes the "broken" ambient NPC behaviors in regards to negative player activity. Such as NPCs saying "That man over there, despicable!" even when you've done nothing wrong.
+- [[Just Fucking Bleed Already]](https://www.nexusmods.com/reddeadredemption2/mods/1934) - Bypasses the limitations on arterial bleeding and makes vital organs a 100% bleed chance for all human NPCs! Including the ones in ambushes, buildings, side-quests and even story missions!
 - [[Fixed Bandolier]](https://www.nexusmods.com/reddeadredemption2/mods/982) - Fixes the hovering bandolier.
 - [[Stash That Lantern]](https://www.nexusmods.com/reddeadredemption2/mods/333) - Store lantern on satchels, both your own and on your horse.
 - [[Non-Sticky Hats]](https://www.nexusmods.com/reddeadredemption2/mods/263) - Changes physics to make hats more likely to fall off.
@@ -2961,6 +3040,7 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 - [[Easier Hunting]](https://www.nexusmods.com/reddeadredemption2/mods/841) - Makes more pristine animals spawn.
 - [[Auto Challenges]](https://www.nexusmods.com/reddeadredemption2/mods/1067) - It's at the bottom of the list for a reason.
 - [[Maverick Weapons and Catalog]](https://www.nexusmods.com/reddeadredemption2/mods/850) - This mods gives your weapons: Better Special Ammo, No Spread, No Sway, No Falloff, No Degradation, No Forced Scope, Faster Reload, Infinite ammo, and more!
+- [[Friendlier NPC Greets]](https://www.nexusmods.com/reddeadredemption2/mods/796) - NPCs will no longer hassle you about your choice of clothing, and more!
 
 *Textures:*
 
@@ -2973,7 +3053,7 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 ### Programs Used
 
 - [[Red Dead Redemption 2 v1436.28 (DODI Repack)]](https://www.1337x.to/torrent/5156100/Red-Dead-Redemption-2-Ultimate-Edition-v1-0-1436-28-MULTi13-EMPRESS-DODI-Repack/) - *I can't be bothered to use the Rockstar Launcher anymore, don't give me a hard time.*
-- [[DODI/EMPRESS Mods Pack]](https://mega.nz/file/DY9DSY5Q#gjlDWT0myvlsb6yARqzszRuoRabxl5hyIZwv8_eE8kg) - Specific versions of all base mods (**ScriptHookRDR2**, **RampageTrainer**, and **LML**) compatible with **RDR2 v1436.28 (DODI Repack)**.
+- [[DODI/EMPRESS Mods Pack]](https://mega.nz/file/DY9DSY5Q#gjlDWT0myvlsb6yARqzszRuoRabxl5hyIZwv8_eE8kg) - Specific versions of all base mods (**ScriptHookRDR2**, **RampageTrainer**, and **LML**) compatible with the version linked above. Note that in using this older build of the game, some mods may become incompatible with time since most mod devs use the latest version. Most plugin (`.asi`) and **LML** mods are unaffected, though.
 - [[GIMP]](https://www.gimp.org/) - GNU Photoshop.
 - [[GreenShot]](https://github.com/greenshot/greenshot) - Capture in-game screenshots.
 - [[nomacs]](https://github.com/nomacs/nomacs) - Scan through screenshots when marking new locations.
@@ -2984,6 +3064,7 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 
 ### References
 
+- [[Strange Man]](https://www.youtube.com/@StrangeManChannel) - Lore, Easter eggs, glitches, and gameplay.
 - [[RDR Fandom Missable Content]](https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2) [[Steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=2002543938) [[GTAForums]](https://gtaforums.com/topic/924480-spoilers-everything-missable-in-rdr2/)
 - [[RDR2Mods]](https://www.rdr2mods.com/) - focused around RDR2 modding. Wiki with databases, tutorials, and references (including hash IDs). [[Wiki]](https://www.rdr2mods.com/wiki/)
 - [[RDOMap]](https://jeanropke.github.io/RDOMap/) and its associated [[contributors]](https://github.com/jeanropke/RDOMap/blob/master/CONTRIBUTORS.md) for nearly all sit locations.
