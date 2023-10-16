@@ -356,6 +356,12 @@ The fastest way to grow hair is also to do the above, but drinking a hair tonic 
 
 There is an alternative method using just free alcohol crates: just keep drinking until you black out, over and over again. [[Reference.]](https://youtu.be/zXprkDSzKBI)
 
+**Coffee**
+
+You can brew **Ground Coffee** at any campfire with the appropriate gear. To brew on the go (at your own campfires), you must buy a **Coffee Percolator** from any **General Store**'s catalog.
+
+Locations of bottomless coffee pots can be found [here](#coffee).
+
 **Alcohol**
 
 Below is a list of alcohol values per item. Coped from [[this Reddit post]](https://redd.it/9s6qnk/). Values amount to "proof", and are the base values before any modifiers. Higher proof means drunk quicker. A value of `1.00` is "blackout drunk". The **Wolf's Heart Trinket** halves the effects of all alcohol.
@@ -1224,7 +1230,7 @@ San Luis River, Gaptooth Ridge, NA | southwest of **Scratching Post**
 
 [[Reference.]](https://youtu.be/-7BR_wyGYao)
 
-A fortuneteller woman of evidently African descent. Otherwise more commonly known as "the black lady fortuneteller in the swamp". In foggy weather at `18:00` - `02:00`, she can be found at two different locations: southwest of **Canebreak Manor** and northeast of **Bayall Edge**. She can be encountered again three in-game days after the previous encounter.
+A fortuneteller woman, otherwise more commonly known as "the black lady fortuneteller in the swamp". In foggy weather at `18:00` - `02:00`, she can be found at two different locations: southwest of **Canebreak Manor** and northeast of **Bayall Edge**. She can be encountered again three in-game days after the previous encounter.
 
 ### Blind Man Cassidy
 
@@ -2152,11 +2158,11 @@ Cougar<br><br>Deer | &bull; Little Creek River, Big Valley, WE (south of 'E' in 
 Cougar<br><br>NPC Corpse | &bull; Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br><br>&bull; Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
 Western Bull Moose | &bull; Lake Isabella, Grizzlies West, AM<br><br>&bull; Barrow Lagoon, Grizzlies West, AM<br><br>&bull; Cairn Lake, Grizzlies West, AM (`16:08`) | Slipping on ice while attempting to stand upright.
 Western Bull Moose<br><br>Gray Wolf | &bull; Lake Isabella, Grizzlies West, AM (northwest side of lake, swims to western shore)<br><br>&bull; Calumet Ravine, Grizzlies East, AM (just north of the bridge to **Wapiti**, swims to west shore)<br><br>&bull; Owanjila, Big Valley, WE (towards north side of lake, swims to west shore, `18:55`)<br><br>&bull; Owanjila, Big Valley, WE (closer to bridge at **Owanjila Dam**, swims to east shore with a single **Burdock Root**, `08:28`) | Moose swimming, sometimes being chased by a lone wolf.
-Hawk/Eagle/Owl<br><br>Fish/Rabbit/Rat/Snake/Squirrel | &bull; Heartland Overflow, Heartlands, NH (northwest of 'A' in "NEW H**A**NOVER", `16:42`)<br><br>&bull; Old Greenbank Mill, Heartlands, NH (west side of path west of the mill)<br><br>&bull; Emerald Ranch, Heartlands, NH (owl catches rat on NE side of ranch)<br><br>&bull; Elysian Pool, Roanoke Ridge, NH<br><br>&bull; Calumet Ravine, Grizzlies East, AM<br><br>&bull; Little Creek River, Big Valley, WE (hawk catches squirrel, northeast of **Valley View**)<br><br>&bull; Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow)<br><br>&bull; Blackwater, Great Plains, WE (owl catches rat, east side of easternmost path heading southbound out of **Blackwater**) | Bird dives and catches random fish/mammal/snake.
+Hawk/Eagle/Owl<br><br>Fish/Rabbit/Rat/Snake/Squirrel | &bull; Heartland Overflow, Heartlands, NH (northwest of 'A' in "NEW H**A**NOVER", `16:42`)<br><br>&bull; Old Greenbank Mill, Heartlands, NH (west side of path west of the mill)<br><br>&bull; Emerald Ranch, Heartlands, NH (owl catches rat on NE side of ranch)<br><br>&bull; Elysian Pool, Roanoke Ridge, NH<br><br>&bull; Calumet Ravine, Grizzlies East, AM<br><br>&bull; Little Creek River, Big Valley, WE (hawk catches squirrel, northeast of **Valley View**)<br><br>&bull; Little Creek River, Big Valley, WE (Eagle catches Rattlesnake; 'v' in "Little Creek Ri**v**er")<br><br>&bull; Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow)<br><br>&bull; Blackwater, Great Plains, WE (owl catches rat, east side of easternmost path heading southbound out of **Blackwater**) | Bird dives and catches random fish/mammal/snake.
 Whitetail Buck | &bull; Diablo Ridge, Big Valley, WE (near path northeastbound from **Appleseed Timber Co.**) | Three dead bucks. Evidently based on a 2015 event in Ohio.
 Whitetail Buck | &bull; Heartlands, NH (SW of the 'H' in "THE **H**EARTLANDS")<br><br>&bull; Strawberry, Big Valley, WE (SE of the **Strawberry Stable**) | Two Bucks, one dead and the other alive, with interlocked horns.
 Whitetail Buck | &bull; Heartlands, NH (SW of second 'H' in "THE **H**EARTLANDS")<br><br>&bull; Cumberland Falls, Heartlands, NH (east side of river, east of path southbound from **Cumberland Falls**, `12:50`)<br><br>&bull; Roanoke Ridge, NH (northern edge of the train tracks just inside the county border, southwest of the **Trapper**) | Two Bucks pushing each other around.
-Bighorn Ram | &bull; Cumberland Forest, NH (north of 'D' in "CUMBERLAN**D** FOREST")<br><br>&bull; Deadboot Creek, Grizzlies West, AM (southeast of 'k' in "Deadboot Cree**k**".<br><br>&bull; Little Creek River, Big Valley, WE (northwest side of junction NW of 'R' in "Little Creek **R**iver"<br><br>&bull; Black Bone Forest, Big Valley, WE (just SE of the **Trapper**)<br><br>&bull; Black Bone Forest, Big Valley, WE (southeast corner of the path junction just southeast of the Geddes' house at **Pronghorn Ranch**)<br><br>&bull; Pronghorn Ranch, Big Valley, WE (first junction on eastbound dashed path heading away from the ranch.<br><br>&bull; Cholla Springs, NA (dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS") | Two Rams headbutt each other.
+Bighorn Ram | &bull; Cumberland Forest, NH (northwest of 'D' in "CUMBERLAN**D** FOREST")<br><br>&bull; Deadboot Creek, Grizzlies West, AM (southeast of 'k' in "Deadboot Cree**k**".<br><br>&bull; Little Creek River, Big Valley, WE (northwest side of junction NW of 'R' in "Little Creek **R**iver"<br><br>&bull; Black Bone Forest, Big Valley, WE (just SE of the **Trapper**)<br><br>&bull; Black Bone Forest, Big Valley, WE (southeast corner of the path junction just southeast of the Geddes' house at **Pronghorn Ranch**)<br><br>&bull; Pronghorn Ranch, Big Valley, WE (first junction on eastbound dashed path heading away from the ranch.<br><br>&bull; Cholla Springs, NA (dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS") | Two Rams headbutt each other.
 American Bison | &bull; Heartland Overflow, Heartlands, NH (SW of 'H' in "**H**eartland Overflow"<br><br>&bull; Great Plains, WE (southeast of 'T' and west of 'P' in "GREA**T P**LAINS")<br><br>&bull; Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each other.
 Grizzly Bear<br><br>Gray Wolf | &bull; Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br><br>&bull; Cattail Pond, Grizzlies West, AM (east of the pond; `13:35`)<br><br>&bull; Little Creek River, Big Valley, WE (southwest of 'R' in "Little Creek **R**iver"; `12:42`) | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly.
 Grizzly Bear | &bull; Cattail Pond, Grizzlies West, AM (cliffside overlooking **Dakota River**, south of the pond) | Just chilling.
@@ -2199,6 +2205,7 @@ Bard's Crossing, Heartlands, NH | [Chelonians](#chelonians) | water's edge on ea
 Bard's Crossing, Heartlands, NH | - | water's edge on east shore of **Dakota River**, on the peninsula southeast of **Bard's Crossing**
 Trading Post, Heartlands, NH | [Frozen Cattle](#frozen-cattle) | next to the **Bottle Tree** northeast of the **Trading Post** [[Reference.]](https://youtu.be/g8Fe9SSVwqM)
 Heartlands, NH | Aberdeen Pig Farm | far northeast corner of the region, east side of path heading southwest from the **Trapper**
+Cumberland Forest, NH | Valentine | along the cliffs northeast of 'T' in "CUMBERLAND FORES**T**"
 Bacchus Station, Cumberland Forest, NH | Legendary Panther | just inside the northeast region border, southeast of **Bacchus Station**
 Kamassa River, Roanoke Ridge, NH | Missing Princess | east shore of river dead north of **Elysian Pool** [[Reference.]](https://youtu.be/1awih8z7iSI)
 Kamassa River, Roanoke Ridge, NH | Rhodes | west side of river inside oxbow dead south of **Fort Brennand** [[Reference.]](https://youtu.be/S2Lb2gyLesY)
@@ -2255,7 +2262,7 @@ Owanjila, Big Valley, WE | chased by wolf, swims to west shore of **Owanjila**, 
 Owanjila, Big Valley, WE | swims to east shore next to a single Burdock Root plant [[Reference.]](https://youtu.be/cpBf3hXDm0M) [[Reference.]](https://youtu.be/dZ1P0u3_J9w) [[Reference.]](https://youtu.be/5vf27qTAUl0) | `06:48`
 Fort Riggs, Big Valley, WE | always a cow; southwest of junction coming from the **Strawberry Stable**; 10 or so paces southeast of boar map icon [[Reference.]](https://youtu.be/ncTQZNpx5k8) [[Reference.]](https://youtu.be/BRXpsBWv-A4) | `14:01`
 Upper Montana River, Tall Trees, WE | west side of river; northwest of 'U' in "**U**pper Montana River"; south side of path that crosses the river north of the 'U'; on the edge of a **Loon** map icon | `11:00`
-Nekoti Rock, Tall Trees, WE | on a cliff overlooking the **Upper Montana River**; just southeast of where the path from **Owanjila Dam** turns southwestbound into **Tall Trees** | `06:06`, `13:20`
+Nekoti Rock, Tall Trees, WE | on a cliff overlooking the **Upper Montana River**; just southeast of where the path from **Owanjila Dam** turns southwestbound into **Tall Trees** | `06:06`, `07:29`, `13:20`
 Evelyn Miller Camp, Tall Trees, WE | directly east of second 'L' in "TAL**L** TREES"; next to a **Lady Slipper Orchid**; alternative coats spawn here; can be seen from the permanent campsite with the pine limb lean-to [[Reference.]](https://youtu.be/myi-AxL9Zws) | `24 HOURS`
 Aurora Basin, Tall Trees, WE | between two groups of Burdock Root on the northwest side of **Aurora Basin**; northeast of Skinner Brothers campsite which, if present, will prevent moose spawn | -
 Aurora Basin, Tall Trees, WE | always a bull; out-of-bounds atop small cliff on the southwest end of **Aurora Basin**; west side of **Lower Montana River**; may sometimes fall backwards and remain out-of-bounds; draw it out with Herbivore Bait like with the OOB Ambarino moose | `06:00`, `13:00`
@@ -3018,11 +3025,11 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 - [[Main Menu and Legal Skip]](https://www.nexusmods.com/reddeadredemption2/mods/1469) - Boot right into story mode.
 - [[SnappyUI]](https://www.nexusmods.com/reddeadredemption2/mods/971) - Disable the "smooth transition" in the pause menu.
 - [[Gun Belt Fix]](https://www.nexusmods.com/reddeadredemption2/mods/1600) - Changes the gun belt physics from the current patch version to the `1.00` version.
+- [[Fixed Bandolier]](https://www.nexusmods.com/reddeadredemption2/mods/982) - Fixes the hovering bandolier.
 - [[Just Do The Thing Already]](https://www.nexusmods.com/reddeadredemption2/mods/1960) - Turns most hold prompts in the game into regular button presses! Also makes other prompts like studying animals almost instant! NOW WITH CRAFTING!
 - [[Just Quit Trolling Already]](https://www.nexusmods.com/reddeadredemption2/mods/1977) - Disables all NPC troll behaviors when riding a horse! Including running into the road in-front of you, veering into you on horseback and cutting you off in wagons!
 - [[Just Shut Up Already]](https://www.nexusmods.com/reddeadredemption2/mods/1981) - Fixes the "broken" ambient NPC behaviors in regards to negative player activity. Such as NPCs saying "That man over there, despicable!" even when you've done nothing wrong.
 - [[Just Fucking Bleed Already]](https://www.nexusmods.com/reddeadredemption2/mods/1934) - Bypasses the limitations on arterial bleeding and makes vital organs a 100% bleed chance for all human NPCs! Including the ones in ambushes, buildings, side-quests and even story missions!
-- [[Fixed Bandolier]](https://www.nexusmods.com/reddeadredemption2/mods/982) - Fixes the hovering bandolier.
 - [[Stash That Lantern]](https://www.nexusmods.com/reddeadredemption2/mods/333) - Store lantern on satchels, both your own and on your horse.
 - [[Non-Sticky Hats]](https://www.nexusmods.com/reddeadredemption2/mods/263) - Changes physics to make hats more likely to fall off.
 - [[Remove Speed Limits]](https://www.nexusmods.com/reddeadredemption2/mods/975) - Remove horse and player speed limits in camps, towns, indoors and on bridges.
@@ -3030,7 +3037,6 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 - [[Locomotive Power]](https://www.nexusmods.com/reddeadredemption2/mods/1309) - Train top speed and acceleration/deceleration adjusted to real life.
 - [[Corpse Spawn Distance]](https://www.nexusmods.com/reddeadredemption2/mods/1786) - Increased spawn distance of the corpses so you will not see them drop in front of you.
 - [[Better Horses]](https://www.nexusmods.com/reddeadredemption2/mods/842) - Improves horse stats of those which basically only the player can own.
-- [[Dynamic Seasons]](https://www.nexusmods.com/reddeadredemption2/mods/1557) - Makes the game world a bit more robust.
 - [[Realtime Eagle Eye]](https://www.nexusmods.com/reddeadredemption2/mods/2615) - Small tweak to disable slow motion concerning the Eagle Eye mechanic as it destroyed pacing.
 - [[Unlimited Horse Whistling Distance]](https://www.nexusmods.com/reddeadredemption2/mods/306) - F--- realism! When I whistle, that horse better come!
 - [[Unlocked Deadeye]](https://www.nexusmods.com/reddeadredemption2/mods/867) - Unlock all Deadeye abilities from level 1.
@@ -3038,9 +3044,15 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 - [[Improved Loot]](https://www.nexusmods.com/reddeadredemption2/mods/1596) - Improves NPC, animal, and herb loot pool.
 - [[Realistic Hunting Rebalance]](https://www.nexusmods.com/reddeadredemption2/mods/1559) - Realistic animal loot. More options for clean kills. Firearms as alternative to small game arrows.
 - [[Easier Hunting]](https://www.nexusmods.com/reddeadredemption2/mods/841) - Makes more pristine animals spawn.
-- [[Auto Challenges]](https://www.nexusmods.com/reddeadredemption2/mods/1067) - It's at the bottom of the list for a reason.
 - [[Maverick Weapons and Catalog]](https://www.nexusmods.com/reddeadredemption2/mods/850) - This mods gives your weapons: Better Special Ammo, No Spread, No Sway, No Falloff, No Degradation, No Forced Scope, Faster Reload, Infinite ammo, and more!
 - [[Friendlier NPC Greets]](https://www.nexusmods.com/reddeadredemption2/mods/796) - NPCs will no longer hassle you about your choice of clothing, and more!
+- [[Project New Austin: 1907]](https://www.rdr2mods.com/downloads/rdr2/maps/223-project-new-austin-1907-classic-color-scheme-and-rdr1-locations/) - Brings back those classic RDR1 locations﻿ and adds new life to those already in the game, making a more believable 1907 version of the map. Also includes that gritty, spaghetti western New Austin color scheme from the first game. All locations are complete with peds, increased rider density, and RDR1 accurate layouts with as much detail as possible.
+- [[Online Button Remover]](https://www.rdr2mods.com/downloads/rdr2/other/351-online-button-remover/) - This removes the online button from the pause menu, that is what this mod does!
+
+*Gameplay:*
+
+- [[Dynamic Seasons]](https://www.nexusmods.com/reddeadredemption2/mods/1557) - Makes the game world a bit more robust.
+- [[Auto Challenges]](https://www.nexusmods.com/reddeadredemption2/mods/1067) - It's at the bottom of the list for a reason.
 
 *Textures:*
 
@@ -3061,6 +3073,7 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 - [[Notepad++]](https://notepad-plus-plus.org/) - Text editor. Using [[NppMarkdownPanel]](https://github.com/mohzy83/NppMarkdownPanel) to edit and preview **Markdown** docs.
 - [[CodeWalker]](https://github.com/dexyfex/CodeWalker) - RDR2 support unconfirmed.
 - [[OpenIV]](https://openiv.com/) - Borderline supports RDR2.
+- [[RedDeadBlend2]](https://www.rdr2mods.com/downloads/rdr2/tools/361-reddeadblend2-blender-add-on-for-rdr2-models/) - A [[Blender]](https://www.blender.org/) add-on for RDR2 models.
 
 ### References
 
