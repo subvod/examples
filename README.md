@@ -60,6 +60,7 @@
 *Articles:*
 
 - [DO NOT DEFRAGMENT YOUR SSD](https://superuser.com/questions/1594/why-cant-you-defragment-solid-state-drives) - Defragmenting does nothing but spike write cycles, lowering SSD lifespan because of how they operate. This is not the case for HDDs with physical disks. Defragmenting is beneficial for HDDs, not SSDs.
+- [How to Check SSD Health in Windows 10 and Windows 11](https://www.tomshardware.com/how-to/check-ssd-health-windows-10-11) - Click **Search** button from the **Taskbar**, type `cmd`, hit **[ENTER]**, type `wmic`, hit **[ENTER]**, type `diskdrive get status`, hit **[ENTER]**.
 - [Compression Benchmark](https://peazip.github.io/peazip-compression-benchmark.html) - Performance comparison of several compression algorithms. Also specifies [file formats less fit for compression](https://peazip.github.io/why-can-not-compress-pdf-avi-mp3-files.html).
 
 ## Audio/Video Utilities
@@ -95,6 +96,7 @@
 - [How to add fonts to Linux, Windows, and Mac OS X](https://docs.gimp.org/2.10/en/gimp-using-fonts.html). Note, at the bottom it specifies you can place font files into `<GIMP_InstallDirectory>\etc\fonts` subdirectory to make them available to GIMP only.
 - [Batch Converting via ImageMagick](https://stackoverflow.com/q/30414346) - With a `FOR` loop.
 - [Image Formats Comparison](https://eclipseo.github.io/image-comparison-web/report.html) - Slightly more recent fork of [the original project](http://wyohknott.github.io/image-formats-comparison/report.html) by [wyohknott](https://github.com/WyohKnott).
+- [How to set default export format in GIMP?](https://graphicdesign.stackexchange.com/a/124549) - `Edit` &gt; `Preferences` &gt; `Image Import &amp; Export`
 
 ## 3D Utilities
 
@@ -110,14 +112,15 @@
 
 *Text/Code Editors:*
 
-- [CudaText](https://cudatext.github.io/) - Cross-platform code editor. [[Source Code]](https://github.com/Alexey-T/CudaText)
 - [Notepad++](https://notepad-plus-plus.org/) - Cross-platform code editor. Can be made into an [IDE with Batch scripts, NPPExec, and Macros](https://github.com/subvod/examples/blob/master/misc/NPP-IDE.MD). [[Docs]](https://npp-user-manual.org/) [[Source Code]](https://github.com/notepad-plus-plus/notepad-plus-plus)
+- [CudaText](https://cudatext.github.io/) - Cross-platform code editor. [[Source Code]](https://github.com/Alexey-T/CudaText)
 
 *Other:*
 
 - [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) - This is the real deal. The one included in **Nerd-Fonts** is *Sauce Code Pro*.
 - [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher.
 - [pandoc](https://github.com/jgm/pandoc) - Universal Markup converter.
+- How to [add spell checking in Notepad++.](https://superuser.com/a/1398978) - using [DSpellCheck](https://github.com/Predelnik/DSpellCheck).
 
 *References:*
 
@@ -132,7 +135,7 @@
 
 - [Mozilla Firefox](https://www.mozilla.org/) - open-source browser with extensive plugin support. [[Source Code]](https://hg.mozilla.org/mozilla-central/)
 
-*Plugins:*
+*Plugins/Addons/Extensions:*
 
 - [ViolentMonkey](https://violentmonkey.github.io/) - Control how webpages operate using JavaScript "userscripts". Alternative for GreaseMonkey. [[Source Code]](https://github.com/violentmonkey/violentmonkey)
 - [PageHacker](https://addons.mozilla.org/en-US/firefox/addon/page-hacker/) - an interactive "Inspect Element".
@@ -176,6 +179,8 @@
 - [OpenSSL](https://www.openssl.org/) - Crypto library. [[GitHub Repo]](https://github.com/openssl/openssl) [[SHA-256 Example]](https://stackoverflow.com/a/2458382)
 - [SFML](https://www.sfml-dev.org/) - Multi-platform, multi-language library which provides a simple interface to the various components of your PC to ease the development of games and multimedia applications. **[Docs]** available on downloads page. [[Source Code]](https://github.com/SFML/SFML)
 - [MD5 Message Digest Algorithm](https://github.com/deepmind/lab/tree/master/third_party/md) - Message Digest algorithm derived from RSA Data Security, Inc. [[Original Source]](https://opensource.apple.com/source/ppp/ppp-37/ppp/pppd/md5.c.auto.html)
+- [md5-c](https://github.com/Zunawe/md5-c) - A simple, commented reference implementation of the MD5 hash algorithm.
+- [sha256-in-c](https://github.com/EddieEldridge/SHA256-in-C) -  An implementation of the SHA256 Hashing Algorithm in C.
 
 *References:*
 
@@ -296,6 +301,7 @@
 *References:*
 
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax quick reference.
+- [https://github.com/sindresorhus/github-markdown-css](github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style. [Demo.](https://sindresorhus.com/github-markdown-css/)
 
 *Articles:*
 
@@ -304,6 +310,7 @@
 # GAMING
 
 - [AutoHotKey](https://www.autohotkey.com/) - Keyboard and mouse macros via scripting. [[Source Code]](https://github.com/AutoHotkey/AutoHotkey)
+- [Cookie Clicker](https://idle-js-games.github.io/cookieclicker/) - The classic idle (AFK) game on GitHub.
 
 ## Homeworld Remastered
 
@@ -317,7 +324,7 @@
 
 *Mods:*
 
-- [Complex Simple (Simplex)](https://www.moddb.com/mods/homeworld-2-complex-simple) - Massive mod based on the Complex mod. [Siliconworm](https://www.moddb.com/members/m-o-m) has made it clear that he will not adapt the mod to HWR because "reasons".
+- [Complex Simple](https://www.moddb.com/mods/homeworld-2-complex-simple) - Massive mod based on the Complex mod. [Siliconworm](https://www.moddb.com/members/m-o-m) has made it clear that he will not adapt the mod to HWR because "reasons".
 - [Tactical Fleet Simulator](https://www.moddb.com/mods/tactical-fleet-simulator) - Transforms Homeworld2 into a tactics-oriented strategy game.
 - [R.E.A.R.M.](https://www.moddb.com/mods/rearm) - **R**earmament **E**xpansion **A**nd **R**edesign **M**od for Hw2 classic. [R.E.A.R.M. V2](https://www.moddb.com/mods/rearm-v2) is adapted to HWR, but it seems [Pouk](https://www.moddb.com/members/pouk) hasn't made significant progress in a very long time.
 - [Homeworld 2 Complex](https://www.moddb.com/mods/homeworld-2-complex) - Complex mod, originally developed for Hw2 classic. [Complex Remastered](https://www.moddb.com/mods/homeworld-complex/downloads) is the adapted to HWR.
@@ -332,19 +339,34 @@
 
 [[PHANTOMFORCES.MD]](https://github.com/subvod/examples/blob/master/misc/PHANTOMFORCES.MD) - Notes on the game for Roblox. Random, niche stuff like what weapons have muzzle attachments that use base barrel textures/materials, some color notes on existing vanilla weapon colors/textures (yeah so you can have your **Beowulf ECR** the same color as the **C7A2**), etc.
 
+- [Roblox FPS Unlocker](https://github.com/axstin/rbxfpsunlocker) - Got a decently beefy system that can run over 60 fps? Use it. Roblox announced years ago that they won't be handing out bans for those using only FPS unlockers.
+
 ## Red Dead Redemption 2
 
-<s>[[rdr2-maps]](https://github.com/subvod/rdr2-maps)</s> [[Animal Location Maps]](https://www.nexusmods.com/reddeadredemption2/mods/1929) - Rare animal location maps. Woodpeckers to moose to panthers. Ported everything to **NexusMods**.
+[[Animal Location Maps]](https://www.nexusmods.com/reddeadredemption2/mods/1929) - Previously known as **rdr2-maps**. Rare animal location maps. Woodpeckers to moose to panthers. Ported everything to **NexusMods**.
 
 [[RDR2.MD]](https://github.com/subvod/examples/blob/master/misc/RDR2.MD) - Copy of the notes file from `rdr2-maps`. Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc. Been playing since 2020 and have no-lifed the hell out of this game with over 7k hours dumped in. So much fun, my God...
 
 ## Grand Theft Auto V
 
-[[GTA5.MD]](https://github.com/subvod/examples/blob/master/misc/GTA5.MD) - Notes on single player GTA V. Rare vehicles, unique vehicles, NPC-modified vehicles, etc. Been playing since day one and probly have accumulated over 10k hours since 2013.
+[GTA5.MD](https://github.com/subvod/examples/blob/master/misc/GTA5.MD) - Notes on single player GTA V. Rare vehicles, unique vehicles, NPC-modified vehicles, etc. Been playing since day one and probly have accumulated over 10k hours since 2013.
 
 ## Minecraft
 
-[mc-stuff](https://github.com/subvod/mc-stuff) - Notes on solo Minecraft, specifically **Java Edition**.
+- [mc-stuff](https://github.com/subvod/mc-stuff) - Notes on solo Minecraft, specifically **Java Edition**.
+
+*Tools:*
+
+- [Prism Launcher](https://github.com/Diegiwg/PrismLauncher-Cracked) - Special fork of **Prism Launcher**.
+- [UltimMC](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
+- [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) - Mod platform.
+
+*Mods:*
+
+- [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) - Just enough items.
+- [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - In-game map editor.
+- [Advanced Finders](https://www.curseforge.com/minecraft/mc-mods/advanced-finders) - Adds several ore finders to make the mining process much more interesting and time-saving.
+- [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits) - Adds very rare, but super-massive ore deposits to the world.
 
 ## Tom Clancy's Ghost Recon Wildlands
 
@@ -390,7 +412,7 @@
 
 *Emulators:*
 
-- [BGB](http://bgb.bircd.org/) - GBA/GBC/GB emulator. Widely preferred by ROM hackers. Closed source.
+- [BGB](http://bgb.bircd.org/) - GBA/GBC/GB emulator. **Widely preferred by ROM hackers.** Closed source.
 - [mGBA](https://mgba.io/) - GBA/GBC/GB emulator with full link support. [[GitHub]](https://github.com/mgba-emu/mgba)
 - [TGB Dual](https://github.com/libertyernie/tgbdual_L) - GBC emulator with full link support.
 - [VBA-M](https://vba-m.com/) - Merge project of all **VisualBoyAdvance** branches. [[GitHub]](https://github.com/visualboyadvance-m/visualboyadvance-m/) [[Nightly Builds]](https://nightly.vba-m.com/)
@@ -399,7 +421,7 @@
 
 **NOTE:** If you're gonna make a Pokemon ROM hack, use a disassembly/decompilation. Binary hacking may be old school and cool, but results in the most problems **BY FAR**. Especially further down the line in large projects.
 
-- [GSC Clock Password Generator](https://bl4cksh4rk.github.io/Pokemon-GSC-Clock-Password-Generator/) -  generates passwords for clock reset.
+- [GSC Clock Password Generator](https://bl4cksh4rk.github.io/Pokemon-GSC-Clock-Password-Generator/) - Generates passwords for clock reset.
 - [Eon Timer](https://github.com/DasAmpharos/EonTimer) - RNG timer.
 - [PKHeX](https://projectpokemon.org/pkhex/) - Universal save file editor. [[GitHub]](https://github.com/kwsch/PKHeX)
 - [HexManiacAdvance](https://github.com/haven1433/HexManiacAdvance) - A tool for editing tables, text, scripts, images, and other data in Pokemon GBA games.
@@ -413,13 +435,12 @@
 
 *ROM Hacks:*
 
-- [patched-crystal](https://github.com/UberMedic7/patched-crystal) - Fixes a lot of issues. All 251 catchable. Forked from [pokecrystal](https://github.com/pret/pokecrystal).
-- [Yellow 151](https://www.romhacking.net/hacks/5746/) - Yellow, but with all 151 catchable. Other fixes included.
+- [Yellow Advanced 2019](https://www.pokecommunity.com/showthread.php?t=420552) - Fixes most issues present in OG Yellow.
+- [Patched Crystal](https://github.com/UberMedic7/patched-crystal) - Fixes most issues in OG Crystal.
+- [Emerald Final](https://www.pokecommunity.com/showthread.php?t=410480) - Lots of improvements on OG Emerald.
+- [Polished Crystal](https://github.com/Rangi42/polishedcrystal) - Overhaul of Crystal. Many story deviations and such, but nothing jarring.
 - [R.O.W.E.](https://www.pokecommunity.com/showthread.php?t=442592) - Massive backport of modern games' features into Emerald.
-- [Emerald Final](https://www.pokecommunity.com/showthread.php?t=410480) - Lots of improvements on Emerald.
-- [Rising Crystal](https://www.pokecommunity.com/showthread.php?t=448400) - Backport of modern games' features into Crystal.
-- [Crystal Dust](https://www.pokecommunity.com/showthread.php?t=234566) - Gen2 remade in Gen3. [[GitHub]](https://github.com/Sierraffinity/CrystalDust)
-- [Flawless Platinum](https://www.pokecommunity.com/showthread.php?t=307373) - An overhaul.
+- [Flawless Platinum](https://www.pokecommunity.com/showthread.php?t=307373) - Overhaul of Platinum.
 
 *References:*
 
@@ -436,7 +457,7 @@
 
 *Articles:*
 
-- [Creating Accurate Logos](https://forums.forzamotorsport.net/turn10_postst133507_-Guide--Creating-Accurate-Logos.aspx) - tutorial by **PJTierney**. I recommend using **nomacs**; link in [Image Tools](#image).
+- [Creating Accurate Logos](https://forums.forzamotorsport.net/turn10_postst133507_-Guide--Creating-Accurate-Logos.aspx) - tutorial by **PJTierney**. I recommend using **nomacs**; link in [Imaging Utilities](#imaging-utilities).
 
 # QUOTES
 
