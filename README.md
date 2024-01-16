@@ -42,6 +42,8 @@
 
 [ASUS ROG Zephyrus GA401QM (2021 G14) Review](https://github.com/subvod/examples/blob/master/misc/2021-ASUS-ROG-Zephyrus-G14-GA401QM-Review.md) - A not-so-in-depth review of the **2021 ASUS G14** because I'm a fucking normie piece of shit.
 
+If you, by chance, are curious about the "best" AA battery, take a quick ten minute glance at [Project Farm's AA battery comparison](https://youtu.be/V7-ghrTqA44).
+
 # TOOLS/UTILITIES
 
 *These are tools and references I've used in the past, distant and recent. I do not link to things I've not used/tried myself for credibility reasons.*
@@ -52,6 +54,7 @@
 
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Alternative to CCleaner because Avast fucked it up.
 - [7-Zip](https://www.7-zip.org/) - File compression and archiving. I was a WinRAR fanboy for over a decade. Why? No clue. [[Source Code]](https://sourceforge.net/projects/sevenzip/) ; use LZMA2 for binary/images, PPMd for plaintext.
+- [PowerISO](http://www.poweriso.com/) - Powerful CD / DVD / BD image file processing tool, which allows you to open, extract, burn, create, edit, compress, encrypt, split and convert ISO files, and mount ISO files with internal virtual drive. It can process almost all CD / DVD / BD image files including ISO and BIN files. PowerISO provides an all-in-one solution. You can do every thing with your ISO files and disc image files.
 - [CheatEngine](https://www.cheatengine.org/downloads.php) - memory editor and process hook module; RAR archive isn't bundled with "optional" bloatware/adware. [[Source Code]](https://github.com/cheat-engine/cheat-engine)
 - [IconsExtract](https://www.nirsoft.net/utils/iconsext.html) - extract icon resources from WinPE/DLL
 - [ResourceHacker](http://www.angusj.com/resourcehacker/) - extract, edit, and repack WinPE/DLL resources
@@ -67,8 +70,8 @@
 
 *Tools:*
 
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Stream/download various media in various formats from various sources.
-- [FFMpeg by BtbN](https://github.com/BtbN/FFmpeg-Builds) - Latest nightly builds of the Swiss army knife of audio/video [FFMpeg](https://github.com/FFmpeg/FFmpeg). Certain builds have tons libraries already statically linked. Be sure to read the [Targets, Variants, and Addins](https://github.com/BtbN/FFmpeg-Builds#targets-variants-and-addins).
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A fork of [youtube-dl](https://github.com/ytdl-org/youtube-dl) with additional features and fixes.
+- [yt-dlp FFmpeg](https://github.com/yt-dlp/FFmpeg-Builds) - FFMpeg builds for [yt-dlp](https://github.com/yt-dlp/yt-dlp). Forked from [FFmpeg-Builds by BtbN](https://github.com/BtbN/FFmpeg-Builds). Certain builds have tons libraries already statically linked. Be sure to read the [Targets, Variants, and Addins](https://github.com/BtbN/FFmpeg-Builds#targets-variants-and-addins).
 - [OPUS Codec](https://opus-codec.org/downloads/) - Modern audio compression for the internet. Lossy, but it's a witchcrafty compression algorithm. [[Docs]](https://opus-codec.org/docs/) [[Source Code]](https://gitlab.xiph.org/xiph/opus-tools)
 - [VLC](https://www.videolan.org/) - Media player. [[Docs]](https://wiki.videolan.org/documentation:documentation/) [[Source Code]](https://github.com/videolan/vlc)
 - [Audacity](https://www.audacityteam.org/) - Audio editor. [[Docs]](https://manual.audacityteam.org/) [[Source Code]](https://github.com/audacity/audacity)
@@ -140,6 +143,7 @@
 - [ViolentMonkey](https://violentmonkey.github.io/) - Control how webpages operate using JavaScript "userscripts". Alternative for GreaseMonkey. [[Source Code]](https://github.com/violentmonkey/violentmonkey)
 - [PageHacker](https://addons.mozilla.org/en-US/firefox/addon/page-hacker/) - an interactive "Inspect Element".
 - [UBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - efficient, wide-spectrum content blocker.
+- [RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - Removes the intrusive "Ad blockers are not allowed on YouTube" thing.
 - [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) - HLS/DASH/HDS/MSS stream detector. Pinpoints `.m3u8` playlists from streams. [[Source Code]](https://github.com/rowrawer/stream-detector)
 - [YouTube Video and Audio Downloader](https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/) - WebX downloader with UI integrated to YouTube's.
 - [pdf.js](https://github.com/mozilla/pdf.js) - mirror of PDF reader included with Firefox installs.
@@ -300,8 +304,9 @@
 
 *References:*
 
+- [Markdown Previewer](https://mdpreviewer.github.io/)
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - MD syntax quick reference.
-- [https://github.com/sindresorhus/github-markdown-css](github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style. [Demo.](https://sindresorhus.com/github-markdown-css/)
+- [GitHub Markdown CSS](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style. [Demo.](https://sindresorhus.com/github-markdown-css/)
 
 *Articles:*
 
@@ -309,8 +314,10 @@
 
 # GAMING
 
-- [AutoHotKey](https://www.autohotkey.com/) - Keyboard and mouse macros via scripting. [[Source Code]](https://github.com/AutoHotkey/AutoHotkey)
+- [MyAbandonware](https://www.myabandonware.com/) - Retro gaming hub.
+- [AutoHotKey](https://www.autohotkey.com/) - Keyboard and mouse macros via scripting. [Source code on GitHub.](https://github.com/AutoHotkey/AutoHotkey)
 - [Cookie Clicker](https://idle-js-games.github.io/cookieclicker/) - The classic idle (AFK) game on GitHub.
+- [How do Video Game Graphics Work?](https://youtu.be/C8YtdC8mxTU) - A video explanation by **Branch Education**.
 
 ## Homeworld Remastered
 
@@ -347,9 +354,17 @@
 
 [[RDR2.MD]](https://github.com/subvod/examples/blob/master/misc/RDR2.MD) - Copy of the notes file from `rdr2-maps`. Hodgepodge of notes, but not disorganized. Contains things such as getting the Silver Dapple Pinto MFT as Arthur, glitches/bugs (and known fixes for them), document locations (missable and not), etc. Been playing since 2020 and have no-lifed the hell out of this game with over 7k hours dumped in. So much fun, my God...
 
-## Grand Theft Auto V
+## Grand Theft Auto
 
-[GTA5.MD](https://github.com/subvod/examples/blob/master/misc/GTA5.MD) - Notes on single player GTA V. Rare vehicles, unique vehicles, NPC-modified vehicles, etc. Been playing since day one and probly have accumulated over 10k hours since 2013.
+ITEM | DESCRIPTION
+:--- | ---
+[GTA5.MD](https://github.com/subvod/examples/blob/master/misc/GTA5.MD) | Notes on single player GTA V. Rare vehicles, unique vehicles, NPC-modified vehicles, etc. Been playing since day one and probly have accumulated over 10k hours since 2013.
+[Fixing GTA IV with 4 Mods](https://youtu.be/UuXVYUGJ45Y) | Video explanation of what to install and how they work.
+[FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) | Aims to fix some issues in GTA IV: Complete Edition.
+[Console Visuals: The Complete Edition](https://gtaforums.com/topic/989098-console-visuals-the-complete-edition/) | Compilation of console visual restoration for GTA IV: Complete Edition for PC.
+[Various Fixes](https://gtaforums.com/topic/975211-various-fixes/) | Fixes various bugs in GTA IV. Mod is not limited only on fixes, it also includes restoration of some things, console content, various texture improvements, etc. 
+[Downgrader](http://downgraders.rockstarvision.com/) | Downgraders for GTA IV.
+[dxvk](https://github.com/doitsujin/dxvk) |  Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine.
 
 ## Minecraft
 
@@ -370,7 +385,16 @@
 
 ## Tom Clancy's Ghost Recon Wildlands
 
-[[TCGRW.MD]](https://github.com/subvod/examples/blob/master/misc/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**. I have over 6k hours in this game.
+[TCGRW.MD](https://github.com/subvod/examples/blob/master/misc/TCGRW.MD) - Referential document containing weapon, vehicle, and NPC data gathered while playing **Tom Clancy's Ghost Recon Wildlands**. I have over 6k hours in this game.
+
+## Fate
+
+[Fate v1.23b (Multi5)](https://archive.org/details/fatespa) - Full version of the Diablo clone.
+[Fate v1.21](https://archive.org/details/fate121) - The original Fate version `1.21` plus the official add-ons that were started for download on the official Fate website.
+[Source Code](https://archive.org/details/fate_source_code) - The source code to the game FATE and it's sequel/expansion FATE: Undiscovered Realms. These leaked when Humble Bundle accidentally distributed copies of the source code instead of the final build.
+[Ultimate Modpack](https://gamebanana.com/mods/321455) - Compilation of many mods created over the years.
+[Mods on PCTalk](http://www.pctalk.info/Games/FATE/Pages/1FateMods.php) - Archive of mods.
+[Mods on Nexus](https://www.nexusmods.com/fate/mods/) - Newer mods.
 
 ## Emulation
 
@@ -385,7 +409,7 @@
 
 *Patching Tools:*
 
-- [FlipsCygwin](https://github.com/subvod/FlipsCygwin) - Applies and creates **IPS** and **BPS** patches. Custom build of **Flips v1.31** with checkbox for quickly toggling checksum-mismatch overrides. [[Floating IPS]](https://www.smwcentral.net/?p=section&a=details&id=11474) [[Lunar IPS]](https://www.fusoya.eludevisibility.org/lips/) 
+- [FlipsCygwin](https://github.com/subvod/FlipsCygwin) - Fork of [[Floating IPS]](https://www.smwcentral.net/?p=section&a=details&id=11474), an alternative to [[Lunar IPS]](https://www.fusoya.eludevisibility.org/lips/). Applies and creates **IPS** and **BPS** patches. Custom build of **Flips v1.31** with checkbox for quickly toggling override of checksum mismatches.
 - [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) - GUI interface with integrated **xdelta**.
 - [WASM xdelta Patcher](https://kotcrab.github.io/xdelta-wasm/) - Online `.xdelta` patcher.
 
