@@ -4,75 +4,232 @@
 
 # TABLE OF CONTENTS
 
-[TABLE OF CONTENTS](#table-of-contents)<br>
-[INFORMATION](#information)<br>
-&emsp;[Overview](#overview)<br>
-&emsp;[Latest Notes](#latest-notes)<br>
-[MODS](#mods)<br>
-&emsp;[Tools](#tools)<br>
-&emsp;[Trainers](#trainers)<br>
-&emsp;[Quality Control](#quality-control)<br>
-&emsp;[Gameplay Mods](#gameplay-mods)<br>
-&emsp;[References](#references)<br>
-[GAMEPLAY](#gameplay)<br>
-&emsp;[Ground Vehicle Tips](#ground-vehicle-tips)<br>
-&emsp;[Air Vehicle Tips](#air-vehicle-tips)<br>
-&emsp;[Aquatic Vehicle Tips](#aquatic-vehicle-tips)<br>
-[RARE VEHICLES](#rare-vehicles)<br>
-&emsp;[Regular Vehicles](#regular-vehicles)<br>
-&emsp;[NPC-Modified Vehicles](#npc-modified-vehicles)<br>
-&emsp;[Beach Bum Update Vehicles](#beach-bum-update-vehicles)<br>
-&emsp;[Gang Vehicles](#gang-vehicles)<br>
-&emsp;[Convertibles](#convertibles)<br>
-[SECURITY VANS](#security-vans)<br>
+[TABLE OF CONTENTS](#table-of-contents)
+<br>[INFORMATION](#information)
+<br>&emsp;[Quick Tips](#quick-tips)
+<br>[MODS](#mods)
+<br>&emsp;[Tools](#tools)
+<br>&emsp;[Trainers](#trainers)
+<br>&emsp;[Quality Control](#quality-control)
+<br>&emsp;[Gameplay Mods](#gameplay-mods)
+<br>&emsp;[References](#references)
+<br>[GAMEPLAY](#gameplay)
+<br>&emsp;[Ground Vehicle Tips](#ground-vehicle-tips)
+<br>&emsp;[Air Vehicle Tips](#air-vehicle-tips)
+<br>&emsp;[Aquatic Vehicle Tips](#aquatic-vehicle-tips)
+<br>[RARE VEHICLES](#rare-vehicles)
+<br>&emsp;[Regular Vehicles](#regular-vehicles)
+<br>&emsp;[NPC-Modified Vehicles](#npc-modified-vehicles)
+<br>&emsp;[Beach Bum Update Vehicles](#beach-bum-update-vehicles)
+<br>&emsp;[Gang Vehicles](#gang-vehicles)
+<br>&emsp;[Convertibles](#convertibles)
+<br>[SECURITY VANS](#security-vans)
 
 # INFORMATION
 
-### Overview
+### Quick Tips
 
-All information gathered is from PC v1.0.2545.0, Uncracked, Rockstar Launcher panty-sniffing DRM.
+- [GTA V Basic Modding Guide](https://github.com/ikt32/GTAVBasicModdingGuide)
+- Aiming while walking helps your character stay balanced even on sheer cliffs.
+- If you shoot an RPG into waist high water, it will float up into the air.
+- Vehicles are flooded if the exhaust is submerged for more than `3` seconds. Use **HVY Dump**, **Vapid Guardian**, **Dock Handler**, **Duneloader**, etc.
 
-All times are in military time as shown in game, a.k.a. military time.
+### Add Backfire to Any Vehicle
 
-### Latest Notes
+[Source.](https://forums.gta5-mods.com/topic/37477/how-to-assign-remove-exhaust-backfire-to-from-vehicle/7)
 
-The event of the Lazer flying over Raton Canyon doesn't appear to occur anymore. I've run as all three characters at all times of day, back and forth on trails each side of Cassidy Creek.
+```
+@Sup321V
+I have indeed confirmed that that works (giving washington the sultanrs audio hash gives it audio & visual backfire effect). Albeit the visual effect was a little off, only one backfire left & right (2 total) when washington has 4 exhausts total etc. That might be an issue you have to contend with no matter how it's done with game files alone. Might have to take the backfire effect from a similar vehicle with the same amount of exhausts etc (that might work) or fix/add more exhaust dummies in ZModeler etc.
+
+I'll investigate if there is a way to achieve adding audio/visual backfire effects & keep the original engine sounds. I'll test that right now, shouldn't take long... :thumbsup:
+
+...Sometime later...
+
+...Yeah, that's totally possible :thumbsup:
+
+I have a few engine audio related tuts on my profile page, there is a lot of good information in them, including detailed descriptions of how to edit '.rel' files . Start with this one if you have a look at them, but basically to add backfire effects to a vehicle that does not have them by default, you do this:
+
+Add Exhaust Backfire - Instructions:
+
+    Download/install/use CodeWalker's RPF Explorer to export the games 'game' '.rel' files (the ones with 'game.dat' in the name ('game.dat151.rel' for example), ignore the numbers as it's possible for them to be different (149, 150, 151 etc)) to XML ('.rel.xml') & edit them with a text editor (Notepad++ etc). There are many different ones stored in different dlc's with the base game one being here:
+
+...\Grand Theft Auto V\mods\update\update.rpf\x64\audio\config\game.dat151.rel
+
+Find the ones you want to edit & the one you want to copy info from (they will likely be in the same dlc as the vehicles are, in a 'x64\audio' or 'x64\audio\config' folder structure) & export them (CodeWalker's RPF Explorer > right-click file > 'Export XML...') to a Windows folder of your chioce.
+
+    Open the 'game.dat' '.rel' file/s in your text editor & search for the game name (washington etc) of the vehicle you want to give/add backfire effects to.
+    Under it's name, copy the data (it'll either be in English or hash form, doesn't matter which) entered in the '<Engine>' line (washington > '<Engine>' line > hash_390C6146 for example) & search the rest of the file for it
+    You will then find a '"VehicleEngine"' section with that English name or hash in it's '<Name>' line
+    Scroll down in that '"VehicleEngine"' section until you find the lines '<ExhaustPops>' & '<ExhaustPopsUpgraded>'
+    You then edit those lines (one is for default/always on, the other when exhaust is upgraded) to the same as another vehicle that has backfire effects by default.
+    Save the file after & reimport it back into the game in it's original location using CodeWalker (In CodeWalker's RPF Explorer > right-click anywhere within the original folder > 'Import XML...' > navigate & select file (RPF Explorer file UI will blink when import complete)).
+    Test changes in-game
+
+Remove Exhaust Backfire - Instructions:
+To do the opposite, & remove a backfire effect, just set the vehicle's 'ExhaustPops' lines mentioned above to 'null_sound':
+
+Example:
+
+   <ExhaustPops>null_sound</ExhaustPops>
+...
+   <ExhaustPopsUpgraded>null_sound</ExhaustPopsUpgraded>
+
+That should be all that is required. As mentioned, tons of detailed info in the vehicle engine tuts on my profile page. If you intend to edit vehicle sounds, give them a read as they cover all the basics of accessing & editing '.rel' files & some details on how the 'game.dat' & 'sounds.dat' files relate to one another etc.
+
+When you see my tuts, especially the 'How to create an add-on engine sounds dlc' one, you'll understand why I was asking for as much detail as possble
+```
+
+### Keyboard Touchpad Combo
+
+My mouse died so here's [how to use a touchpad and keyboard simultaneously](https://answers.microsoft.com/en-us/windows/forum/all/how-do-i-use-my-touchpad-and-my-keyboard-at-the/3f3e09dc-61e5-4d06-9465-8c96c4a66f68). My system doesn't have these options, so I set the touchpad to `Most Sensitive`.
+
+```
+Disabling PalmCheck or other similarly-named settings removes the delay between being able to use the touchpad after using the keyboard, allowing you to use touchpad and keyboard at the same time.
+
+Kindly follow these steps.
+
+1. Click Start.
+2. Start typing Control Panel, and click on Control Panel from the results.
+3. If you are in Category view, click on Hardware and Sound.
+4. Under Devices and Printers, click on Mouse.
+5. In mouse and touchpad software window, Look for any settings related to palm tracking, touchpad sensitivity, or SmartSense.
+(If yours in Synaptics Touchpad, under the Synaptic Settings, go to Pointing, then select Sensitivity and Select Palmcheck and set it to Minimum)
+6. These settings vary by manufacturer because Windows has limited ability in controlling touchpad options.
+
+Also try in Control panel:
+- In Hardware and Sound
+- open Touchpad
+- In additional tap of the new window that opened up on touch pad settings
+- Scroll to TP Rejections and disable it
+```
 
 # MODS
 
 *Things I use myself.*
 
+- If you're looking for more varied cars in traffic, I highly suggest **V Rainbomizer** over mods that modify game files. Models can be excluded from the pool by editing `BigVehicles.txt`.
+- Don't like Rockstar's panty-sniffing DRM? Use [this](https://www.1337x.to/torrent/5929875/Grand-Theft-Auto-V-GTA-V-v1-0-3095-v1-68-online-All-DLCs-Bonus-Content-MULTi13-DODI-Repack/).
+
+### HOW TO UPGRADE GTA V STORY MODE
+
+There are quite a few mods which improve the story mode of GTA V. Tailor your game to how you want it. I prefer my GTA V pretty vanilla due to having spent several thousand hours on XB1, strictly story mode. Here's the steps I took to improve my own experience and make this now decade old game last even longer:
+
+1. Install all `vcredist` versions for your OS. (Install both `x86` and `x64` versions to maximize compatibility.)
+2. Install **ScriptHookV**.
+3. Install **ScriptHookVDotNet**.
+4. Install **OpenIV**.
+5. <s>Install **Lenny's Mod Loader**. I use **lml** to load in my modified `gameconfig.xml`.</s>
+6. Install **JM36 Lua Plugin**.
+7. (OPTIONAL) Install **RAGE Plugin Hook**. Note that previous versions of **RPH** are not maintained, so archived builds may not work with specific versions of GTA V.
+8. Install a better `gameconfig.xml`. I use **pnwparksfan**'s.
+9. Install **Heap Adjuster**.
+10. Install **Packfile Limit Adjuster**.
+11. Install **SirenSetting Limit Adjuster**.
+12. Install **Fixes & Improvements**.
+13. Install **Map Fixes**.
+14. Install **No Boundary Limits**.
+15. Install **Quality of Life Vehicle Pack**.
+16. Install **Railroad Engineer**.
+17. Install **New License Plates**.
+18. Install **TurboSystemV**.
+19. Install **Fuel Reloaded**.
+20. Install any trainer of your choosing. I prefer using both **Menyoo** and **ENT**.
+
+### CORE MOD NOTES
+
+**OpenIV**:
+
+Mods released as `dlc.rpf` must be installed to `mods\update\x64\dlcpacks`. For example, `mods\update\x64\dlcpacks\m188_siren_fixes\dlc.rpf`.
+
+1. Start **OpenIV** and nagivate to `mods\update\update.rpf\common\data`.
+2. Enable **Edit Mode**. (Click `Edit Mode` button left of searchbox in top right corner.)
+3. Right click `dlclist.xml` (listed under the `XML Text` category within **OpenIV**)
+4. Click `Edit`.
+5. Scroll to the bottom of the list and paste as shown: `<Item>dlcpacks:/dlc_name_here/</Item>`. For example: `<Item>dlcpacks:/m188_siren_fixes/</Item>`.
+6. `CTRL+S` to save.
+7. Close **OpenIV** and start game.
+
+**ScriptHookV**/**ScriptHookVDotNet**:
+
+Scripts meant for **SHVDN** are usually version-dependent, meaning .NET code made for **SHVDN3** may not work with **SHVDN2** and other previous versions.
+
+1. If your main game directory doesn't have a `scripts` folder after installing **SHVDN**, create one.
+2. Place `.dll` and `.cs` files into said `scripts` folder.
+
+### ESSENTIAL MODS
+
+Name | Description
+:--- | ---
+[Visual C++ Redistributables](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) | a.k.a. `vcredist`. [Alternate link.](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+[ScriptHookV](http://www.dev-c.com/gtav/) | Allows scripts written in C++ to be run. Includes `.asi` loader `dinput8.dll`. SDK for development of C++ plugins available on the same page.
+[ScriptHookVDotNet](https://github.com/crosire/scripthookvdotnet) | A.k.a. **SHVDN**. Allows scripts written in any **.NET** language to be run.
+[OpenIV](https://openiv.com/) | Open and edit RAGE `.rpf` archives. (GTA IV, GTA V, RDR II, etc). Includes `OpenIV.asi`.
+[Lenny's Mod Loader](https://www.lcpdfr.com/lml/index/) | a.k.a. **lml**, a well-documented mod loader with easy installation in mind.
+[RAGE Plugin Hook](https://ragepluginhook.net/) | Hooks into and acts as an interface between custom code and RAGE engine based games like **Red Dead Redemption 2** and **Grand Theft Auto 5**.
+[JM36 Lua Plugin](https://www.gta5-mods.com/tools/jm36-lua-plugin-for-script-hook-v-reloaded) | Adds Lua script support. Place `.lua` mod scripts into `scripts\ScriptsDir-Lua`. [Source code on GitHub.](https://github.com/JayMontana36/LuaPlugin-GTAV)
+[gameconfig](https://github.com/pnwparksfan/gameconfig) | Add-on mods in GTA V typically require a modified `gameconfig.xml` to increase various memory pool limits. This repository serves as a central location for known-working gameconfig files for each GTA V update. Files based on [Gameconfig.xml by Dilapidated](https://www.gta5-mods.com/misc/gameconfig-xml-dilapidated). Some gameconfigs may not work for other users, in which case try [F7YO's Gameconfig](https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars). Both require **Heap Adjuster** and **Packfile Limit Adjuster**.
+[Heap Adjuster](https://www.gta5-mods.com/tools/heapadjuster) | Modified version of the **HeapAdjuster** mod to resolve `ERR MEM EMBEDDEDALLOC ALLOC` error crashes caused by using more memory than the heap allows. The modified version comes with an `.ini` so users can define the heap size manually as they wish. Also, please make sure to combine your DLC packs. Not doing so is the most common reason for `ERR_FIL_PACK_1`.
+[Packfile Limit Adjuster](https://www.gta5-mods.com/tools/packfile-limit-adjuster) | Doubles the amount of packfiles (`.rpf`) the game can handle. Please note that this plugin will only "fix" `ERR_FIL_PACK_1`, nothing else. Get a better **gameconfig** and install the **Heap Limit Adjuster** if you still experience crashes. [Source code on GitHub.](https://github.com/Dilapidated/gtav-HeapAdjuster-ini)
+[SirenSetting Limit Adjuster](https://www.gta5-mods.com/scripts/sirensetting-limit-adjuster) | Raises various siren limits.
+[fwBoxStreamerVariable and decals limit patch](https://www.gta5-mods.com/tools/ymap-load-list-extent-limit-fix-fwboxstreamervariable-patch) | Patches `.ymap` load list extent limit and decal limit. Basically when there are too many ymaps running in parallel, some part of the map unloads. Requires updated **vcredist**.
+[Weapon Limits Adjuster](https://www.gta5-mods.com/tools/cweaponinfoblob-limit-adjuster) | The game has a hardcoded limit on the number of weapons.meta files that can be loaded and on the total number of weapon components that can be defined, which Rockstar increases everytime new weapons.meta or weapon components are added in DLCs. Reaching any these limits when installing weapon mods makes the game crash while loading. This ASI allows you to increase these limits to prevent those crashes.
+[MenyooSP](https://github.com/MAFINS/MenyooSP) | SP trainer. Disables DLC car despawn. Incompatible with **Object Spawn Unlocker**. Latest build on [gta5-mods](https://www.gta5-mods.com/scripts/menyoo-pc-sp) is outdated.
+[LemonUI](https://www.gta5-mods.com/tools/lemonui) | UI framework for GTA V. Intended to replace NativeUI. [Source code on GitHub.](https://github.com/justalemon/LemonUI)
+[Map Editor](https://www.gta5-mods.com/scripts/map-editor-oldnapalm) | Updated version of Map Editor.
+
+### ACCESSIBILITY MODS
+
+NAME: | DESCRIPTION:
+:--- | ---
+[Add-On Vehicle Spawner](https://www.gta5-mods.com/scripts/add-on-vehicle-spawner) | Automatically looks for add-on vehicles and puts them in a menu for you to spawn. [Source code on GitHub.](https://github.com/ikt32/GTAVAddonLoader) Uses [simpleini](https://github.com/brofield/simpleini).
+[Enhanced Native Trainer](https://www.gta5-mods.com/scripts/enhanced-native-trainer-zemanez-and-others) | A.k.a. **ENT**. SP trainer.
+[Simple Trainer](https://www.gta5-mods.com/scripts/simple-trainer-for-gtav) | SP trainer.
+[Rampage Trainer](https://www.gta5-mods.com/scripts/rampage-trainer) | SP trainer.
+[SimpleHUD](https://www.gta5-mods.com/scripts/simplehud-venoxity) | Displays player's current location, as well as a compass and the time. Customizable via `.ini`.
+
+### DRIVING MODS
+
+NAME: | DESCRIPTION:
+:--- | ---
+[TurboSystemV](https://www.gta5-mods.com/scripts/turbosystemv-ultra-nitro) | Allows you use a "Turbo System" similar to **NFS: Hot Pursuit 2** and **NFS: Rivals** in Grand Theft Auto V.
+[Fuel Reloaded](https://www.gta5-mods.com/scripts/fuel-reloaded) | A simple fuel mod that has a lot of features, `4` consumption types, `8` vehicle types.
+[Community Races](https://www.gta5-mods.com/scripts/community-races-oldnapalm) | Update to Community Races by **Guadmaz**, uploaded with author's permission. [Source code on GitHub.](https://github.com/oldnapalm/CommunityRaces)
+[GTA Online Stunt Race Maps](https://www.gta5-mods.com/maps/gta-online-stunt-races-map-editor-menyoo) | Contains 129 Stunt Race maps from GTA Online. These are the official ones created by Rockstar. Compatible with Map Editor and Menyoo.
+
+### QOL MODS
+
+NAME: | DESCRIPTION:
+:--- | ---
+[Map Fixes](https://www.gta5-mods.com/maps/map-fixes) | Fixes a ton of map errors.
+[Fixes and Improvements](https://www.gta5-mods.com/misc/fixes-improvements) | Fixes various errors and oversights in the game.
+[No Boundary Limits](https://www.gta5-mods.com/scripts/no-boundary-limits-unknown-modder) | Patches numerous boundary limits, a full list can be found in the config file.
+[Diving Motion](https://www.gta5-mods.com/scripts/diving-motion) | Activates the "alternative" animations for swimming underwater (used in the mission "Monkey Business"). The animations are activated only when wearing scuba flippers (a trainer is required to equip them) and with a specific set of characters (but there's an option to extend this to other characters too).
+[DLC/MP Vehicles in Singleplayer](https://www.gta5-mods.com/scripts/dlc-mp-vehicles-in-singleplayer) - Adds some of the vehicles from DLCs and Multiplayer to singleplayer via `popgroups.ymt`. The new cars can be found in traffic throughout Los Santos and Blaine County, as well as in parking spaces.
+[Quality of Life Vehicle Pack](https://www.gta5-mods.com/vehicles/quality-of-life-vehicle-pack-replace) | Fixes the broken surface normals (causing a "bubbly" appearance) and a vast number of other bugs on 122 original & early DLC vehicles. Every vehicle and tuning part in this pack features corrected and properly weighted normals on all affected LODs.
+[Railroad Engineer](https://www.gta5-mods.com/scripts/railroad-engineer) | Extension for Grand Theft Auto V to control trains and trams.
+[New License Plates](https://www.gta5-mods.com/paintjobs/new-license-plates-add-on) | The first license plate pack working as an add-on. Featuring `63` lore-friendly license plates; `7` from iFruit files, `1` from game files, `54` made from scratch, `1` designed by another person. All plates feature custom normal maps and other parameters such as text size, color, or placement on the actual plate. Kind of a shame Rockstar never added the plates featured in iFruit files, it would add some variety to customization.
+[Rainbomizer](https://gtaforums.com/topic/974412-v-rainbomizer/) | Configurable randomizer collection. [Source code on GitHub.](https://github.com/Parik27/V.Rainbomizer)
+[Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) | GTA IV style "Cleaned the Mean Streets" missions. [Source code on GitHub.](https://github.com/I-E-A-I-A-I-O/VigilanteMissions)
+[No Turbulence](https://www.gta5-mods.com/scripts/no-turbulence-unknown-modder) | Removes turbulence for all aircrafts. And by all aircrafts I mean **all** aircrafts. Default ones, DLC ones, Add-Ons, etc. The purpose of this plugin is that you don't need to edit handling files to remove turbulence. You also don't need to care about updating everything after a game update or when you install Add-On aircrafts.
+[GTA V Remastered: Enhanced](https://www.gta5-mods.com/maps/gta-v-remastered-enhanced) | GTA V E&amp;E community edition.
+[Forests of San Andreas: Revised](https://www.gta5-mods.com/maps/forests-of-san-andreas-revised) | Helps the game world look less barren.
+[Enable All Interiors](https://www.gta5-mods.com/scripts/enable-all-interiors-wip) | Merge project of existing interior mods.
+
 ### TOOLS
 
-- [ScriptHookV](http://www.dev-c.com/gtav/) - Allows scripts written in C++ to be run. SDK for development of C++ plugins available on the same page.
-- [ScriptHookVDotNet](https://github.com/crosire/scripthookvdotnet) - Allows scripts written in any .NET language to be run.
-- [CodeWalker](https://github.com/dexyfex/CodeWalker) - Interactive map editor. Discord server serves latest downloads (invite link on [GTA5-Mods](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)). [[Backup v30-dev36]](https://www.mediafire.com/file/382gfs26a40rivs/)<br>&emsp;[Well organized modding video tutorials by Tobiii.](https://www.youtube.com/playlist?list=PL3KgAhmoIEOU540c5hydM5KaVXeJcYiPF)
-- [OpenIV](https://openiv.com/) - Open and edit RAGE `.rpf` archives. (GTA IV, GTA V, RDR 2, etc).
-- [LemonUI](https://www.gta5-mods.com/tools/lemonui) - UI framework for GTA V. Intended to replace NativeUI. [[Source Code]](https://github.com/justalemon/LemonUI)
-- [lambda2ymap](https://redm.khzae.net/lambda2ymap/) - Convert between map formats.
-
-### TRAINERS
-
-- [MenyooSP](https://github.com/MAFINS/MenyooSP) - SP trainer.
-- [RampageTrainer](https://www.gta5-mods.com/scripts/rampage-trainer) - SP trainer.
-- [Enhanced Native Trainer](https://www.gta5-mods.com/scripts/enhanced-native-trainer-zemanez-and-others) - SP trainer.
-
-### QUALITY CONTROL
-
-- [Map Fixes](https://www.gta5-mods.com/maps/map-fixes) - fixes a ton of map errors.
-- [GTA V: Remastered Enhanced](https://www.gta5-mods.com/maps/gta-v-remastered-enhanced) - GTA V E&E community edition.
-
-### GAMEPLAY MODS
-
-- [Fuel Reloaded](https://www.gta5-mods.com/scripts/fuel-mod-reloaded-fuel-in-all-vehicle-types-electric-cars-charge-at-home-rpm-based-and-more) - Fuel mod with 4 consumption types and 8 vehicle types. Almost fully customizeable.
-- [Railroad Engineer](https://www.gta5-mods.com/scripts/railroad-engineer) - Control trains and trams.
-- [Enable All Interiors](https://www.gta5-mods.com/scripts/enable-all-interiors-wip) - Merge project of existing interior mods.
-- [Remastered Atlas](https://www.gta5-mods.com/misc/atlas-colored-map-16k-that-also-works-in-radar) - Colorized pause menu and radar maps.
-- [Vigilante Missions](https://www.gta5-mods.com/scripts/gta-4-vigilante-missions) - GTA IV style "Cleaned the Mean Streets" missions. [[Source Code]](https://github.com/I-E-A-I-A-I-O/VigilanteMissions)
-- [Rainbomizer](https://gtaforums.com/topic/974412-v-rainbomizer/) - Configurable randomizer collection. [[Source Code]](https://github.com/Parik27/V.Rainbomizer)
+TOOL | Description
+:--- | ---
+[CodeWalker](https://github.com/dexyfex/CodeWalker) | Interactive map editor. Discord server serves latest downloads (invite link on [GTA5-Mods](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)).<br>&emsp;[Well organized modding video tutorials by Tobiii.](https://www.youtube.com/playlist?list=PL3KgAhmoIEOU540c5hydM5KaVXeJcYiPF)
+[lambda2ymap](https://redm.khzae.net/lambda2ymap/) | Convert between map formats.
+[Map Editor &amp; Menyoo to YMAP Converter](https://www.gta5-mods.com/tools/mapeditor-2-ymap-converter) | Convert MapEditor & Menyoo maps to `.ymap` format. [Source code on GitHub.](https://github.com/sollaholla/me2ymap)
+[Handling Guide](https://eddlm.github.io/Handling-Tools/guide) | A detailed guide on how to edit vehicle handling.
+[Handling Guide](https://forums.gta5-mods.com/topic/24280/understanding-and-editing-gtav-s-handling/2) | Secondary post by Eddlm.
+[Handling Editor](https://eddlm.github.io/Handling-Tools/handling) | Online car handling editor.
 
 ### REFERENCES
 
+- [Vehicle IDs](https://wiki.rage.mp/index.php?title=Vehicles)
 - [Enable/disable backfire](https://forums.gta5-mods.com/topic/24300/exhaust-backfire-disable/2) via mods using OpenIV.
 - [Weapon, med kit, and armor locations](https://gtaforums.com/topic/696088-weapons-locations/), all compiled nice and neat.
 
@@ -100,13 +257,16 @@ Using regular brakes will not lock the car in place. Tap the handbrake when stop
 
 **Off roading.**
 
-Four wheel drive is helpful. Here's my personal picks for trails and offroading:
+AWD/4WD is helpful, but RWD cars are usually faster on dirt. Granted, with a bit of practice. Here's my personal picks for trails and offroading:
 
-- Maxwell Vagrant (this thing trumps trails to pavement)
-- BF Dune Buggy (good all-around; the **Dune FAV** is more prone to rollover)
-- Vapid Blade (surprisingly good on trails and hillclimbs)
-- BF Bifta (RWD takes getting used to but blazes trails once learned, poor hillclimb though)
-- Vapid Sandking XL (decent all around, high suspension, average top speed, decent cornering, good hill climber)
+CAR | NOTES
+:--- | ---
+Maxwell Vagrant | This thing trumps all surfaces.
+BF Dune Buggy | Good all-around RWD. (The **Dune FAV** is more prone to rollover.)
+Vapid Blade | Surprisingly good on trails and hillclimbs.
+BF Bifta | RWD takes getting used to but blazes trails once learned. Poor hillclimb, though.
+Karin Sultan | Speedy on trails, but too grippy for tight turns at high speed.
+Vapid Sandking XL | Decent all around. High suspension, average top speed, decent cornering. Good hill climber.
 
 ### AIR VEHICLE TIPS
 
@@ -114,19 +274,18 @@ Four wheel drive is helpful. Here's my personal picks for trails and offroading:
 
 Well, up to the individual to check stats for themselves. Helicopters aren't affected by turbulence, but planes (generally) fly faster. Here's my personal favorites:
 
-- Mammoth Hydra (VTOL, higher top and lower cruising speeds than **P-996 LAZER**, easy to land)
-- Mammoth Dodo (amphibious, quite resistant to turbulence, very easy to land)
-- Western Cuban 800 (well-balanced across the board, easy to land)
-- Buckingham Alpha Z1 (immune to turbulence, fast cruise, somewhat difficult to land)
-
-And helicopters:
-
-- Maibatsu Frogger (well-balanced civilian heli)
-- Buckingham Savage (well-balanced attack heli)
+PLANE/HELI | NOTES
+:--- | ---
+Mammoth Hydra | VTOL, higher top and lower cruising speeds than **P-996 LAZER**, easy to land.
+Mammoth Dodo | Amphibious. Quite resistant to turbulence. Very easy to land.
+Western Cuban 800 | Well-balanced across the board. Easy to land. Has lights.
+Buckingham Alpha Z1 | Immune to turbulence. Fast cruise speed. Somewhat difficult to land.
+Maibatsu Frogger | well-balanced civilian heli.
+Buckingham Savage | well-balanced attack heli.
 
 **How to land planes.**
 
-Some are easier than others. Hold the decel (airbrake) about halfway down. Speed will begin to decrease. Holding decel any farther will shut the engine, and most jet-powered (and even some prop-powered) planes drop like a rock when doing so.
+Some are easier than others. Hold decel key about halfway down. (PC users periodically tap decel.) Speed will begin to decrease. Holding decel any farther will shut the engine, and most jet-powered (and even some prop-powered) planes drop like a rock when doing so.
 
 Gear down on approach. It increases air resistance, therefore lowering the maximum cruise (idle) speed.
 
@@ -146,51 +305,51 @@ There doesn't appear to be a solid way to keep boats where they are after enteri
 
 # RARE VEHICLES
 
-Below are vehicles which are rare, but not missable. The type of vehicle being driven appears to affect what vehicles spawn. If you want a Turismo R or Zentorno, drive a Super car like an Infernus or Bullet GT. If you want a Coquette Classic, drive a Sports Classic like a Pigalle, Peyote, or Tornado (clean variant). If you want a Rat-Loader, drive any beater car or something old like a Hotknife or Blade.
+Below are vehicles which are rare, but not missable. The type of vehicle being driven appears to affect what vehicles spawn. If you want a **Grotti Turismo R** or **Pegassi Zentorno**, drive a Super car like a **Pegassi Infernus** or **Vapid Bullet GT**. If you want a **Invetero Coquette Classic**, drive a Sports Classic like a **Pigalle**, **Vapid Peyote**, or **Declasse Tornado** (clean variant). If you want a **Bravado Rat-Loader**, drive any beater car or something old like a **Vapid Hotknife** or **Vapid Blade**.
 
-When approaching any known spawn of significant rarity, drive slowly. I've found maintaining 20 mph and just barely touching the throttle works best.
+When approaching any known spawn of significant rarity, drive slowly. I've found maintaining `20 mph` and just barely touching the throttle works best.
 
-[Read more about scenarios and scripted events here.](https://gta.fandom.com/wiki/Vehicles_in_GTA_V/Scenarios)
+Scenario spawns can be viewed, altered, and/or deleted within **CodeWalker**. [Read more about scenarios and scripted events here.](https://gta.fandom.com/wiki/Vehicles_in_GTA_V/Scenarios)
 
 ### REGULAR VEHICLES
 
 These are regular vehicles, just highly localized and/or generally hard to find.
 
 **BF Dune Buggy**
-- 11:00-18:00 Driving north on dirt road east of **Los Santos Customs** in **Grand Senora Desert**.
-- 07:00-15:00 Parked next to a radio tower and shack west of **Yellow Jack Inn** in **Grand Senora Desert**. Sometimes surrounded by a **Brute Camper**, **BF Injection**, or an NPC driving a **MTL Packer** northbound (away from the radio tower).
-- 18:00-23:00 Driving east on dirt road parallel train tracks north of **Sandy Shores Airfield**. Drives entire dirt road, then turns onto **East Joshua Road** at **Marina Drive**.
-- 14:00-18:00 Driving west at dirt road junction west of **Sandy Shores Airfield**.
-- 12:00 Parked next to an Auto Repair Shop on **Marina Drive** in southern **Grapeseed**.
-- 08:00-20:00 Parked under the canopy of a shut gas station on **Marina Drive** in southern **Grapeseed**. Sometimes with two or three **Sanchez (livery)**.
-- 15:00-20:00 Parked in the cul-de-sac on the western end of **Marina Drive** in **Grand Senora Desert**.
-- 06:00-19:00 Parked next to a water tower in northeastern **Stab City**.
-- 19:00 Driving southwest (spawns mobile at the bridge to **Mount Chiliad**) on **North Calafia Way**, continuing down along the **Alamo Sea**.
-- 07:00-12:00 Driving south on beach east side of **Great Ocean Highway** (northwest of **Fort Zancudo**). Merges onto **Zancudo Trail** and continues south around **Fort Zancudo** alongside **Lago Zancudo**. May spawn driverless.
+- `11:00`-`18:00` Driving north on dirt road east of **Los Santos Customs** in **Grand Senora Desert**.
+- `07:00`-`15:00` Parked next to a radio tower and shack west of **Yellow Jack Inn** in **Grand Senora Desert**. Sometimes surrounded by a **Brute Camper**, **BF Injection**, or an NPC driving a **MTL Packer** northbound (away from the radio tower).
+- `18:00`-`23:00` Driving east on dirt road parallel train tracks north of **Sandy Shores Airfield**. Drives entire dirt road, then turns onto **East Joshua Road** at **Marina Drive**.
+- `14:00`-`18:00` Driving west at dirt road junction west of **Sandy Shores Airfield**.
+- `12:00` Parked next to an Auto Repair Shop on **Marina Drive** in southern **Grapeseed**.
+- `08:00`-`20:00` Parked under the canopy of a shut gas station on **Marina Drive** in southern **Grapeseed**. Sometimes with two or three **Sanchez (livery)**.
+- `15:00`-`20:00` Parked in the cul-de-sac on the western end of **Marina Drive** in **Grand Senora Desert**.
+- `06:00`-`19:00` Parked next to a water tower in northeastern **Stab City**.
+- `19:00` Driving southwest (spawns mobile at the bridge to **Mount Chiliad**) on **North Calafia Way**, continuing down along the **Alamo Sea**.
+- `07:00`-`12:00` Driving south on beach east side of **Great Ocean Highway** (northwest of **Fort Zancudo**). Merges onto **Zancudo Trail** and continues south around **Fort Zancudo** alongside **Lago Zancudo**. May spawn driverless.
 - Parked under the first big jump on the south side of the dirt path leading down from the cable car drop off point atop **Mount Chiliad**.
 - 24 hours. Parked beside dirt road (second road south from **Cassidy Creek**) in **Raton Canyon**. Almost dead south (just a bit west) in line with **Altruist Camp**.
 - Parked beachside on northern edge of **Mount Gordo**. Directly east of **Up 'n' Atom Burger**. Almost directly north (beyond **Braddock Pass**) of **Weed Farm** (Trevor random encounter).
 - Parked aside seawall next to beach in northwestern **Paleto Bay**. Northwest of **The Hen House**. Southwest of `Parachute Jump 4`.
 
 **Bravado Rat-Loader**
-- 06:00-03:00 Parked at the house directly east of *Cletus'* on **Marina Drive** in **Sandy Shores**.
+- `06:00`-`03:00` Parked at the house directly east of *Cletus'* on **Marina Drive** in **Sandy Shores**.
 - Parked in dirt alley just west of **Ammu-Nation** in **Sandy Shores**.
 - Parked next to farm house off the east side of a dirt road (dead east of **Redwood Lights Track**, southeast of **Los Santos Customs**) in **Grand Senora Desert**.
 - Parked in carport attached to trailer on **Lesbos Lane** (next to two red shipping containers off **Algonquin Boulevard**). East of **Ace Liquor**.
 - Parked aside a red trailer on the northeast corner of **Algonquin Boulevard** and **Mountain View Drive** in **Sandy Shores**. (East of **Ammu-Nation**.)
-- NPC-modified variant driving out of the **LTD** Fuel Station in **Grapeseed**, headed northeast on **Grapeseed Main Street**.
-- NPC-modified variant parked afront **Beeker's Garage** in **Paleto Bay**.
+- `15:00`-`22:00` NPC-modified variant driving out of the **LTD** Fuel Station in **Grapeseed**, headed northeast on **Grapeseed Main Street**.
+- `07:00`-`15:00` NPC-modified variant parked afront **Beeker's Garage** in **Paleto Bay**.
 
 **Bravado Police Cruiser (Buffalo)**
-- 18:00-04:00 Under Train Station on **Olympic Freeway** in **Strawberry**.
+- `18:00`-`04:00` Under Train Station on **Olympic Freeway** in **Strawberry**.
 - Commonly patrolling around the **Car Impound** (Police Station) in **Mission Row**.
 
 **Brute Boxville (LSDWP)**
-- 09:00 Leaving north exit of LSDWP facility on west side of **Popular Street**, then driving south. Sometimes parked at same facility.
+- `09:00` Leaving north exit of LSDWP facility on west side of **Popular Street**, then driving south. Sometimes parked at same facility.
 - Pulling out of LSDWP facility onto **Elgin Avenue**, heading south.
 
 **Buckingham Swift**
-- 06:00-18:00 Both the regular and Flying Bravo variants will land at the easternmost helipad at the terminal of LSIA.
+- `06:00`-`18:00` Both the regular and Flying Bravo variants will land at the easternmost helipad at the terminal of LSIA.
 - Black variant taking off at the **NOOSE Headquarters** on **Sustancia Road**, in **Palomino Highlands**.
 - Flying Bravo variant flying along the east coast of **Blaine County**, usually near the **RON Alternates Wind Farm**.
 
@@ -214,24 +373,29 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 - Random Trevor switch scene. He's in the **Grand Senora Desert** being chased by two **Sheriff Cruisers** and one **Park Ranger**.
 
 **Declasse Tornado (Mariachi)**
-- 11:00-18:00 Parked in lot west of **Ammu-Nation** on **Route 68** in northern edge of **Great Chaparral**.
+- `11:00`-`18:00` Parked in lot west of **Ammu-Nation** on **Route 68** in northern edge of **Great Chaparral**.
 - During `The Civil Border Patrol`
-- 15:00-20:00 Random event easter egg atop **Raton Canyon**.
+- `15:00`-`20:00` Random event easter egg atop **Raton Canyon**.
+
+**Dinka Akuma**
+- Parked with a **Dinka Double T** at a trailer house east of **Sandy Shores Airfield**.
 
 **HVY Docktug**
-- 17:00 Up to two parked on a seawall extension off of **Autopia Parkway**. It can be accessed via two roads close to the Auto Repair Shop used during the `Gauntlet` heist setup missions. Sometimes a **Dock Handler** may spawn here as well.
+- `17:00` Up to two parked on a seawall extension off of **Autopia Parkway**. It can be accessed via two roads close to the Auto Repair Shop used during the `Gauntlet` heist setup missions. Sometimes a **Dock Handler** may spawn here as well.
 - Driving north out of first gate for LSIA (south of **Los Santos Customs**).
-- 12:00 Driving out of oil pumps in **Banning** onto **Dutch London Street** eastbound.
-- 06:00-12:00 Parked on road shoulder opposite **D-Rail** building near the drydocks on **Elysian Island**.
-- 12:00 Driving north on **Plaice Place**, away from the **Post Op Depository**, on **Elysian Island**.
+- `12:00` Driving out of oil pumps in **Banning** onto **Dutch London Street** eastbound.
+- `06:00`-`12:00` Parked on road shoulder opposite **D-Rail** building near the drydocks on **Elysian Island**.
+- `12:00` Driving north on **Plaice Place**, away from the **Post Op Depository**, on **Elysian Island**.
 
 **JoBuilt P-996 LAZER**
-- Parked, taxiing, taking off westbound, and/or flying at various spots around **Fort Zancudo**.
-- Flying over **Raton Canyon** every in-game half hour. Rarely in groups of three.
+- Parked, taxiing, landing eastbound, taking off westbound, and/or flying at various spots around **Fort Zancudo**.
+- `07:00`-`11:00` Flying over **Raton Canyon** every in-game half hour. Rarely in groups of three.
 
 **JoBuilt Mammatus**
 - Flying around Los Santos.
-- 15:00-18:00 Occasionally lands at **Sandy Shores Airfield**.
+- `15:00`-`18:00` Occasionally lands at **Sandy Shores Airfield**.
+- Flying eastbound over the northern shore of the **Alamo Sea**.
+- Flying westbound towards the railroad bridge over **Raton Canyon**.
 - Parked outside the western wall of **Michael's Hangar** in **LSIA**, usually next to a **Cuban 800**.
 
 **JoBuilt Velum**
@@ -245,9 +409,9 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 - Driving west on **Eclipse Boulevard** in **Vinewood**.
 - Driving around southwest side of **Davis Quartz**.
 - Driving around northwest side of **Palmer Taylor Power Station**.
-- 17:00-06:00 Driving in front of **Berth 57** (truck bays with green tin siding) in **Elysian Island**.
+- `17:00`-`06:00` Driving in front of **Berth 57** (truck bays with green tin siding) in **Elysian Island**.
 - Driving around the drydocks at **Pacific Allied Shipyard** (across from **Pier 400**) on southern **Elysian Island**.
-- 00:00-06:00 Driving west on **Wild Oats Drive** in **Vinewood Hills**.
+- `00:00`-`06:00` Driving west on **Wild Oats Drive** in **Vinewood Hills**.
 
 **Nagasaki Dinghy**
 - East of the **Olifantus** (Tug).
@@ -263,12 +427,12 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 - Pick Karim Denz as the getaway driver during `The Jewel Store Heist`, and continue the heist as normal. Once reaching the point where the heist crew members enter the tunnel, instead of following them, continue down the highway and take a right on the first exit. Drive off the exit through a broken section on the right side barrier and then make another right turn. Activate the cinematic camera mode (R on keyboard, B on Xbox, Circle for PlayStation) to focus the camera angle on the crew before passing the **Union Depository**. Drive back to the **Franklin's House** garage without exiting the cinematic camera or getting dismounted (as it will automatically break the camera lock). While the camera angle can be disorienting, no traffic will spawn along the way, therefore drive slowly and carefully to avoid crashing. Park the bike in the garage, fail the mission, and retry from the last checkpoint. The Bati 801RR should be saved in the garage even after the heist is passed. Unknown if this works in Mission Replay; unlikely. [[Source.]](https://gta.fandom.com/wiki/Bati_Custom#Grand_Theft_Auto_V_2)
 
 **Truffade Adder**
-- 08:00-20:00 In front of **Sessanta Nove** on **Portola Drive** in **Rockford Hills**. May spawn in either black/orange or white/blue variants, the latter being considerably rare.
+- `08:00`-`20:00` In front of **Sessanta Nove** on **Portola Drive** in **Rockford Hills**. May spawn in either black/orange or white/blue variants, the latter being considerably rare.
 - Franklin switch scene. Quite rare. Stuck in traffic in **Downtown Vinewood**, often surrounded by several uncommon cars. Up to three black Adders spawn around his Buffalo S. One is almost always guaranteed to spawn, but two or three is exceedingly rare.
 
 **Vapid Unmarked Cruiser**
 - During `Grass Roots - The Pickup` (graphite, silver, red, blue)
-- 18:00-04:00 Randomly under Train Station on **Olympic Freeway** in **Strawberry**. Graphite variant only.
+- `18:00`-`04:00` Randomly under Train Station on **Olympic Freeway** in **Strawberry**. Graphite variant only.
 - During `Property Management: Van Retrieval` for **Smoke on the Water**.
 
 **Vapid Liberator**
@@ -277,16 +441,19 @@ These are regular vehicles, just highly localized and/or generally hard to find.
 **Vapid Stretch (Pink)**
 - This unique colored stretch spawns only in front of **Cockatoos** night club on the southwest side of the intersection at **Hawick Avenue** and **Eastbourne Way**. It is just northwest of the **Los Santos Customs** in **Burton**.
 
+**Western Besra**
+- `18:00`-`20:00` Flying in a group of `3` over **Lago Zancudo** northeast of the **Ammu-Nation**.
+
 **Western Cuban 800**
-- 15:00-18:00 Occasionally landing or taking off at **Sandy Shores Airfield**.
+- `15:00`-`18:00` Occasionally landing or taking off at **Sandy Shores Airfield**.
 - Parked outside western wall of **Michael's Hangar** in **LSIA**, usually next to a **Mammatus**.
 - Trevor switch scene. He'll be flying a black Cuban 800 over the **Grand Senora Desert**.
 
 **Western Duster**
 - Flying around Grapeseed.
 - Parked on the cul-de-sac on the western edge of **Marina Drive** in the **Grand Senora Desert**, near the shore of the Alamo Sea. Usually spawns in red. Begins spawning after completing all of the `Flight School` lessons.
-- 17:00 Occasionally lands at **McKenzie Field Hangar**.
-- 15:00-18:00 Occasionally lands at **Sandy Shores Airfield**.
+- `16:00`-`18:00` Occasionally lands at **McKenzie Field Hangar**.
+- `15:00`-`18:00` Occasionally lands at **Sandy Shores Airfield**.
 
 ### NPC-MODIFIED VEHICLES
 
@@ -502,24 +669,24 @@ These vehicles have topless variants:
 
 ### CB CHATTER
 
-The following vehicle are equipped with a CB radio:
+When **Trevor** is driving one of the below vehicles anywhere in **Blaine County**, [CB chatter](https://youtu.be/D_EucPi1D9s) can be heard periodically. He even responds to some of the messages.
 
-BF Dune Buggy
-BF Space Docker
-Canis Bodhi
-Karin Rebel, Rusty Rebel
-Tow Truck (both variants)
-Flatbed
-JoBuilt Phantom & Phantom Wedge
-JoBuilt Hauler
-Bravado Rat-loader
-Vapid Benson
-Pounder
-Tipper
-Rubble
-Los Santos Department of Sanitation and Los Santos Department of Water & Power variants of the Boxville
-Maibatsu Mule (excluding the ramp door variant)
-MTL Packer
+- BF Dune Buggy
+- BF Space Docker
+- Canis Bodhi
+- Karin Rebel, Rusty Rebel
+- Tow Truck (both variants)
+- Flatbed
+- JoBuilt Phantom & Phantom Wedge
+- JoBuilt Hauler
+- Bravado Rat-loader
+- Vapid Benson
+- Pounder
+- Tipper
+- Rubble
+- Brute Boxville (LSDS and LSDWP variants)
+- Maibatsu Mule (excluding the ramp door variant)
+- MTL Packer
 
 # SECURITY VANS
 
